@@ -1,0 +1,1052 @@
+id	tags
+banana	fruit, fresh, breakfast, snack, healthy, smoothie, vegan
+apple	fruit, fresh, snack, healthy, lunchbox, vegan
+orange	fruit, fresh, citrus, snack, healthy, vegan
+lemon	fruit, fresh, citrus, baking, vegan
+avocado	fruit, vegetables, fresh, breakfast, healthy, mexican, vegan
+potato	vegetables, veggies, fresh, dinner, side, vegan
+onion	vegetables, veggies, fresh, dinner, cooking, vegan
+carrot	vegetables, veggies, fresh, snack, healthy, vegan
+broccoli	vegetables, veggies, fresh, dinner, healthy, vegan
+lettuce	vegetables, veggies, fresh, salad, sandwich, vegan
+tomato	vegetables, veggies, fresh, salad, sandwich, vegan
+cucumber	vegetables, veggies, fresh, salad, snack, vegan
+pepper	vegetables, veggies, fresh, salad, stir fry, vegan
+spinach	vegetables, veggies, greens, fresh, salad, smoothie, healthy, vegan
+garlic	vegetables, fresh, cooking, vegan
+mushroom	vegetables, veggies, fresh, dinner, vegan
+strawberry	fruit, berries, fresh, breakfast, snack, dessert, smoothie, vegan
+blueberry	fruit, berries, fresh, breakfast, snack, smoothie, vegan
+grape	fruit, fresh, snack, lunchbox, vegan
+eggs	dairy, breakfast, protein, baking, vegetarian
+milk	dairy, drinks, breakfast, cereal, coffee, baking, vegetarian
+butter	dairy, baking, breakfast, cooking, vegetarian
+cheddar	dairy, cheese, sandwich, snack, protein, vegetarian
+mozza	dairy, cheese, pizza, pasta, italian, vegetarian
+greek	dairy, yogurt, breakfast, protein, healthy, snack, vegetarian
+cream_cheese	dairy, cheese, breakfast, bagel, baking, vegetarian
+sour_cream	dairy, mexican, topping, vegetarian
+cream	dairy, coffee, baking, vegetarian
+almond	plant-based, dairy-free, milk alternative, drinks, breakfast, coffee, vegan
+bread_white	bread, bakery, breakfast, toast, sandwich, lunch, vegetarian
+bread_ww	bread, bakery, breakfast, toast, sandwich, lunch, healthy, whole grain, vegetarian
+bagel	bread, bakery, breakfast, vegetarian
+tortilla	bread, bakery, wraps, lunch, mexican, vegetarian
+muffin	bread, bakery, breakfast, toast, vegetarian
+buns	bread, bakery, bbq, burgers, dinner, vegetarian
+chicken_breast	meat, chicken, poultry, protein, dinner
+chicken_thigh	meat, chicken, poultry, protein, dinner
+beef	meat, beef, protein, dinner, tacos, burgers, pasta
+bacon	meat, pork, breakfast, protein
+pork_chop	meat, pork, protein, dinner
+salmon	seafood, fish, protein, dinner, healthy
+shrimp	seafood, fish, frozen, protein, dinner, stir fry
+ham	meat, deli, pork, sandwich, lunch, protein
+wieners	meat, hot dogs, bbq, dinner, quick meal
+nuggets	frozen, chicken, meat, quick meal, dinner, kids
+rice	rice, grains, pantry, dinner, side, vegan
+jasmine	rice, grains, pantry, dinner, side, asian, vegan
+spaghetti	pasta, pantry, dinner, italian, vegan
+penne	pasta, pantry, dinner, italian, vegan
+sauce	pasta sauce, sauce, pantry, dinner, italian, vegetarian
+diced_tom	canned, vegetables, pantry, cooking, vegan
+black_beans	canned, beans, pantry, protein, mexican, vegetarian, vegan
+chickpeas	canned, beans, pantry, protein, vegetarian, vegan
+tuna	canned, seafood, fish, protein, lunch, sandwich
+kd	pasta, mac and cheese, quick meal, dinner, pantry, vegetarian
+noodles	instant noodles, ramen, quick meal, lunch, pantry
+soup	soup, canned, quick meal, lunch, pantry
+pb	spreads, peanut butter, breakfast, sandwich, protein, pantry, vegan
+jam	spreads, breakfast, sandwich, toast, pantry, vegan
+honey	spreads, sweetener, breakfast, tea, baking, pantry
+flour	baking, pantry, vegan
+sugar	baking, sweetener, pantry, vegan
+canola	oil, cooking, baking, pantry, vegan
+olive	oil, cooking, salad, pantry, vegan
+oats	breakfast, oatmeal, grains, cereal, baking, healthy, pantry, vegan
+cheerios	breakfast, cereal, kids, pantry
+ketchup	condiments, sauce, bbq, burgers, fries, pantry
+mayo	condiments, sandwich, salad, pantry
+soy	condiments, sauce, asian, stir fry, pantry, vegan
+coffee	coffee, caffeine, drinks, breakfast, pantry
+tea	tea, caffeine, drinks, pantry
+crackers	snacks, crackers, salty, lunchbox
+chips	snacks, chips, salty, party
+salt	baking, cooking, spices, pantry
+frozen_veg	frozen, vegetables, veggies, dinner, side, vegan
+frozen_berry	frozen, fruit, berries, breakfast, smoothie, vegan
+fries	frozen, potatoes, side, dinner, quick meal, vegan
+pizza	frozen, pizza, quick meal, dinner, party
+ice_cream	frozen, dessert, ice cream, sweet
+oj	juice, drinks, breakfast, fruit
+coke	pop, soda, drinks, caffeine, party
+water	water, drinks, bottled water
+paper_towel	household, paper, cleaning
+toilet_paper	household, paper, bathroom
+dish_soap	household, cleaning, kitchen
+detergent	household, cleaning, laundry
+doritos_nacho	snacks, chips, tortilla chips, salty, party
+doritos_ranch	snacks, chips, tortilla chips, salty, party
+lays_bbq	snacks, chips, potato chips, salty, party
+lays_sv	snacks, chips, potato chips, salty, party
+lays_ketchup	snacks, chips, potato chips, salty, party
+lays_dressed	snacks, chips, potato chips, salty, party
+ruffles_orig	snacks, chips, potato chips, salty, party
+ruffles_dressed	snacks, chips, potato chips, salty, party
+miss_vickies	snacks, chips, potato chips, kettle chips, salty, party
+cheetos	snacks, chips, cheese, salty, party
+tostitos	snacks, chips, tortilla chips, salty, party, mexican
+pringles	snacks, chips, potato chips, salty, party
+pringles_sc	snacks, chips, potato chips, salty, party
+smartfood	snacks, popcorn, salty, party
+pretzels	snacks, pretzels, salty, lunchbox
+goldfish	snacks, crackers, salty, kids, lunchbox
+ritz	snacks, crackers, salty, party
+triscuit	snacks, crackers, salty, whole grain
+cheez_it	snacks, crackers, cheese, salty, lunchbox
+oreo	snacks, cookies, sweet, dessert
+chips_ahoy	snacks, cookies, sweet, dessert
+fudgee_o	snacks, cookies, sweet, dessert
+nv_bars	snacks, granola bars, bars, breakfast, lunchbox, on the go
+chewy_bars	snacks, granola bars, bars, lunchbox, kids, on the go
+fruit_snacks	snacks, candy, sweet, kids, lunchbox
+planters	snacks, nuts, protein, salty, vegan
+almonds	snacks, nuts, protein, healthy, baking, vegan
+trail_mix	snacks, nuts, protein, on the go, healthy
+kitkat	snacks, candy, chocolate, sweet
+reeses	snacks, candy, chocolate, peanut butter, sweet
+mms	snacks, candy, chocolate, sweet, party
+skittles	snacks, candy, sweet, party
+sour_patch	snacks, candy, sweet, sour, party
+twizzlers	snacks, candy, sweet, party
+popcorn_mw	snacks, popcorn, microwave, salty, movie night
+salsa	snacks, dip, sauce, mexican, party, vegan
+hummus	snacks, dip, protein, healthy, vegetarian, vegan
+frosted_flakes	breakfast, cereal, sweet, kids
+honey_nut	breakfast, cereal, kids
+froot_loops	breakfast, cereal, sweet, kids
+mini_wheats	breakfast, cereal, whole grain
+raisin_bran	breakfast, cereal, whole grain, healthy
+special_k	breakfast, cereal
+corn_flakes	breakfast, cereal
+granola	breakfast, cereal, yogurt, snacks, healthy
+pop_tarts	breakfast, snacks, sweet, on the go, kids
+nutella	spreads, chocolate, breakfast, toast, sweet
+maple_syrup	breakfast, pancakes, waffles, sweetener, canadian
+pancake_mix	breakfast, pancakes, baking
+mr_noodles	instant noodles, ramen, quick meal, lunch, pantry
+cup_noodles	instant noodles, ramen, quick meal, lunch, microwave
+mac_cups	mac and cheese, pasta, quick meal, lunch, microwave, snacks
+ramen_sapporo	instant noodles, ramen, spicy, asian, quick meal, dinner
+rice_a_roni	rice, side, quick meal, dinner, pantry
+mustard	condiments, bbq, hot dogs, sandwich, pantry, vegan
+bbq_sauce	condiments, sauce, bbq, pantry
+hot_sauce	condiments, sauce, spicy, wings, pantry
+ranch	condiments, salad dressing, dip, salad
+italian_dress	condiments, salad dressing, salad, italian
+relish	condiments, bbq, hot dogs, burgers, pantry
+pickles	condiments, sandwich, burgers, pantry, vegan
+vinegar	cooking, cleaning, pantry, vegan
+brown_sugar	baking, sweetener, pantry
+baking_soda	baking, cleaning, pantry
+choc_chips	baking, chocolate, cookies, sweet, pantry
+cake_mix	baking, dessert, cake, sweet
+icing	baking, dessert, cake, sweet
+canned_corn	canned, vegetables, side, pantry, vegan
+canned_peas	canned, vegetables, side, pantry, vegan
+kidney_beans	canned, beans, chili, protein, pantry, vegan
+baked_beans	canned, beans, breakfast, protein, pantry
+chef_boyardee	canned, pasta, quick meal, lunch, microwave, kids
+spam	canned, meat, pork, protein, breakfast, pantry
+salmon_can	canned, seafood, fish, protein, sandwich, pantry
+tomato_paste	canned, cooking, pasta, pantry, vegan
+chicken_broth	soup, broth, cooking, pantry
+lasagna	pasta, dinner, italian, pantry
+macaroni	pasta, mac and cheese, dinner, pantry
+alfredo	pasta sauce, sauce, pasta, dinner, italian
+taco_kit	tacos, mexican, dinner, kit
+bread_crumbs	baking, cooking, pantry
+cocoa	hot chocolate, drinks, chocolate, sweet, winter
+kcups	coffee, coffee pods, caffeine, drinks, breakfast
+instant_coffee	coffee, caffeine, drinks, pantry
+coffee_mate	coffee, creamer, drinks
+choc_milk	dairy, milk, drinks, chocolate, sweet, kids
+oat_milk	plant-based, dairy-free, milk alternative, drinks, coffee, breakfast, vegan
+yogurt_cups	dairy, yogurt, snacks, breakfast, kids, lunchbox
+string_cheese	dairy, cheese, snacks, kids, lunchbox, protein
+cheese_slices	dairy, cheese, sandwich, burgers, lunch
+parmesan	dairy, cheese, pasta, italian
+cottage	dairy, cheese, protein, breakfast, healthy
+margarine	spreads, dairy-free, baking, toast, vegan
+pudding	dairy, dessert, snacks, sweet, lunchbox, kids
+croissant	bread, bakery, breakfast, pastry
+english_muffin	bread, bakery, breakfast, toast
+hotdog_buns	bread, bakery, bbq, hot dogs
+pita	bread, bakery, wraps, lunch, vegan
+naan	bread, bakery, dinner, indian
+donuts	bakery, dessert, sweet, breakfast, pastry
+cookies_bakery	bakery, cookies, dessert, sweet
+ground_turkey	meat, poultry, turkey, protein, dinner, healthy
+sausage	meat, pork, protein, dinner, bbq, pasta
+deli_turkey	meat, deli, turkey, sandwich, lunch, protein
+pepperoni	meat, deli, pizza, snacks, protein
+fish_sticks	frozen, seafood, fish, quick meal, dinner, kids
+chicken_strips	frozen, chicken, meat, quick meal, dinner
+perogies	frozen, quick meal, dinner, vegetarian
+eggo	frozen, breakfast, waffles, quick meal, kids
+pizza_pops	frozen, pizza, snacks, quick meal, microwave
+dumplings	frozen, dumplings, asian, quick meal, dinner
+mozza_sticks	frozen, snacks, cheese, appetizer, party
+lasagna_frozen	frozen, pasta, italian, dinner, quick meal
+frozen_meal	frozen, quick meal, lunch, microwave, frozen dinner
+burgers	frozen, meat, beef, burgers, bbq, dinner, protein
+hash_browns	frozen, potatoes, breakfast, side
+tater_tots	frozen, potatoes, side, snacks
+ice_cream_bars	frozen, dessert, ice cream, sweet, frozen dessert
+popsicles	frozen, dessert, sweet, frozen dessert, kids, summer
+frozen_mango	frozen, fruit, smoothie, breakfast, vegan
+pepsi	pop, soda, drinks, caffeine, party
+coke_zero	pop, soda, drinks, sugar free, diet, caffeine, party
+sprite	pop, soda, drinks, party
+ginger_ale	pop, soda, drinks, party
+root_beer	pop, soda, drinks, party
+iced_tea	drinks, tea, party
+bubly	drinks, sparkling water, water, sugar free
+gatorade	drinks, sports drink, gym
+red_bull	drinks, energy drink, caffeine
+monster	drinks, energy drink, caffeine, sugar free
+apple_juice	juice, drinks, fruit, kids
+cranberry	juice, drinks, fruit
+lemonade	juice, drinks, summer
+juice_boxes	juice, drinks, kids, lunchbox
+water_big	water, drinks, bottled water
+chocolate_bar	snacks, candy, chocolate, sweet
+kitkat_single	snacks, candy, chocolate, chocolate bar, sweet, checkout
+aero_single	snacks, candy, chocolate, chocolate bar, sweet, checkout
+caramilk	snacks, candy, chocolate, chocolate bar, caramel, sweet, checkout
+mars_bar	snacks, candy, chocolate, chocolate bar, caramel, sweet, checkout
+twix	snacks, candy, chocolate, chocolate bar, caramel, cookie, sweet, checkout
+oh_henry	snacks, candy, chocolate, chocolate bar, peanuts, sweet, checkout
+coffee_crisp	snacks, candy, chocolate, chocolate bar, sweet, checkout, canadian
+crunchie	snacks, candy, chocolate, chocolate bar, sweet, checkout
+oh_henry_4pk	snacks, candy, chocolate, chocolate bar, multipack, sweet
+kitkat_chunky_4pk	snacks, candy, chocolate, chocolate bar, multipack, sweet
+reeses_family	snacks, candy, chocolate, chocolate bar, peanut butter, sweet, sharing
+cinnamon_toast	breakfast, cereal, sweet, kids
+cinnamon_toast_fam	breakfast, cereal, sweet, kids, family size
+lucky_charms	breakfast, cereal, sweet, kids
+lucky_charms_fam	breakfast, cereal, sweet, kids, family size
+rice_krispies	breakfast, cereal, baking, kids
+corn_pops	breakfast, cereal, sweet, kids
+oreo_mini	snacks, cookies, sweet, lunchbox, kids
+chips_ahoy_mini	snacks, cookies, sweet, lunchbox, kids
+chips_ahoy_rainbow	snacks, cookies, sweet, lunchbox, kids
+celebration	snacks, cookies, chocolate, sweet, dessert
+digestive	snacks, cookies, tea, sweet
+pc_decadent	snacks, cookies, chocolate, sweet, dessert
+ritz_family	snacks, crackers, salty, party, family size
+premium_plus	snacks, crackers, soup, salty
+wheat_thins	snacks, crackers, whole grain, salty
+toppables	snacks, crackers, party, salty
+pretzel_crisps	snacks, pretzels, crackers, salty
+club_crackers	snacks, crackers, salty
+garbage_bags	household, cleaning, garbage bags, trash
+kitchen_bags	household, cleaning, garbage bags, trash, kitchen
+nn_kitchen_bags	household, cleaning, garbage bags, trash, kitchen
+ziploc_freezer	household, kitchen, freezer bags, storage, meal prep
+ziploc_sandwich	household, kitchen, sandwich bags, lunch, lunchbox
+ziploc_snack	household, kitchen, snack bags, lunchbox
+nn_sandwich_bags	household, kitchen, sandwich bags, lunch, lunchbox
+nn_freezer_bags	household, kitchen, freezer bags, storage, meal prep
+foil_nn	household, kitchen, foil, baking, bbq
+foil_alcan	household, kitchen, foil, baking, bbq
+foil_nn_100	household, kitchen, foil, baking, bbq
+tissue_nn	household, tissues, kleenex, bathroom, cold and flu
+tissue_royale	household, tissues, kleenex, bathroom, cold and flu
+tissue_pc_6	household, tissues, kleenex, bathroom, cold and flu, multipack
+colgate_cavity	household, toothpaste, personal care, bathroom
+colgate_optic	household, toothpaste, personal care, bathroom, whitening
+sensodyne_fresh	household, toothpaste, personal care, bathroom, sensitive
+sensodyne_white	household, toothpaste, personal care, bathroom, sensitive, whitening
+crest_3d_3pk	household, toothpaste, personal care, bathroom, whitening, multipack
+activia_12	dairy, yogurt, breakfast, snacks, probiotic, multipack, vegetarian
+activia_vanilla	dairy, yogurt, breakfast, probiotic, vegetarian
+activia_vanilla_8	dairy, yogurt, breakfast, snacks, probiotic, lunchbox, vegetarian
+iogo_16	dairy, yogurt, breakfast, snacks, lunchbox, kids, multipack, vegetarian
+iogo_2kg	dairy, yogurt, breakfast, family size, vegetarian
+astro_plain	dairy, yogurt, breakfast, cooking, vegetarian
+oikos_4	dairy, yogurt, greek, protein, breakfast, snacks, vegetarian
+dr_pepper	drinks, pop, soda, party, caffeine
+fanta_strawberry	drinks, pop, soda, party
+sprite_zero	drinks, pop, soda, party, sugar free, diet
+cherry_coke	drinks, pop, soda, party, caffeine
+pepsi_zero_cherry	drinks, pop, soda, party, sugar free, diet, caffeine
+pc_cream_soda	drinks, pop, soda, party
+lays_dill	snacks, chips, salty, party, potato chips
+lays_sco	snacks, chips, salty, party, potato chips
+lays_wavy	snacks, chips, salty, party, potato chips
+doritos_jalapeno	snacks, chips, salty, party, tortilla chips, spicy
+nn_ripple	snacks, chips, salty, party, potato chips, budget
+nn_all_dressed	snacks, chips, salty, party, potato chips, budget
+pc_kettle	snacks, chips, salty, party, potato chips, kettle chips
+ristorante_pep	frozen, pizza, dinner, quick meal, party, thin crust
+casa_mama_pep	frozen, pizza, dinner, quick meal, party
+casa_mama_hawaiian	frozen, pizza, dinner, quick meal, party
+red_baron_pep	frozen, pizza, dinner, quick meal, party
+pc_woodfired	frozen, pizza, dinner, quick meal, party
+pizza_bites	frozen, pizza, dinner, quick meal, party, snacks, microwave
+pizza_pops_cheese	frozen, pizza, dinner, quick meal, party, snacks, microwave, vegetarian
+haagen_vanilla	frozen, dessert, ice cream, sweet, frozen dessert
+haagen_choc	frozen, dessert, ice cream, sweet, frozen dessert, chocolate
+breyers_fv	frozen, dessert, ice cream, sweet, frozen dessert
+chapmans_fv	frozen, dessert, ice cream, sweet, frozen dessert, family size
+chapmans_wolf	frozen, dessert, ice cream, sweet, frozen dessert, family size, chocolate
+classico_tb	pasta sauce, sauce, pasta, dinner, italian, pantry, vegetarian
+classico_4cheese	pasta sauce, sauce, pasta, dinner, italian, pantry, vegetarian
+classico_marinara	pasta sauce, sauce, pasta, dinner, italian, pantry, vegetarian
+pc_garlic_sauce	pasta sauce, sauce, pasta, dinner, italian, pantry, vegetarian
+pc_marinara	pasta sauce, sauce, pasta, dinner, italian, pantry, vegetarian
+faita_rosee	pasta sauce, sauce, pasta, dinner, italian, pantry, vegetarian
+nn_marble_400	dairy, cheese, vegetarian, sandwich, snacks, budget
+nn_marble_700	dairy, cheese, vegetarian, sandwich, budget, family size
+pc_triple_cheddar	dairy, cheese, vegetarian, tacos, pasta, shredded
+violife_shreds	cheese, vegetarian, dairy-free, vegan, plant-based
+ch_14grain	bread, bakery, sandwich, toast, breakfast, lunch, whole grain, healthy, vegetarian
+ch_protein	bread, bakery, sandwich, toast, breakfast, lunch, whole grain, protein, healthy, vegetarian
+ace_sourdough	bread, bakery, sandwich, toast, breakfast, lunch, sourdough, vegan
+wonder_white	bread, bakery, sandwich, toast, breakfast, lunch, vegetarian
+ditaliano_white	bread, bakery, sandwich, toast, breakfast, lunch, vegetarian
+allens_apple_1l	juice, drinks, fruit, kids
+oasis_orange	juice, drinks, breakfast, fruit, orange juice
+oasis_tropical	juice, drinks, fruit
+pc_oj	juice, drinks, breakfast, fruit, orange juice, family size
+pc_peach_lemonade	juice, drinks, lemonade, summer
+allens_punch	juice, drinks, kids, party
+maxwell_orig	coffee, caffeine, drinks, breakfast, pantry, ground coffee
+maxwell_md	coffee, caffeine, drinks, breakfast, pantry, ground coffee
+pc_great_canadian	coffee, caffeine, drinks, breakfast, pantry, ground coffee
+tims_coffee	coffee, caffeine, drinks, breakfast, pantry, ground coffee, canadian
+nabob_trad	coffee, caffeine, drinks, breakfast, pantry, ground coffee
+pc_dipped_bars	snacks, granola bars, bars, lunchbox, on the go, breakfast, chocolate
+pc_chewy_bars	snacks, granola bars, bars, lunchbox, on the go, breakfast, chocolate, kids
+nv_smores	snacks, granola bars, bars, lunchbox, on the go, breakfast, kids
+nv_pretzel_nut	snacks, granola bars, bars, lunchbox, on the go, breakfast, nuts
+nv_sweet_salty_28	snacks, granola bars, bars, lunchbox, on the go, breakfast, nuts, multipack, family size
+madegood_berry	snacks, granola bars, bars, lunchbox, on the go, breakfast, kids, nut-free
+nutrigrain	snacks, granola bars, bars, lunchbox, on the go, breakfast, kids
+quaker_chewy_big	snacks, granola bars, bars, lunchbox, on the go, breakfast, chocolate, kids, multipack, family size
+tide_48	household, cleaning, laundry, detergent
+tide_100	household, cleaning, laundry, detergent, family size
+tide_free_48	household, cleaning, laundry, detergent, sensitive
+gain_100	household, cleaning, laundry, detergent, family size
+tide_simply	household, cleaning, laundry, detergent
+ecomax_laundry	household, cleaning, laundry, detergent, eco
+mr_clean	household, cleaning, floor cleaner, all-purpose
+pine_sol	household, cleaning, floor cleaner, all-purpose
+lysol_apc	household, cleaning, spray, all-purpose, disinfectant
+nn_apc	household, cleaning, all-purpose, disinfectant, budget
+windex	household, cleaning, glass cleaner, spray
+pink_stuff	household, cleaning, scrub, bathroom, kitchen
+maynards_swedish	snacks, candy, gummies, sweet
+wine_gums	snacks, candy, gummies, sweet
+fuzzy_peach	snacks, candy, gummies, sweet
+fuzzy_peach_308	snacks, candy, gummies, sweet
+haribo_goldbears	snacks, candy, gummies, sweet
+haribo_twin_snakes	snacks, candy, gummies, sweet
+carnaby_mixed	snacks, candy, gummies, sweet
+sour_patch_funmix	snacks, candy, gummies, sweet
+aveeno_sensitive	household, personal care, body wash, soap, shower
+aveeno_975	household, personal care, body wash, soap, shower
+nivea_roses	household, personal care, body wash, soap, shower
+nivea_orange	household, personal care, body wash, soap, shower
+nivea_men	household, personal care, body wash, soap, shower
+dove_shea	household, personal care, body wash, soap, shower
+softsoap_creamy	household, personal care, body wash, soap, shower
+indomie_5	pantry, noodles, ramen, instant, quick meal
+rooster_400	pantry, noodles, ramen, instant, quick meal
+ichiban_chicken	pantry, noodles, ramen, instant, quick meal
+ichiban_original	pantry, noodles, ramen, instant, quick meal
+cheesy_ramen_mild	pantry, noodles, ramen, instant, quick meal
+nn_noodle_chicken	pantry, noodles, ramen, instant, quick meal
+lady_speedstick	household, personal care, deodorant, antiperspirant
+lady_speedstick_straw	household, personal care, deodorant, antiperspirant
+dove_powder	household, personal care, deodorant, antiperspirant
+dove_coconut	household, personal care, deodorant, antiperspirant
+oldspice_puresport	household, personal care, deodorant, antiperspirant
+oldspice_bearglove	household, personal care, deodorant, antiperspirant
+nivea_rollon	household, personal care, deodorant, antiperspirant
+hs_classic	household, personal care, shampoo, hair
+hs_green_apple	household, personal care, shampoo, hair
+tres_botanique	household, personal care, shampoo, hair
+tres_rich	household, personal care, shampoo, hair
+tres_rich_115	household, personal care, shampoo, hair
+loreal_hyaluron	household, personal care, shampoo, hair
+loreal_dream	household, personal care, shampoo, hair
+pantene_moisture	household, personal care, shampoo, hair
+pantene_volume	household, personal care, shampoo, hair
+pantene_530	household, personal care, shampoo, hair
+fructis_strong	household, personal care, shampoo, hair
+aussie_moist	household, personal care, shampoo, hair
+native_shampoo	household, personal care, shampoo, hair
+kraft_bbq_orig	pantry, sauce, bbq, barbecue, condiment
+kraft_bbq_rib	pantry, sauce, bbq, barbecue, condiment
+diana_orig	pantry, sauce, bbq, barbecue, condiment
+diana_rib	pantry, sauce, bbq, barbecue, condiment
+diana_honey_garlic	pantry, sauce, bbq, barbecue, condiment
+bullseye_renegade	pantry, sauce, bbq, barbecue, condiment
+bullseye_hickory	pantry, sauce, bbq, barbecue, condiment
+kraft_greek	pantry, salad dressing, dressing, salad
+kraft_ranchers	pantry, salad dressing, dressing, salad
+kraft_1000	pantry, salad dressing, dressing, salad
+kraft_golden_ital	pantry, salad dressing, dressing, salad
+kraft_balsamic	pantry, salad dressing, dressing, salad
+kraft_caesar	pantry, salad dressing, dressing, salad
+kraft_catalina	pantry, salad dressing, dressing, salad
+kraft_poppyseed	pantry, salad dressing, dressing, salad
+kraft_fig	pantry, salad dressing, dressing, salad
+pc_lemon_garlic	pantry, salad dressing, dressing, salad
+pc_green_goddess	pantry, salad dressing, dressing, salad
+renees_caesar	pantry, salad dressing, dressing, salad
+renees_light_caesar	pantry, salad dressing, dressing, salad
+mccain_straight	frozen, fries, potato
+mccain_crinkle	frozen, fries, potato
+mccain_shoestring	frozen, fries, potato
+nn_mixed_veg_2kg	frozen, vegetables, veggies
+nn_california_2kg	frozen, vegetables, veggies
+nn_mirepoix	frozen, vegetables, veggies
+gg_mixed	frozen, vegetables, veggies
+gg_peas	frozen, vegetables, veggies, peas
+pc_broccoli_frz	frozen, vegetables, veggies, broccoli
+pc_squash_frz	frozen, vegetables, veggies, squash
+franks_680	pantry, hot sauce, spicy, condiment, sauce
+cholula	pantry, hot sauce, spicy, condiment, sauce
+taco_bell_hot	pantry, hot sauce, spicy, condiment, sauce
+taco_bell_fire	pantry, hot sauce, spicy, condiment, sauce
+taco_bell_mild	pantry, hot sauce, spicy, condiment, sauce
+valentina	pantry, hot sauce, spicy, condiment, sauce
+pc_louisiana	pantry, hot sauce, spicy, condiment, sauce
+grace_hot	pantry, hot sauce, spicy, condiment, sauce
+tabasco	pantry, hot sauce, spicy, condiment, sauce
+heinz_sriracha_mayo	pantry, hot sauce, spicy, condiment, sauce, mayo, sriracha
+cream_mushroom	pantry, soup, canned, quick meal
+tomato_soup	pantry, soup, canned, quick meal
+veg_soup	pantry, soup, canned, quick meal
+cream_chicken	pantry, soup, canned, quick meal
+beef_barley	pantry, soup, canned, quick meal
+chunky_chicken	pantry, soup, canned, quick meal
+red_rose_70	drinks, tea, tea bags, hot drinks
+red_rose_210	drinks, tea, tea bags, hot drinks
+tetley_216	drinks, tea, tea bags, hot drinks
+tetley_144	drinks, tea, tea bags, hot drinks
+tetley_decaf	drinks, tea, tea bags, hot drinks
+tetley_eb	drinks, tea, tea bags, hot drinks
+yorkshire_80	drinks, tea, tea bags, hot drinks
+yorkshire_gold	drinks, tea, tea bags, hot drinks
+nn_tea_100	drinks, tea, tea bags, hot drinks
+pc_tea_216	drinks, tea, tea bags, hot drinks
+twinings_variety	drinks, tea, tea bags, hot drinks
+mich_lasagna	frozen, frozen meal, microwave, quick meal, pasta
+mich_fettuccine	frozen, frozen meal, microwave, quick meal, pasta
+mich_lasagna_alf	frozen, frozen meal, microwave, quick meal, pasta
+mich_mac	frozen, frozen meal, microwave, quick meal, pasta
+mich_fett_chicken	frozen, frozen meal, microwave, quick meal, pasta
+mich_mac_beef	frozen, frozen meal, microwave, quick meal, pasta
+mich_bolognese	frozen, frozen meal, microwave, quick meal, pasta
+dawn_ultra	household, cleaning, dish soap, dishes
+dawn_platinum	household, cleaning, dish soap, dishes
+dawn_ezsqueeze	household, cleaning, dish soap, dishes
+dawn_plat_535	household, cleaning, dish soap, dishes
+dawn_jug_198	household, cleaning, dish soap, dishes
+dawn_jug_264	household, cleaning, dish soap, dishes
+pc_dish_sensitive	household, cleaning, dish soap, dishes
+palmolive_orange	household, cleaning, dish soap, dishes
+palmolive_orig	household, cleaning, dish soap, dishes
+ecomax_dish	household, cleaning, dish soap, dishes
+nn_dish_5l	household, cleaning, dish soap, dishes
+kd_three_cheese	pantry, mac and cheese, kraft dinner, pasta, quick meal
+kd_white_cheddar	pantry, mac and cheese, kraft dinner, pasta, quick meal
+kd_extra_creamy	pantry, mac and cheese, kraft dinner, pasta, quick meal
+pc_white_cheddar_mac	pantry, mac and cheese, kraft dinner, pasta, quick meal
+pc_deluxe_cheddar_mac	pantry, mac and cheese, kraft dinner, pasta, quick meal
+pc_extra_cheesy_113	pantry, mac and cheese, kraft dinner, pasta, quick meal
+pc_extra_cheesy_2kg	pantry, mac and cheese, kraft dinner, pasta, quick meal
+annies_white	pantry, mac and cheese, kraft dinner, pasta, quick meal
+annies_aged	pantry, mac and cheese, kraft dinner, pasta, quick meal
+pc_rosemary_crackers	snacks, crackers
+pc_sea_salt_crackers	snacks, crackers
+wheat_thins_multi	snacks, crackers
+janes_nuggets	frozen, chicken, nuggets, quick meal
+janes_popcorn	frozen, chicken, nuggets, quick meal
+janes_strips	frozen, chicken, nuggets, quick meal, chicken strips
+pc_pub_nuggets	frozen, chicken, nuggets, quick meal
+dino_nuggets	frozen, chicken, nuggets, quick meal
+popcorn_bites	frozen, chicken, nuggets, quick meal
+nn_pb_1kg	pantry, peanut butter, spread, breakfast
+nn_pb_light	pantry, peanut butter, spread, breakfast
+nn_pb_2kg	pantry, peanut butter, spread, breakfast
+nn_pb_500	pantry, peanut butter, spread, breakfast
+kraft_pb_crunchy	pantry, peanut butter, spread, breakfast
+kraft_pb_light	pantry, peanut butter, spread, breakfast
+kraft_pb_2kg	pantry, peanut butter, spread, breakfast
+kraft_pb_500	pantry, peanut butter, spread, breakfast
+kraft_only_peanuts	pantry, peanut butter, spread, breakfast
+pc_just_peanuts	pantry, peanut butter, spread, breakfast
+pc_organic_pb	pantry, peanut butter, spread, breakfast
+smuckers_straw	pantry, jam, spread, breakfast, toast
+smuckers_rasp	pantry, jam, spread, breakfast, toast
+pc_straw_jam	pantry, jam, spread, breakfast, toast
+pc_rasp_jam	pantry, jam, spread, breakfast, toast
+bm_rasp	pantry, jam, spread, breakfast, toast
+bm_straw	pantry, jam, spread, breakfast, toast
+nn_jam_1l	pantry, jam, spread, breakfast, toast
+philly_brick	dairy, cream cheese, bagel, spread
+philly_tub	dairy, cream cheese, bagel, spread
+philly_herb	dairy, cream cheese, bagel, spread
+philly_light	dairy, cream cheese, bagel, spread
+philly_whipped	dairy, cream cheese, bagel, spread
+philly_340	dairy, cream cheese, bagel, spread
+philly_herb_340	dairy, cream cheese, bagel, spread
+nn_cc_light	dairy, cream cheese, bagel, spread
+nn_cc_spread	dairy, cream cheese, bagel, spread
+nn_cc_340	dairy, cream cheese, bagel, spread
+tre_stelle_cc	dairy, cream cheese, bagel, spread
+violife_cc	dairy, cream cheese, bagel, spread, dairy-free, vegan
+pc_tortilla_orig	bakery, tortillas, wraps, tacos, burritos
+pc_tortilla_med	bakery, tortillas, wraps, tacos, burritos
+pc_tortilla_medflour	bakery, tortillas, wraps, tacos, burritos
+pc_protein_tortilla	bakery, tortillas, wraps, tacos, burritos
+casa_orig	bakery, tortillas, wraps, tacos, burritos
+casa_ww	bakery, tortillas, wraps, tacos, burritos
+oep_taco_shells	bakery, tortillas, wraps, tacos, burritos
+tostitos_rounds	snacks, chips, tortilla chips
+tostitos_restaurant	snacks, chips, tortilla chips
+ml_turkey	meat, deli, sandwich, lunch, cold cuts, turkey
+ml_bf_ham	meat, deli, sandwich, lunch, cold cuts, ham
+ml_chicken	meat, deli, sandwich, lunch, cold cuts, chicken
+ml_hickory_turkey	meat, deli, sandwich, lunch, cold cuts, turkey
+ml_bf_ham_400	meat, deli, sandwich, lunch, cold cuts, ham
+pc_deli_assort	meat, deli, sandwich, lunch, cold cuts
+pillers_duo	meat, deli, sandwich, lunch, cold cuts, ham, turkey
+ziggys_ham	meat, deli, sandwich, lunch, cold cuts, ham
+pringles_bbq	snacks, chips, pringles
+pringles_sv	snacks, chips, pringles
+pringles_buffalo	snacks, chips, pringles
+pringles_alldressed	snacks, chips, pringles
+pringles_ketchup	snacks, chips, pringles
+pringles_party_orig	snacks, chips, pringles
+pringles_party_sco	snacks, chips, pringles
+pringles_party_bbq	snacks, chips, pringles
+pringles_12pk	snacks, chips, pringles
+pringles_stacks_sco	snacks, chips, pringles
+pringles_cups_24	snacks, chips, pringles
+oc_maple_fam	pantry, cereal, breakfast
+oc_berry	pantry, cereal, breakfast
+oc_berry_fam	pantry, cereal, breakfast
+oc_almond_fam	pantry, cereal, breakfast
+oc_vanilla	pantry, cereal, breakfast
+quaker_maple_brown	pantry, oatmeal, oats, breakfast
+quaker_variety	pantry, oatmeal, oats, breakfast
+quaker_quick_1kg	pantry, oatmeal, oats, breakfast
+nn_oats_club	pantry, oatmeal, oats, breakfast
+nn_large_flake	pantry, oatmeal, oats, breakfast
+pc_organic_oats	pantry, oatmeal, oats, breakfast
+monster_ultra_4	drinks, energy drink, caffeine
+redbull_wild	drinks, energy drink, caffeine
+alani_dream	drinks, energy drink, caffeine
+alani_peach	drinks, energy drink, caffeine
+bloom_peach	drinks, energy drink, caffeine
+gatorade_fp_8	drinks, sports drink, gatorade, electrolytes
+gatorade_zero_cherry	drinks, sports drink, gatorade, electrolytes
+gatorade_grape	drinks, sports drink, gatorade, electrolytes
+sour_patch_150	snacks, candy, sweet, gummies
+sour_patch_315	snacks, candy, sweet, gummies
+swedish_315	snacks, candy, sweet, gummies
+ferrero_assorted	snacks, candy, sweet, chocolate, gift
+mm_peanut_800	snacks, candy, sweet, chocolate
+nerds_clusters	snacks, candy, sweet, gummies
+barilla_farfalle	pantry, pasta, noodles, dinner
+barilla_rotini	pantry, pasta, noodles, dinner
+barilla_penne	pantry, pasta, noodles, dinner
+barilla_shells	pantry, pasta, noodles, dinner
+barilla_macaroni	pantry, pasta, noodles, dinner
+barilla_spaghetti	pantry, pasta, noodles, dinner
+barilla_cellentani	pantry, pasta, noodles, dinner
+catelli_p_rotini	pantry, pasta, noodles, dinner, protein
+catelli_p_elbows	pantry, pasta, noodles, dinner, protein
+catelli_p_penne	pantry, pasta, noodles, dinner, protein
+catelli_p_spaghetti	pantry, pasta, noodles, dinner, protein
+catelli_p_rigatoni	pantry, pasta, noodles, dinner, protein
+catelli_smart_rotini	pantry, pasta, noodles, dinner
+catelli_garlic_onion	pantry, pasta sauce, sauce, tomato sauce
+rm_oil_3	pantry, tuna, fish, canned, protein, lunch
+rm_water_3	pantry, tuna, fish, canned, protein, lunch
+rm_chili	pantry, tuna, fish, canned, protein, lunch
+rm_filo	pantry, tuna, fish, canned, protein, lunch
+rm_lemon	pantry, tuna, fish, canned, protein, lunch
+rm_160	pantry, tuna, fish, canned, protein, lunch
+nn_flaked_tuna	pantry, tuna, fish, canned, protein, lunch
+cl_skipjack	pantry, tuna, fish, canned, protein, lunch
+cl_albacore_flake	pantry, tuna, fish, canned, protein, lunch
+cl_solid_white	pantry, tuna, fish, canned, protein, lunch
+cl_dill_lemon	pantry, tuna, fish, canned, protein, lunch
+mr_white_700	pantry, rice, side, dinner
+mr_white_1400	pantry, rice, side, dinner
+mr_white_2600	pantry, rice, side, dinner
+mr_brown_1200	pantry, rice, side, dinner
+mr_basmati_500	pantry, rice, side, dinner
+mr_basmati_cups	pantry, rice, side, dinner, microwave
+mr_fried_cups	pantry, rice, side, dinner, microwave
+mr_chicken_cups	pantry, rice, side, dinner, microwave
+mr_jasmine_cups	pantry, rice, side, dinner, microwave
+mr_veg_cups	pantry, rice, side, dinner, microwave
+tims_kcup_30	drinks, coffee, k-cups, coffee pods, keurig
+tims_variety_30	drinks, coffee, k-cups, coffee pods, keurig
+tims_kcup_12	drinks, coffee, k-cups, coffee pods, keurig
+mccafe_30	drinks, coffee, k-cups, coffee pods, keurig
+kicking_horse_10	drinks, coffee, k-cups, coffee pods, keurig
+krispy_kreme_30	drinks, coffee, k-cups, coffee pods, keurig
+pike_place_10	drinks, coffee, k-cups, coffee pods, keurig
+nn_bagel_plain	bakery, bagels, breakfast, bread
+nn_bagel_everything	bakery, bagels, breakfast, bread
+bakery_bagel_plain	bakery, bagels, breakfast, bread
+bakery_bagel_everything	bakery, bagels, breakfast, bread
+bakery_bagel_herb	bakery, bagels, breakfast, bread
+ch_everything_bagel	bakery, bagels, breakfast, bread
+pc_supersoft_12	household, toilet paper, bathroom tissue, paper
+pc_maxsoft_12	household, toilet paper, bathroom tissue, paper
+royale_velour_8	household, toilet paper, bathroom tissue, paper
+royale_everyday_8	household, toilet paper, bathroom tissue, paper
+bounty_6	household, paper towel, paper towels, cleaning, paper
+bounty_3	household, paper towel, paper towels, cleaning, paper
+pc_max_towel_3	household, paper towel, paper towels, cleaning, paper
+pc_max_towel_8	household, paper towel, paper towels, cleaning, paper
+royale_towel_3	household, paper towel, paper towels, cleaning, paper
+royale_towel_6	household, paper towel, paper towels, cleaning, paper
+nn_triple_towel_6	household, paper towel, paper towels, cleaning, paper
+ml_bacon	meat, bacon, breakfast, pork
+pc_bacon	meat, bacon, breakfast, pork
+pc_bacon_less_salt	meat, bacon, breakfast, pork
+pc_maple_bacon	meat, bacon, breakfast, pork
+schneiders_hickory	meat, bacon, breakfast, pork
+schneiders_less_salt	meat, bacon, breakfast, pork
+ml_ready_crisp	meat, bacon, breakfast, pork
+pc_thick_bacon_1kg	meat, bacon, breakfast, pork
+nn_thick_bacon_1kg	meat, bacon, breakfast, pork
+kraft_slices_825	dairy, cheese, cheese slices, sandwich
+kraft_thick_slices	dairy, cheese, cheese slices, sandwich
+cb_marble_slices	dairy, cheese, cheese slices, sandwich
+cb_medium_slices	dairy, cheese, cheese slices, sandwich
+cb_havarti_slices	dairy, cheese, cheese slices, sandwich
+cb_jalapeno_slices	dairy, cheese, cheese slices, sandwich
+nn_marble_slices	dairy, cheese, cheese slices, sandwich
+nn_old_slices	dairy, cheese, cheese slices, sandwich
+bd_cheddar_slices	dairy, cheese, cheese slices, sandwich
+mv_sv	snacks, chips, kettle chips, potato chips
+mv_chili	snacks, chips, kettle chips, potato chips
+mv_herb	snacks, chips, kettle chips, potato chips
+mv_bbq	snacks, chips, kettle chips, potato chips
+mv_jalapeno	snacks, chips, kettle chips, potato chips
+mv_ketchup	snacks, chips, kettle chips, potato chips
+mv_sv_325	snacks, chips, kettle chips, potato chips
+mv_orig_325	snacks, chips, kettle chips, potato chips
+oreo_family	snacks, cookies, oreo, sweet
+oreo_mini_200	snacks, cookies, oreo, sweet
+oreo_double	snacks, cookies, oreo, sweet
+oreo_golden	snacks, cookies, oreo, sweet
+oreo_maple	snacks, cookies, oreo, sweet
+hershey_cnc_mini	snacks, candy, chocolate
+sch_juicy_jumbos	meat, hot dogs, wieners, bbq
+sch_jj_beef	meat, hot dogs, wieners, bbq
+sch_jj_cheddar	meat, hot dogs, wieners, bbq
+sch_red_hots	meat, hot dogs, wieners, bbq
+sch_all_beef	meat, hot dogs, wieners, bbq
+ml_top_dogs	meat, hot dogs, wieners, bbq
+mlf_chicken_wiener	meat, hot dogs, wieners, bbq, chicken
+nn_all_beef_dogs	meat, hot dogs, wieners, bbq
+jumbo_wieners_18	meat, hot dogs, wieners, bbq
+haagen_almond_bars	frozen, ice cream, dessert, sweet, ice cream bars
+chapmans_cc_vanilla	frozen, ice cream, dessert, sweet, ice cream bars
+chapmans_cc_almond	frozen, ice cream, dessert, sweet, ice cream bars
+chapmans_super_sandwich	frozen, ice cream, dessert, sweet, ice cream sandwich
+nn_ice_milk_bars	frozen, ice cream, dessert, sweet, ice cream bars
+pc_nanaimo_bars	frozen, ice cream, dessert, sweet, ice cream bars
+haagen_maple_toffee	frozen, ice cream, dessert, sweet
+ruffles_sco	snacks, chips, potato chips, ruffles
+ruffles_bbq	snacks, chips, potato chips, ruffles
+ruffles_bacon	snacks, chips, potato chips, ruffles
+ruffles_380	snacks, chips, potato chips, ruffles
+nn_butter_unsalted	dairy, butter, baking
+gaylea_salted	dairy, butter, baking
+gaylea_unsalted	dairy, butter, baking
+lactantia_salted	dairy, butter, baking
+lactantia_unsalted	dairy, butter, baking
+becel_chef_salted	dairy, butter, baking
+becel_chef_unsalted	dairy, butter, baking
+becel_plant_unsalted	dairy, butter, baking, dairy-free, vegan
+eggo_blueberry	frozen, waffles, breakfast
+eggo_cinnamon	frozen, waffles, breakfast
+eggo_chocchip	frozen, waffles, breakfast
+eggo_orig_560	frozen, waffles, breakfast
+eggo_blueberry_560	frozen, waffles, breakfast
+eggo_chocchip_560	frozen, waffles, breakfast
+eggo_thick_orig	frozen, waffles, breakfast
+eggo_thick_cinn	frozen, waffles, breakfast
+eggo_protein_brownie	frozen, waffles, breakfast
+eggo_buttermilk_van	frozen, waffles, breakfast
+eggo_protein_minis	frozen, waffles, breakfast
+eggo_168	frozen, waffles, breakfast
+natrel_lf_2	dairy, milk, lactose free
+natrel_lf_1	dairy, milk, lactose free
+neilson_lf_4l	dairy, milk, lactose free
+neilson_lf_2	dairy, milk, lactose free
+neilson_lf_1	dairy, milk, lactose free
+neilson_lf_325	dairy, milk, lactose free
+fairlife_2	dairy, milk, lactose free
+earths_own_soy	dairy, milk, lactose free, dairy-free, soy milk
+doritos_sweet_chili	snacks, chips, tortilla chips, doritos
+doritos_zesty	snacks, chips, tortilla chips, doritos
+doritos_rolld	snacks, chips, tortilla chips, doritos
+doritos_400	snacks, chips, tortilla chips, doritos
+tostitos_med_645	pantry, salsa, dip, nachos
+tostitos_med_418	pantry, salsa, dip, nachos
+tostitos_mild_418	pantry, salsa, dip, nachos
+tostitos_queso	pantry, salsa, dip, nachos, cheese dip
+pc_mild_salsa	pantry, salsa, dip, nachos
+pc_med_salsa	pantry, salsa, dip, nachos
+pace_med	pantry, salsa, dip, nachos
+oep_mild_salsa	pantry, salsa, dip, nachos
+nn_mild_salsa	pantry, salsa, dip, nachos
+pc_fresh_salsa	pantry, salsa, dip, nachos
+pearl_complete_butter	pantry, pancakes, pancake mix, waffles, breakfast, baking
+pc_pancake_buttermilk	pantry, pancakes, pancake mix, waffles, breakfast, baking
+pc_pancake_orig	pantry, pancakes, pancake mix, waffles, breakfast, baking
+nn_pancake	pantry, pancakes, pancake mix, waffles, breakfast, baking
+kodiak	pantry, pancakes, pancake mix, waffles, breakfast, baking
+pc_hummus_454	snacks, hummus, dip, vegetarian
+pc_garlic_hummus	snacks, hummus, dip, vegetarian
+pc_garlic_hummus_454	snacks, hummus, dip, vegetarian
+pc_dill_hummus	snacks, hummus, dip, vegetarian
+pc_mini_hummus	snacks, hummus, dip, vegetarian
+fontaine_hummus	snacks, hummus, dip, vegetarian
+pc_prime_rib_burgers	frozen, burgers, beef, bbq
+pc_thick_burgers	frozen, burgers, beef, bbq
+pc_lean_burgers	frozen, burgers, beef, bbq
+nn_burgers	frozen, burgers, beef, bbq
+montanas_burgers	frozen, burgers, beef, bbq
+dandpak_unsalted	snacks, nuts, cashews, protein
+dandpak_salted	snacks, nuts, cashews, protein
+pc_cashews_sea_salt	snacks, nuts, cashews, protein
+pc_cashews_680	snacks, nuts, cashews, protein
+pc_organic_cashews	snacks, nuts, cashews, protein
+nn_cashews_100	snacks, nuts, cashews, protein
+planters_cashews	snacks, nuts, cashews, protein
+orville_extra_6	snacks, popcorn, movie night, microwave
+orville_butter_6	snacks, popcorn, movie night, microwave
+orville_smartpop_6	snacks, popcorn, movie night, microwave
+orville_extra_10	snacks, popcorn, movie night, microwave
+orville_butter_10	snacks, popcorn, movie night, microwave
+orville_kettle	snacks, popcorn, movie night, microwave
+pc_purple_popcorn	snacks, popcorn, movie night
+pc_kettle_corn	snacks, popcorn, movie night
+angies_sea_salt	snacks, popcorn, movie night
+angies_kettle	snacks, popcorn, movie night
+nn_popping_corn	snacks, popcorn, movie night
+cs_black_pepper	spices, seasoning, cooking, pantry, pepper
+cs_garlic_powder	spices, seasoning, cooking, pantry, garlic
+cs_montreal_steak	spices, seasoning, cooking, pantry, bbq, steak, grilling
+cs_roasted_garlic_pepper	spices, seasoning, cooking, pantry, garlic
+cs_italian_blend	spices, seasoning, cooking, pantry, italian, herbs
+cs_curry	spices, seasoning, cooking, pantry, curry
+cs_poultry	spices, seasoning, cooking, pantry, chicken, herbs
+cs_allspice	spices, seasoning, cooking, pantry, baking
+cs_garlic_onion_ap	spices, seasoning, cooking, pantry, garlic, onion
+magic_bp	baking, pantry, baking powder
+edsmith_bp	baking, pantry, baking powder
+nn_bp	baking, pantry, baking powder
+fleisch_bp	baking, pantry, baking powder
+cs_vanilla_125	baking, pantry, vanilla
+hl_tempura	frozen, fish, seafood, dinner, quick meal
+hl_fish_sticks	frozen, fish, seafood, dinner, quick meal, kids
+hl_english	frozen, fish, seafood, dinner, quick meal
+hl_beer_battered	frozen, fish, seafood, dinner, quick meal
+hl_haddock_pansear	frozen, fish, seafood, dinner, quick meal, protein
+hl_salmon_med	frozen, fish, seafood, dinner, quick meal, protein, salmon
+hl_tempura_haddock	frozen, fish, seafood, dinner, quick meal
+hl_cod_crispy	frozen, fish, seafood, dinner, quick meal
+hl_butterfly_shrimp	frozen, fish, seafood, dinner, quick meal, shrimp
+dm_very_cherry	canned fruit, fruit, pantry, snacks
+dm_fc_nsa_796	canned fruit, fruit, pantry, snacks
+dm_fc_light_398	canned fruit, fruit, pantry, snacks
+dm_fc_water_398	canned fruit, fruit, pantry, snacks
+dm_peach_chunks	canned fruit, fruit, pantry, snacks, peach
+dm_fruit_salad_16	canned fruit, fruit, pantry, snacks, lunchbox, kids
+bc_choc_fudge	baking, pantry, dessert, cake mix, chocolate
+bc_french_vanilla	baking, pantry, dessert, cake mix, vanilla
+bc_golden	baking, pantry, dessert, cake mix
+bc_devils_food	baking, pantry, dessert, cake mix, chocolate
+bc_white	baking, pantry, dessert, cake mix
+bc_rainbow	baking, pantry, dessert, cake mix, party, kids
+bc_whipped_buttercream	baking, pantry, dessert, frosting
+lantic_icing_1kg	baking, pantry, dessert, sugar
+lantic_icing_500	baking, pantry, dessert, sugar
+fleisch_quick_113	baking, pantry, dessert, yeast, bread
+fleisch_trad_113	baking, pantry, dessert, yeast, bread
+fleisch_quick_24	baking, pantry, dessert, yeast, bread
+fr_seven_142	pet, pets, cat food, dry cat food
+fr_chefs_15	pet, pets, cat food, dry cat food
+fr_seven_726	pet, pets, cat food, dry cat food
+fr_chefs_75	pet, pets, cat food, dry cat food
+fr_pate_chicken	pet, pets, cat food, wet cat food
+fr_pate_salmon	pet, pets, cat food, wet cat food
+fr_ocean_24	pet, pets, cat food, wet cat food, variety
+fr_seafood_chicken_24	pet, pets, cat food, wet cat food, variety
+fr_gravy_24	pet, pets, cat food, wet cat food, variety
+fr_greatest_32	pet, pets, cat food, wet cat food, variety
+ped_vit_beef_8	pet, pets, dog food, dry dog food
+ped_vit_chicken_2	pet, pets, dog food, dry dog food
+ped_vit_chicken_14	pet, pets, dog food, dry dog food
+ped_vit_beef_14	pet, pets, dog food, dry dog food
+ped_chopped_beef	pet, pets, dog food, wet dog food
+ped_chopped_chicken	pet, pets, dog food, wet dog food
+ped_chopped_filet	pet, pets, dog food, wet dog food
+ped_cc_filet	pet, pets, dog food, wet dog food
+ped_dentastix_608	pet, pets, dog food, dog treats
+ped_dentastix_beef_608	pet, pets, dog food, dog treats
+ped_marrobone	pet, pets, dog food, dog treats
+tc_247_272	pet, pets, cat litter, litter
+tc_free_272	pet, pets, cat litter, litter, unscented
+tc_glade_272	pet, pets, cat litter, litter
+tc_4in1_272	pet, pets, cat litter, litter
+tc_instant_272	pet, pets, cat litter, litter
+tc_247_544	pet, pets, cat litter, litter
+tc_glade_544	pet, pets, cat litter, litter
+tc_247_771	pet, pets, cat litter, litter
+tc_care_363	pet, pets, cat litter, litter
+ah_double_duty	pet, pets, cat litter, litter
+gb_puffs_bv	baby, baby food, toddler, kids, snack, puffs
+gb_puffs_sa	baby, baby food, toddler, kids, snack, puffs
+gb_puffs_peach	baby, baby food, toddler, kids, snack, puffs
+gb_crunchies_cheddar	baby, baby food, toddler, kids, snack
+gb_crunchies_tomato	baby, baby food, toddler, kids, snack
+gb_arrowroot	baby, baby food, toddler, kids, biscuits, teething
+gb_cereal_mg_yog	baby, baby food, toddler, kids, baby cereal, cereal
+gb_melts_sb	baby, baby food, toddler, kids, snack, organic
+gb_melts_rb	baby, baby food, toddler, kids, snack, organic
+gb_jar_beef	baby, baby food, toddler, kids, puree
+gb_jar_turkey	baby, baby food, toddler, kids, puree
+cerelac_biscuits	baby, baby food, toddler, kids, biscuits
+pampers_aqua_336	baby, wipes, baby wipes
+pampers_sens_504	baby, wipes, baby wipes, unscented
+casc_pp_51	dishwasher, dishwasher detergent, cleaning, dishes
+casc_pp_30	dishwasher, dishwasher detergent, cleaning, dishes
+casc_pp_21	dishwasher, dishwasher detergent, cleaning, dishes
+casc_plat_39	dishwasher, dishwasher detergent, cleaning, dishes
+casc_plat_67	dishwasher, dishwasher detergent, cleaning, dishes
+casc_comp_80	dishwasher, dishwasher detergent, cleaning, dishes
+casc_free_51	dishwasher, dishwasher detergent, cleaning, dishes, unscented
+casc_gel_272	dishwasher, dishwasher detergent, cleaning, dishes, gel
+casc_plat_gel	dishwasher, dishwasher detergent, cleaning, dishes, gel
+casc_rinse	dishwasher, dishwasher detergent, cleaning, dishes, rinse aid
+finish_q_72	dishwasher, dishwasher detergent, cleaning, dishes
+casc_pp_pods_63	dishwasher, dishwasher detergent, cleaning, dishes
+lst_cool_1l	mouthwash, oral care, personal care
+lst_orig_1l	mouthwash, oral care, personal care
+lst_burst_1l	mouthwash, oral care, personal care
+lst_zero_1l	mouthwash, oral care, personal care, alcohol free
+lst_greentea_1l	mouthwash, oral care, personal care, alcohol free
+lst_tc_1l	mouthwash, oral care, personal care
+lst_tc_zero_1l	mouthwash, oral care, personal care, alcohol free
+lst_cool_15	mouthwash, oral care, personal care
+lst_burst_15	mouthwash, oral care, personal care
+lst_smart_500	mouthwash, oral care, personal care, kids
+lst_pocketpaks	mouthwash, oral care, personal care, breath strips
+bounce_200	laundry, dryer sheets, fabric softener
+bounce_80	laundry, dryer sheets, fabric softener
+bounce_free_80	laundry, dryer sheets, fabric softener, unscented
+bounce_pet_40	laundry, dryer sheets, fabric softener, pet
+bounce_pet_120	laundry, dryer sheets, fabric softener, pet
+gain_sheets_moon	laundry, dryer sheets, fabric softener
+gain_sheets_orig	laundry, dryer sheets, fabric softener
+nn_dryer_fresh	laundry, dryer sheets, fabric softener
+nn_dryer_free	laundry, dryer sheets, fabric softener, unscented
+downy_light_853	laundry, dryer sheets, fabric softener, scent booster
+tpx_reg_18	period, feminine care, personal care, tampons
+tpx_super_18	period, feminine care, personal care, tampons
+tpx_reg_36	period, feminine care, personal care, tampons
+tpx_super_36	period, feminine care, personal care, tampons
+tpx_sp_36	period, feminine care, personal care, tampons
+tpx_duo_34	period, feminine care, personal care, tampons
+tpx_trio_34	period, feminine care, personal care, tampons
+always_inf3_28	period, feminine care, personal care, pads
+always_cotton2_24	period, feminine care, personal care, pads
+always_inf4_38	period, feminine care, personal care, pads
+dem_ww	bread, bakery, sandwich, toast, whole wheat
+dem_white	bread, bakery, sandwich, toast, white bread
+dem_12grain	bread, bakery, sandwich, toast, whole grain
+dem_ancient	bread, bakery, sandwich, toast, whole grain
+dem_multigrain	bread, bakery, sandwich, toast, whole grain
+dem_protein_wg	bread, bakery, sandwich, toast, protein
+dem_protein_white	bread, bakery, sandwich, toast, protein, white bread
+dem_gold_burger	buns, bbq, burger, bakery
+dem_bagels_orig	bagels, breakfast, bakery
+dem_protein_bagel	bagels, breakfast, protein, bakery
+ks_alfredo	side dish, quick meal, dinner, sidekicks, pasta
+ks_parmesan	side dish, quick meal, dinner, sidekicks, pasta
+ks_butter_herb	side dish, quick meal, dinner, sidekicks, pasta
+ks_carbonara	side dish, quick meal, dinner, sidekicks, pasta
+ks_raffaello	side dish, quick meal, dinner, sidekicks, pasta
+ks_chicken	side dish, quick meal, dinner, sidekicks, pasta
+ks_honey_garlic	side dish, quick meal, dinner, sidekicks, noodles
+ks_cheddar_broc	side dish, quick meal, dinner, sidekicks, rice
+ks_harvest	side dish, quick meal, dinner, sidekicks, rice
+ks_fried_rice	side dish, quick meal, dinner, sidekicks, rice
+ns_oolong_shin	noodles, instant noodles, ramen, quick meal, lunch, cup noodles, spicy, korean
+ns_oolong_beef	noodles, instant noodles, ramen, quick meal, lunch, cup noodles, korean
+ns_oolong_chicken	noodles, instant noodles, ramen, quick meal, lunch, cup noodles, korean
+nissin_bowl_chicken	noodles, instant noodles, ramen, quick meal, lunch, cup noodles
+knorr_cup_teriyaki	noodles, instant noodles, ramen, quick meal, lunch, cup noodles, teriyaki
+knorr_cup_garlic	pasta, quick meal, lunch, cup
+knorr_cup_bolognese	pasta, quick meal, lunch, cup
+kik_soy_591	soy sauce, sauce, asian, stir fry, condiment
+kik_ls_591	soy sauce, sauce, asian, stir fry, condiment, low sodium
+kik_ls_296	soy sauce, sauce, asian, stir fry, condiment, low sodium
+kik_soy_148	soy sauce, sauce, asian, stir fry, condiment
+kik_ls_148	soy sauce, sauce, asian, stir fry, condiment, low sodium
+kik_stirfry	soy sauce, sauce, asian, stir fry, condiment
+kik_panko	bread crumbs, panko, baking, cooking, japanese
+post_hbo_almond	cereal, breakfast
+post_hbo_honey	cereal, breakfast
+post_cran_almond	cereal, breakfast
+post_honeycomb	cereal, breakfast, kids
+post_shreddies	cereal, breakfast, whole grain
+lindt_ex70	chocolate, chocolate bar, candy, dessert, snack, sweet, dark chocolate
+lindt_ex85	chocolate, chocolate bar, candy, dessert, snack, sweet, dark chocolate
+lindt_exseasalt	chocolate, chocolate bar, candy, dessert, snack, sweet, dark chocolate
+lindt_excaramel	chocolate, chocolate bar, candy, dessert, snack, sweet, dark chocolate
+lindt_exorange	chocolate, chocolate bar, candy, dessert, snack, sweet, dark chocolate
+lindt_exmint	chocolate, chocolate bar, candy, dessert, snack, sweet, dark chocolate
+lindt_exmadagascar	chocolate, chocolate bar, candy, dessert, snack, sweet, dark chocolate
+lindt_sc_milk	chocolate, chocolate bar, candy, dessert, snack, sweet, milk chocolate
+lindt_sc_hazelnut	chocolate, chocolate bar, candy, dessert, snack, sweet, milk chocolate, hazelnut
+lindt_lindor70	chocolate, chocolate bar, candy, dessert, snack, sweet, dark chocolate
+lindt_sc_white	chocolate, chocolate bar, candy, dessert, snack, sweet, white chocolate
+hv_ranch	dressing, salad, dip, condiment, ranch
+hv_ranch_light	dressing, salad, dip, condiment, ranch, light
+hv_ranch_spicy	dressing, salad, dip, condiment, ranch, spicy
+hv_tzatziki	dressing, salad, dip, condiment, ranch, greek
+renees_home_ranch	dressing, salad, dip, condiment, ranch
+renees_classic_ranch	dressing, salad, dip, condiment, ranch
+kraft_3cheese_ranch	dressing, salad, dip, condiment, ranch, cheese
+litehouse_ranch	dressing, salad, dip, condiment, ranch
+janes_wings_hg	chicken wings, wings, frozen, party, game day, chicken, protein
+janes_wings_buffalo	chicken wings, wings, frozen, party, game day, chicken, protein, spicy
+janes_wings_parm	chicken wings, wings, frozen, party, game day, chicken, protein
+pintys_wings_buffalo	chicken wings, wings, frozen, party, game day, chicken, protein, spicy
+pintys_wings_hg	chicken wings, wings, frozen, party, game day, chicken, protein
+pc_wings_southern	chicken wings, wings, frozen, party, game day, chicken, protein
+nn_wings_sp	chicken wings, wings, frozen, party, game day, chicken, protein
+nn_wings_buffalo	chicken wings, wings, frozen, party, game day, chicken, protein, spicy
+nn_wings_club	chicken wings, wings, frozen, party, game day, chicken, protein
+classico_bolognese	pasta sauce, pasta, italian, dinner, sauce, meat sauce
+classico_fire_roasted	pasta sauce, pasta, italian, dinner, sauce
+classico_garlic_onion	pasta sauce, pasta, italian, dinner, sauce
+classico_sausage	pasta sauce, pasta, italian, dinner, sauce, meat sauce
+hunts_4cheese	pasta sauce, pasta, italian, dinner, sauce
+catelli_gs_tom_basil	pasta sauce, pasta, italian, dinner, sauce
+nn_garlic_pasta	pasta sauce, pasta, italian, dinner, sauce
+trop_nopulp	juice, orange juice, breakfast, drink
+trop_lotspulp	juice, orange juice, breakfast, drink
+trop_somepulp	juice, orange juice, breakfast, drink
+trop_lowsugar	juice, orange juice, breakfast, drink, low sugar
+trop_pp_nopulp	juice, orange juice, breakfast, drink
+trop_pp_homestyle	juice, orange juice, breakfast, drink
+trop_apple	juice, apple juice, drink
+trop_ref_pm	juice drink, drink, tropical
+simply_peach	juice drink, drink, peach
+kinder_choc_6	chocolate, candy, kids, lunchbox, sweet, snack
+kinder_choc_mini	chocolate, candy, kids, lunchbox, sweet, snack
+kinder_bueno	chocolate, candy, kids, lunchbox, sweet, snack, wafer, hazelnut
+kinder_bueno_3	chocolate, candy, kids, lunchbox, sweet, snack, wafer, hazelnut
+kinder_bueno_mini	chocolate, candy, kids, lunchbox, sweet, snack, wafer, hazelnut
+kinder_surprise	chocolate, candy, kids, lunchbox, sweet, snack
+kinder_surprise_3	chocolate, candy, kids, lunchbox, sweet, snack
+bb_orig_6	cheese, snack, lunchbox, kids
+bb_orig_12	cheese, snack, lunchbox, kids
+bb_orig_18	cheese, snack, lunchbox, kids
+bb_variety_18	cheese, snack, lunchbox, kids
+bb_light_18	cheese, snack, lunchbox, kids, light
+bb_gouda_6	cheese, snack, lunchbox, kids
+bb_minirolls_6	cheese, snack, lunchbox, kids
+lc_orig_8	cheese, snack, lunchbox, kids, spread
+lc_orig_32	cheese, snack, lunchbox, kids, spread
+lc_dippers_4	cheese, snack, lunchbox, kids, dip
+sc_cheddar	chips, snack, salty, party, movie night, multigrain
+sc_onion	chips, snack, salty, party, movie night, multigrain
+sc_bbq	chips, snack, salty, party, movie night, multigrain, bbq
+sc_salsa	chips, snack, salty, party, movie night, multigrain
+sc_cheddar_360	chips, snack, salty, party, movie night, multigrain
+sc_minis	chips, snack, salty, party, movie night, multigrain, lunchbox
+munchies_450	chips, snack, salty, party, movie night, snack mix, pretzels
+crispers_ranch	chips, snack, salty, party, movie night, crackers
+crispers_alldressed_240	chips, snack, salty, party, movie night, crackers
+sp_water_1l	sparkling water, drink, water, fizzy
+sp_water_750	sparkling water, drink, water, fizzy
+sp_water_6x1l	sparkling water, drink, water, fizzy
+sp_aranciata	pop, soda, drink, orange
+sp_rossa	pop, soda, drink, orange
+sp_limonata	pop, soda, drink, lemon
+sp_ciao_bo	sparkling water, drink, water, fizzy
+sp_light_bo	pop, soda, drink, light
+ab_unsw_946	almond milk, dairy-free, vegan, plant milk, milk, unsweetened
+ab_orig_946	almond milk, dairy-free, vegan, plant milk, milk
+ab_van_946	almond milk, dairy-free, vegan, plant milk, milk
+ab_unsw_van_946	almond milk, dairy-free, vegan, plant milk, milk, unsweetened
+ab_choc_946	almond milk, dairy-free, vegan, plant milk, milk, chocolate
+ab_unsw_choc_946	almond milk, dairy-free, vegan, plant milk, milk, chocolate, unsweetened
+clif_cc_5	granola bar, energy bar, snack, protein, on the go
+clif_cpb_5	granola bar, energy bar, snack, protein, on the go, peanut butter
+clif_wcm_5	granola bar, energy bar, snack, protein, on the go
+clif_caf_5	granola bar, energy bar, snack, protein, on the go
+clif_brownie_5	granola bar, energy bar, snack, protein, on the go
+dole_pine_tidbits	canned fruit, fruit, pineapple, canned
+dole_pine_slices	canned fruit, fruit, pineapple, canned
+dole_pine_chunks	canned fruit, fruit, pineapple, canned
+dole_pine_crushed	canned fruit, fruit, pineapple, canned
+rh_ap_25	baking, flour
+rh_ap_5	baking, flour
+rh_ap_10	baking, flour
+rh_unbl_25	baking, flour
+rh_unbl_5	baking, flour
+rh_bread_25	baking, flour
+rh_bread_5	baking, flour
+cs_cinnamon_125	spices, seasoning, cooking, baking
+cs_cinnamon_32	spices, seasoning, cooking, baking
+cs_org_cinnamon_40	spices, seasoning, cooking, baking, organic
+cs_pumpkin_pie	spices, seasoning, cooking, baking
+cs_paprika_119	spices, seasoning, cooking
+cs_smoked_paprika	spices, seasoning, cooking
+cs_org_paprika_40	spices, seasoning, cooking, organic
+cs_chili_powder	spices, seasoning, cooking, mexican
+cs_cumin_90	spices, seasoning, cooking, mexican, indian
+cs_org_cumin_40	spices, seasoning, cooking, organic
+cs_crushed_red	spices, seasoning, cooking, spicy
+cs_cayenne_81	spices, seasoning, cooking, spicy
+cs_onion_powder	spices, seasoning, cooking
+cs_chili_mix	spices, seasoning, cooking, mexican, quick meal
+cs_spicy_chili_mix	spices, seasoning, cooking, mexican, spicy, quick meal
+cs_rotisserie	spices, seasoning, cooking, chicken, bbq
+cs_montreal_chicken	spices, seasoning, cooking, chicken, bbq
+cs_montreal_bbq_rub	spices, seasoning, cooking, bbq
+cs_chicken_topping	spices, seasoning, cooking, chicken
+cs_smoked_pap_onion	spices, seasoning, cooking, bbq
+cs_pickling	spices, seasoning, cooking
+sh_little_big	bread, sandwich, toast, lunch, whole grain, healthy
+sh_big16	bread, sandwich, toast, lunch, whole grain, healthy
+sh_squirrelly	bread, sandwich, toast, lunch, whole grain, healthy
+sh_org_multigrain	bread, sandwich, toast, lunch, whole grain, organic, healthy
+sh_org_softwheat	bread, sandwich, toast, lunch, organic, healthy
+sh_omegamazing	bread, sandwich, toast, lunch, whole grain, healthy
+vil_classico_675	bread, sandwich, toast, lunch
+mlp_meatballs_700	chicken, meat, protein, dinner, quick meal
+mlp_cutlette_ham	chicken, meat, protein, dinner
+mlp_cutlette_broc	chicken, meat, protein, dinner

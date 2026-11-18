@@ -1,0 +1,1376 @@
+{
+ "store": "superstore",
+ "rows": "more",
+ "items": [
+  {
+   "id": "doritos_nacho",
+   "product": "Doritos Nacho Cheese Flavoured Tortilla Chips",
+   "size": "235 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "doritos_ranch",
+   "product": "Doritos Cool Ranch flavoured Tortilla Chips",
+   "size": "235 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "lays_bbq",
+   "product": "Lay's Bar.B.Q Potato Chips",
+   "size": "220 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.00 MIN 2"
+  },
+  {
+   "id": "lays_sv",
+   "product": "Lay's Salt & Vinegar flavoured Potato Chips",
+   "size": "220 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.00 MIN 2"
+  },
+  {
+   "id": "lays_ketchup",
+   "product": "Lay's Ketchup Potato Chips",
+   "size": "220 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.00 MIN 2"
+  },
+  {
+   "id": "lays_dressed",
+   "product": "Lay's All Dressed flavoured Potato Chips",
+   "size": "220 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.00 MIN 2"
+  },
+  {
+   "id": "ruffles_orig",
+   "product": "Ruffles Potato Chips, Regular",
+   "size": "200 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "ruffles_dressed",
+   "product": "Ruffles All Dressed Potato Chips",
+   "size": "200 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "miss_vickies",
+   "product": "Miss Vickies Original Recipe Kettle Cooked Potato Chips",
+   "size": "200 g",
+   "price": 4.79,
+   "regular": 5.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cheetos",
+   "product": "Cheetos Crunchy Cheese Flavoured Snacks",
+   "size": "285 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "tostitos",
+   "product": "Tostitos Scoops! tortilla chips 215g",
+   "size": "215 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "pringles",
+   "product": "Pringles Potato Chips, The Original",
+   "size": "148 g",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.00 MIN 2"
+  },
+  {
+   "id": "pringles_sc",
+   "product": "Pringles Potato Chips, Sour Cream & Onion Flavour",
+   "size": "156 g",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.00 MIN 2"
+  },
+  {
+   "id": "smartfood",
+   "product": "Smartfood White Cheddar Seasoned Popcorn",
+   "size": "200 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "pretzels",
+   "product": "Rold Gold Classic Style Tiny Twists",
+   "size": "295 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "goldfish",
+   "product": "Pepperidge Farm Goldfish Cheddar",
+   "size": "200 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ritz",
+   "product": "Christie RITZ Original Crackers",
+   "size": "180 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.50 MIN 2"
+  },
+  {
+   "id": "triscuit",
+   "product": "Christie TRISCUIT Original Crackers",
+   "size": "200 g",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cheez_it",
+   "product": "Cheez-It Original, Baked Snack Crackers",
+   "size": "200 g",
+   "price": 2.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oreo",
+   "product": "Christie OREO, Original Chocolate Sandwich Cookies",
+   "size": "270 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.00 MIN 2"
+  },
+  {
+   "id": "chips_ahoy",
+   "product": "Christie CHIPS AHOY! Original Chocolate Chip Cookies, Resealable Pack",
+   "size": "258 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.00 MIN 2"
+  },
+  {
+   "id": "fudgee_o",
+   "product": "Christie Fudgee-O Chocolatey Creme Filled Sandwich Cookies",
+   "size": "303 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.00 MIN 2"
+  },
+  {
+   "id": "nv_bars",
+   "product": "Nature Valley Crunchy Oats 'N' Honey, 10 Bars",
+   "size": "210 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.00 MIN 3"
+  },
+  {
+   "id": "chewy_bars",
+   "product": "Quaker Chewy Chocolatey Chip Granola Bars (5 bars)",
+   "size": "120 g",
+   "price": 2.75,
+   "regular": 3.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fruit_snacks",
+   "product": "Mott's Fruitsations Fruit Flavoured Snacks, Assorted Fruit, 10 ct",
+   "size": "226 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.00 MIN 3; also Welch's Fruit Snacks Mixed Fruit 10 x 22 g $4.99"
+  },
+  {
+   "id": "planters",
+   "product": "No Name Salted Peanuts",
+   "size": "500 g",
+   "price": 4.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "store brand (no Planters found); salted peanuts"
+  },
+  {
+   "id": "almonds",
+   "product": "President's Choice Raw California Almonds",
+   "size": "400 g",
+   "price": 11.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "trail_mix",
+   "product": "Basse Classic Trail Mix",
+   "size": "600 g",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kitkat",
+   "product": "Nestl\u00e9 Kitkat Milk Chocolate Wafer Bars (multipack)",
+   "size": "4 x 45 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "reeses",
+   "product": "Reese's Peanut Butter Cup Candy (sharing size)",
+   "size": "184 g",
+   "price": 5.09,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2"
+  },
+  {
+   "id": "mms",
+   "product": "M&M's Milk Chocolate Candies Sharing Size",
+   "size": "165 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $5.00 MIN 2"
+  },
+  {
+   "id": "skittles",
+   "product": "Skittles Original Chewy Candy, Sharing Bag",
+   "size": "170 g",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sour_patch",
+   "product": "Maynards Sour Patch Kids Original Candy, Sharing Size",
+   "size": "315 g",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "twizzlers",
+   "product": "Twizzler Strawberry Twists Candy",
+   "size": "454 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "popcorn_mw",
+   "product": "Orville Popcorn, Buttery Flavour",
+   "size": "6 x 82 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "6-pack (no 3-pack seen); sale $4.50 MIN 2"
+  },
+  {
+   "id": "salsa",
+   "product": "Old El Paso Thick n' Chunky Salsa, Medium",
+   "size": "650 ml",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.50 MIN 2; Tostitos Salsa Medium 645 ml $7.79"
+  },
+  {
+   "id": "hummus",
+   "product": "President's Choice Hummus",
+   "size": "227 g",
+   "price": 3.0,
+   "regular": 3.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "frosted_flakes",
+   "product": "Kelloggs Frosted Flakes Cereal Family Size",
+   "size": "545 g",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "honey_nut",
+   "product": "General Mills Honey Nut Cheerios Breakfast Cereal, Whole Grains",
+   "size": "430 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.33 MIN 3"
+  },
+  {
+   "id": "froot_loops",
+   "product": "Kelloggs Froot Loops Cereal",
+   "size": "320 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.33 MIN 3"
+  },
+  {
+   "id": "mini_wheats",
+   "product": "Kelloggs Mini Wheats Mini Wheat Frosted Cereal",
+   "size": "650 g",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "raisin_bran",
+   "product": "Kelloggs Raisin Bran Cereal Family Size",
+   "size": "600 g",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "special_k",
+   "product": "Kelloggs Special K Cereal Original Family Size",
+   "size": "485 g",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "corn_flakes",
+   "product": "Kelloggs Corn Flakes Family Size",
+   "size": "600 g",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "granola",
+   "product": "Quaker Harvest Crunch Original Granola Cereal",
+   "size": "475 g",
+   "price": 3.79,
+   "regular": 5.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pop_tarts",
+   "product": "Kelloggs Poptarts Pop Tarts Frosted Strawberry (8 pastries)",
+   "size": "384 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.33 MIN 3"
+  },
+  {
+   "id": "nutella",
+   "product": "Nutella Hazelnut Spread with Cocoa for Breakfast",
+   "size": "725 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "maple_syrup",
+   "product": "President's Choice 100% Pure Maple Syrup (Amber)",
+   "size": "500 ml",
+   "price": 12.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pancake_mix",
+   "product": "Pearl Milling Company Complete Pancake & Waffle Mix, Original",
+   "size": "905 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_noodles",
+   "product": "Mr Noodles Instant Noodles Chicken Flavour",
+   "size": "85 g",
+   "price": 0.59,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cup_noodles",
+   "product": "Mr Noodles Noodles in a Cup, Chicken",
+   "size": "64 g",
+   "price": 1.19,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mac_cups",
+   "product": "Kraft Original Macaroni & Cheese Snack Cups (4 x 58 g)",
+   "size": "232 g",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ramen_sapporo",
+   "product": "Nong Shim Shin Noodle Soup Ramyun Noodles With Soup Mix Gourmet Spicy",
+   "size": "480 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rice_a_roni",
+   "product": "Bens FAST & FANCY Country Chicken Flavour Rice",
+   "size": "132 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mustard",
+   "product": "Frenchs Yellow Mustard",
+   "size": "400 ml",
+   "price": 2.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bbq_sauce",
+   "product": "Bull's-Eye Bold Original BBQ Sauce",
+   "size": "425 ml",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hot_sauce",
+   "product": "Frank's Hot Sauce (Original)",
+   "size": "354 ml",
+   "price": 4.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ranch",
+   "product": "Kraft Rancher's Choice Salad Dressing",
+   "size": "425 ml",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "500 PC Optimum points offer"
+  },
+  {
+   "id": "italian_dress",
+   "product": "Kraft Zesty Italian Salad Dressing",
+   "size": "425 ml",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "500 PC Optimum points offer; Kraft Golden Italian 425 ml also $3.49"
+  },
+  {
+   "id": "relish",
+   "product": "Bicks Sweet Green Relish",
+   "size": "375 ml",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pickles",
+   "product": "Bicks Dill Pickles Garlic",
+   "size": "1000 ml",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "vinegar",
+   "product": "No Name Pure White Vinegar Club Size",
+   "size": "4 l",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "brown_sugar",
+   "product": "Lantic Natural Dark Brown Sugar",
+   "size": "1 kg",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "dark brown (no golden yellow seen)"
+  },
+  {
+   "id": "baking_soda",
+   "product": "Arm & Hammer Baking Soda",
+   "size": "500 g",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "choc_chips",
+   "product": "President's Choice The Decadent Semi-Sweet Chocolate Chips",
+   "size": "300 g",
+   "price": 5.5,
+   "regular": 5.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cake_mix",
+   "product": "Betty Crocker Super Moist Cake Mix Chocolate Fudge",
+   "size": "375 g",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $2.25 MIN 2"
+  },
+  {
+   "id": "icing",
+   "product": "Betty Crocker Creamy Deluxe Frosting, Chocolate",
+   "size": "450 g",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $2.25 MIN 2"
+  },
+  {
+   "id": "canned_corn",
+   "product": "No Name Whole Kernel Crisp Corn",
+   "size": "341 ml",
+   "price": 1.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Green Giant Peaches & Cream Corn 341 ml $1.99"
+  },
+  {
+   "id": "canned_peas",
+   "product": "Green Giant Summer Sweet Peas",
+   "size": "398 ml",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kidney_beans",
+   "product": "No Name Dark Red Kidney Beans",
+   "size": "540 ml",
+   "price": 1.39,
+   "regular": 1.69,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "baked_beans",
+   "product": "Heinz Deep-Browned Beans With Tomato Sauce",
+   "size": "398 ml",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chef_boyardee",
+   "product": "Chef Boyardee Beef Ravioli",
+   "size": "425 g",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "spam",
+   "product": "Spam Classic Fully Cooked Luncheon Meat",
+   "size": "340 g",
+   "price": 3.47,
+   "regular": 4.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "salmon_can",
+   "product": "No Name Sustainably Sourced Wild Pacific Pink Salmon",
+   "size": "213 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Clover Leaf Pink Salmon 213 g $4.79"
+  },
+  {
+   "id": "tomato_paste",
+   "product": "No Name Pure Tomato Paste",
+   "size": "156 ml",
+   "price": 1.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chicken_broth",
+   "product": "Campbell's Chicken Broth",
+   "size": "900 ml",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "No Name 900 ml $1.75"
+  },
+  {
+   "id": "lasagna",
+   "product": "No Name Lasagna Pasta Sheets",
+   "size": "500 g",
+   "price": 2.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "macaroni",
+   "product": "No Name Elbow Macaroni",
+   "size": "900 g",
+   "price": 1.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "alfredo",
+   "product": "Classico Alfredo Pasta Sauce",
+   "size": "410 ml",
+   "price": 2.97,
+   "regular": 3.49,
+   "unit": "each",
+   "match": "exact",
+   "note": "410 ml (spec 410-440 ml jar ok); PC Alfredo 410 ml $3.00 was $3.49"
+  },
+  {
+   "id": "taco_kit",
+   "product": "Old El Paso Dinner Kit, Hard Taco",
+   "size": "250 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $4.00 MIN 2"
+  },
+  {
+   "id": "bread_crumbs",
+   "product": "4C Plain Bread Crumbs",
+   "size": "425 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cocoa",
+   "product": "No Name Hot Chocolate Mix",
+   "size": "500 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Carnation Rich and Creamy 450 g $7.00 was $7.99"
+  },
+  {
+   "id": "kcups",
+   "product": "Tim Hortons Original K-Cup Coffee Pods",
+   "size": "30 ea",
+   "price": 26.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Low Stock"
+  },
+  {
+   "id": "instant_coffee",
+   "product": "Nescafe RICH Instant Coffee, From Pure Coffee",
+   "size": "170 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "coffee_mate",
+   "product": "Nestl\u00e9 Coffee Mate Double Double-Mate Liquid Coffee Enhancer",
+   "size": "946 ml",
+   "price": 4.97,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "no Original liquid shown; flavoured liquids (French Vanilla, Hazelnut) 946 ml also $4.97"
+  },
+  {
+   "id": "choc_milk",
+   "product": "Neilson Chocolate Milk",
+   "size": "2 l",
+   "price": 6.05,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oat_milk",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "yogurt_cups",
+   "product": "IOGO Strawberry Raspberry Blueberry Vanilla Yogurt Cups 1%",
+   "size": "16 x 100 g",
+   "price": 6.47,
+   "regular": 7.29,
+   "unit": "each",
+   "match": "close",
+   "note": "IOGO brand, not Yoplait/Danone; PC Creamy Stirred 16 x 100 g $7.49"
+  },
+  {
+   "id": "string_cheese",
+   "product": "Black Diamond Mozzarella Cheestrings",
+   "size": "336 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "336 g pack (16 strings assumed from 21 g each; count not shown)"
+  },
+  {
+   "id": "cheese_slices",
+   "product": "Kraft Original Slices",
+   "size": "410 g",
+   "price": 3.99,
+   "regular": 5.49,
+   "unit": "each",
+   "match": "exact",
+   "note": "500 PC Optimum points offer"
+  },
+  {
+   "id": "parmesan",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "cottage",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "margarine",
+   "product": "Becel Margarine Original",
+   "size": "800 g",
+   "price": 6.99,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pudding",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "croissant",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "english_muffin",
+   "product": "Dempster's Plain English Muffins",
+   "size": "6 x 57 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hotdog_buns",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "pita",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "naan",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "donuts",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "cookies_bakery",
+   "product": "Monster Cookies, 18 Pack",
+   "size": "612 g",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "in-store bakery 18 pack seen in cookie search, monster (not plain chocolate chip) variety"
+  },
+  {
+   "id": "ground_turkey",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "sausage",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "deli_turkey",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "pepperoni",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "fish_sticks",
+   "product": "High Liner Fish Sticks Crispy Breaded",
+   "size": "700 g",
+   "price": 10.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chicken_strips",
+   "product": "President's Choice Pub Recipe Chicken Strips, Fully Cooked",
+   "size": "700 g",
+   "price": 8.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "perogies",
+   "product": "Cheemo Pre-Cooked Perogies, Potato and Cheddar Cheese",
+   "size": "907 g",
+   "price": 3.29,
+   "regular": 3.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo",
+   "product": "Kelloggs Waffles, Original (Eggo)",
+   "size": "280 g",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pizza_pops",
+   "product": "Pillsbury Pepperoni and Bacon Pizza Pops, 4CT",
+   "size": "380 g",
+   "price": 3.0,
+   "regular": 3.5,
+   "unit": "each",
+   "match": "close",
+   "note": "pepperoni & bacon flavour (plain pepperoni 4-pack not seen); Pizza Pops Pepperoni 8ct 760 g $6.99"
+  },
+  {
+   "id": "dumplings",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "mozza_sticks",
+   "product": "President's Choice Mozzarella Cheese Sticks",
+   "size": "454 g",
+   "price": 10.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "burritos",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "lasagna_frozen",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "searched Michelina's: only single 255 g lasagna entree shown, no family size"
+  },
+  {
+   "id": "frozen_meal",
+   "product": "Michelina Lasagna with Meat Sauce",
+   "size": "255 g",
+   "price": 1.59,
+   "regular": 1.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "burgers",
+   "product": "President's Choice Thick and Juicy Prime Rib Beef Burgers",
+   "size": "1.13 kg",
+   "price": 24.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hash_browns",
+   "product": "CAVENDISH FARMS All-Day Breakfast Classic Hash Brown Patties",
+   "size": "600 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "600 g (spec 1 kg / 1.2-1.3 kg); sale $4.00 MIN 2; Club Pack patties 2.25 kg $10.00"
+  },
+  {
+   "id": "tater_tots",
+   "product": "McCain Tasti Taters, Tater Tots",
+   "size": "800 g",
+   "price": 3.5,
+   "regular": 4.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ice_cream_bars",
+   "product": "Nestl\u00e9 Frozen Dessert Sandwiches",
+   "size": "4 x 125 ml",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "labelled frozen dessert; Chapmans Yukon Moose Sandwich 8 x 150 ml $5.99"
+  },
+  {
+   "id": "popsicles",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "frozen_mango",
+   "product": null,
+   "size": null,
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not searched (100-fetch cap reached)"
+  },
+  {
+   "id": "pepsi",
+   "product": "Pepsi Cola",
+   "size": "12 x 355 ml",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "coke_zero",
+   "product": "Coca-Cola Cola Zero Sugar Fridge Pack Cans",
+   "size": "12 x 355 ml",
+   "price": 7.99,
+   "regular": 8.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sprite",
+   "product": "Sprite Lemon Lime Soda Fridge Pack Cans",
+   "size": "12 x 355 ml",
+   "price": 7.99,
+   "regular": 8.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ginger_ale",
+   "product": "Canada Dry Ginger Ale",
+   "size": "12 x 355 ml",
+   "price": 7.99,
+   "regular": 8.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "root_beer",
+   "product": "A&W Root Beer",
+   "size": "12 x 355 ml",
+   "price": 7.99,
+   "regular": 8.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "iced_tea",
+   "product": "Brisk Lemon Iced Tea",
+   "size": "12 x 355 ml",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "355 ml cans vs 341 ml spec; seen in other search"
+  },
+  {
+   "id": "bubly",
+   "product": "Bubly Sparkling Water Lime",
+   "size": "12 x 355 ml",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $7.00 MIN 2"
+  },
+  {
+   "id": "gatorade",
+   "product": "Gatorade Cool Blue Sports Drink",
+   "size": "6 x 591 ml",
+   "price": 6.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "red_bull",
+   "product": "Red Bull Energy Drink, (4 pack)",
+   "size": "4 x 250 ml",
+   "price": 10.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "monster",
+   "product": "Monster Energy Energy Drink Zero Sugar Ultra Fantasy Ruby Red",
+   "size": "473 ml",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "Zero Ultra flavour variant (Fantasy Ruby Red); plain Zero Ultra / Original not seen"
+  },
+  {
+   "id": "apple_juice",
+   "product": "President's Choice 100% Apple Juice",
+   "size": "1.89 l",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cranberry",
+   "product": "Ocean Spray Cranberry Cocktail",
+   "size": "1.89 l",
+   "price": 4.0,
+   "regular": 4.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lemonade",
+   "product": "Simply Lemonade Bottle",
+   "size": "1.54 l",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "juice_boxes",
+   "product": "Minute Maid Apple Juice Cartons",
+   "size": "8 x 200 ml",
+   "price": 3.29,
+   "regular": 4.29,
+   "unit": "each",
+   "match": "close",
+   "note": "Minute Maid brand, not Oasis/Allen's"
+  },
+  {
+   "id": "water_big",
+   "product": "President's Choice Natural Spring Water",
+   "size": "4 l",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chocolate_bar",
+   "product": "Hershey's Creamy Milk Chocolate Family Size Bar",
+   "size": "100 g",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "sale $3.00 MIN 2"
+  }
+ ]
+}

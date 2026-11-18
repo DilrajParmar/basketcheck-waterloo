@@ -1,0 +1,1472 @@
+{
+ "store": "sobeys",
+ "fetched": "2026-10-20",
+ "items": [
+  {
+   "id": "milk",
+   "url": "https://voila.ca/search?q=2%25%20milk%204L",
+   "products": [
+    {
+     "brand": "Farmers",
+     "product": "Farmers 2% Milk Polybag Partly Skimmed 4 L",
+     "size": "4 L",
+     "price": 7.33,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "butter",
+   "url": "https://voila.ca/search?q=salted%20butter",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Salted Butter 454 g",
+     "size": "454 g",
+     "price": 6.19,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Gay Lea",
+     "product": "Gay Lea Butter Salted 454 g",
+     "size": "454 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Lactantia",
+     "product": "Lactantia Butter Salted 454 g",
+     "size": "454 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Natrel",
+     "product": "Natrel Salted Butter 454 g",
+     "size": "454 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Dairyland",
+     "product": "Dairyland Butter Salted 454 g",
+     "size": "454 g",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Northumberland",
+     "product": "Northumberland Butter Salted 454 g",
+     "size": "454 g",
+     "price": 7.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "cheddar",
+   "url": "https://voila.ca/search?q=cheddar%20cheese%20block",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Block Cheese Medium Cheddar 400 g",
+     "size": "400 g",
+     "price": 6.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Block Cheese Old Cheddar 400 g",
+     "size": "400 g",
+     "price": 6.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Armstrong",
+     "product": "Armstrong Yellow Old Cheddar Cheese 400 g",
+     "size": "400 g",
+     "price": 8.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cracker Barrel",
+     "product": "Cracker Barrel Cheese Medium Cheddar 400 g",
+     "size": "400 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cracker Barrel",
+     "product": "Cracker Barrel Cheese Old Cheddar 400 g",
+     "size": "400 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "P'tit Québec",
+     "product": "P'tit Québec Cheese Medium Cheddar 400 g",
+     "size": "400 g",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "greek",
+   "url": "https://voila.ca/search?q=plain%20greek%20yogurt",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments 0% Greek Yogurt Plain 650 g",
+     "size": "650 g",
+     "price": 7.19,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Liberté",
+     "product": "Liberté Greek 0% Yogurt Plain High Protein 750 g",
+     "size": "750 g",
+     "price": 8.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Liberté",
+     "product": "Liberté Greek 2% Yogurt Plain High Protein 750 g",
+     "size": "750 g",
+     "price": 8.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Oikos",
+     "product": "Oikos 2% Greek Yogurt Plain 750 g",
+     "size": "750 g",
+     "price": 8.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Olympic",
+     "product": "Olympic 2% Greek Yogurt Plain 650 g",
+     "size": "650 g",
+     "price": 8.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Riviera",
+     "product": "Riviera 0% Greek Yogurt Plain 750 g",
+     "size": "750 g",
+     "price": 6.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "cream_cheese",
+   "url": "https://voila.ca/search?q=cream%20cheese",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Cream Cheese Brick 250 g",
+     "size": "250 g",
+     "price": 4.29,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Philadelphia",
+     "product": "Philadelphia Cream Cheese Original 250 g",
+     "size": "250 g",
+     "price": 5.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Philadelphia",
+     "product": "Philadelphia Cream Cheese Product Original 227 g",
+     "size": "227 g",
+     "price": 5.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Cream Cheese Spread Original 227 g",
+     "size": "227 g",
+     "price": 4.29,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Farm Boy",
+     "product": "Farm Boy Cream Cheese 250 g",
+     "size": "250 g",
+     "price": 4.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Riviera",
+     "product": "Riviera Cream Cheese Original 240 g",
+     "size": "240 g",
+     "price": 5.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bread_white",
+   "url": "https://voila.ca/search?q=white%20bread",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Bread White 675 g",
+     "size": "675 g",
+     "price": 2.49,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Dempster's",
+     "product": "Dempster's Bread White 675 g",
+     "size": "675 g",
+     "price": 3.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments White Bread 570 g",
+     "size": "570 g",
+     "price": 2.89,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Dempster's",
+     "product": "Dempster's Holsum Bread White 570 g",
+     "size": "570 g",
+     "price": 3.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Villaggio",
+     "product": "Villaggio White Bread Classico 675 g",
+     "size": "675 g",
+     "price": 4.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "POM",
+     "product": "POM White Sliced Bread Ultra Moist 675 g",
+     "size": "675 g",
+     "price": 4.69,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bread_ww",
+   "url": "https://voila.ca/search?q=whole%20wheat%20bread",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Bread 100% Whole Wheat 675 g",
+     "size": "675 g",
+     "price": 2.49,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Dempster's",
+     "product": "Dempster's Bread 100% Whole Wheat 675 g",
+     "size": "675 g",
+     "price": 3.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments 100% Whole Wheat Bread 570 g",
+     "size": "570 g",
+     "price": 2.89,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Villaggio",
+     "product": "Villaggio Bread Italian Style Thick Slice 100% Whole Wheat 675 g",
+     "size": "675 g",
+     "price": 4.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Ben's Holsum",
+     "product": "Ben's Holsum Bread 100% Whole Wheat 570 g",
+     "size": "570 g",
+     "price": 3.69,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "POM",
+     "product": "POM 100% Whole Grain Wheat Sandwich Bread Ultra Moelleux Superclub 675 g",
+     "size": "675 g",
+     "price": 4.69,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bagel",
+   "url": "https://voila.ca/search?q=plain%20bagels",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Bagels Plain Original 6 x 75 g",
+     "size": "6 x 75 g",
+     "price": 3.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "POM",
+     "product": "POM Bagel Plain 6 Pack 450 g",
+     "size": "6 x 75 g",
+     "price": 5.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Fancy Pokket",
+     "product": "Fancy Pokket Sliced Bagel Plain 6 x 90 g",
+     "size": "6 x 90 g",
+     "price": 3.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bacon",
+   "url": "https://voila.ca/search?q=bacon",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Bacon Naturally Smoked 375 g",
+     "size": "375 g",
+     "price": 7.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Maple Leaf",
+     "product": "Maple Leaf Natural Bacon Original 375 g",
+     "size": "375 g",
+     "price": 10.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Schneiders",
+     "product": "Schneiders Bacon Hickory Smoked Classic Cut 375 g",
+     "size": "375 g",
+     "price": 9.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Olymel",
+     "product": "Olymel Smoked Bacon 375 g",
+     "size": "375 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Mere Michel",
+     "product": "Mere Michel Natural Bacon Smoked 375 g",
+     "size": "375 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Canadian Butcher",
+     "product": "Canadian Butcher Sliced Bacon Thick Cut 375 g",
+     "size": "375 g",
+     "price": 8.79,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "wieners",
+   "url": "https://voila.ca/search?q=wieners",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Sausages Wieners 12 Pack 450 g",
+     "size": "450 g",
+     "price": 3.0,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Wieners Jumbo 450 g",
+     "size": "450 g",
+     "price": 5.29,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Schneiders",
+     "product": "Schneiders Red Hots Hot Dogs Original 375 g",
+     "size": "375 g",
+     "price": 8.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Maple Leaf",
+     "product": "Maple Leaf Natural Top Dogs Hot Dogs Original 375 g",
+     "size": "375 g",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Hygrade",
+     "product": "Hygrade Wieners Original 450 g",
+     "size": "450 g",
+     "price": 7.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Lesters",
+     "product": "Lesters Hot Dog Wieners Jumbo 450 g",
+     "size": "450 g",
+     "price": 5.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "spaghetti",
+   "url": "https://voila.ca/search?q=spaghetti",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Pasta Spaghetti Value Size 900 g",
+     "size": "900 g",
+     "price": 2.49,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Italpasta",
+     "product": "Italpasta Pasta Spaghetti 900 g",
+     "size": "900 g",
+     "price": 3.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Catelli",
+     "product": "Catelli Pasta Spaghetti 900 g",
+     "size": "900 g",
+     "price": 4.79,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "penne",
+   "url": "https://voila.ca/search?q=penne",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Pasta Penne Rigate Value Size 900 g",
+     "size": "900 g",
+     "price": 2.49,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Italpasta",
+     "product": "Italpasta Pasta Penne Rigate 900 g",
+     "size": "900 g",
+     "price": 3.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Lancia",
+     "product": "Lancia Pasta Penne Rigate Value Size 900 g",
+     "size": "900 g",
+     "price": 3.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Lancia",
+     "product": "Lancia Pasta Penne 750 g",
+     "size": "750 g",
+     "price": 3.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "sauce",
+   "url": "https://voila.ca/search?q=pasta%20sauce",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Pasta Sauce Original 680 ml",
+     "size": "680 ml",
+     "price": 2.79,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Primo",
+     "product": "Primo Original Pasta Sauce 680 ml",
+     "size": "680 ml",
+     "price": 2.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Hunt's",
+     "product": "Hunt's Thick & Rich Pasta Sauce Original 680 ml",
+     "size": "680 ml",
+     "price": 3.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Catelli",
+     "product": "Catelli Garden Select Pasta Sauce Tomato & Basil 600 ml",
+     "size": "600 ml",
+     "price": 3.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Classico",
+     "product": "Classico Pasta Sauce Tomato & Basil 600 ml",
+     "size": "600 ml",
+     "price": 6.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Rao's",
+     "product": "Rao's Homemade Sauce Marinara 660 ml",
+     "size": "660 ml",
+     "price": 11.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "tuna",
+   "url": "https://voila.ca/search?q=chunk%20light%20tuna",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Chunk Light Tuna Skipjack In Water 170 g",
+     "size": "170 g",
+     "price": 1.79,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Chunked Light Tuna In Water 170 g",
+     "size": "170 g",
+     "price": 1.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Clover Leaf",
+     "product": "Clover Leaf Canned Chunk Light Tuna Skipjack In Water 170 g",
+     "size": "170 g",
+     "price": 2.59,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Farm Boy",
+     "product": "Farm Boy Chunk Light Tuna In Water 170 g",
+     "size": "170 g",
+     "price": 2.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "kd",
+   "url": "https://voila.ca/search?q=macaroni%20and%20cheese",
+   "products": [
+    {
+     "brand": "Kraft",
+     "product": "Kraft Dinner Macaroni And Cheese Original 200 g",
+     "size": "200 g",
+     "price": 1.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Macaroni & Cheese Extra Creamy Cheddar 200 g",
+     "size": "200 g",
+     "price": 1.49,
+     "regular": null,
+     "house": true,
+     "note": "No plain 'original' Compliments box listed; Extra Creamy Cheddar is closest"
+    }
+   ]
+  },
+  {
+   "id": "soup",
+   "url": "https://voila.ca/search?q=chicken%20noodle%20soup",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Condensed Soup Chicken Noodle 284 ml",
+     "size": "284 ml",
+     "price": 2.19,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Campbell's",
+     "product": "Campbell's Condensed Soup Chicken Noodle 284 ml",
+     "size": "284 ml",
+     "price": 2.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Campbell's",
+     "product": "Campbell's Condensed Soup Homestyle Chicken Noodle 284 ml",
+     "size": "284 ml",
+     "price": 3.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Tim Hortons",
+     "product": "Tim Hortons Canned Condensed Soup Chicken Noodle 284 ml",
+     "size": "284 ml",
+     "price": 3.19,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Aylmer",
+     "product": "Aylmer Chicken Noodle Soup 284 ml",
+     "size": "284 ml",
+     "price": 1.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "pb",
+   "url": "https://voila.ca/search?q=smooth%20peanut%20butter",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Smooth Peanut Butter 1 kg",
+     "size": "1 kg",
+     "price": 6.79,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Kraft",
+     "product": "Kraft Peanut Butter Smooth 1 kg",
+     "size": "1 kg",
+     "price": 6.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Jif",
+     "product": "JIF Creamy Peanut Butter 1 kg",
+     "size": "1 kg",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Adams",
+     "product": "Adams Regular Creamy Peanut Butter 1 kg",
+     "size": "1 kg",
+     "price": 10.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "jam",
+   "url": "https://voila.ca/search?q=strawberry%20jam",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Jam Strawberry 500 ml",
+     "size": "500 ml",
+     "price": 5.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Dora",
+     "product": "Dora Jam Strawberry 500 ml",
+     "size": "500 ml",
+     "price": 4.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Habitant",
+     "product": "Habitant Jam Strawberry 500 ml",
+     "size": "500 ml",
+     "price": 4.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Kraft",
+     "product": "Kraft Pure Jam Strawberry 500 ml",
+     "size": "500 ml",
+     "price": 7.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Double Fruit",
+     "product": "Double Fruit Jam Strawberry Regular 500 ml",
+     "size": "500 ml",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Smucker's",
+     "product": "Smucker's Strawberry Spread 500 ml",
+     "size": "500 ml",
+     "price": 8.79,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "oats",
+   "url": "https://voila.ca/search?q=quick%20oats",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Quick Oats 1 kg",
+     "size": "1 kg",
+     "price": 4.49,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Quaker",
+     "product": "Quaker Quick Oats 100% Whole Grain 1 kg",
+     "size": "1 kg",
+     "price": 5.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Robin Hood",
+     "product": "Robin Hood Quick Oats 1 kg",
+     "size": "1 kg",
+     "price": 4.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Dan-D-Pak",
+     "product": "Dan-D-Pak Quick Oats 1 kg",
+     "size": "1 kg",
+     "price": 3.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Quaker",
+     "product": "Quaker One Minute Oats 900 g",
+     "size": "900 g",
+     "price": 5.29,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "cheerios",
+   "url": "https://voila.ca/search?q=cheerios",
+   "products": [
+    {
+     "brand": "Cheerios",
+     "product": "Cheerios Cereal Original Whole Grains Family Size 570 g",
+     "size": "570 g",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "ketchup",
+   "url": "https://voila.ca/search?q=ketchup",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Tomato Ketchup 1 L",
+     "size": "1 L",
+     "price": 5.79,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Heinz",
+     "product": "Heinz Tomato Ketchup 1 L",
+     "size": "1 L",
+     "price": 6.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "French's",
+     "product": "French's Squeezed Tomato Ketchup 1 L",
+     "size": "1 L",
+     "price": 5.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "mayo",
+   "url": "https://voila.ca/search?q=mayonnaise",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Mayonnaise Made With Whole Eggs 890 ml",
+     "size": "890 ml",
+     "price": 6.79,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Hellmann's",
+     "product": "Hellmann's Gluten Free Real Mayonnaise 890 ml",
+     "size": "890 ml",
+     "price": 8.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Kraft",
+     "product": "Kraft Mayonnaise 890 ml",
+     "size": "890 ml",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Farm Boy",
+     "product": "Farm Boy Mayonnaise 890 ml",
+     "size": "890 ml",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "MAG",
+     "product": "MAG Mayonnaise Classic 890 ml",
+     "size": "890 ml",
+     "price": 8.29,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "coffee",
+   "url": "https://voila.ca/search?q=ground%20coffee",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Ground Coffee Breakfast Blend 300 g",
+     "size": "300 g",
+     "price": 10.99,
+     "regular": null,
+     "house": true,
+     "note": "Only 300 g Compliments ground coffee listed; no canister size shown"
+    },
+    {
+     "brand": "Nabob",
+     "product": "Nabob Ground Coffee 1896 Tradition Medium Roast Fine 930 g",
+     "size": "930 g",
+     "price": 26.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Maxwell House",
+     "product": "Maxwell House Ground Coffee Breakfast Blend 900 g",
+     "size": "900 g",
+     "price": 21.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Maxwell House",
+     "product": "Maxwell House Ground Coffee Rich Dark Roast 925 g",
+     "size": "925 g",
+     "price": 24.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Melitta",
+     "product": "Melitta Ground Coffee Premium Traditional Medium Roast 930 g",
+     "size": "930 g",
+     "price": 29.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Tim Hortons",
+     "product": "Tim Hortons Ground Coffee Fine Grind Original Blend 875 g",
+     "size": "875 g",
+     "price": 34.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "chips",
+   "url": "https://voila.ca/search?q=potato%20chips",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Kettle Chips Original 200 g",
+     "size": "200 g",
+     "price": 3.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Lay's",
+     "product": "Lay's Potato Chips Classic 235 g",
+     "size": "235 g",
+     "price": 4.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Miss Vickie's",
+     "product": "Miss Vickie's Kettle Cooked Potato Chips Original Recipe 200 g",
+     "size": "200 g",
+     "price": 5.29,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "fries",
+   "url": "https://voila.ca/search?q=frozen%20french%20fries",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Frozen Fried Potatoes Crinkle Cut 1.8 kg",
+     "size": "1.8 kg",
+     "price": 8.29,
+     "regular": null,
+     "house": true,
+     "note": "larger size"
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Frozen Fried Potato Straight Cut 800 g",
+     "size": "800 g",
+     "price": 4.19,
+     "regular": null,
+     "house": true,
+     "note": "smaller size"
+    },
+    {
+     "brand": "McCain",
+     "product": "McCain Frozen French Fries Straight Cut 1.5 kg",
+     "size": "1.5 kg",
+     "price": 7.29,
+     "regular": null,
+     "house": false,
+     "note": "no 1 kg size shown"
+    },
+    {
+     "brand": "McCain",
+     "product": "McCain Frozen French Fries Straight Cut 800 g",
+     "size": "800 g",
+     "price": 3.69,
+     "regular": null,
+     "house": false,
+     "note": "smaller size"
+    },
+    {
+     "brand": "Cavendish Farms",
+     "product": "Cavendish Farms Crispy Classic Straight Cut Fries Value Pack 1.8 kg",
+     "size": "1.8 kg",
+     "price": 10.0,
+     "regular": null,
+     "house": false,
+     "note": "larger size"
+    },
+    {
+     "brand": "FlavourCrisp",
+     "product": "FlavourCrisp Classic Fries 750 g",
+     "size": "750 g",
+     "price": 4.99,
+     "regular": null,
+     "house": false,
+     "note": "smaller size"
+    }
+   ]
+  },
+  {
+   "id": "pizza",
+   "url": "https://voila.ca/search?q=pepperoni%20pizza",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Frozen Pizza Classic Pepperoni 437 g",
+     "size": "437 g",
+     "price": 6.99,
+     "regular": null,
+     "house": true,
+     "note": "not rising crust; much smaller; no Compliments rising crust pepperoni shown"
+    },
+    {
+     "brand": "Dr. Oetker",
+     "product": "Giuseppe Frozen Rising Crust Pizza Pepperoni",
+     "size": "720 g",
+     "price": 8.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Rustica",
+     "product": "Rustica Frozen Pizza Rising Crust Pepperoni",
+     "size": "784 g",
+     "price": 9.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Mikes",
+     "product": "Mikes Frozen Pepperoni Pizza",
+     "size": "805 g",
+     "price": 12.29,
+     "regular": null,
+     "house": false,
+     "note": "crust type not stated"
+    },
+    {
+     "brand": "Red Baron",
+     "product": "Red Baron Frozen Classic Crust Pizza Pepperoni",
+     "size": "584 g",
+     "price": 7.99,
+     "regular": null,
+     "house": false,
+     "note": "classic crust, not rising; smaller"
+    }
+   ]
+  },
+  {
+   "id": "ice_cream",
+   "url": "https://voila.ca/search?q=vanilla%20ice%20cream",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Vanilla Ice Cream",
+     "size": "1.5 L",
+     "price": 5.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Chapman's",
+     "product": "Chapman's Ice Cream Premium French Vanilla",
+     "size": "2 L",
+     "price": 7.99,
+     "regular": null,
+     "house": false,
+     "note": "French vanilla; larger size"
+    },
+    {
+     "brand": "Nestlé",
+     "product": "Nestlé Real Dairy Ice Cream Natural Vanilla",
+     "size": "1.5 L",
+     "price": 7.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Breyers",
+     "product": "Breyers Ice Cream Creamery Style Natural Vanilla",
+     "size": "1.66 L",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Kawartha Dairy",
+     "product": "Kawartha Dairy Ice Cream Vanilla",
+     "size": "1.5 L",
+     "price": 9.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Scotsburn",
+     "product": "Scotsburn Ice Cream Vanilla",
+     "size": "1.5 L",
+     "price": 8.29,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "oj",
+   "url": "https://voila.ca/search?q=orange%20juice",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Pure & Natural No Pulp Juice Orange 1.54 L (bottle)",
+     "size": "1.54 L",
+     "price": 5.99,
+     "regular": null,
+     "house": true,
+     "note": "not-from-concentrate not stated on listing"
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Orange Juice With No Pulp Not From Concentrate 2.5 L",
+     "size": "2.5 L",
+     "price": 8.99,
+     "regular": null,
+     "house": true,
+     "note": "larger size"
+    },
+    {
+     "brand": "Simply",
+     "product": "Simply Juice Orange Juice Pulp Free 1.54 L (bottle)",
+     "size": "1.54 L",
+     "price": 7.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Tropicana",
+     "product": "Tropicana Orange Juice 1.36 L",
+     "size": "1.36 L",
+     "price": 7.49,
+     "regular": null,
+     "house": false,
+     "note": "smaller size"
+    },
+    {
+     "brand": "Natural One",
+     "product": "Natural One Juice Orange 1.7 L (bottle)",
+     "size": "1.7 L",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "coke",
+   "url": "https://voila.ca/search?q=cola%2012%20pack",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Soft Drink Cola 12 x 355 ml (cans)",
+     "size": "12 x 355 ml",
+     "price": 8.29,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Coca-Cola",
+     "product": "Coca-Cola Soda 12 x 355 ml (cans)",
+     "size": "12 x 355 ml",
+     "price": 9.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Pepsi",
+     "product": "Pepsi Soft Drink 12 x 355 ml (cans)",
+     "size": "12 x 355 ml",
+     "price": 9.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "toilet_paper",
+   "url": "https://voila.ca/search?q=toilet%20paper",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Toilet Paper Satiny Soft 2-Ply 12 Rolls x 242 Sheets",
+     "size": "12 rolls",
+     "price": 9.99,
+     "regular": null,
+     "house": true,
+     "note": "roll type not stated (242 sheets, same as double rolls)"
+    },
+    {
+     "brand": "Cashmere",
+     "product": "Cashmere Toilet Paper 2-Ply 12 Double Rolls x 242 Sheets",
+     "size": "12 double rolls",
+     "price": 15.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Purex",
+     "product": "Purex Toilet Paper 2 Ply 12 Double Rolls x 242 Sheets",
+     "size": "12 double rolls",
+     "price": 12.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Royale",
+     "product": "Royale Toilet Paper Original 2-Ply 12 Rolls x 242 Sheets",
+     "size": "12 rolls",
+     "price": 13.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Charmin",
+     "product": "Charmin Toilet Paper Ultra Strong 2-Ply 12 Rolls x 220 Sheets",
+     "size": "12 rolls",
+     "price": 23.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cascades",
+     "product": "Cascades Fluff Ultra Soft Double Excellence 12 Jumbo Rolls x 220 Sheets",
+     "size": "12 jumbo rolls",
+     "price": 11.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "paper_towel",
+   "url": "https://voila.ca/search?q=paper%20towels",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Paper Towels Greencare Recycled 6 x 105 Sheets Rolls",
+     "size": "6 rolls",
+     "price": 9.99,
+     "regular": null,
+     "house": true,
+     "note": "recycled"
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Ultra Paper Towels 2-Ply 6 Rolls x 72 Sheets",
+     "size": "6 rolls",
+     "price": 10.79,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Bounty",
+     "product": "Bounty Paper Towel 2-Ply 6 Double Rolls x 82 Sheets",
+     "size": "6 double rolls",
+     "price": 20.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Sponge Towels",
+     "product": "Sponge Towels Paper Towel Ultra 2-Ply 6 Double Rolls x 128 Sheets",
+     "size": "6 double rolls",
+     "price": 24.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cascades Tuff",
+     "product": "Cascades Tuff Paper Towels Jumbo 2-Ply 6 Rolls x 105 Sheets",
+     "size": "6 jumbo rolls",
+     "price": 10.79,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "detergent",
+   "url": "https://voila.ca/search?q=laundry%20detergent",
+   "products": [
+    {
+     "brand": "Tide",
+     "product": "Tide Liquid Laundry Detergent Cold Water Original",
+     "size": "2.15 L",
+     "price": 21.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Gain",
+     "product": "Gain Liquid Laundry Detergent Original",
+     "size": "2.395 L",
+     "price": 14.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Purex",
+     "product": "Purex 4 in 1 Concentrated Detergent After the Rain 58 Loads",
+     "size": "1.94 L",
+     "price": 13.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Arm & Hammer",
+     "product": "Arm & Hammer Coldwater Laundry Detergent Clean Fresh Scent",
+     "size": "1.63 L",
+     "price": 8.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Persil",
+     "product": "Persil TripleCare Liquid Laundry Detergent Original",
+     "size": "1.86 L",
+     "price": 18.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Sunlight",
+     "product": "Sunlight Liquid Laundry Detergent Original Fresh",
+     "size": "4 L",
+     "price": 18.99,
+     "regular": null,
+     "house": false,
+     "note": "larger size; no smaller Sunlight shown"
+    }
+   ]
+  },
+  {
+   "id": "dish_soap",
+   "url": "https://voila.ca/search?q=dish%20soap",
+   "products": [
+    {
+     "brand": "Compliments",
+     "product": "Compliments Ultra Dishwashing Liquid Green Apple & Pear",
+     "size": "591 ml",
+     "price": 3.49,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Compliments",
+     "product": "Compliments Dishwashing Liquid Original Green",
+     "size": "828 ml",
+     "price": 3.69,
+     "regular": null,
+     "house": true,
+     "note": "larger size"
+    },
+    {
+     "brand": "Dawn",
+     "product": "Dawn Ultra Concentré Dish Soap Ez-Squeeze Original",
+     "size": "650 ml",
+     "price": 6.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Palmolive",
+     "product": "Palmolive Dish Detergent Liquid Ultra Strength",
+     "size": "591 ml",
+     "price": 4.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Ivory",
+     "product": "Ivory Dish Detergent Classic Original",
+     "size": "709 ml",
+     "price": 4.99,
+     "regular": null,
+     "house": false,
+     "note": "slightly larger"
+    }
+   ]
+  }
+ ]
+}

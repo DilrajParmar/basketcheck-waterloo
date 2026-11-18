@@ -1,0 +1,408 @@
+{
+ "note": "Coordinates of each priced store, from geocoding its street address. build.py reads this file.",
+ "stores": {
+  "Zehrs Conestoga": {
+   "addr": "555 Davenport Rd",
+   "city": "Waterloo",
+   "lat": 43.496855,
+   "lon": -80.52506,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.0,
+   "was": [
+    43.496854,
+    -80.52506
+   ]
+  },
+  "Zehrs Glenridge": {
+   "addr": "315 Lincoln Rd",
+   "city": "Waterloo",
+   "lat": 43.483655,
+   "lon": -80.50672,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.07,
+   "was": [
+    43.483104,
+    -80.506311
+   ]
+  },
+  "Zehrs Beechwood": {
+   "addr": "450 Erb St W",
+   "city": "Waterloo",
+   "lat": 43.452915,
+   "lon": -80.555935,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.02,
+   "was": [
+    43.453083,
+    -80.555858
+   ]
+  },
+  "Zehrs Laurentian": {
+   "addr": "750 Ottawa St S",
+   "city": "Kitchener",
+   "lat": 43.423757,
+   "lon": -80.487524,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 1.02,
+   "was": [
+    43.42,
+    -80.476
+   ]
+  },
+  "Zehrs Stanley Park": {
+   "addr": "1005 Ottawa St N",
+   "city": "Kitchener",
+   "lat": 43.44919,
+   "lon": -80.445261,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.05,
+   "was": [
+    43.449343,
+    -80.444699
+   ]
+  },
+  "Zehrs Pioneer Park": {
+   "addr": "123 Pioneer Dr",
+   "city": "Kitchener",
+   "lat": 43.394035,
+   "lon": -80.431693,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 2.91,
+   "was": [
+    43.407,
+    -80.463
+   ]
+  },
+  "Zehrs Weber St E": {
+   "addr": "1375 Weber St E",
+   "city": "Kitchener",
+   "lat": 43.432017,
+   "lon": -80.441401,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.92,
+   "was": [
+    43.435,
+    -80.452
+   ]
+  },
+  "Zehrs Hespeler": {
+   "addr": "180 Holiday Inn Dr",
+   "city": "Cambridge",
+   "lat": 43.415571,
+   "lon": -80.324367,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.36,
+   "was": [
+    43.4128,
+    -80.3221
+   ]
+  },
+  "Zehrs Conestoga Blvd": {
+   "addr": "400 Conestoga Blvd",
+   "city": "Cambridge",
+   "lat": 43.39201,
+   "lon": -80.316119,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.18,
+   "was": [
+    43.3905,
+    -80.317
+   ]
+  },
+  "Zehrs Franklin": {
+   "addr": "200 Franklin Blvd",
+   "city": "Cambridge",
+   "lat": 43.356755,
+   "lon": -80.287988,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 2.81,
+   "was": [
+    43.382,
+    -80.287
+   ]
+  },
+  "No Frills Waterloo": {
+   "addr": "24 Forwell Creek Rd",
+   "city": "Waterloo",
+   "lat": 43.486061,
+   "lon": -80.524863,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.06,
+   "was": [
+    43.486572,
+    -80.52457
+   ]
+  },
+  "No Frills Forest Glen": {
+   "addr": "700 Strasburg Rd",
+   "city": "Kitchener",
+   "lat": 43.413818,
+   "lon": -80.479339,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.02,
+   "was": [
+    43.413957,
+    -80.47915
+   ]
+  },
+  "No Frills East King": {
+   "addr": "1515 King St E",
+   "city": "Cambridge",
+   "lat": 43.390218,
+   "lon": -80.345792,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 2.03,
+   "was": [
+    43.4005,
+    -80.325
+   ]
+  },
+  "No Frills New Hamburg": {
+   "addr": "1540 Haysville Rd",
+   "city": "New Hamburg",
+   "lat": 43.370476,
+   "lon": -80.703369,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 1.05,
+   "was": [
+    43.379,
+    -80.709
+   ]
+  },
+  "Jaden's No Frills": {
+   "addr": "6 Arthur St N",
+   "city": "Elmira",
+   "lat": 43.600876,
+   "lon": -80.557895,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.1,
+   "was": [
+    43.6,
+    -80.558
+   ]
+  },
+  "Bob's Your Independent Grocer": {
+   "addr": "75 King St S",
+   "city": "Waterloo",
+   "lat": 43.462305,
+   "lon": -80.521839,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.06,
+   "was": [
+    43.4625,
+    -80.5225
+   ]
+  },
+  "Belfiore's Your Independent Grocer": {
+   "addr": "385 Frederick St",
+   "city": "Kitchener",
+   "lat": 43.457075,
+   "lon": -80.473187,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.64,
+   "was": [
+    43.46,
+    -80.48
+   ]
+  },
+  "Walmart Supercentre Waterloo": {
+   "addr": "335 Farmers Market Rd",
+   "city": "Waterloo",
+   "lat": 43.5082,
+   "lon": -80.548074,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.01,
+   "was": [
+    43.5081817,
+    -80.548171
+   ]
+  },
+  "Walmart Supercentre The Boardwalk": {
+   "addr": "100 The Boardwalk",
+   "city": "Kitchener",
+   "lat": 43.432993,
+   "lon": -80.55812,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.64,
+   "was": [
+    43.4335,
+    -80.566
+   ]
+  },
+  "Walmart Supercentre Sunrise": {
+   "addr": "1400 Ottawa St S",
+   "city": "Kitchener",
+   "lat": 43.41604,
+   "lon": -80.515794,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 1.68,
+   "was": [
+    43.415,
+    -80.495
+   ]
+  },
+  "Walmart Supercentre Fairway": {
+   "addr": "2960 Kingsway Dr",
+   "city": "Kitchener",
+   "lat": 43.422005,
+   "lon": -80.442302,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.35,
+   "was": [
+    43.425,
+    -80.441
+   ]
+  },
+  "Walmart Supercentre Cambridge": {
+   "addr": "22 Pinebush Rd",
+   "city": "Cambridge",
+   "lat": 43.41049,
+   "lon": -80.327064,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.02,
+   "was": [
+    43.410667,
+    -80.327039
+   ]
+  },
+  "Real Canadian Superstore": {
+   "addr": "875 Highland Rd W",
+   "city": "Kitchener",
+   "lat": 43.429255,
+   "lon": -80.52717,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.91,
+   "was": [
+    43.4335,
+    -80.5175
+   ]
+  },
+  "Sobeys Northfield": {
+   "addr": "640 Parkside Dr",
+   "city": "Waterloo",
+   "lat": 43.498863,
+   "lon": -80.549712,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.13,
+   "was": [
+    43.498686,
+    -80.548103
+   ]
+  },
+  "Sobeys Bridgeport": {
+   "addr": "94 Bridgeport Rd E",
+   "city": "Waterloo",
+   "lat": 43.470536,
+   "lon": -80.51366,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.15,
+   "was": [
+    43.469879,
+    -80.515248
+   ]
+  },
+  "Sobeys Columbia": {
+   "addr": "450 Columbia St W",
+   "city": "Waterloo",
+   "lat": 43.468565,
+   "lon": -80.568384,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.03,
+   "was": [
+    43.46846,
+    -80.568678
+   ]
+  },
+  "Sobeys Highland": {
+   "addr": "274 Highland Rd W",
+   "city": "Kitchener",
+   "lat": 43.439867,
+   "lon": -80.509195,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.87,
+   "was": [
+    43.441,
+    -80.4985
+   ]
+  },
+  "Sobeys Fischer-Hallman": {
+   "addr": "1187 Fischer-Hallman Rd",
+   "city": "Kitchener",
+   "lat": 43.407129,
+   "lon": -80.502362,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.76,
+   "was": [
+    43.4065,
+    -80.493
+   ]
+  },
+  "Sobeys Ira Needles": {
+   "addr": "235 Ira Needles Blvd",
+   "city": "Kitchener",
+   "lat": 43.425541,
+   "lon": -80.553751,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 1.52,
+   "was": [
+    43.4365,
+    -80.565
+   ]
+  },
+  "Sobeys Westgate": {
+   "addr": "130 Cedar St",
+   "city": "Cambridge",
+   "lat": 43.352106,
+   "lon": -80.329711,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 1.14,
+   "was": [
+    43.362,
+    -80.326
+   ]
+  },
+  "Sobeys New Hamburg": {
+   "addr": "100 Mill St",
+   "city": "New Hamburg",
+   "lat": 43.379808,
+   "lon": -80.711084,
+   "source": "Esri World Geocoder (geocode.arcgis.com), address match score 100",
+   "checked": "2026-11-17",
+   "moved_km": 0.32,
+   "was": [
+    43.377,
+    -80.712
+   ]
+  }
+ }
+}

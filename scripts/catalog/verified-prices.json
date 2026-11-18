@@ -1,0 +1,68 @@
+{
+ "note": "Prices re-checked against each chain's own search page. build.py applies these on top of the catalog files.",
+ "checked": "2026-11-17",
+ "prices": {
+  "nofrills": {
+   "eggs": {
+    "price": 3.93,
+    "regular": null,
+    "source": "https://www.nofrills.ca/en/large-size-eggs-12-pack/p/20812144001_EA",
+    "product": "No Name Large Size Eggs"
+   },
+   "cheddar": {
+    "price": 5.99,
+    "regular": null,
+    "source": "https://www.nofrills.ca/en/old-cheddar-cheese/p/21289751_EA",
+    "product": "No Name Old Cheddar Cheese"
+   }
+  },
+  "zehrs": {
+   "butter": {
+    "price": 5.99,
+    "regular": null,
+    "source": "https://www.zehrs.ca/en/salted-butter/p/20325029_EA",
+    "product": "No Name Salted Butter"
+   },
+   "spaghetti": {
+    "price": 2.29,
+    "regular": null,
+    "source": "https://www.zehrs.ca/en/spaghetti/p/20315613002_EA",
+    "product": "No Name Spaghetti"
+   },
+   "cheddar": {
+    "price": 4.98,
+    "regular": 6.0,
+    "source": "https://www.zehrs.ca/en/old-cheddar-cheese/p/21289751_EA",
+    "product": "No Name Old Cheddar Cheese"
+   }
+  },
+  "superstore": {
+   "milk": {
+    "price": 7.09,
+    "regular": null,
+    "source": "https://www.realcanadiansuperstore.ca/search?search-bar=neilson%202%25%20milk%204l",
+    "product": "Neilson 2% Microfiltered Milk"
+   },
+   "spaghetti": {
+    "price": 2.0,
+    "regular": null,
+    "source": "https://www.realcanadiansuperstore.ca/search?search-bar=no%20name%20spaghetti",
+    "product": "No Name Spaghetti"
+   }
+  },
+  "independent": {
+   "butter": {
+    "price": 5.99,
+    "regular": null,
+    "source": "https://www.yourindependentgrocer.ca/search?search-bar=no%20name%20salted%20butter",
+    "product": "No Name Salted Butter"
+   },
+   "spaghetti": {
+    "price": 2.29,
+    "regular": null,
+    "source": "https://www.yourindependentgrocer.ca/search?search-bar=no%20name%20spaghetti",
+    "product": "No Name Spaghetti"
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "store": "zehrs",
+ "rows": "gaps",
+ "items": [
+  {
+   "id": "burritos",
+   "product": "TINA'S Burrito, Beef & Bean",
+   "size": "113 g (single)",
+   "price": 2.0,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "No frozen beef & bean burrito multipack found; single 113 g burrito only"
+  },
+  {
+   "id": "popsicles",
+   "product": "Popsicle Firecracker Ice Pops 18 x 50 mL",
+   "size": "18 ea",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "frozen_mango",
+   "product": "PC Organics Frozen Mango Chunks",
+   "size": "600 g",
+   "price": 8.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Organic; non-organic PC 600 g not listed. No Name Frozen Mango Chunks 400 g $3.00; Philippine Brand Mango Chunks 600 g $7.99 (was $8.99) not labelled frozen"
+  },
+  {
+   "id": "bubly",
+   "product": "Bubly Sparkling Water Lime Sparkling Water",
+   "size": "12x355 ml",
+   "price": 8.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $7.00 each when buying 2 (all 12-pack flavours same price)"
+  },
+  {
+   "id": "juice_boxes",
+   "product": "Allen's Pure Apple Juice Low Acid",
+   "size": "8x200 ml",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "water_big",
+   "product": "Ice River Springs Natural Spring Water",
+   "size": "4 L",
+   "price": 1.69,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "PC Natural Spring Water 4 L $2.00 (MIN 3 $1.66)"
+  }
+ ]
+}

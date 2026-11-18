@@ -1,0 +1,436 @@
+{
+ "store": "sobeys",
+ "rows": "1-43",
+ "items": [
+  {
+   "id": "banana",
+   "product": "Bananas 1 Bunch (5 - 6 bananas)",
+   "size": "1.09 kg (typical)",
+   "price": 2.18,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "Fixed-price 1.36 kg bunch $2.67 works out to ~$1.96/kg"
+  },
+  {
+   "id": "apple",
+   "product": "Royal Gala Apple 3 Count",
+   "size": "about 0.54 kg (typical)",
+   "price": 6.59,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "close",
+   "note": "Sold as 3-count at $6.59/kg; bagged Gala 2.27 kg $8.99 is cheaper per kg"
+  },
+  {
+   "id": "orange",
+   "product": "Navel Oranges Large 1 Count",
+   "size": "0.3 kg (typical)",
+   "price": 6.59,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "Also 'Navel Oranges 1 Count' at $0.59 each"
+  },
+  {
+   "id": "lemon",
+   "product": "Small Lemons",
+   "size": "1 count",
+   "price": 1.29,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "Small lemon; 'Lemon Large 1 Count' is $1.49"
+  },
+  {
+   "id": "avocado",
+   "product": "Avocado Hass Large 1 Count",
+   "size": "1 count",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "potato",
+   "product": "Yukon Russet Potatoes 10 Lb",
+   "size": "4.54 kg",
+   "price": 4.36,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "Odd 'Yukon Russet' name; Affordable Adorable Potatoes Russet Bag 4.54 kg $4.99, Compliments paper bag $7.99"
+  },
+  {
+   "id": "onion",
+   "product": "Onions Yellow",
+   "size": "1.36 kg",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Compliments Onions Yellow 1.36 kg is $3.99"
+  },
+  {
+   "id": "carrot",
+   "product": "Compliments Carrots",
+   "size": "907 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "broccoli",
+   "product": "Broccoli Crowns",
+   "size": "0.23 kg (typical)",
+   "price": 8.8,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "Also Broccoli Crowns 1 Count $2.99 each and Broccoli Crowns 454 g $1.79"
+  },
+  {
+   "id": "lettuce",
+   "product": "Iceberg Lettuce 1 Count",
+   "size": "1 count",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tomato",
+   "product": "Tomato Vine Large (ripe) 2 Count",
+   "size": "0.54 kg (typical)",
+   "price": 6.59,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "Red Tomatoes On The Vine 2 Count is $7.69/kg"
+  },
+  {
+   "id": "cucumber",
+   "product": "Golden Eden Long Non-GMO Pesticide Free English Cucumber",
+   "size": "1 count",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Standard 'English Cucumber Seedless 1 Count' is $2.99"
+  },
+  {
+   "id": "pepper",
+   "product": "Red Pepper Extra Large 1 Count",
+   "size": "1 count",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Loose by weight: Red Bell Peppers 1 Count $12.10/kg"
+  },
+  {
+   "id": "spinach",
+   "product": "Compliments Baby Spinach",
+   "size": "142 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "garlic",
+   "product": "Fresh Garlic",
+   "size": "3 count",
+   "price": 0.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Single bulb 'Garlic' 1 count $1.69-$1.79"
+  },
+  {
+   "id": "mushroom",
+   "product": "Compliments Mushrooms Whole White",
+   "size": "227 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "strawberry",
+   "product": "Strawberries",
+   "size": "454 g",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "blueberry",
+   "product": "Blueberries Pint 340 g",
+   "size": "340 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "grape",
+   "product": "White Green Seedless Grapes",
+   "size": "1 bunch (1.008 kg typical)",
+   "price": 11.0,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "Bagged Go Fresh Green Grapes Seedless 907 g $5.99 is cheaper per kg"
+  },
+  {
+   "id": "eggs",
+   "product": "Compliments White Eggs Large 12 Count",
+   "size": "12 count",
+   "price": 4.19,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Listed twice, at $4.19 and $5.08; lower used"
+  },
+  {
+   "id": "milk",
+   "product": "Island Farms 2% Milk",
+   "size": "4 L",
+   "price": 5.89,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Cheapest 4 L 2%; Lucerne $6.45, Sealtest $6.49"
+  },
+  {
+   "id": "butter",
+   "product": "Compliments Salted Butter",
+   "size": "454 g",
+   "price": 6.19,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "cheddar",
+   "product": "Compliments Block Cheese Old Cheddar",
+   "size": "400 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "mozza",
+   "product": "Compliments Shredded Cheese Pizza Mozzarella",
+   "size": "320 g",
+   "price": 8.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "greek",
+   "product": "Compliments 0% Greek Yogurt Plain",
+   "size": "650 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "cream_cheese",
+   "product": "Compliments Cream Cheese Brick",
+   "size": "250 g",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "sour_cream",
+   "product": "Compliments 14% Sour Cream",
+   "size": "500 ml",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "cream",
+   "product": "Sealtest 18% Table Cream",
+   "size": "1 L",
+   "price": 7.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "almond",
+   "product": "Silk Zero Sugar Almond Beverage Unsweetened",
+   "size": "1.89 L",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "bread_white",
+   "product": "Compliments Bread White",
+   "size": "675 g",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "bread_ww",
+   "product": "Compliments Bread 100% Whole Wheat",
+   "size": "675 g",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "bagel",
+   "product": "Compliments Bagels Plain Original",
+   "size": "6 x 75 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "tortilla",
+   "product": "Old El Paso Tortillas Soft Large",
+   "size": "334 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "muffin",
+   "product": "Compliments English Muffins Plain 6 Pack",
+   "size": "342 g",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "buns",
+   "product": "Compliments Hamburger Buns",
+   "size": "8 x 46 g",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "chicken_breast",
+   "product": "Compliments Chicken Breasts Boneless Skinless Value Pack",
+   "size": "about 0.95 kg",
+   "price": 17.13,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "chicken_thigh",
+   "product": "Compliments Chicken Thighs Boneless Skinless Value Size",
+   "size": "about 0.98 kg",
+   "price": 21.58,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "beef",
+   "product": "Ground Beef Lean",
+   "size": "454 g",
+   "price": 9.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "bacon",
+   "product": "Compliments Bacon Naturally Smoked",
+   "size": "375 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "pork_chop",
+   "product": "Pork Chops Centre Cut Family Size",
+   "size": "about 1 kg",
+   "price": 14.69,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "salmon",
+   "product": "Atlantic Salmon Fillet",
+   "size": "about 0.79 kg",
+   "price": 37.46,
+   "regular": null,
+   "unit": "per_kg",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "shrimp",
+   "product": "Compliments Frozen Pacific White Shrimp Raw Peeled Deveined",
+   "size": "340 g",
+   "price": 9.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "ham",
+   "product": "Compliments Thinly Sliced Black Forest Ham Extra Lean",
+   "size": "175 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  }
+ ]
+}

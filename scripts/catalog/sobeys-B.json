@@ -1,0 +1,436 @@
+{
+ "store": "sobeys",
+ "rows": "44-86",
+ "items": [
+  {
+   "id": "wieners",
+   "product": "Compliments Sausages Wieners 12 Pack",
+   "size": "450 g",
+   "price": 3.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Compliments Wieners Chicken 450 g is $2.49"
+  },
+  {
+   "id": "nuggets",
+   "product": "Compliments Frozen Breaded Fully Cooked Chicken Nuggets",
+   "size": "700 g",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rice",
+   "product": "Compliments White Rice Long Grain",
+   "size": "2 kg",
+   "price": 6.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Listed twice ($6.49 and $6.29); lower used"
+  },
+  {
+   "id": "jasmine",
+   "product": "Eight Treasures Rice Thai Jasmine",
+   "size": "2 kg",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "No store-brand 2 kg; cheapest 2 kg jasmine"
+  },
+  {
+   "id": "spaghetti",
+   "product": "Compliments Pasta Spaghetti Value Size",
+   "size": "900 g",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "penne",
+   "product": "Compliments Pasta Penne Rigate Value Size",
+   "size": "900 g",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sauce",
+   "product": "Compliments Pasta Sauce Original",
+   "size": "680 ml",
+   "price": 2.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "diced_tom",
+   "product": "Compliments Canned Diced Tomatoes",
+   "size": "796 ml",
+   "price": 2.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "black_beans",
+   "product": "Compliments Black Beans",
+   "size": "540 ml",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chickpeas",
+   "product": "Compliments Canned Chick Peas",
+   "size": "540 ml",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tuna",
+   "product": "Compliments Chunk Light Tuna Skipjack In Water",
+   "size": "170 g",
+   "price": 1.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Another Compliments chunk light in water 170 g listing at $1.99; lower used"
+  },
+  {
+   "id": "kd",
+   "product": "Kraft Dinner Macaroni And Cheese Original",
+   "size": "200 g",
+   "price": 2.19,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "225 g version also listed at $1.99"
+  },
+  {
+   "id": "noodles",
+   "product": "Mr. Noodles Instant Noodles Chicken",
+   "size": "85 g",
+   "price": 0.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "soup",
+   "product": "Campbell's Condensed Soup Chicken Noodle",
+   "size": "284 ml",
+   "price": 1.69,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pb",
+   "product": "Kraft Peanut Butter Smooth",
+   "size": "1 kg",
+   "price": 6.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "jam",
+   "product": "Compliments Jam Strawberry",
+   "size": "500 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "honey",
+   "product": "Compliments Pure Natural Liquid Honey",
+   "size": "500 g",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "flour",
+   "product": "Compliments All Purpose Flour",
+   "size": "2.5 kg",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sugar",
+   "product": "Lantic Granulated White Sugar",
+   "size": "2 kg",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "canola",
+   "product": "Compliments Canola Oil 100% Pure",
+   "size": "1.42 L",
+   "price": 11.99,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "No 1.89 L listed; Compliments 3 L is $13.79, Mazola 1.42 L $7.99"
+  },
+  {
+   "id": "olive",
+   "product": "Compliments Olive Oil Extra Virgin",
+   "size": "1 L",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oats",
+   "product": "Compliments Quick Oats",
+   "size": "1 kg",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "cheerios",
+   "product": "Cheerios Original Family Size",
+   "size": "570 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "ketchup",
+   "product": "Heinz Tomato Ketchup",
+   "size": "1 L",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "mayo",
+   "product": "Hellmann's Real Mayonnaise (gluten free)",
+   "size": "890 ml",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "soy",
+   "product": "Compliments Soy Sauce 30% Less Salt",
+   "size": "450 ml",
+   "price": 2.79,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "coffee",
+   "product": "Tim Hortons Ground Coffee Fine Grind Original Blend",
+   "size": "875 g",
+   "price": 34.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "tea",
+   "product": "Tetley Tea Orange Pekoe",
+   "size": "72 bags",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "crackers",
+   "product": "Christie Ritz Crackers Original",
+   "size": "180 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "chips",
+   "product": "Lay's Classic Potato Chips",
+   "size": "235 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "salt",
+   "product": "Mr. Goudas Table Salt Iodized",
+   "size": "1 kg",
+   "price": 1.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "frozen_veg",
+   "product": "Best Buy Frozen Mixed Vegetables",
+   "size": "750 g",
+   "price": 3.69,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "frozen_berry",
+   "product": "Snowcrest Frozen Sliced Strawberries",
+   "size": "600 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "fries",
+   "product": "McCain Straight Cut French Fries",
+   "size": "800 g",
+   "price": 3.69,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "pizza",
+   "product": "Dr. Oetker Giuseppe Rising Crust Pepperoni",
+   "size": "720 g",
+   "price": 8.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "ice_cream",
+   "product": "Breyers Natural Vanilla Ice Cream",
+   "size": "1.66 L",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "oj",
+   "product": "Oasis Orange Juice No Pulp, Not from Concentrate",
+   "size": "1.5 L",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "coke",
+   "product": "Coca-Cola Soda",
+   "size": "12 x 355 ml",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "water",
+   "product": "Compliments Natural Spring Water",
+   "size": "24 x 500 ml",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "paper_towel",
+   "product": "Best Buy Paper Towels Jumbo 2-Ply",
+   "size": "6 rolls",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "toilet_paper",
+   "product": "Best Buy Toilet Paper 2-Ply",
+   "size": "12 rolls",
+   "price": 8.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "dish_soap",
+   "product": "Dawn Ultra Dish Detergent Original",
+   "size": "532 ml",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "voila.ca search, Oct 19 2026"
+  },
+  {
+   "id": "detergent",
+   "product": "Tide Simply All In One Liquid Laundry Detergent",
+   "size": "2.72 L",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "voila.ca search, Oct 19 2026"
+  }
+ ]
+}

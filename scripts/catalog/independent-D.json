@@ -1,0 +1,206 @@
+{
+ "store": "independent",
+ "rows": "gaps",
+ "items": [
+  {
+   "id": "pizza_pops",
+   "product": "Pillsbury Pizza Pops Pepperoni, 4 ct",
+   "size": "380 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "burritos",
+   "product": "TINA'S Burrito, Beef & Bean",
+   "size": "113 g (single)",
+   "price": 2.0,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "No frozen beef & bean burrito multipack found; single 113 g burrito only"
+  },
+  {
+   "id": "burgers",
+   "product": "Butcher's Choice Beef Burgers",
+   "size": "1.13 kg",
+   "price": 24.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Also PC Thick and Juicy Prime Rib Beef Burgers 1.13 kg $25.00"
+  },
+  {
+   "id": "hash_browns",
+   "product": "CAVENDISH FARMS All-Day Breakfast Classic Hash Brown Patties",
+   "size": "1.2 kg",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tater_tots",
+   "product": "McCain Tasti Taters, Tater Tots",
+   "size": "800 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $5.00 each when buying 2"
+  },
+  {
+   "id": "popsicles",
+   "product": "Popsicle Firecracker Ice Pops 18 x 50 mL",
+   "size": "18 ea",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "frozen_mango",
+   "product": "President's Choice Mango Chunks",
+   "size": "600 g",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $5.50 each when buying 2"
+  },
+  {
+   "id": "pepsi",
+   "product": "Pepsi Cola",
+   "size": "12x355 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $8.50 each when buying 2"
+  },
+  {
+   "id": "sprite",
+   "product": "Sprite Lemon Lime Soda Fridge Pack Cans",
+   "size": "12x355 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $8.50 each when buying 2"
+  },
+  {
+   "id": "ginger_ale",
+   "product": "Canada Dry Ginger Ale",
+   "size": "12x355 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $8.50 each when buying 2"
+  },
+  {
+   "id": "root_beer",
+   "product": "A&W Root Beer",
+   "size": "12x355 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $8.50 each when buying 2"
+  },
+  {
+   "id": "iced_tea",
+   "product": "Nestea Lemon Iced Tea",
+   "size": "12x341 ml",
+   "price": 9.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Brisk Lemon Iced Tea 12x355 ml $8.99 (MIN 2 $8.50) also available"
+  },
+  {
+   "id": "bubly",
+   "product": "Bubly Sparkling Water Lime Sparkling Water",
+   "size": "12x355 ml",
+   "price": 8.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $7.00 each when buying 2 (all 12-pack flavours same price)"
+  },
+  {
+   "id": "gatorade",
+   "product": "Gatorade Cool Blue Sports Drink",
+   "size": "6x591 ml",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $6.50 each when buying 2"
+  },
+  {
+   "id": "red_bull",
+   "product": "Red Bull Energy Drink, (4 pack)",
+   "size": "4x250 ml",
+   "price": 11.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "monster",
+   "product": "Monster Energy Zero Ultra",
+   "size": "473 ml",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "MIN 2 offer: $3.50 each when buying 2"
+  },
+  {
+   "id": "apple_juice",
+   "product": "President's Choice 100% Apple Juice",
+   "size": "1.89 L",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Allen's Pure Apple Juice 1.89 L $4.79 (MIN 2 $4.25) also listed"
+  },
+  {
+   "id": "lemonade",
+   "product": "Simply Lemonade Bottle",
+   "size": "1.54 L",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Minute Maid only in Zero Sugar 1.54 L ($4.00 sale, was $4.99)"
+  },
+  {
+   "id": "juice_boxes",
+   "product": "Allen's Pure Apple Juice Low Acid",
+   "size": "8x200 ml",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "water_big",
+   "product": "Ice River Springs Natural Spring Water",
+   "size": "4 L",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "PC Natural Spring Water 4 L $2.00 (MIN 3 $1.66)"
+  }
+ ]
+}

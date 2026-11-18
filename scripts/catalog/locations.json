@@ -1,0 +1,472 @@
+{
+ "stores": [
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Hespeler",
+   "address": "180 Holiday Inn Dr",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/cambridge-180-holiday-inn-dr"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Franklin",
+   "address": "200 Franklin Blvd",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/cambridge-200-franklin-blvd"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Conestoga",
+   "address": "400 Conestoga Blvd",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/cambridge-400-conestoga-blvd"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Ottawa St N",
+   "address": "1005 Ottawa St N",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/kitchener-1005-ottawa-st-n"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Pioneer Park",
+   "address": "123 Pioneer Dr",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/kitchener-123-pioneer-pk"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Weber St E",
+   "address": "1375 Weber St E",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/kitchener-1375-weber-st-e"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Ottawa St S",
+   "address": "750 Ottawa St S",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/kitchener-750-ottawa-st-s"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Lincoln Rd",
+   "address": "315 Lincoln Rd",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/waterloo-315-lincoln-rd"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Beechwood",
+   "address": "450 Erb St W",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/waterloo-450-erb-st-w"
+  },
+  {
+   "chain": "zehrs",
+   "name": "Zehrs Conestoga Mall (Davenport)",
+   "address": "555 Davenport Rd",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/zehrs/waterloo-555-davenport-rd"
+  },
+  {
+   "chain": "nofrills",
+   "name": "No Frills Forest Glen Plaza",
+   "address": "700 Strasburg Rd",
+   "city": "Kitchener",
+   "lat": 43.413957,
+   "lon": -80.47915,
+   "source": "https://www.shopping-canada.com/shopping-malls-centers/ontario/kitchener/forest-glen-plaza/brents-no-frills"
+  },
+  {
+   "chain": "nofrills",
+   "name": "No Frills East King Plaza",
+   "address": "1515 King St E",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/no-frills/cambridge-1515-king-street-east"
+  },
+  {
+   "chain": "nofrills",
+   "name": "No Frills New Hamburg",
+   "address": "1540 Haysville Rd",
+   "city": "New Hamburg",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/no-frills/new-hamburg-1540-haysville-road"
+  },
+  {
+   "chain": "nofrills",
+   "name": "Jaden's No Frills",
+   "address": "6 Arthur St N",
+   "city": "Elmira",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.loblaw.ca/en/jadens-no-frills-opens-in-elmira-bringing-fresh-food-value-and-community-focused-shopping/"
+  },
+  {
+   "chain": "independent",
+   "name": "Belfiore's Your Independent Grocer",
+   "address": "385 Frederick St",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/independent/kitchener-385-frederick-street"
+  },
+  {
+   "chain": "valumart",
+   "name": "Bob's Valu-mart",
+   "address": "75 King St S",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.shopping-canada.com/stores-brands/valu-mart/ontario/waterloo/valu-mart-75-king-st-s-on-n2j-1p2"
+  },
+  {
+   "chain": "superstore",
+   "name": "Real Canadian Superstore Kitchener",
+   "address": "875 Highland Rd W",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/real-canadian-superstore/kitchener-875-highland-road-west"
+  },
+  {
+   "chain": "walmart",
+   "name": "Walmart Supercentre Cambridge (SmartCentres)",
+   "address": "22 Pinebush Rd",
+   "city": "Cambridge",
+   "lat": 43.410667,
+   "lon": -80.327039,
+   "source": "https://www.shopping-canada.com/shopping-malls-centers/ontario/cambridge-ontario/cambridge-smartcentre/walmart-supercentre"
+  },
+  {
+   "chain": "walmart",
+   "name": "Walmart Kitchener The Boardwalk",
+   "address": "100 The Boardwalk",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://storelocators.com/store-lists/walmart/ontario"
+  },
+  {
+   "chain": "walmart",
+   "name": "Walmart Kitchener Ottawa St S (Sunrise)",
+   "address": "1400 Ottawa St S",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://storelocators.com/store-lists/walmart/ontario"
+  },
+  {
+   "chain": "walmart",
+   "name": "Walmart Kitchener Fairway (Kingsway)",
+   "address": "2960 Kingsway Dr",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://storelocators.com/store-lists/walmart/ontario"
+  },
+  {
+   "chain": "walmart",
+   "name": "Walmart Waterloo #3156",
+   "address": "335 Farmers Market Rd",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.ubereats.com/ca/store/walmart-335-farmers-market-rd-unit-101-waterloo/tbxOBBdnVymtVvI8-LdEIg/7fabd1b5-c0c6-5597-826a-4c227487262c/ab9bb5a4-b2d2-5c4d-b3ea-3fc6f7529a5b/7c8c11cc-5d51-56ff-a9a5-8582e7fed8ce"
+  },
+  {
+   "chain": "sobeys",
+   "name": "Sobeys Cambridge (Westgate Centre)",
+   "address": "130 Cedar St",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/sobeys/cambridge-130-cedar-street"
+  },
+  {
+   "chain": "sobeys",
+   "name": "Sobeys Fischer-Hallman",
+   "address": "1187 Fischer-Hallman Rd",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/sobeys/kitchener-1187-fischer-hallman-road"
+  },
+  {
+   "chain": "sobeys",
+   "name": "Sobeys Ira Needles (The Boardwalk)",
+   "address": "235 Ira Needles Blvd",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/sobeys/kitchener-235-ira-needles-boulevard"
+  },
+  {
+   "chain": "sobeys",
+   "name": "Sobeys Highland Rd W",
+   "address": "274 Highland Rd W",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/sobeys/kitchener-274-highland-road-west"
+  },
+  {
+   "chain": "sobeys",
+   "name": "Sobeys New Hamburg",
+   "address": "100 Mill St",
+   "city": "New Hamburg",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/sobeys/new-hamburg-100-mill-street"
+  },
+  {
+   "chain": "sobeys",
+   "name": "Sobeys Bridgeport",
+   "address": "94 Bridgeport Rd E",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/sobeys/waterloo-94-bridgeport-road-east"
+  },
+  {
+   "chain": "sobeys",
+   "name": "Sobeys Laurelwood (Columbia)",
+   "address": "450 Columbia St W",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.canpages.ca/page/ON/waterloo/sobeys/7298383"
+  },
+  {
+   "chain": "sobeys",
+   "name": "Sobeys Parkside",
+   "address": "640 Parkside Dr",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.shopping-canada.com/stores-brands/sobeys/ontario/waterloo/sobeys-640-parkside-drive-on-n2l-0c7"
+  },
+  {
+   "chain": "foodland",
+   "name": "Foodland Elmira",
+   "address": "315 Arthur St S",
+   "city": "Elmira",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/foodland/elmira-315-arthur-street-south"
+  },
+  {
+   "chain": "foodland",
+   "name": "Foodland Ayr",
+   "address": "1011 Northumberland St",
+   "city": "Ayr",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/foodland/ayr-1011-northumberland-street"
+  },
+  {
+   "chain": "freshco",
+   "name": "FreshCo Hespeler & Dunbar (Delta Centre)",
+   "address": "1 Hespeler Rd",
+   "city": "Cambridge",
+   "lat": 43.374089,
+   "lon": -80.318226,
+   "source": "https://www.shopping-canada.com/shopping-malls-centers/ontario/cambridge-ontario/delta-centre/fresh-co"
+  },
+  {
+   "chain": "freshco",
+   "name": "FreshCo Dundas St N (Highland Shopping Centre)",
+   "address": "75 Dundas St N",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/freshco/cambridge-75-dundas-street-north"
+  },
+  {
+   "chain": "freshco",
+   "name": "FreshCo Weber St E",
+   "address": "1111 Weber St E",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/freshco/kitchener-1111-weber-street-east"
+  },
+  {
+   "chain": "freshco",
+   "name": "FreshCo Westmount Rd E",
+   "address": "720 Westmount Rd E",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/freshco/kitchener-720-westmount-road-east"
+  },
+  {
+   "chain": "freshco",
+   "name": "FreshCo University Ave E",
+   "address": "425 University Ave E",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/freshco/waterloo-425-university-avenue-east"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Ottawa St N",
+   "address": "1405 Ottawa St N",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/food-basics/kitchener-1405-ottawa-street-north"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Highland Rd W",
+   "address": "370 Highland Rd W",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/food-basics/kitchener-370-highland-road-west"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Fairway Rd S",
+   "address": "655 Fairway Rd S",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/food-basics/kitchener-655-fairway-road-south"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Glasgow Heights",
+   "address": "851 Fischer-Hallman Rd",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/food-basics/kitchener-851-fischer-hallman-road"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Williamsburg",
+   "address": "1270 Fischer-Hallman Rd",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.corpo.metro.ca/en/media/newsroom/2021/food-basics-kitchener1.html"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Laurelwood",
+   "address": "600 Laurelwood Dr",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/food-basics/waterloo-600-laurelwood-drive"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Jamieson Pkwy",
+   "address": "100 Jamieson Pkwy",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/food-basics/cambridge-100-jamieson-parkway"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Water St N",
+   "address": "95 Water St N",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/food-basics/cambridge-95-water-street-north"
+  },
+  {
+   "chain": "foodbasics",
+   "name": "Food Basics Elmira",
+   "address": "232 Arthur St S",
+   "city": "Elmira",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/food-basics/elmira-232-arthur-st-s"
+  },
+  {
+   "chain": "farmboy",
+   "name": "Farm Boy Fairway",
+   "address": "385 Fairway Rd S",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.groceteria.com/place/ontario/waterloo-region/kitchenerwaterloo/"
+  },
+  {
+   "chain": "farmboy",
+   "name": "Farm Boy King and Weber",
+   "address": "417 King St N",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.farmboy.ca/stores/king-and-weber/"
+  },
+  {
+   "chain": "farmboy",
+   "name": "Farm Boy Cambridge",
+   "address": "350 Hespeler Rd, Bldg C",
+   "city": "Cambridge",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.farmboy.ca/stores/cambridge/"
+  },
+  {
+   "chain": "tnt",
+   "name": "T&T Supermarket Waterloo (Westmount Place)",
+   "address": "50 Westmount Rd N",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://www.circulaire-en-ligne.ca/annuaire/ON/t-t-supermarket/waterloo-50-westmount-road-north"
+  },
+  {
+   "chain": "costco",
+   "name": "Costco Kitchener",
+   "address": "4438 King St E",
+   "city": "Kitchener",
+   "lat": null,
+   "lon": null,
+   "source": "https://storelocators.com/store-lists/costco/ontario"
+  },
+  {
+   "chain": "costco",
+   "name": "Costco Waterloo",
+   "address": "930 Erb St W",
+   "city": "Waterloo",
+   "lat": null,
+   "lon": null,
+   "source": "https://storelocators.com/store-lists/costco/ontario"
+  }
+ ]
+}

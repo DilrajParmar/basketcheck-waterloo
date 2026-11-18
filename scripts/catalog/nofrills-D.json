@@ -1,0 +1,46 @@
+{
+ "store": "nofrills",
+ "rows": "gaps",
+ "items": [
+  {
+   "id": "apple_juice",
+   "product": "President's Choice 100% Apple Juice",
+   "size": "1.89 L",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lemonade",
+   "product": "Simply Lemonade Bottle",
+   "size": "1.54 L",
+   "price": 3.5,
+   "regular": 4.99,
+   "unit": "each",
+   "match": "exact",
+   "note": "Sale, SAVE $1.49"
+  },
+  {
+   "id": "juice_boxes",
+   "product": "Allen's Pure Apple Juice Low Acid",
+   "size": "8x200 ml",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Oct 28 search page: Allen's 8x200 ml juice boxes (checked, correct match)"
+  },
+  {
+   "id": "water_big",
+   "product": "President's Choice Natural Spring Water",
+   "size": "4 L",
+   "price": 1.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  }
+ ]
+}

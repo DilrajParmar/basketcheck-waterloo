@@ -1,0 +1,724 @@
+{
+ "store": "walmart",
+ "fetched": "2026-10-20",
+ "items": [
+  {
+   "id": "milk",
+   "url": "https://www.walmart.ca/en/browse/grocery/dairy-eggs/dairy-milk/10019_6000194327369_6000194327399",
+   "products": [
+    {
+     "brand": "Natrel",
+     "product": "Natrel Fine Filtered 2% Milk",
+     "size": "4 L",
+     "price": 5.98,
+     "regular": 7.08,
+     "house": false
+    },
+    {
+     "brand": "Sealtest",
+     "product": "Sealtest Partly Skimmed 2% Milk",
+     "size": "not shown",
+     "price": 6.44,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "butter",
+   "url": "https://www.walmart.ca/en/c/kp/salted-butter",
+   "products": [
+    {
+     "brand": "Gay Lea",
+     "product": "Gay Lea Salted Butter",
+     "size": "not shown",
+     "price": 4.97,
+     "regular": 7.48,
+     "house": false
+    },
+    {
+     "brand": "Great Value",
+     "product": "Great Value Salted Butter",
+     "size": "not shown",
+     "price": 5.96,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Becel",
+     "product": "Becel Chef's Signature - Salted",
+     "size": "not shown",
+     "price": 4.48,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "cheddar",
+   "url": "https://www.walmart.ca/en/c/kp/cheddar-cheese",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Old Cheddar Cheese",
+     "size": "~400 g (from unit price)",
+     "price": 5.48,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Great Value",
+     "product": "Great Value Medium Cheddar Cheese",
+     "size": "not shown",
+     "price": 5.48,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Cracker Barrel",
+     "product": "Cracker Barrel Medium Cheddar Cheese Block",
+     "size": "400 g",
+     "price": 5.98,
+     "regular": 6.68,
+     "house": false
+    },
+    {
+     "brand": "Cracker Barrel",
+     "product": "Cracker Barrel Old Cheddar Cheese Block",
+     "size": "400 g",
+     "price": 5.98,
+     "regular": 6.68,
+     "house": false
+    },
+    {
+     "brand": "Black Diamond",
+     "product": "Black Diamond Old Cheddar Cheese Bar",
+     "size": "400 g",
+     "price": 5.98,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Armstrong",
+     "product": "Armstrong Old Cheddar Cheese",
+     "size": "~400 g (from unit price)",
+     "price": 7.96,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "greek",
+   "url": "https://www.walmart.ca/en/browse/grocery/dairy-eggs/yogurt/10019_6000194327369_6000194327390",
+   "products": [
+    {
+     "brand": "Oikos",
+     "product": "Oikos Greek Yogurt, Plain, High Protein, 0% M.F.",
+     "size": "not shown",
+     "price": 7.17,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "cream_cheese",
+   "url": "https://www.walmart.ca/en/c/kp/cream-cheese",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Cream Cheese",
+     "size": "~250 g (from unit price)",
+     "price": 2.98,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Philadelphia",
+     "product": "Philadelphia Original Cream Cheese Product",
+     "size": "~227 g (from unit price)",
+     "price": 4.48,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bread_white",
+   "url": "https://www.walmart.ca/en/c/kp/white-bread",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value White Bread, Source of 12 Essential Nutrients",
+     "size": "675 g",
+     "price": 2.48,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Dempster's",
+     "product": "Dempster's White Sliced Bread",
+     "size": "not shown",
+     "price": 2.68,
+     "regular": 2.98,
+     "house": false
+    },
+    {
+     "brand": "Wonder",
+     "product": "Wonder White Sliced Bread",
+     "size": "675 g",
+     "price": 2.68,
+     "regular": 2.98,
+     "house": false
+    },
+    {
+     "brand": "D'Italiano",
+     "product": "D'Italiano Thick Slice Original White Bread",
+     "size": "675 g",
+     "price": 3.77,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Farmhouse",
+     "product": "Farmhouse Homestyle White Bread",
+     "size": "675 g",
+     "price": 3.67,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bread_ww",
+   "url": "https://www.walmart.ca/en/c/kp/whole-wheat",
+   "products": []
+  },
+  {
+   "id": "bagel",
+   "url": "https://www.walmart.ca/en/c/kp/plain-bagels",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Original Bagels, 6 Count",
+     "size": "6 count, 450 g",
+     "price": 2.38,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Dempster's",
+     "product": "Dempster's Original Bagels",
+     "size": "not shown",
+     "price": 2.98,
+     "regular": 3.77,
+     "house": false
+    },
+    {
+     "brand": "Country Harvest",
+     "product": "Country Harvest Original Bagels, 6 Count",
+     "size": "6 count, 450 g",
+     "price": 3.77,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bacon",
+   "url": "https://www.walmart.ca/en/c/kp/bacon",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Naturally Smoked Bacon",
+     "size": "375 g",
+     "price": 3.97,
+     "regular": 4.97,
+     "house": true
+    },
+    {
+     "brand": "Great Value",
+     "product": "Great Value Thick Sliced Naturally Smoked Bacon",
+     "size": "375 g",
+     "price": 3.97,
+     "regular": 4.97,
+     "house": true
+    },
+    {
+     "brand": "Maple Leaf",
+     "product": "Maple Leaf Original Natural Bacon",
+     "size": "375 g",
+     "price": 5.97,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Schneiders",
+     "product": "Schneiders Hickory Smoked Classic Cut Bacon",
+     "size": "375 g",
+     "price": 5.97,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "wieners",
+   "url": "https://www.walmart.ca/en/c/kp/hot-dogs",
+   "products": []
+  },
+  {
+   "id": "spaghetti",
+   "url": "https://www.walmart.ca/en/c/kp/spaghetti-pasta",
+   "products": []
+  },
+  {
+   "id": "penne",
+   "url": "https://www.walmart.ca/en/c/kp/penne-pasta",
+   "products": []
+  },
+  {
+   "id": "sauce",
+   "url": "https://www.walmart.ca/en/c/kp/pasta-sauce",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Tomato Basil Pasta Sauce",
+     "size": "not shown",
+     "price": 1.97,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Classico",
+     "product": "Classico Tomato & Basil Pasta Sauce",
+     "size": "not shown",
+     "price": 2.97,
+     "regular": 3.47,
+     "house": false
+    },
+    {
+     "brand": "Catelli",
+     "product": "Catelli Garden Select Garlic & Onion Pasta Sauce, 600 mL",
+     "size": "600 mL",
+     "price": 2.67,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "tuna",
+   "url": "https://www.walmart.ca/en/c/kp/tuna",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Chunk Light Tuna",
+     "size": "not shown",
+     "price": 1.34,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Clover Leaf",
+     "product": "Clover LEAF Chunk Light Tuna in Water",
+     "size": "not shown",
+     "price": 1.24,
+     "regular": 1.88,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "kd",
+   "url": "https://www.walmart.ca/en/c/kp/kraft-dinner",
+   "products": [
+    {
+     "brand": "Kraft Dinner",
+     "product": "Kraft Dinner Original Macaroni and Cheese Dinner, 200g Box",
+     "size": "200 g",
+     "price": 1.67,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "soup",
+   "url": "https://www.walmart.ca/en/c/kp/peanut-butter",
+   "products": [
+    {
+     "brand": "Campbell's",
+     "product": "Campbell's Condensed Chicken Noodle Soup, Shelf Stable",
+     "size": "not shown",
+     "price": 1.47,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "pb",
+   "url": "https://www.walmart.ca/en/c/kp/peanut-butter",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Smooth Peanut Butter",
+     "size": "not shown",
+     "price": 2.98,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Kraft",
+     "product": "Kraft Smooth Peanut Butter, 1 kg Jar",
+     "size": "1 kg",
+     "price": 5.97,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "jam",
+   "url": "https://www.walmart.ca/en/c/kp/strawberry-jam",
+   "products": [
+    {
+     "brand": "Dora",
+     "product": "Dora Strawberry Traditional Jam",
+     "size": "~500 ml (from unit price)",
+     "price": 3.97,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Smucker's",
+     "product": "Smucker's Strawberry Spread 500ml",
+     "size": "500 ml",
+     "price": 6.47,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "oats",
+   "url": "https://www.walmart.ca/en/c/kp/oats",
+   "products": []
+  },
+  {
+   "id": "cheerios",
+   "url": "https://www.walmart.ca/en/c/kp/cheerios",
+   "products": [
+    {
+     "brand": "Cheerios",
+     "product": "Original Cheerios Breakfast Cereal, Family Size",
+     "size": "not shown",
+     "price": 6.97,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "ketchup",
+   "url": "https://www.walmart.ca/en/c/kp/tomato-ketchup",
+   "products": []
+  },
+  {
+   "id": "mayo",
+   "url": "https://www.walmart.ca/en/c/kp/mayonnaise",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Real Mayonnaise",
+     "size": "not shown",
+     "price": 4.97,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Hellmann's",
+     "product": "Hellmann's Real Mayonnaise, Gluten-Free and Kosher",
+     "size": "890 mL",
+     "price": 6.47,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "coffee",
+   "url": "https://www.walmart.ca/en/browse/grocery/drinks/coffee/10019_6000194326336_6000194327380",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Medium Roast Ground Coffee",
+     "size": "not shown",
+     "price": 14.92,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Maxwell House",
+     "product": "Maxwell House Original Roast Ground Coffee, 864 g Canister",
+     "size": "864 g",
+     "price": 18.97,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Folgers",
+     "product": "Folgers Classic Medium Roast Ground Coffee 816 g",
+     "size": "816 g",
+     "price": 15.97,
+     "regular": 19.97,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "chips",
+   "url": "https://www.walmart.ca/en/c/kp/potato-chips",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Regular Potato Chips",
+     "size": "~200 g (from unit price)",
+     "price": 1.48,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Great Value",
+     "product": "Great Value Regular Rippled Potato Chips",
+     "size": "~200 g (from unit price)",
+     "price": 1.48,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Lay's",
+     "product": "Lay's Classic Potato Chips",
+     "size": "~235 g (from unit price)",
+     "price": 3.47,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "fries",
+   "url": "https://www.walmart.ca/en/c/kp/french-fries",
+   "products": [
+    {
+     "brand": "McCain",
+     "product": "McCain Straight Cut French Fries, 800g",
+     "size": "800 g",
+     "price": 3.23,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "McCain",
+     "product": "McCain Crinkle Cut French Fries, 800g",
+     "size": "800 g",
+     "price": 3.23,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cavendish Farms",
+     "product": "Cavendish Farms FlavourCrisp Classic Fries, 750 g",
+     "size": "750 g",
+     "price": 2.97,
+     "regular": 4.28,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "pizza",
+   "url": "https://www.walmart.ca/en/c/kp/frozen-pizza",
+   "products": []
+  },
+  {
+   "id": "ice_cream",
+   "url": "https://www.walmart.ca/en/c/kp/vanilla-ice-cream",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value Vanilla Ice Cream in a Container",
+     "size": "1.5 L",
+     "price": 4.68,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Breyers",
+     "product": "Breyers Creamery Style Ice Cream with Real Vanilla Beans Natural Vanilla",
+     "size": "1.41 L",
+     "price": 4.98,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Chapman's",
+     "product": "Chapman's Markdale Creamery Vanilla Ice Cream in a Carton",
+     "size": "2 L",
+     "price": 4.47,
+     "regular": 4.97,
+     "house": false
+    },
+    {
+     "brand": "REAL DAIRY",
+     "product": "REAL DAIRY French Vanilla Premium Ice Cream",
+     "size": "1.5 L",
+     "price": 6.77,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "oj",
+   "url": "https://www.walmart.ca/en/c/kp/orange-juice",
+   "products": [
+    {
+     "brand": "Our Finest",
+     "product": "Our Finest No Pulp Premium Orange Juice",
+     "size": "not shown",
+     "price": 6.98,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Tropicana",
+     "product": "Tropicana Pure Premium 100 % Pure Orange Juice No Pulp",
+     "size": "1.36 L",
+     "price": 4.97,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Tropicana",
+     "product": "Tropicana 100% Pure Orange Juice No Pulp",
+     "size": "not shown",
+     "price": 8.44,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "coke",
+   "url": "https://www.walmart.ca/en/c/kp/coca-cola",
+   "products": [
+    {
+     "brand": "Coca-Cola",
+     "product": "Coca-Cola Soda Pop Cans, 355 mL, 12 Pack",
+     "size": "12 x 355 mL",
+     "price": 6.94,
+     "regular": 8.28,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "toilet_paper",
+   "url": "https://www.walmart.ca/en/c/kp/toilet-paper",
+   "products": [
+    {
+     "brand": "Great Value",
+     "product": "Great Value, Ultra Soft Toilet Paper, 12 Double equal 24 rolls",
+     "size": "12 double rolls",
+     "price": 7.94,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Royale",
+     "product": "Royale 3 Ply Strong Toilet Paper, 12 Equal 24 Bathroom Tissue Rolls",
+     "size": "12 double rolls",
+     "price": 9.5,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Charmin",
+     "product": "Charmin Toilet Paper Ultra Soft, 12 Mega Rolls (48 Regular Rolls Equivalent)",
+     "size": "12 mega rolls",
+     "price": 17.98,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "paper_towel",
+   "url": "https://www.walmart.ca/en/c/kp/paper-towel",
+   "products": []
+  },
+  {
+   "id": "detergent",
+   "url": "https://www.walmart.ca/en/c/kp/detergent",
+   "products": [
+    {
+     "brand": "Purex",
+     "product": "Purex plus Oxi, Concentrated Liquid Laundry Detergent, 43 Wash Loads",
+     "size": "1.75 L",
+     "price": 10.97,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Purex",
+     "product": "Purex Coldwater, Concentrated Liquid Laundry Detergent, 58 Wash Loads",
+     "size": "1.94 L",
+     "price": 10.97,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Tide",
+     "product": "Tide Simply Laundry Detergent Liquid, Refreshing Breeze Scent, 70 Loads",
+     "size": "2.72 L",
+     "price": 7.97,
+     "regular": 11.97,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "dish_soap",
+   "url": "https://www.walmart.ca/en/c/kp/dish-soap",
+   "products": [
+    {
+     "brand": "Palmolive",
+     "product": "Palmolive Ultra Strength Liquid Dish Soap, Cuts Grease and Grime",
+     "size": "591 mL",
+     "price": 1.97,
+     "regular": 3.27,
+     "house": false
+    },
+    {
+     "brand": "Dawn",
+     "product": "Dawn Ultra Dish Soap, Dishwashing Liquid, Original",
+     "size": "502 mL",
+     "price": 3.47,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Dawn",
+     "product": "Dawn Platinum EZ-Squeeze Dish Soap, Refreshing Rain",
+     "size": "535 mL",
+     "price": 5.47,
+     "regular": null,
+     "house": false
+    }
+   ]
+  }
+ ]
+}

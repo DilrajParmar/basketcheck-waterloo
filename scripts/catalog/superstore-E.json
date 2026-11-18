@@ -1,0 +1,166 @@
+{
+ "store": "superstore",
+ "rows": "more2",
+ "items": [
+  {
+   "id": "oat_milk",
+   "product": "Silk Oat Milk Alternative, Original",
+   "size": "1.75 L",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Sale $4.50 MIN 2 (regular $5.29); single-unit price used"
+  },
+  {
+   "id": "parmesan",
+   "product": "Kraft Grated Parmesan Cheese",
+   "size": "250 g",
+   "price": 7.5,
+   "regular": 8.49,
+   "unit": "each",
+   "match": "exact",
+   "note": "SAVE $0.99"
+  },
+  {
+   "id": "cottage",
+   "product": "Gay Lea Nordica Cottage Cheese 2%",
+   "size": "500 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pudding",
+   "product": "Snack Pack Chocolate Pudding",
+   "size": "4 x 99 g",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Sale $2.25 MIN 2 (regular $2.49); single-unit price used"
+  },
+  {
+   "id": "croissant",
+   "product": "Butter Croissant, 6 Pack (in-store bakery)",
+   "size": "270 g, 6 pack",
+   "price": 4.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hotdog_buns",
+   "product": "Wonder White Hotdog Buns 8pk",
+   "size": "8 x 44.5 g",
+   "price": 3.39,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "12pk topslice $3.99"
+  },
+  {
+   "id": "pita",
+   "product": "Cedar Lebanese-Style White Pita Bread",
+   "size": "330 g",
+   "price": 1.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Pack count not stated on page; 330 g matches other chains"
+  },
+  {
+   "id": "naan",
+   "product": "President's Choice Traditional Naan Flatbreads",
+   "size": "250 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "donuts",
+   "product": "Farmer's Market Glazed Doughnuts",
+   "size": "552 g",
+   "price": 3.5,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "No 6-pack donut found; count not stated (552 g, likely larger than 6). Long John 3-pack 390 g $5.50"
+  },
+  {
+   "id": "ground_turkey",
+   "product": "Maple Leaf Extra Lean Ground Turkey",
+   "size": "454 g",
+   "price": 9.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "PC Blue Menu Minced Turkey 454 g on sale $8.00 (was $9.00), not labelled lean"
+  },
+  {
+   "id": "sausage",
+   "product": "President's Choice Mild Italian Pork Sausages",
+   "size": "500 g",
+   "price": 6.5,
+   "regular": 8.49,
+   "unit": "each",
+   "match": "exact",
+   "note": "SAVE $1.99"
+  },
+  {
+   "id": "deli_turkey",
+   "product": "Maple Leaf Natural Selections Sliced Deli Turkey Breast, Oven Roasted",
+   "size": "175 g",
+   "price": 7.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Ziggy's Oven Roasted Turkey Slices 175 g $3.75 (not labelled breast)"
+  },
+  {
+   "id": "pepperoni",
+   "product": "President's Choice Pepperoni Pizzeria Style",
+   "size": "150 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Not explicitly labelled 'sliced' in listing"
+  },
+  {
+   "id": "dumplings",
+   "product": "T&T Pork and Vegetable Potstickers",
+   "size": "567 g",
+   "price": 5.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "O'Tasty Pork & Vegetable Dumplings 567 g $5.99 (was $6.99)"
+  },
+  {
+   "id": "popsicles",
+   "product": "Popsicle Firecracker Ice Pops",
+   "size": "18 x 50 mL",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "frozen_mango",
+   "product": "President's Choice Mango Chunks (frozen)",
+   "size": "600 g",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Non-organic; PC Organics 600 g $8.50 avoided"
+  }
+ ]
+}

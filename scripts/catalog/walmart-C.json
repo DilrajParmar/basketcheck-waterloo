@@ -1,0 +1,1376 @@
+{
+"store": "walmart",
+"rows": "more",
+"items": [
+{
+"id": "doritos_nacho",
+"product": "Doritos Nacho Cheese flavoured Tortilla Chips",
+"size": "235 g",
+"price": 3.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.69/100g"
+},
+{
+"id": "doritos_ranch",
+"product": "Doritos Cool Ranch flavoured Tortilla Chips",
+"size": "235 g",
+"price": 3.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.69/100g"
+},
+{
+"id": "lays_bbq",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "lays_sv",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "lays_ketchup",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "lays_dressed",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "ruffles_orig",
+"product": "Ruffles Regular",
+"size": "200 g",
+"price": 3.27,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.64/100g"
+},
+{
+"id": "ruffles_dressed",
+"product": "Ruffles All Dressed",
+"size": "200 g",
+"price": 3.27,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.64/100g"
+},
+{
+"id": "miss_vickies",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "cheetos",
+"product": "Cheetos Crunchy Cheese flavoured Snacks",
+"size": "285 g",
+"price": 3.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.39/100g"
+},
+{
+"id": "tostitos",
+"product": "Tostitos Scoops Tortilla Chips",
+"size": "215 g",
+"price": 3.96,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "smaller bag than spec; size inferred from unit price $1.84/100g"
+},
+{
+"id": "pringles",
+"product": "Pringles Original Potato Chips",
+"size": "148 g",
+"price": 2.47,
+"regular": 2.97,
+"unit": "each",
+"match": "exact",
+"note": "Rollback"
+},
+{
+"id": "pringles_sc",
+"product": "Pringles Sour Cream & Onion Flavour Potato Chips",
+"size": "156 g",
+"price": 2.47,
+"regular": 2.97,
+"unit": "each",
+"match": "exact",
+"note": "Rollback"
+},
+{
+"id": "smartfood",
+"product": "Smartfood White Cheddar Seasoned Popcorn",
+"size": "size not shown",
+"price": 3.47,
+"regular": 3.97,
+"unit": "each",
+"match": "exact",
+"note": "regular (non-Value Size) bag; size not shown and listed unit price looks erroneous; flyer feature"
+},
+{
+"id": "pretzels",
+"product": "Rold Gold Classic Style Thins Pretzels",
+"size": "~369 g",
+"price": 4.98,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "Rold Gold twists-style thins, smaller than spec (size inferred from $1.35/100g); Great Value Large Pretzel Twists 400 g is $2.88"
+},
+{
+"id": "goldfish",
+"product": "Goldfish Cheddar Baked Snack Crackers",
+"size": "200 g",
+"price": 2.24,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "ritz",
+"product": "Ritz Original Crackers",
+"size": "size not shown",
+"price": 2.48,
+"regular": 2.78,
+"unit": "each",
+"match": "exact",
+"note": "regular (non-family) box; size not shown on listing"
+},
+{
+"id": "triscuit",
+"product": "Triscuit Original Crackers",
+"size": "200 g",
+"price": 2.98,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.49/100g"
+},
+{
+"id": "cheez_it",
+"product": "Cheez-It Original, Baked Snack Crackers, 200g",
+"size": "200 g",
+"price": 1.97,
+"regular": 2.97,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "oreo",
+"product": "OREO Original Chocolate Sandwich Cookies",
+"size": "270 g",
+"price": 2.98,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.10/100g"
+},
+{
+"id": "chips_ahoy",
+"product": "CHIPS AHOY! Original Chocolate Chip Cookies, Resealable Pack",
+"size": "258 g",
+"price": 2.98,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.16/100g"
+},
+{
+"id": "fudgee_o",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "nv_bars",
+"product": "Nature Valley Crunchy Granola Bars Oats 'n' Honey 10 Bars",
+"size": "10 bars",
+"price": 2.47,
+"regular": 3.47,
+"unit": "each",
+"match": "close",
+"note": "10 bars not 12; Rollback on granola-bars page (nature-valley page showed $3.47)"
+},
+{
+"id": "chewy_bars",
+"product": "Quaker Chewy Granola Bars - Chocolatey Chip 5 granola bars",
+"size": "5 bars",
+"price": 2.48,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "5-bar box, not 8 bars (156 g)"
+},
+{
+"id": "fruit_snacks",
+"product": "Mott's Fruitsations Fruit Flavoured Snacks, Assorted Fruit, Box of 10 Pouches",
+"size": "10 pouches",
+"price": 2.47,
+"regular": 3.47,
+"unit": "each",
+"match": "exact",
+"note": "cheaper of the two; Welch's Mixed Fruit 10 count $3.97"
+},
+{
+"id": "planters",
+"product": "PLANTERS COCKTAIL Peanuts, Salted",
+"size": "600 g",
+"price": 5.94,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "almonds",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "trail_mix",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "kitkat",
+"product": "KITKAT Milk Chocolate Wafer Bars (multipack)",
+"size": "~180 g",
+"price": 4.48,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "multipack; size inferred from unit price $2.49/100g"
+},
+{
+"id": "reeses",
+"product": "REESE'S Peanut Butter Cup Candy Pack of 4, 184g",
+"size": "184 g (4 pack)",
+"price": 3.98,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "mms",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "skittles",
+"product": "SKITTLES, Original Chewy Candy, Bowl Size Bag, 320g",
+"size": "320 g",
+"price": 3.98,
+"regular": 4.98,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "sour_patch",
+"product": "Sour Patch Kids Original Candy, Sharing Size",
+"size": "sharing size (weight not shown)",
+"price": 4.98,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "weight not shown; regular bag (~150 g by unit price) is $2.48 was $2.98"
+},
+{
+"id": "twizzlers",
+"product": "TWIZZLERS Strawberry Twists Candy",
+"size": "454 g",
+"price": 3.78,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "popcorn_mw",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "salsa",
+"product": "Tostitos Medium Salsa",
+"size": "~600 g",
+"price": 5.68,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price 95¢/100g; another Tostitos Medium Salsa listed at $6.28 (97¢/100ml)"
+},
+{
+"id": "hummus",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "frosted_flakes",
+"product": "Kellogg's Frosted Flakes Cereal, Family Size, 580 g",
+"size": "580 g",
+"price": 6.47,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "580 g vs ~650 g spec"
+},
+{
+"id": "honey_nut",
+"product": "Lower Sugar Naturally Flavoured Honey Nut Cheerios Breakfast Cereal",
+"size": "416 g",
+"price": 3.33,
+"regular": 4.97,
+"unit": "each",
+"match": "close",
+"note": "regular Honey Nut ~430 g box not listed; this is the lower-sugar variant; regular Honey Nut 725 g is $6.97"
+},
+{
+"id": "froot_loops",
+"product": "Kellogg's Froot Loops Cereal, 320g",
+"size": "320 g",
+"price": 4.77,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "320 g, slightly under 345-450 g; 480 g family size $6.47"
+},
+{
+"id": "mini_wheats",
+"product": "Mini-Wheats Original Frosted Cereal 460g",
+"size": "460 g",
+"price": 5.97,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "460 g box, spec 650-700 g; jumbo 1.05 kg $9.72"
+},
+{
+"id": "raisin_bran",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "special_k",
+"product": "Kellogg's Special K Cereal Original Family Size 485g",
+"size": "485 g",
+"price": 6.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "345 g box also $5.97"
+},
+{
+"id": "corn_flakes",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "granola",
+"product": "Quaker Harvest Crunch Original Granola Cereal",
+"size": "~475 g",
+"price": 4.46,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price 94¢/100g; Great Value Original Granola $3.47 is ~560 g (above range)"
+},
+{
+"id": "pop_tarts",
+"product": "Kellogg's Pop-Tarts toaster pastries, Frosted Strawberry",
+"size": "384 g, 8 pastries",
+"price": 3.47,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "nutella",
+"product": "NUTELLA Hazelnut Spread with Cocoa for Breakfast, 725g Jar",
+"size": "725 g",
+"price": 8.47,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "maple_syrup",
+"product": "Decacer Pure Maple Syrup",
+"size": "~540 ml",
+"price": 9.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.85/100ml; Our Finest pure maple $8.48 is ~375 ml"
+},
+{
+"id": "pancake_mix",
+"product": "Pearl Milling Company Pancake & Waffle Mix Original",
+"size": "~905 g",
+"price": 4.47,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price 49¢/100g"
+},
+{
+"id": "mr_noodles",
+"product": "Mr. Noodles Chicken Flavour Instant Noodles",
+"size": "85 g",
+"price": 0.48,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price 56¢/100g"
+},
+{
+"id": "cup_noodles",
+"product": "Mr. Noodles Chicken Cup",
+"size": "64 g",
+"price": 0.87,
+"regular": 0.97,
+"unit": "each",
+"match": "close",
+"note": "Nissin Cup Noodles not listed; Mr. Noodles chicken cup substituted"
+},
+{
+"id": "mac_cups",
+"product": "Kraft Dinner Original Macaroni & Cheese Snack Cups",
+"size": "~232 g (4 x 58 g)",
+"price": 4.97,
+"regular": 7.47,
+"unit": "each",
+"match": "exact",
+"note": "KD snack cups, count inferred from unit price $2.14/100g"
+},
+{
+"id": "ramen_sapporo",
+"product": "Sapporo Ichiban Chicken (multi-pack)",
+"size": "~500 g (5 pack)",
+"price": 4.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "pack count not shown; size inferred from unit price 99¢/100g; single packs 98¢"
+},
+{
+"id": "rice_a_roni",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "mustard",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "bbq_sauce",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "hot_sauce",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "ranch",
+"product": "Kraft Rancher's Choice Salad Dressing",
+"size": "425 ml",
+"price": 3.24,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "italian_dress",
+"product": "Kraft Zesty Italian Salad Dressing, 425 mL Bottle",
+"size": "425 ml",
+"price": 3.24,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "Zesty Italian 425 ml vs 475 ml spec"
+},
+{
+"id": "relish",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "pickles",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "vinegar",
+"product": "Great Value Pure White Vinegar",
+"size": "~4 L",
+"price": 2.27,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size not stated; ~4 L inferred from unit price 6¢/100ml; smaller sizes from $1.77"
+},
+{
+"id": "brown_sugar",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "baking_soda",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "choc_chips",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "cake_mix",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "icing",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "canned_corn",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "canned_peas",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "kidney_beans",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "baked_beans",
+"product": "Heinz Original Beans in Tomato Sauce",
+"size": "398 ml",
+"price": 1.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "chef_boyardee",
+"product": "Chef Boyardee Beef Ravioli in Tomato And Meat Sauce",
+"size": "size not shown",
+"price": 2.13,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size not shown (other Chef Boyardee cans listed as 425 g)"
+},
+{
+"id": "spam",
+"product": "SPAM Fully Cooked Luncheon Meat",
+"size": "340 g",
+"price": 3.47,
+"regular": 4.74,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $1.02/100g"
+},
+{
+"id": "salmon_can",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "tomato_paste",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "chicken_broth",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "lasagna",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "macaroni",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "alfredo",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "taco_kit",
+"product": "Old El Paso Hard & Soft Taco Dinner Kit",
+"size": "340 g",
+"price": 3.77,
+"regular": 4.47,
+"unit": "each",
+"match": "close",
+"note": "hard & soft shell kit; no hard-shell-only kit listed"
+},
+{
+"id": "bread_crumbs",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "cocoa",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "kcups",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "instant_coffee",
+"product": "NESCAFE RICH Instant Coffee",
+"size": "~170 g",
+"price": 7.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size inferred from unit price $4.69/100g; smaller jar (~95 g) $6.44"
+},
+{
+"id": "coffee_mate",
+"product": "COFFEE-MATE Double Double-Mate Liquid Coffee Enhancer",
+"size": "~946 ml",
+"price": 4.97,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "Original liquid not listed; Double Double flavour; size inferred from 53¢/100ml"
+},
+{
+"id": "choc_milk",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "oat_milk",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "yogurt_cups",
+"product": "Yoplait Source 0% Smooth Traditional Yogurt Cups Variety, No Added Sugar",
+"size": "16 x 100 g",
+"price": 6.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "Source 0% no-added-sugar variety"
+},
+{
+"id": "string_cheese",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "cheese_slices",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "parmesan",
+"product": "Kraft Grated Parmesan Cheese, 250g",
+"size": "250 g",
+"price": 6.87,
+"regular": 7.97,
+"unit": "each",
+"match": "exact",
+"note": "Rollback"
+},
+{
+"id": "cottage",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "margarine",
+"product": "Becel Original (larger tub)",
+"size": "size not shown",
+"price": 8.96,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": "size not shown; presumed 850 g tub (smaller Becel Original at $4.48)"
+},
+{
+"id": "pudding",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "croissant",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "english_muffin",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "hotdog_buns",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "pita",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "naan",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "donuts",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "cookies_bakery",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "ground_turkey",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "sausage",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "deli_turkey",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "pepperoni",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "fish_sticks",
+"product": "High Liner Crispy Breaded Fish Sticks, 700 g",
+"size": "700 g",
+"price": 7.98,
+"regular": 9.97,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "chicken_strips",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "perogies",
+"product": "Cheemo Potato & Cheddar Cheese Perogies, 907 g",
+"size": "907 g",
+"price": 2.86,
+"regular": 3.47,
+"unit": "each",
+"match": "exact",
+"note": "Rollback"
+},
+{
+"id": "eggo",
+"product": "EGGO Buttermilk Waffles, 280g (8 waffles)",
+"size": "280 g (8 waffles)",
+"price": 2.97,
+"regular": 3.97,
+"unit": "each",
+"match": "close",
+"note": "Original 8-pack not listed; buttermilk variant; Original 16 waffles $6.97"
+},
+{
+"id": "pizza_pops",
+"product": "Pillsbury Pizza Pops, Pepperoni Flavour, 380 G, 4 CT",
+"size": "380 g (4 ct)",
+"price": 2.94,
+"regular": 3.27,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "dumplings",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "mozza_sticks",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "burritos",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "lasagna_frozen",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "frozen_meal",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "burgers",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "hash_browns",
+"product": "McCain Classic HashBrown Patties, 20-Pack, 1.3kg",
+"size": "1.3 kg",
+"price": 6.98,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "1.3 kg vs 1 kg spec"
+},
+{
+"id": "tater_tots",
+"product": "McCain Tasti Taters Crispy Potato Bites, 1.8kg",
+"size": "1.8 kg",
+"price": 7.47,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "larger bag than spec"
+},
+{
+"id": "ice_cream_bars",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "popsicles",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "frozen_mango",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "pepsi",
+"product": "Pepsi Cola 355ml cans, pack of 12",
+"size": "12 x 355 ml",
+"price": 7.47,
+"regular": 8.28,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "coke_zero",
+"product": "Coca-Cola Zero Sugar Soda Pop Cans 12 Pack",
+"size": "12 x 355 ml",
+"price": 6.94,
+"regular": 8.28,
+"unit": "each",
+"match": "exact",
+"note": "Rollback"
+},
+{
+"id": "sprite",
+"product": "Sprite Lemon-Lime Soda Pop Cans, 12 Pack",
+"size": "12 x 355 ml",
+"price": 6.94,
+"regular": 8.28,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "ginger_ale",
+"product": "Canada Dry Ginger Ale 355 mL Cans, 12 Pack",
+"size": "12 x 355 ml",
+"price": 6.94,
+"regular": 8.28,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "root_beer",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "iced_tea",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "bubly",
+"product": "Bubly Lime Sparkling Water, 355ml cans, pack of 12",
+"size": "12 x 355 ml",
+"price": 6.98,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "12-pack, not 8-pack"
+},
+{
+"id": "gatorade",
+"product": "Gatorade Frost Glacier Freeze Sports Drink 6 x 591 mL, Bottles",
+"size": "6 x 591 ml",
+"price": 6.98,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "red_bull",
+"product": "Red Bull Energy Drink, 250 ml (4 pack)",
+"size": "4 x 250 ml",
+"price": 10.97,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "monster",
+"product": "MONSTER ENERGY Zero Ultra, 473mL, Can",
+"size": "473 ml",
+"price": 2.48,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "original (green) single can not listed; Energy Green 4 x 473 ml is $9.97"
+},
+{
+"id": "apple_juice",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "cranberry",
+"product": "Ocean Spray Cranberry Cocktail 1.89L",
+"size": "1.89 L",
+"price": 4.48,
+"regular": null,
+"unit": "each",
+"match": "exact",
+"note": ""
+},
+{
+"id": "lemonade",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "juice_boxes",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "water_big",
+"product": "",
+"size": "",
+"price": null,
+"regular": null,
+"unit": "each",
+"match": "none",
+"note": "not found on walmart.ca"
+},
+{
+"id": "chocolate_bar",
+"product": "CADBURY DAIRY MILK, Milk Chocolate Bar",
+"size": "180 g",
+"price": 5.98,
+"regular": null,
+"unit": "each",
+"match": "close",
+"note": "100 g bar not listed; 180 g bar"
+}
+]
+}

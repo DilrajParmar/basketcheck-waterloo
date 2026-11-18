@@ -1,0 +1,436 @@
+{
+ "store": "walmart",
+ "rows": "44-86",
+ "items": [
+  {
+   "id": "wieners",
+   "product": "Great Value Original Wieners, 12 wieners, 450 g",
+   "size": "450 g",
+   "price": 3.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "GV Chicken Wieners 450 g also listed at $1.97. https://www.walmart.ca/en/browse/grocery/meat-seafood-alternatives/hot-dogs/10019_6000194327357_6000200207254"
+  },
+  {
+   "id": "nuggets",
+   "product": "Great Value Chicken Nuggets, 800 g",
+   "size": "800 g",
+   "price": 6.47,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/chicken-nuggets"
+  },
+  {
+   "id": "rice",
+   "product": "Great Value Long Grain White Rice",
+   "size": "2 kg (not shown; implied by 24¢/100g)",
+   "price": 4.77,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size inferred from unit price. https://www.walmart.ca/en/c/kp/white-rice"
+  },
+  {
+   "id": "jasmine",
+   "product": "Great Value Thai Jasmine Rice",
+   "size": "2 kg (not shown; implied by 25¢/100g)",
+   "price": 4.98,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size inferred from unit price. https://www.walmart.ca/en/c/kp/jasmine-rice"
+  },
+  {
+   "id": "spaghetti",
+   "product": "Great Value Spaghetti Pasta",
+   "size": "900 g",
+   "price": 1.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "22¢/100g; 900 g per walmart.ca listing title. https://www.walmart.ca/en/browse/grocery/pantry-food/dry-pasta/10019_6000194326346_6000194329528 ; https://www.walmart.ca/en/ip/Great-Value-Spaghetti-Pasta/2QV9LGU46RLX"
+  },
+  {
+   "id": "penne",
+   "product": "Great Value Penne Rigate Pasta",
+   "size": "not shown",
+   "price": 1.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size not displayed on listing (GV pasta line is 900 g at same $1.97). https://www.walmart.ca/en/browse/grocery/pantry-food/dry-pasta/10019_6000194326346_6000194329528"
+  },
+  {
+   "id": "sauce",
+   "product": "Great Value Tomato Basil Pasta Sauce",
+   "size": "680 mL (not shown; implied by 29¢/100ml)",
+   "price": 1.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "cheapest pasta sauce seen; size inferred from unit price. https://www.walmart.ca/en/c/kp/pasta-sauce"
+  },
+  {
+   "id": "diced_tom",
+   "product": "Great Value Diced Tomatoes",
+   "size": "796 mL (not shown; implied by 25¢/100ml)",
+   "price": 1.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size inferred from unit price. https://www.walmart.ca/en/browse/grocery/pantry-food/canned-food/canned-tomatoes-paste/10019_6000194326346_6000194328515_6000194329532"
+  },
+  {
+   "id": "black_beans",
+   "product": "Great Value Black Turtle Beans",
+   "size": "540 mL (not shown; implied by 27¢/100ml)",
+   "price": 1.44,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size inferred from unit price. https://www.walmart.ca/en/browse/grocery/pantry-food/canned-food/canned-beans-legumes/10019_6000194326346_6000194328515_6000194329530"
+  },
+  {
+   "id": "chickpeas",
+   "product": "Unico Chick Peas",
+   "size": "540 mL (not shown; implied by 34¢/100ml)",
+   "price": 1.84,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "GV Chick Peas 540 mL product page failed to load; 'Great Value Chick Peas' on kp page is $2.97 at 33¢/100g (likely dried/larger, not used). https://www.walmart.ca/en/c/kp/chickpeas"
+  },
+  {
+   "id": "tuna",
+   "product": "Clover LEAF Chunk Light Tuna in Water",
+   "size": "170 g (not shown; implied by 73¢/100g)",
+   "price": 1.24,
+   "regular": 1.88,
+   "unit": "each",
+   "match": "exact",
+   "note": "Rollback. GV Flaked Light Tuna also $1.24. https://www.walmart.ca/en/browse/grocery/pantry-food/canned-food/canned-fish-seafood/10019_6000194326346_6000194328515_6000194329536"
+  },
+  {
+   "id": "kd",
+   "product": "Kraft Dinner Original Macaroni and Cheese Dinner, 200g Box",
+   "size": "200 g",
+   "price": 1.67,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/kraft-dinner"
+  },
+  {
+   "id": "noodles",
+   "product": "Mr. Noodles Chicken Flavour Instant Noodles",
+   "size": "85 g (not shown; implied by 56¢/100g)",
+   "price": 0.48,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/mr-noodles"
+  },
+  {
+   "id": "soup",
+   "product": "Campbell's Condensed Chicken Noodle Soup, Shelf Stable",
+   "size": "not shown (standard 284 mL)",
+   "price": 1.47,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size not displayed on listing. https://www.walmart.ca/en/browse/grocery/pantry-food/10019_6000194326346"
+  },
+  {
+   "id": "pb",
+   "product": "Kraft Smooth Peanut Butter, 1 kg Jar",
+   "size": "1 kg",
+   "price": 5.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/kraft-peanut-butter"
+  },
+  {
+   "id": "jam",
+   "product": "Dora Strawberry Traditional Jam",
+   "size": "500 mL (not shown; implied by 79¢/100ml)",
+   "price": 3.97,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "no store-brand strawberry jam in visible results; Del Monte $3.57 is ~280 mL. https://www.walmart.ca/en/c/kp/strawberry-jam"
+  },
+  {
+   "id": "honey",
+   "product": "Great Value Pure Liquid Honey",
+   "size": "500 g (not shown; implied by $1.39/100g)",
+   "price": 6.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/browse/grocery/pantry-food/honey/10019_6000194326346_6000209199383"
+  },
+  {
+   "id": "flour",
+   "product": "Great Value Original All-Purpose Flour",
+   "size": "2.5 kg (implied by 15¢/100g; listing title 2.5 kg)",
+   "price": 3.77,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/browse/grocery/pantry-food/baking-ingredients-supplies/flour-meals/10019_6000194326346_6000194328505_6000194329529"
+  },
+  {
+   "id": "sugar",
+   "product": "Redpath Special Fine Granulated Sugar",
+   "size": "2 kg (implied by 14¢/100g; listing title 2 kg)",
+   "price": 2.77,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/white-sugar"
+  },
+  {
+   "id": "canola",
+   "product": "Great Value Canola Oil 1L",
+   "size": "1 L",
+   "price": 4.57,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "no 1.89 L found; other GV canola sizes $10.74 (38¢/100ml) and $15.97 (32¢/100ml). Cooking-oils page showed 1L at $3.98 in an earlier fetch. https://www.walmart.ca/en/c/kp/canola-oil"
+  },
+  {
+   "id": "olive",
+   "product": "Great Value Extra Virgin Olive Oil 1L",
+   "size": "1 L",
+   "price": 10.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/browse/grocery/pantry-food/cooking-oils/10019_6000194326346_6000194328508"
+  },
+  {
+   "id": "oats",
+   "product": "Great Value Quick Oats 1 kg",
+   "size": "1 kg",
+   "price": 2.77,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/browse/grocery/pantry-food/cereal-breakfast/oatmeal-hot-cereal/minute-quick-oats/10019_6000194326346_6000194328506_6000194329537_6000208365728"
+  },
+  {
+   "id": "cheerios",
+   "product": "Original Cheerios Breakfast Cereal, Family Size",
+   "size": "Family Size (~570 g implied by $1.22/100g)",
+   "price": 6.97,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "no standard-size Original box in visible results. https://www.walmart.ca/en/c/kp/cheerios"
+  },
+  {
+   "id": "ketchup",
+   "product": "Heinz Tomato Ketchup, 1 L Bottle",
+   "size": "1 L",
+   "price": 5.77,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/browse/grocery/pantry-food/condiments-toppings/10019_6000194326346_6000194328507"
+  },
+  {
+   "id": "mayo",
+   "product": "Hellmann's Real Mayonnaise, Gluten-Free and Kosher, Made with Canadian Free-Run Eggs and Canola Oil, 890 ml Jar",
+   "size": "890 mL",
+   "price": 6.47,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/ip/Hellmann-s-Real-Mayonnaise/10139933"
+  },
+  {
+   "id": "soy",
+   "product": "Silver Swan Soy Sauce",
+   "size": "1 L (not shown; implied by 28¢/100ml)",
+   "price": 2.77,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "GV Soya Sauce $2.23 at 50¢/100ml (~450 mL). https://www.walmart.ca/en/c/kp/soy-sauce"
+  },
+  {
+   "id": "coffee",
+   "product": "Tim Hortons Original Blend Ground Coffee, Medium Roast, Ground Coffee Can, 875g",
+   "size": "875 g",
+   "price": 28.47,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/tim-hortons-coffee"
+  },
+  {
+   "id": "tea",
+   "product": "Tetley Orange Pekoe Tea, 72 bags",
+   "size": "72 bags",
+   "price": 4.47,
+   "regular": 5.97,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/orange-pekoe-tea"
+  },
+  {
+   "id": "crackers",
+   "product": "Ritz Original Crackers",
+   "size": "not shown (200 g per walmart.ca product title)",
+   "price": 2.48,
+   "regular": 2.78,
+   "unit": "each",
+   "match": "exact",
+   "note": "size not displayed on listing. https://www.walmart.ca/en/c/kp/ritz"
+  },
+  {
+   "id": "chips",
+   "product": "Lay's Classic Potato Chips",
+   "size": "235 g",
+   "price": 2.97,
+   "regular": 3.47,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/ip/Lay-s-Classic-Potato-Chips/6000201210244"
+  },
+  {
+   "id": "salt",
+   "product": "Great Value Iodized Table Salt",
+   "size": "1 kg (not shown; implied by 12¢/100g)",
+   "price": 1.17,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/browse/grocery/pantry-food/spices-seasonings/salt-salt-substitutes/table-salt/10019_6000194326346_6000209233642_6000195496169_6000209233921"
+  },
+  {
+   "id": "frozen_veg",
+   "product": "Great Value Frozen Mixed Vegetables, 750 g",
+   "size": "750 g",
+   "price": 3.37,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/browse/grocery/frozen-food/frozen-vegetables/frozen-mixed-vegetables/10019_6000194326337_6000194327403_6000207185131"
+  },
+  {
+   "id": "frozen_berry",
+   "product": "Great Value Sliced Frozen Strawberries, 600 g",
+   "size": "600 g",
+   "price": 4.66,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "GV Frozen Mixed Blend 600 g also $4.66. https://www.walmart.ca/en/browse/grocery/frozen-food/frozen-fruit/10019_6000194326337_6000194327401"
+  },
+  {
+   "id": "fries",
+   "product": "Great Value Crinkle Cut Frozen Fried Potatoes, 900 g",
+   "size": "900 g",
+   "price": 3.47,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "GV Straight Cut 1 kg out of stock. https://www.walmart.ca/en/ip/Great-Value-Crinkle-Cut-Frozen-Fried-Potatoes/6000198825382"
+  },
+  {
+   "id": "pizza",
+   "product": "Dr. Oetker Giuseppe Pizzeria Rising Crust Pepperoni Pizza, 720 g",
+   "size": "720 g",
+   "price": 5.84,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "Delissio pages failed to load / brand filter returned no matches; Giuseppe appears to be Dr. Oetker's successor to Delissio Rising Crust (not verified on page). https://www.walmart.ca/en/browse/grocery/frozen-food/frozen-pizza/10019_6000194326337_6000194349404"
+  },
+  {
+   "id": "ice_cream",
+   "product": "Great Value Vanilla Ice Cream in a Container, 1.5L",
+   "size": "1.5 L",
+   "price": 4.68,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/vanilla-ice-cream"
+  },
+  {
+   "id": "oj",
+   "product": "Oasis Orange Juice No Pulp, Not from Concentrate 1.5 L",
+   "size": "1.5 L",
+   "price": 4.97,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "Tropicana 1.54 L out of stock; store-brand Our Finest NFC is ~2.5 L at $6.98. https://www.walmart.ca/en/browse/grocery/drinks/juice/orange-juice/10019_6000194326336_6000194327382_6000208298402"
+  },
+  {
+   "id": "coke",
+   "product": "Coca-Cola Soda Pop Cans, 355 mL, 12 Pack",
+   "size": "12 x 355 mL",
+   "price": 6.94,
+   "regular": 8.28,
+   "unit": "each",
+   "match": "exact",
+   "note": "Rollback. https://www.walmart.ca/en/c/kp/coca-cola"
+  },
+  {
+   "id": "water",
+   "product": "Great Value Spring Water 500ml, pack of 24",
+   "size": "24 x 500 mL",
+   "price": 2.98,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/c/kp/spring-water"
+  },
+  {
+   "id": "paper_towel",
+   "product": "Great Value ECO Paper Towels, 6 Jumbo Rolls, 105 Sheets",
+   "size": "6 jumbo rolls",
+   "price": 7.94,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "cheapest 6-roll seen: SpongeTowels Ultra 6 Rolls $4.01. https://www.walmart.ca/en/browse/household-supplies-pantry/household-supplies/paper-products/6000195358079_21082_32361"
+  },
+  {
+   "id": "toilet_paper",
+   "product": "Great Value, Ultra Soft Toilet Paper, 12 Double equal 24 rolls",
+   "size": "12 double rolls",
+   "price": 7.94,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "https://www.walmart.ca/en/browse/household-supplies-pantry/household-supplies/paper-products/6000195358079_21082_32361"
+  },
+  {
+   "id": "dish_soap",
+   "product": "Dawn Ultra Dish Soap, Dishwashing Liquid, Original 502ML",
+   "size": "502 mL",
+   "price": 3.47,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "Palmolive 591 mL $1.97 cheaper but not Dawn/store brand. https://www.walmart.ca/en/c/kp/dish-soap"
+  },
+  {
+   "id": "detergent",
+   "product": "Tide Simply Laundry Detergent Liquid, Refreshing Breeze Scent, 70 Loads, 2.72 L",
+   "size": "2.72 L, 70 loads",
+   "price": 7.97,
+   "regular": 11.97,
+   "unit": "each",
+   "match": "exact",
+   "note": "Tide Simply line; no store-brand liquid in visible results. https://www.walmart.ca/en/browse/household-supplies/laundry/laundry-detergent/6000195358079_32358_6000208109232"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "store": "walmart",
+ "rows": "round F (Oct 21): more items sold at 3+ chains",
+ "items": [
+  {
+   "id": "caramilk",
+   "product": "Cadbury Caramilk Chocolatey Candy Bars, Caramel",
+   "size": "50 g",
+   "price": 1.0,
+   "regular": 1.18,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oh_henry",
+   "product": "OH HENRY! Chocolatey Full Size Candy Bar",
+   "size": "58 g",
+   "price": 1.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "crunchie",
+   "product": "Cadbury Crunchie Chocolatey Candy Bar",
+   "size": "44 g",
+   "price": 1.0,
+   "regular": 1.18,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oh_henry_4pk",
+   "product": "OH HENRY! Chocolatey Bars, pack of 4",
+   "size": "232 g",
+   "price": 3.98,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  }
+ ]
+}

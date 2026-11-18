@@ -1,0 +1,87 @@
+id	category	item spec (what to match)	search term
+banana	Produce	Bananas, priced per weight (report per kg)	bananas
+apple	Produce	Gala apples, loose, priced per weight (report per kg)	gala apples
+orange	Produce	Navel oranges, loose, priced per weight (report per kg) or each	navel oranges
+lemon	Produce	Lemons, single (each)	lemons
+avocado	Produce	Hass avocado, single (each)	avocado
+potato	Produce	Russet potatoes, 10 lb bag	russet potatoes
+onion	Produce	Yellow cooking onions, 3 lb bag	yellow onions
+carrot	Produce	Carrots, 2 lb bag	carrots
+broccoli	Produce	Broccoli crowns, loose, per weight (report per kg) or each	broccoli
+lettuce	Produce	Iceberg lettuce, head (each)	iceberg lettuce
+tomato	Produce	Tomatoes on the vine, per weight (report per kg)	tomatoes on the vine
+cucumber	Produce	English cucumber (each)	english cucumber
+pepper	Produce	Red bell pepper, loose (each or per kg)	red pepper
+spinach	Produce	Baby spinach, 142 g clamshell	baby spinach
+garlic	Produce	Garlic, bulb or small pack	garlic
+mushroom	Produce	White mushrooms, 227 g	white mushrooms
+strawberry	Produce	Strawberries, 1 lb (454 g) clamshell	strawberries
+blueberry	Produce	Blueberries, pint or clamshell (report size)	blueberries
+grape	Produce	Green seedless grapes, per weight (report per kg)	green grapes
+eggs	Dairy & Eggs	Large white eggs, 12 count, store brand	large eggs
+milk	Dairy & Eggs	2% milk, 4 L (bag or jug), cheapest brand	2% milk 4 L
+butter	Dairy & Eggs	Salted butter, 454 g, store brand or cheapest	salted butter
+cheddar	Dairy & Eggs	Medium or old cheddar block, about 400 g, store brand	cheddar cheese
+mozza	Dairy & Eggs	Shredded mozzarella, about 320 g, store brand	shredded mozzarella
+greek	Dairy & Eggs	Plain Greek yogurt, 650-750 g tub, cheapest	plain greek yogurt
+cream_cheese	Dairy & Eggs	Plain cream cheese brick or tub, 250 g, store brand	cream cheese
+sour_cream	Dairy & Eggs	Sour cream 14%, 500 ml, store brand	sour cream
+cream	Dairy & Eggs	18% coffee cream, 1 L, cheapest	coffee cream 18%
+almond	Dairy & Eggs	Unsweetened almond beverage, 1.89 L, Silk or store brand	unsweetened almond milk
+bread_white	Bakery	White sliced bread, 675 g, store brand	white bread
+bread_ww	Bakery	100% whole wheat sliced bread, 675 g, store brand or cheapest	whole wheat bread
+bagel	Bakery	Plain bagels, 6 pack	plain bagels
+tortilla	Bakery	Large flour tortillas, about 10 pack	flour tortillas
+muffin	Bakery	English muffins, 6 pack	english muffins
+buns	Bakery	Hamburger buns, 8 pack	hamburger buns
+chicken_breast	Meat & Seafood	Boneless skinless chicken breasts, report price per kg (cheapest in stock)	chicken breast boneless skinless
+chicken_thigh	Meat & Seafood	Boneless skinless chicken thighs, report price per kg	chicken thighs boneless
+beef	Meat & Seafood	Lean ground beef, about 450 g, cheapest	lean ground beef
+bacon	Meat & Seafood	Bacon, 375 g, store brand or cheapest	bacon
+pork_chop	Meat & Seafood	Pork loin chops, report price per kg	pork chops
+salmon	Meat & Seafood	Atlantic salmon fillets (fresh or frozen), report price per kg	salmon fillets
+shrimp	Meat & Seafood	Frozen raw shrimp, 340 g bag	frozen shrimp
+ham	Meat & Seafood	Sliced deli ham, 175 g pack	sliced ham
+wieners	Meat & Seafood	Wieners / hot dogs, 375-450 g	wieners
+nuggets	Meat & Seafood	Frozen breaded chicken nuggets, about 700 g-1 kg	chicken nuggets
+rice	Pantry	Long grain white rice, 2 kg, store brand	long grain white rice
+jasmine	Pantry	Jasmine rice, about 2 kg	jasmine rice
+spaghetti	Pantry	Spaghetti, 900 g, store brand	spaghetti
+penne	Pantry	Penne rigate, 900 g, store brand	penne
+sauce	Pantry	Tomato pasta sauce, 600-680 ml jar, cheapest	pasta sauce
+diced_tom	Pantry	Diced tomatoes, 796 ml can, store brand	diced tomatoes
+black_beans	Pantry	Black beans, 540 ml can, store brand	black beans
+chickpeas	Pantry	Chickpeas, 540 ml can, store brand	chickpeas
+tuna	Pantry	Chunk light tuna in water, 170 g can, cheapest	chunk light tuna
+kd	Pantry	Kraft Dinner Original Macaroni & Cheese, 200 g	kraft dinner
+noodles	Pantry	Mr. Noodles instant noodles, single pack (85 g)	mr noodles
+soup	Pantry	Campbell's Chicken Noodle condensed soup, 284 ml	campbell's chicken noodle soup
+pb	Pantry	Kraft Smooth Peanut Butter, 1 kg	kraft peanut butter
+jam	Pantry	Strawberry jam, 500 ml, store brand or cheapest	strawberry jam
+honey	Pantry	Liquid honey, 500 g, store brand or cheapest	liquid honey
+flour	Pantry	All-purpose flour, 2.5 kg, store brand	all purpose flour
+sugar	Pantry	White granulated sugar, 2 kg	white sugar
+canola	Pantry	Canola oil, 1.89 L, store brand	canola oil
+olive	Pantry	Extra virgin olive oil, 1 L, store brand	extra virgin olive oil
+oats	Pantry	Quick oats, 1 kg, store brand	quick oats
+cheerios	Pantry	Cheerios Original cereal (report size; prefer 400-570 g box)	cheerios
+ketchup	Pantry	Heinz Tomato Ketchup, 1 L	heinz ketchup
+mayo	Pantry	Hellmann's Real Mayonnaise, 890 ml	hellmann's mayonnaise
+soy	Pantry	Soy sauce, about 1 L or cheapest common size (report size)	soy sauce
+coffee	Pantry	Ground coffee, Tim Hortons Original 875-930 g, or cheapest large canister	ground coffee
+tea	Pantry	Red Rose or Tetley orange pekoe tea, 72 bags	orange pekoe tea
+crackers	Pantry	Ritz Original crackers, 200 g	ritz crackers
+chips	Snacks	Lay's Classic potato chips, 235 g	lays classic chips
+salt	Pantry	Table salt, 1 kg	table salt
+frozen_veg	Frozen	Frozen mixed vegetables, 750 g, store brand	frozen mixed vegetables
+frozen_berry	Frozen	Frozen strawberries or mixed berries, 600 g, store brand	frozen berries
+fries	Frozen	Frozen french fries, about 1 kg, store brand or McCain	frozen french fries
+pizza	Frozen	Delissio Rising Crust Pepperoni pizza	delissio pizza
+ice_cream	Frozen	Vanilla ice cream, 1.5 L, store brand or cheapest	vanilla ice cream
+oj	Drinks	Orange juice, not from concentrate, about 1.54-1.75 L (Tropicana or store brand)	orange juice
+coke	Drinks	Coca-Cola, 12 x 355 ml cans	coca-cola 12 pack
+water	Drinks	Bottled spring water, 24 x 500 ml, store brand	spring water 24
+paper_towel	Household	Paper towels, 6 roll pack, store brand or cheapest	paper towels
+toilet_paper	Household	Toilet paper, 12 double/large rolls, store brand or cheapest	toilet paper
+dish_soap	Household	Dawn or store-brand liquid dish soap, about 500-650 ml	dish soap
+detergent	Household	Liquid laundry detergent, store brand or Tide, report size and loads	laundry detergent

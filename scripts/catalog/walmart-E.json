@@ -1,0 +1,19 @@
+{"store":"walmart","rows":"gaps round 3 (Oct 20, walmart.ca keyword and product pages)","items":[
+{"id":"soy","product":"Great Value Soya Sauce","size":"450 ml","price":2.23,"regular":null,"unit":"each","match":"exact","note":"size from unit price 50c/100ml"},
+{"id":"macaroni","product":"Great Value Macaroni Pasta","size":"900 g","price":1.97,"regular":null,"unit":"each","match":"exact","note":"size from unit price 22c/100g"},
+{"id":"kidney_beans","product":"Great Value Dark Red Kidney Beans","size":"540 ml","price":1.44,"regular":null,"unit":"each","match":"exact","note":"size from unit price 27c/100ml"},
+{"id":"chicken_broth","product":"Campbell's Ready to Use Chicken Broth","size":"900 ml","price":1.47,"regular":1.97,"unit":"each","match":"exact","note":"rollback"},
+{"id":"apple_juice","product":"Great Value 100% Low Acid Pure Apple Juice","size":"1.89 L","price":3.48,"regular":null,"unit":"each","match":"exact","note":""},
+{"id":"ground_turkey","product":"Prime Extra Lean Ground Turkey","size":"454 g","price":7.98,"regular":null,"unit":"each","match":"exact","note":""},
+{"id":"bread_crumbs","product":"Great Value Plain Bread Crumbs","size":"425 g","price":2.97,"regular":null,"unit":"each","match":"exact","note":""},
+{"id":"cocoa","product":"Great Value Original Hot Chocolate Mix","size":"450 g","price":4.97,"regular":null,"unit":"each","match":"exact","note":"size from unit price $1.10/100g"},
+{"id":"pickles","product":"Bick's No Garlic Dill Pickles","size":"1 L","price":5.28,"regular":null,"unit":"each","match":"exact","note":""},
+{"id":"canned_corn","product":"Great Value Whole Kernel Corn","size":"341 ml","price":1.37,"regular":null,"unit":"each","match":"exact","note":"size from unit price 40c/100ml"},
+{"id":"alfredo","product":"Classico Alfredo Pasta Sauce","size":"410 ml","price":2.97,"regular":3.47,"unit":"each","match":"exact","note":"size from unit price 72c/100ml"},
+{"id":"canned_peas","product":"Great Value Assorted Peas","size":"398 ml","price":1.37,"regular":null,"unit":"each","match":"exact","note":""},
+{"id":"english_muffin","product":"Great Value Plain English Muffins, 6 count","size":"342 g","price":2.18,"regular":null,"unit":"each","match":"exact","note":""},
+{"id":"chicken_strips","product":"Janes Pub Style Chicken Strips","size":"700 g","price":9.97,"regular":null,"unit":"each","match":"exact","note":""},
+{"id":"dumplings","product":"O'Tasty Frozen Dumplings Vegetable, Pork and Black Mushroom","size":"567 g (20 oz)","price":7.47,"regular":null,"unit":"each","match":"close","note":"same brand and size, slightly different filling"},
+{"id":"deli_turkey","product":"Your Fresh Market Oven Roasted Turkey Breast, sliced","size":"175 g","price":2.98,"regular":null,"unit":"each","match":"exact","note":"Walmart house deli brand"},
+{"id":"water_big","product":"Great Value 4L Natural Spring Water","size":"4 L","price":1.48,"regular":null,"unit":"each","match":"exact","note":""}
+]}

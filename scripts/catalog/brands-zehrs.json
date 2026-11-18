@@ -1,0 +1,1435 @@
+{
+ "store": "zehrs",
+ "fetched": "2026-10-20",
+ "items": [
+  {
+   "id": "milk",
+   "url": "https://www.zehrs.ca/search?search-bar=2%25%20milk%204L",
+   "products": [
+    {
+     "brand": "Neilson",
+     "product": "Neilson 2% Milk",
+     "size": "4 L",
+     "price": 6.44,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Neilson",
+     "product": "Neilson 2% Microfiltered Milk",
+     "size": "4 L",
+     "price": 7.09,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "PC Organics",
+     "product": "PC Organics Organic Partly Skimmed Milk 2% M.F.",
+     "size": "4 L",
+     "price": 11.99,
+     "regular": null,
+     "house": true,
+     "note": "organic; only house-brand 2% 4 L shown on page"
+    }
+   ]
+  },
+  {
+   "id": "butter",
+   "url": "https://www.zehrs.ca/search?search-bar=salted%20butter",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Salted Butter",
+     "size": "454 g",
+     "price": 5.5,
+     "regular": 5.99,
+     "house": true,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Lactantia",
+     "product": "Lactantia Salted Butter",
+     "size": "454 g",
+     "price": 6.5,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Gay Lea",
+     "product": "Gay Lea Salted Butter",
+     "size": "454 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Country Churned Salted Butter",
+     "size": "454 g",
+     "price": 8.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Lactantia",
+     "product": "Lactantia Salted Butter Sticks",
+     "size": "4 x 113 g",
+     "price": 9.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Gay Lea",
+     "product": "Gay Lea Butter Sticks, Salted",
+     "size": "454 g",
+     "price": 9.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "cheddar",
+   "url": "https://www.zehrs.ca/search?search-bar=cheddar%20cheese%20block",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Old Cheddar Cheese",
+     "size": "400 g",
+     "price": 4.88,
+     "regular": 6.0,
+     "house": true
+    },
+    {
+     "brand": "Black Diamond",
+     "product": "Black Diamond Old Cheddar Cheese Bar",
+     "size": "400 g",
+     "price": 6.5,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Black Diamond",
+     "product": "Black Diamond Medium Cheddar Cheese Bar",
+     "size": "400 g",
+     "price": 6.5,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cracker Barrel",
+     "product": "Cracker Barrel Medium Cheddar Cheese",
+     "size": "400 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cracker Barrel",
+     "product": "Cracker Barrel Old Cheddar Cheese",
+     "size": "400 g",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "No Name",
+     "product": "No Name Medium Cheddar Cheese",
+     "size": "700 g",
+     "price": 9.0,
+     "regular": 10.99,
+     "house": true,
+     "note": "larger 700 g size; no 400 g No Name medium shown"
+    }
+   ]
+  },
+  {
+   "id": "greek",
+   "url": "https://www.zehrs.ca/search?search-bar=plain%20greek%20yogurt",
+   "products": [
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice 0% M.F. Plain Greek Yogurt",
+     "size": "750 g",
+     "price": 6.0,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Plain Greek Yogurt 2% M.F",
+     "size": "750 g",
+     "price": 6.0,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Oikos",
+     "product": "Oikos Pro High Protein Greek Yogurt, Plain",
+     "size": "650 g",
+     "price": 7.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Oikos",
+     "product": "Oikos Greek Yogurt, Plain, High Protein, 0% M.F.",
+     "size": "650 g",
+     "price": 7.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "cream_cheese",
+   "url": "https://www.zehrs.ca/search?search-bar=cream%20cheese",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Pasteurized Cream Cheese",
+     "size": "250 g",
+     "price": 3.75,
+     "regular": 3.99,
+     "house": true,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Philadelphia",
+     "product": "Philadelphia Original Brick Cream Cheese",
+     "size": "250 g",
+     "price": 5.0,
+     "regular": 5.79,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Philadelphia",
+     "product": "Philadelphia Original Cream Cheese Product",
+     "size": "227 g",
+     "price": 5.0,
+     "regular": 5.79,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); tub"
+    },
+    {
+     "brand": "No Name",
+     "product": "No Name Cream Cheese Spread",
+     "size": "227 g",
+     "price": 3.75,
+     "regular": 3.99,
+     "house": true,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); tub"
+    }
+   ]
+  },
+  {
+   "id": "bread_white",
+   "url": "https://www.zehrs.ca/search?search-bar=white%20bread",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Original Bread",
+     "size": "675 g",
+     "price": 2.48,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Wonder",
+     "product": "Wonder White Bread",
+     "size": "675 g",
+     "price": 3.5,
+     "regular": 3.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Wonder",
+     "product": "Wonder THIN Sandwich White Bread",
+     "size": "675 g",
+     "price": 3.5,
+     "regular": 3.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Dempster's",
+     "product": "Dempster's White Bread",
+     "size": "675 g",
+     "price": 4.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "D'Italiano",
+     "product": "D'Italiano Thick Slice Original White Bread",
+     "size": "675 g",
+     "price": 4.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Farmhouse",
+     "product": "Farmhouse Homestyle White Bread",
+     "size": "675 g",
+     "price": 4.79,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bread_ww",
+   "url": "https://www.zehrs.ca/search?search-bar=whole%20wheat%20bread",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name 100% Whole Wheat Bread",
+     "size": "675 g",
+     "price": 2.48,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Wonder",
+     "product": "Wonder 100% Whole Wheat Bread",
+     "size": "675 g",
+     "price": 3.5,
+     "regular": 3.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Wonder",
+     "product": "Wonder THIN 100% Whole Wheat Bread",
+     "size": "675 g",
+     "price": 3.5,
+     "regular": 3.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Dempster's",
+     "product": "Dempster's 100% Whole Wheat Bread",
+     "size": "675 g",
+     "price": 4.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "D'Italiano",
+     "product": "D'Italiano Thick Slice 100% Whole Wheat Bread",
+     "size": "675 g",
+     "price": 4.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Country Harvest",
+     "product": "Country Harvest No Sugar Whole Wheat Sliced Bread",
+     "size": "600 g",
+     "price": 3.5,
+     "regular": 4.0,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    }
+   ]
+  },
+  {
+   "id": "bagel",
+   "url": "https://www.zehrs.ca/search?search-bar=plain%20bagels",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Bagel Plain, 6 Pack",
+     "size": "510 g (6 pack)",
+     "price": 2.5,
+     "regular": 2.99,
+     "house": true
+    },
+    {
+     "brand": "Country Harvest",
+     "product": "Country Harvest Original Bagels",
+     "size": "450 g",
+     "price": 3.5,
+     "regular": 4.0,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Dempster's",
+     "product": "Dempster's Original Bagels",
+     "size": "6 x 75 g",
+     "price": 4.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "(brand not shown)",
+     "product": "Bagel, Plain, 6-pack",
+     "size": "492 g (6 pack)",
+     "price": 5.0,
+     "regular": null,
+     "house": false,
+     "note": "no brand printed on listing (likely in-store bakery)"
+    },
+    {
+     "brand": "D'Italiano",
+     "product": "D'Italiano Gusto! Original Bagels",
+     "size": "540 g",
+     "price": 5.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "bacon",
+   "url": "https://www.zehrs.ca/search?search-bar=bacon",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Mild Sugar Cured Bacon",
+     "size": "375 g",
+     "price": 6.0,
+     "regular": 6.5,
+     "house": true,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Bacon",
+     "size": "375 g",
+     "price": 7.0,
+     "regular": 7.5,
+     "house": true,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Maple Leaf",
+     "product": "Maple Leaf Original Natural Bacon",
+     "size": "375 g",
+     "price": 8.0,
+     "regular": 9.0,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Schneiders",
+     "product": "Schneiders Hickory Smoked Classic Cut Bacon",
+     "size": "375 g",
+     "price": 8.0,
+     "regular": 9.0,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    }
+   ]
+  },
+  {
+   "id": "wieners",
+   "url": "https://www.zehrs.ca/search?search-bar=wieners",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Original Hot Dogs",
+     "size": "450 g",
+     "price": 5.0,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Maple Leaf",
+     "product": "Maple Leaf Natural Top Dogs Original Hot Dogs",
+     "size": "375 g",
+     "price": 8.0,
+     "regular": null,
+     "house": false,
+     "note": "page shows Low Stock"
+    },
+    {
+     "brand": "Schneiders",
+     "product": "Schneiders Red Hots Original Hot Dogs",
+     "size": "375 g",
+     "price": 8.0,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Schneiders",
+     "product": "Schneiders Juicy Jumbos Original Hot Dogs",
+     "size": "450 g",
+     "price": 11.0,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "spaghetti",
+   "url": "https://www.zehrs.ca/search?search-bar=spaghetti",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Spaghetti",
+     "size": "900 g",
+     "price": 2.0,
+     "regular": 2.29,
+     "house": true
+    },
+    {
+     "brand": "Italpasta",
+     "product": "Italpasta Spaghetti",
+     "size": "900 g",
+     "price": 2.75,
+     "regular": 3.49,
+     "house": false
+    },
+    {
+     "brand": "Catelli",
+     "product": "Catelli Pasta Spaghetti",
+     "size": "454 g",
+     "price": 2.99,
+     "regular": null,
+     "house": false,
+     "note": "half size (454 g); sponsored listing"
+    },
+    {
+     "brand": "Barilla",
+     "product": "Barilla Spaghetti Pasta",
+     "size": "410 g",
+     "price": 2.5,
+     "regular": 2.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); 410 g size"
+    },
+    {
+     "brand": "Molisana",
+     "product": "Molisana Spaghetti 15",
+     "size": "450 g",
+     "price": 3.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "penne",
+   "url": "https://www.zehrs.ca/search?search-bar=penne",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Penne Rigate Pasta",
+     "size": "900 g",
+     "price": 2.0,
+     "regular": 2.29,
+     "house": true
+    },
+    {
+     "brand": "Italpasta",
+     "product": "Italpasta Penne Rigate",
+     "size": "900 g",
+     "price": 2.75,
+     "regular": 3.49,
+     "house": false
+    },
+    {
+     "brand": "Catelli",
+     "product": "Catelli Pasta Penne Rigate",
+     "size": "454 g",
+     "price": 2.99,
+     "regular": null,
+     "house": false,
+     "note": "half size (454 g); sponsored listing"
+    },
+    {
+     "brand": "Barilla",
+     "product": "Barilla Penne Rigate Pasta",
+     "size": "410 g",
+     "price": 2.5,
+     "regular": 2.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); 410 g size"
+    },
+    {
+     "brand": "Molisana",
+     "product": "Molisana Penne Rigate",
+     "size": "450 g",
+     "price": 3.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "De Cecco",
+     "product": "De Cecco Pasta Penne Rigate No. 41",
+     "size": "450 g",
+     "price": 3.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "sauce",
+   "url": "https://www.zehrs.ca/search?search-bar=pasta%20sauce",
+   "products": [
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Marinara Pasta Sauce",
+     "size": "600 ml",
+     "price": 3.0,
+     "regular": 4.25,
+     "house": true
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Roasted Garlic Pasta Sauce",
+     "size": "600 ml",
+     "price": 3.0,
+     "regular": 4.25,
+     "house": true
+    },
+    {
+     "brand": "Catelli",
+     "product": "Catelli Garden Select Tomato & Basil Pasta Sauce",
+     "size": "600 ml",
+     "price": 3.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Classico",
+     "product": "Classico Tomato & Basil Pasta Sauce",
+     "size": "600 ml",
+     "price": 5.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Classico",
+     "product": "Classico Fire-Roasted Tomato & Garlic Pasta Sauce",
+     "size": "600 ml",
+     "price": 5.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "tuna",
+   "url": "https://www.zehrs.ca/search?search-bar=chunk%20light%20tuna",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Chunk Light Tuna Packed in Water",
+     "size": "170 g",
+     "price": 1.5,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Ocean's Halo",
+     "product": "Ocean's Halo Light Tuna Chunk in Water",
+     "size": "170 g",
+     "price": 2.29,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Clover Leaf",
+     "product": "Clover Leaf Chunk Light Tuna, Skip Jack In Water",
+     "size": "170 g",
+     "price": 2.39,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Clover Leaf",
+     "product": "Clover Leaf Chunk Light Yellowfin Tuna, In Water",
+     "size": "142 g",
+     "price": 2.75,
+     "regular": 3.49,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); 142 g can"
+    }
+   ]
+  },
+  {
+   "id": "kd",
+   "url": "https://www.zehrs.ca/search?search-bar=macaroni%20and%20cheese",
+   "products": [
+    {
+     "brand": "Kraft",
+     "product": "Kraft Original Macaroni And Cheese Dinner",
+     "size": "200 g",
+     "price": 1.66,
+     "regular": 1.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 3 (page shows 'MIN 3')"
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Deluxe Cheddar Macaroni and Cheese Dinner",
+     "size": "225 g",
+     "price": 1.5,
+     "regular": 1.79,
+     "house": true,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); deluxe (cheese sauce) style"
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice White Cheddar Deluxe Macaroni and Cheese Dinner",
+     "size": "200 g",
+     "price": 1.5,
+     "regular": 1.79,
+     "house": true,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); white cheddar deluxe"
+    },
+    {
+     "brand": "Kraft",
+     "product": "Kraft Extra Creamy Macaroni And Cheese Dinner",
+     "size": "175 g",
+     "price": 1.0,
+     "regular": null,
+     "house": false,
+     "note": "Hit of the Month sale; limit 6, $2.00 after limit; no regular price printed; 175 g"
+    }
+   ]
+  },
+  {
+   "id": "soup",
+   "url": "https://www.zehrs.ca/search?search-bar=chicken%20noodle%20soup",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Condensed Chicken Noodle Soup",
+     "size": "284 ml",
+     "price": 1.29,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Campbell's",
+     "product": "Campbell's Condensed Soup Chicken Noodle",
+     "size": "284 ml",
+     "price": 1.75,
+     "regular": 2.29,
+     "house": false,
+     "note": "sale price requires minimum purchase of 4 (page shows 'MIN 4')"
+    },
+    {
+     "brand": "Campbell's",
+     "product": "Campbell's Homestyle Chicken Noodle Condensed Soup",
+     "size": "284 ml",
+     "price": 2.66,
+     "regular": 2.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 3 (page shows 'MIN 3')"
+    }
+   ]
+  },
+  {
+   "id": "pb",
+   "url": "https://www.zehrs.ca/search?search-bar=smooth%20peanut%20butter",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Smooth Peanut Butter",
+     "size": "1 kg",
+     "price": 5.0,
+     "regular": 5.5,
+     "house": true
+    },
+    {
+     "brand": "Kraft",
+     "product": "Kraft Smooth Peanut Butter",
+     "size": "1 kg",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "PC Blue Menu",
+     "product": "PC Blue Menu Just Peanuts Smooth Peanut Butter",
+     "size": "750 g",
+     "price": 6.79,
+     "regular": null,
+     "house": true,
+     "note": "natural (peanuts only), 750 g"
+    },
+    {
+     "brand": "Kraft",
+     "product": "Kraft Only Peanuts All Natural Smooth Peanut Butter",
+     "size": "750 g",
+     "price": 7.99,
+     "regular": null,
+     "house": false,
+     "note": "natural, 750 g"
+    }
+   ]
+  },
+  {
+   "id": "jam",
+   "url": "https://www.zehrs.ca/search?search-bar=strawberry%20jam",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Strawberry Jam with Pectin",
+     "size": "500 ml",
+     "price": 5.5,
+     "regular": 6.0,
+     "house": true
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Pure Strawberry Jam",
+     "size": "500 ml",
+     "price": 5.5,
+     "regular": 7.49,
+     "house": true,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Smucker's",
+     "product": "Smucker's Strawberry Spread",
+     "size": "500 ml",
+     "price": 8.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Bonne Maman",
+     "product": "Bonne Maman Strawberry Jam",
+     "size": "250 ml",
+     "price": 6.5,
+     "regular": 8.99,
+     "house": false,
+     "note": "250 ml jar"
+    }
+   ]
+  },
+  {
+   "id": "oats",
+   "url": "https://www.zehrs.ca/search?search-bar=quick%20oats",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Quick 100% Whole Grain Oats",
+     "size": "1 kg",
+     "price": 3.49,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Robin Hood",
+     "product": "Robin Hood 100% Whole Grains Quick Oats",
+     "size": "1 kg",
+     "price": 4.79,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Quaker",
+     "product": "Quaker Quick Oats",
+     "size": "1 kg",
+     "price": 5.25,
+     "regular": 5.79,
+     "house": false
+    },
+    {
+     "brand": "PC Organics",
+     "product": "PC Organics Organic Quick Rolled Oats",
+     "size": "1000 g",
+     "price": 5.0,
+     "regular": null,
+     "house": true,
+     "note": "organic"
+    }
+   ]
+  },
+  {
+   "id": "cheerios",
+   "url": "https://www.zehrs.ca/search?search-bar=cheerios",
+   "products": [
+    {
+     "brand": "General Mills",
+     "product": "Original Cheerios Breakfast Cereal, Family Size, Whole Grains",
+     "size": "570 g",
+     "price": 6.0,
+     "regular": 7.99,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "ketchup",
+   "url": "https://www.zehrs.ca/search?search-bar=ketchup",
+   "products": [
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Tomato Ketchup",
+     "size": "1 L",
+     "price": 4.5,
+     "regular": 4.75,
+     "house": true
+    },
+    {
+     "brand": "Heinz",
+     "product": "Heinz Tomato Ketchup",
+     "size": "1 L",
+     "price": 5.0,
+     "regular": 6.0,
+     "house": false
+    },
+    {
+     "brand": "Frenchs",
+     "product": "Frenchs Tomato Ketchup",
+     "size": "1 L",
+     "price": 6.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "mayo",
+   "url": "https://www.zehrs.ca/search?search-bar=mayonnaise",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Mayonnaise",
+     "size": "890 ml",
+     "price": 5.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Hellmann's",
+     "product": "Hellmann's Real Mayonnaise",
+     "size": "890 ml",
+     "price": 7.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "coffee",
+   "url": "https://www.zehrs.ca/search?search-bar=ground%20coffee",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Medium Roast Ground Coffee",
+     "size": "907 g",
+     "price": 17.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Maxwell House",
+     "product": "Maxwell House Medium Original Roast Ground Coffee",
+     "size": "864 g",
+     "price": 21.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice The Great Canadian Light to Medium Roast Fine Grind Coffee",
+     "size": "930 g",
+     "price": 24.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Gourmet West Coast Dark Roast Fine Grind Coffee",
+     "size": "875 g",
+     "price": 24.99,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Nabob",
+     "product": "Nabob Traditional Fine Grind Ground Coffee",
+     "size": "930 g",
+     "price": 26.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "chips",
+   "url": "https://www.zehrs.ca/search?search-bar=potato%20chips",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Regular Potato Chips",
+     "size": "200 g",
+     "price": 1.5,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "No Name",
+     "product": "No Name Regular Ripple Cut Potato Chips",
+     "size": "200 g",
+     "price": 1.5,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Original Flavour Kettle Cooked Potato Chips",
+     "size": "200 g",
+     "price": 2.5,
+     "regular": null,
+     "house": true,
+     "note": "kettle cooked"
+    },
+    {
+     "brand": "Lay's",
+     "product": "Lay's Classic potato chips",
+     "size": "235 g",
+     "price": 4.5,
+     "regular": 5.29,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2')"
+    },
+    {
+     "brand": "Lay's",
+     "product": "Lay's Wavy Original Potato Chips",
+     "size": "235 g",
+     "price": 4.5,
+     "regular": 5.29,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); page shows Low Stock"
+    }
+   ]
+  },
+  {
+   "id": "fries",
+   "url": "https://www.zehrs.ca/search?search-bar=frozen%20french%20fries",
+   "products": [
+    {
+     "brand": "McCain",
+     "product": "McCain Straight Cut French Fries",
+     "size": "800 g",
+     "price": 3.0,
+     "regular": 4.29,
+     "house": false
+    },
+    {
+     "brand": "McCain",
+     "product": "McCain Crinkle Cut French Fries",
+     "size": "800 g",
+     "price": 3.0,
+     "regular": 4.29,
+     "house": false
+    },
+    {
+     "brand": "McCain",
+     "product": "McCain Shoestring Fries",
+     "size": "800 g",
+     "price": 3.0,
+     "regular": 4.29,
+     "house": false
+    },
+    {
+     "brand": "Cavendish Farms",
+     "product": "Cavendish Farms Classic Straight Cut Fries",
+     "size": "800 g",
+     "price": 4.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cavendish Farms",
+     "product": "Cavendish Farms Classic Crispy Skin-On Fries",
+     "size": "800 g",
+     "price": 4.49,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Cavendish Farms",
+     "product": "Cavendish Farms Classic Crinkle Cut Fries",
+     "size": "800 g",
+     "price": 4.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "pizza",
+   "url": "https://www.zehrs.ca/search?search-bar=pepperoni%20pizza",
+   "products": [
+    {
+     "brand": "Dr Oetker",
+     "product": "Dr Oetker Giuseppe Pizzeria Rising Crust Pepperoni Pizza",
+     "size": "720 g",
+     "price": 6.0,
+     "regular": 7.0,
+     "house": false
+    },
+    {
+     "brand": "RED BARON",
+     "product": "RED BARON Pepperoni Classic Crust Frozen Pizza",
+     "size": "584 g",
+     "price": 7.49,
+     "regular": null,
+     "house": false,
+     "note": "classic crust, not rising crust"
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Wood Fired Pepperoni Pizza",
+     "size": "379 g",
+     "price": 6.0,
+     "regular": null,
+     "house": true,
+     "note": "wood fired thin style, not rising crust; no house rising-crust pizza shown"
+    },
+    {
+     "brand": "No Name",
+     "product": "No Name Thin Crust Pepperoni Pizza",
+     "size": "350 g",
+     "price": 3.5,
+     "regular": null,
+     "house": true,
+     "note": "thin crust, not rising crust; no house rising-crust pizza shown"
+    }
+   ]
+  },
+  {
+   "id": "ice_cream",
+   "url": "https://www.zehrs.ca/search?search-bar=vanilla%20ice%20cream",
+   "products": [
+    {
+     "brand": "Breyers",
+     "product": "Breyers Natural Vanilla Ice Cream",
+     "size": "1410 ml",
+     "price": 4.0,
+     "regular": 5.99,
+     "house": false
+    },
+    {
+     "brand": "Breyers",
+     "product": "Breyers French Vanilla Ice Cream",
+     "size": "1410 ml",
+     "price": 4.0,
+     "regular": 5.99,
+     "house": false
+    },
+    {
+     "brand": "Kawartha",
+     "product": "Kawartha Premium Ice Cream Made With Fresh Milk & Cream French Vanilla",
+     "size": "1.5 L",
+     "price": 9.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Chapmans",
+     "product": "Chapmans Markdale Creamery Vanilla Ice Cream",
+     "size": "2 L",
+     "price": 3.49,
+     "regular": 5.49,
+     "house": false,
+     "note": "2 L tub"
+    },
+    {
+     "brand": "Chapmans",
+     "product": "Chapmans Premium French Vanilla Ice Cream",
+     "size": "2 L",
+     "price": 8.99,
+     "regular": null,
+     "house": false,
+     "note": "2 L tub"
+    },
+    {
+     "brand": "PC Black Label",
+     "product": "PC Black Label Madagascar Vanilla Super Premium Ice Cream",
+     "size": "500 ml",
+     "price": 4.5,
+     "regular": null,
+     "house": true,
+     "note": "500 ml super-premium; only house-brand vanilla shown"
+    }
+   ]
+  },
+  {
+   "id": "oj",
+   "url": "https://www.zehrs.ca/search?search-bar=orange%20juice",
+   "products": [
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Pulp-Free 100% Orange Juice",
+     "size": "1.36 L",
+     "price": 5.49,
+     "regular": null,
+     "house": true,
+     "note": "1.36 L (nearest size shown); not-from-concentrate status not stated"
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice 100% Orange Juice with Pulp",
+     "size": "1.36 L",
+     "price": 5.49,
+     "regular": null,
+     "house": true,
+     "note": "1.36 L; not-from-concentrate status not stated"
+    },
+    {
+     "brand": "Tropicana",
+     "product": "Tropicana Orange Juice, No Pulp",
+     "size": "1.36 L",
+     "price": 6.99,
+     "regular": null,
+     "house": false,
+     "note": "1.36 L"
+    },
+    {
+     "brand": "Simply Juice",
+     "product": "Simply Juice Orange Pulp Free Orange Juice Bottle",
+     "size": "1.36 L",
+     "price": 7.99,
+     "regular": null,
+     "house": false,
+     "note": "1.36 L"
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Pulp Free Orange Juice",
+     "size": "2.5 L",
+     "price": 7.99,
+     "regular": null,
+     "house": true,
+     "note": "2.5 L"
+    }
+   ]
+  },
+  {
+   "id": "coke",
+   "url": "https://www.zehrs.ca/search?search-bar=cola%2012%20pack",
+   "products": [
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Cola 12 Pack",
+     "size": "12 x 355 ml",
+     "price": 6.49,
+     "regular": 6.75,
+     "house": true,
+     "note": "plus tax/deposit"
+    },
+    {
+     "brand": "Pepsi",
+     "product": "Pepsi Cola",
+     "size": "12 x 355 ml",
+     "price": 8.5,
+     "regular": 8.99,
+     "house": false,
+     "note": "sale price requires minimum purchase of 2 (page shows 'MIN 2'); plus tax/deposit"
+    }
+   ]
+  },
+  {
+   "id": "toilet_paper",
+   "url": "https://www.zehrs.ca/search?search-bar=toilet%20paper",
+   "products": [
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Max Soft Toilet Paper, 12 Double Rolls = 24 Single Rolls",
+     "size": "12 double rolls",
+     "price": 5.0,
+     "regular": 8.75,
+     "house": true
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Super Soft Hypoallergenic Bathroom Tissue 12 Pack",
+     "size": "12 rolls",
+     "price": 5.0,
+     "regular": 8.75,
+     "house": true,
+     "note": "roll type not stated"
+    },
+    {
+     "brand": "No Name",
+     "product": "No Name Double Rolls Bathroom Tissue 12 Pack",
+     "size": "12 double rolls",
+     "price": 7.0,
+     "regular": null,
+     "house": true
+    },
+    {
+     "brand": "Cashmere",
+     "product": "Cashmere Soft & Thick Toilet Paper, 12 Double Rolls = 24 Single Rolls",
+     "size": "12 double rolls",
+     "price": 14.99,
+     "regular": null,
+     "house": false
+    }
+   ]
+  },
+  {
+   "id": "paper_towel",
+   "url": "https://www.zehrs.ca/search?search-bar=paper%20towels",
+   "products": [
+    {
+     "brand": "No Name",
+     "product": "No Name Triple Rolls Paper Towels 6 Pack",
+     "size": "6 rolls",
+     "price": 8.0,
+     "regular": null,
+     "house": true,
+     "note": "triple rolls"
+    },
+    {
+     "brand": "No Name",
+     "product": "No Name Double Rolls Paper Towels 6 Pack",
+     "size": "6 rolls",
+     "price": 6.5,
+     "regular": null,
+     "house": true,
+     "note": "double rolls"
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Max Strength and Thickness Paper Towels 3=6 Rolls",
+     "size": "3 x 98 sheets",
+     "price": 9.0,
+     "regular": null,
+     "house": true,
+     "note": "3 large rolls equal to 6"
+    },
+    {
+     "brand": "Bounty",
+     "product": "Bounty Paper Towels Select-A-Size, 6 Count",
+     "size": "6 rolls",
+     "price": 18.0,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "SpongeTowels",
+     "product": "SpongeTowels Towels 2 Ply",
+     "size": "6 rolls",
+     "price": 20.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Royale",
+     "product": "Royale Ultra Strength Paper Towel, 3 Equal 6 Rolls, 98 Sheets per Roll",
+     "size": "3 x 98 sheets",
+     "price": 6.0,
+     "regular": 13.99,
+     "house": false,
+     "note": "3 large rolls equal to 6"
+    }
+   ]
+  },
+  {
+   "id": "detergent",
+   "url": "https://www.zehrs.ca/search?search-bar=laundry%20detergent",
+   "products": [
+    {
+     "brand": "Purex",
+     "product": "Purex After the Rain 4 in 1 Concentrated Liquid Laundry Detergent, 58 Loads",
+     "size": "1.94 L",
+     "price": 11.99,
+     "regular": null,
+     "house": false
+    },
+    {
+     "brand": "Tide",
+     "product": "Tide Free & Gentle laundry detergent liquid, 64 loads",
+     "size": "2.48 L",
+     "price": 14.0,
+     "regular": 15.0,
+     "house": false,
+     "note": "free & gentle variant"
+    },
+    {
+     "brand": "Tide",
+     "product": "Tide Simply Liquid Laundry Detergent, Free & Sensitive Scent, 70 Loads",
+     "size": "2.72 L",
+     "price": 14.99,
+     "regular": null,
+     "house": false,
+     "note": "Tide Simply line"
+    },
+    {
+     "brand": "Gain",
+     "product": "Gain Laundry Detergent Liquid, Original Scent, 100 Loads",
+     "size": "4.25 L",
+     "price": 15.0,
+     "regular": 18.0,
+     "house": false,
+     "note": "larger size; no smaller Gain liquid shown"
+    },
+    {
+     "brand": "Eco-Max",
+     "product": "Eco-Max Laundry Wash, Natural Lavender",
+     "size": "3 L",
+     "price": 14.49,
+     "regular": null,
+     "house": false,
+     "note": "larger size"
+    }
+   ]
+  },
+  {
+   "id": "dish_soap",
+   "url": "https://www.zehrs.ca/search?search-bar=dish%20soap",
+   "products": [
+    {
+     "brand": "Dawn",
+     "product": "Dawn Ultra Dish Soap Original",
+     "size": "502 ml",
+     "price": 2.5,
+     "regular": 4.79,
+     "house": false
+    },
+    {
+     "brand": "Palmolive",
+     "product": "Palmolive Essential Clean Liquid Dish Soap, Original Scent",
+     "size": "828 ml",
+     "price": 3.99,
+     "regular": null,
+     "house": false,
+     "note": "larger size"
+    },
+    {
+     "brand": "President's Choice",
+     "product": "President's Choice Sensitive Skin Dishwashing Liquid",
+     "size": "1 L",
+     "price": 4.29,
+     "regular": null,
+     "house": true,
+     "note": "larger size; sensitive skin variant"
+    },
+    {
+     "brand": "No Name",
+     "product": "No Name Lemon Fresh Dishwashing Liquid, Club Pack",
+     "size": "5 L",
+     "price": 12.99,
+     "regular": null,
+     "house": true,
+     "note": "club pack, far larger than spec; only No Name dish soap shown"
+    },
+    {
+     "brand": "The Unscented Company",
+     "product": "The Unscented Company Unscented Liquid Dish Soap",
+     "size": "750 ml",
+     "price": 5.49,
+     "regular": null,
+     "house": false
+    }
+   ]
+  }
+ ]
+}

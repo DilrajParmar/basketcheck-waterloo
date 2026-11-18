@@ -1,0 +1,696 @@
+{
+ "store": "walmart",
+ "rows": "gaps",
+ "items": [
+  {
+   "id": "lays_bbq",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "lays_sv",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "lays_ketchup",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "lays_dressed",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "miss_vickies",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "fudgee_o",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "almonds",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "trail_mix",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "mms",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "popcorn_mw",
+   "product": "Orville Redenbacher Movie Theatre Butter Microwave Popcorn",
+   "size": "150 g",
+   "price": 4.22,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "bag count not shown (150 g); 3-pack not confirmed. Also Buttery 6 x 82 g $3.97 (was $5.47)"
+  },
+  {
+   "id": "hummus",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "raisin_bran",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "corn_flakes",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "rice_a_roni",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "mustard",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "bbq_sauce",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "hot_sauce",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "relish",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "pickles",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "brown_sugar",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "baking_soda",
+   "product": "Arm & Hammer Pure Baking Soda, Large Size",
+   "size": "2 kg",
+   "price": 5.97,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "only 2 kg size shown on brand page (30\u00a2/100g); 500 g box not listed"
+  },
+  {
+   "id": "choc_chips",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "cake_mix",
+   "product": "Betty Crocker Super Moist Chocolate Fudge Cake Mix",
+   "size": "375 g",
+   "price": 1.87,
+   "regular": 2.27,
+   "unit": "each",
+   "match": "close",
+   "note": "size inferred from unit price 50\u00a2/100g (~375 g), below 432-500 g spec; same price for French Vanilla and Devil's Food; Rollback"
+  },
+  {
+   "id": "icing",
+   "product": "Betty Crocker Creamy Deluxe Frosting, Chocolate",
+   "size": "450 g",
+   "price": 1.87,
+   "regular": 2.27,
+   "unit": "each",
+   "match": "exact",
+   "note": "Rollback"
+  },
+  {
+   "id": "canned_corn",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "canned_peas",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "kidney_beans",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "salmon_can",
+   "product": "Clover Leaf Pink Salmon",
+   "size": "213 g",
+   "price": 4.64,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size inferred from unit price $2.18/100g"
+  },
+  {
+   "id": "tomato_paste",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "chicken_broth",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "lasagna",
+   "product": "Catelli Classic, Lasagne Pasta",
+   "size": "500 g",
+   "price": 2.97,
+   "regular": 3.97,
+   "unit": "each",
+   "match": "exact",
+   "note": "size inferred from unit price 59\u00a2/100g"
+  },
+  {
+   "id": "macaroni",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "alfredo",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "bread_crumbs",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "cocoa",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "kcups",
+   "product": "Tim Hortons Original Blend Medium Roast Coffee Pods, K-Cups, 30 Count",
+   "size": "30 pods",
+   "price": 25.47,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "choc_milk",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "oat_milk",
+   "product": "Oatly Oat Drink Extra Creamy",
+   "size": "946 ml",
+   "price": 4.97,
+   "regular": null,
+   "unit": "each",
+   "match": "close",
+   "note": "only 946 ml Oatly cartons on walmart.ca; no 1.75-1.89 L oat beverage found"
+  },
+  {
+   "id": "string_cheese",
+   "product": "Black Diamond Cheestrings Marble Cheese",
+   "size": "16 units",
+   "price": 6.93,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "unit price $2.06/100g"
+  },
+  {
+   "id": "cheese_slices",
+   "product": "Kraft Singles Original Slices",
+   "size": "410 g",
+   "price": 5.48,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size inferred from unit price $1.34/100g (410 g = 24 slices)"
+  },
+  {
+   "id": "cottage",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "pudding",
+   "product": "Snack Pack Chocolate Pudding Cups, Box of 4",
+   "size": "4 x 99 g",
+   "price": 1.98,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": "size inferred from unit price 50\u00a2/100g (396 g)"
+  },
+  {
+   "id": "croissant",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "english_muffin",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "hotdog_buns",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "pita",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "naan",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "donuts",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "cookies_bakery",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "ground_turkey",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "sausage",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "deli_turkey",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "pepperoni",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "chicken_strips",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "dumplings",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "mozza_sticks",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "burritos",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "lasagna_frozen",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "frozen_meal",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "burgers",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "ice_cream_bars",
+   "product": "DRUMSTICK Vanilla",
+   "size": "4 x 140 ml",
+   "price": 6.77,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "popsicles",
+   "product": "Popsicle Orange, Cherry & Grape Ice Pops",
+   "size": "18 x 48 ml",
+   "price": 5.98,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "frozen_mango",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "root_beer",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "iced_tea",
+   "product": "Nestea Lemon Iced Tea",
+   "size": "12 x 341 ml",
+   "price": 8.47,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "apple_juice",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  },
+  {
+   "id": "lemonade",
+   "product": "Minute Maid No Sugar Added Lemonade",
+   "size": "1.54 L",
+   "price": 3.77,
+   "regular": 4.77,
+   "unit": "each",
+   "match": "close",
+   "note": "no-sugar-added variant; regular Minute Maid lemonade not shown on brand page"
+  },
+  {
+   "id": "juice_boxes",
+   "product": "Oasis Apple Juice Boxes",
+   "size": "8 x 200 ml",
+   "price": 4.48,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "water_big",
+   "product": "",
+   "size": "",
+   "price": null,
+   "regular": null,
+   "unit": "each",
+   "match": "none",
+   "note": "not found; walmart.ca keyword pages blocked (robots) or no match"
+  }
+ ]
+}

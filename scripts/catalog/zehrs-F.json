@@ -1,0 +1,8056 @@
+{
+ "store": "zehrs",
+ "rows": "round F (Oct 21): more items sold at 3+ chains",
+ "items": [
+  {
+   "id": "kitkat_single",
+   "product": "Nestlé Kitkat 4-Finger Wafer Bar, Milk Chocolate",
+   "size": "45 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "aero_single",
+   "product": "Nestlé Aero Milk Chocolate Bar",
+   "size": "42 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "caramilk",
+   "product": "Cadbury CARAMILK Chocolatey Candy Bars, Caramel",
+   "size": "50 g",
+   "price": 1.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mars_bar",
+   "product": "Mars Peanut Free Chocolate Candy Bar, Full Size Bar",
+   "size": "52 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "twix",
+   "product": "Twix Caramel Cookie Chocolate Candy Bar, Full Size Bar",
+   "size": "50 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oh_henry",
+   "product": "Oh Henry! Chocolatey Full Size Candy Bar",
+   "size": "58 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "coffee_crisp",
+   "product": "Nestlé Coffee Crisp Wafer Bar",
+   "size": "50 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kitkat_chunky_4pk",
+   "product": "Nestlé Kitkat Chunky Chocolate Wafer Bar, Multipack",
+   "size": "196 g",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "reeses_family",
+   "product": "Reese's Family Size Candy Bar",
+   "size": "120 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cinnamon_toast",
+   "product": "General Mills Cinnamon Toast Crunch Breakfast Cereal",
+   "size": "354 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cinnamon_toast_fam",
+   "product": "General Mills Cinnamon Toast Crunch Breakfast Cereal, Family Size",
+   "size": "591 g",
+   "price": 6.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lucky_charms",
+   "product": "General Mills Lucky Charms Breakfast Cereal with Marshmallows",
+   "size": "300 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lucky_charms_fam",
+   "product": "General Mills Lucky Charms Breakfast Cereal, Family Size",
+   "size": "526 g",
+   "price": 6.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rice_krispies",
+   "product": "Kelloggs Rice Krispies Cereal",
+   "size": "340 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "corn_pops",
+   "product": "Kelloggs Corn Pops Cereal",
+   "size": "300 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oreo_mini",
+   "product": "Christie OREO, Mini Original Chocolate Sandwich Cookies",
+   "size": "150 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chips_ahoy_mini",
+   "product": "Christie Chips Ahoy! Mini Chocolate Chip Cookie Snack Packs",
+   "size": "156 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chips_ahoy_rainbow",
+   "product": "Christie Chips Ahoy! Rainbow Chocolate Chip Cookies, 6 Mini Snak Pak",
+   "size": "144 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "celebration",
+   "product": "Leclerc Celebration Butter Cookies Milk Chocolate",
+   "size": "240 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "digestive",
+   "product": "Christie Family Digestive Cookie Biscuit",
+   "size": "300 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_decadent",
+   "product": "President's Choice The Decadent Chocolate Chip Cookie",
+   "size": "300 g",
+   "price": 4.5,
+   "regular": 5.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ritz_family",
+   "product": "Christie Ritz Original Crackers, Family Size",
+   "size": "350 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "premium_plus",
+   "product": "Christie Premium Plus Salted Tops Crackers",
+   "size": "450 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "wheat_thins",
+   "product": "Christie WHEAT THINS Multigrain Crackers",
+   "size": "180 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "toppables",
+   "product": "Christie Toppables Crackers",
+   "size": "454 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pretzel_crisps",
+   "product": "The Snack Factory Pretzel Crisps, Original",
+   "size": "200 g",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "club_crackers",
+   "product": "Keebler Original Crackers",
+   "size": "391 g",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "garbage_bags",
+   "product": "Glad Black Garbage Bags - Regular 74 Litres",
+   "size": "40 ea",
+   "price": 11.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kitchen_bags",
+   "product": "Glad White Tall 45 L 30 Bags",
+   "size": "30 ea",
+   "price": 8.0,
+   "regular": 9.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_kitchen_bags",
+   "product": "No Name Regular Quick-Tie Kitchen Garbage Bags",
+   "size": "48 ea",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ziploc_freezer",
+   "product": "Ziploc Freezer Bags Large, with Stay Open Technology",
+   "size": "16 ea",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ziploc_sandwich",
+   "product": "Ziploc Sandwich Bags, with Grip 'n Seal Technology",
+   "size": "100 ea",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ziploc_snack",
+   "product": "Ziploc Snack Bags, with Grip 'n Seal Technology",
+   "size": "100 ea",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_sandwich_bags",
+   "product": "No Name Zipper Sandwich Bags",
+   "size": "100 ea",
+   "price": 2.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_freezer_bags",
+   "product": "No Name Medium Zipper Freezer Bags",
+   "size": "40 ea",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "foil_nn",
+   "product": "No Name Aluminum Foil, 50 ft",
+   "size": "1 ea",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "foil_alcan",
+   "product": "Alcan Aluminum Foil 50 feet",
+   "size": "1 ea",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "foil_nn_100",
+   "product": "No Name Aluminum Foil 100 ft",
+   "size": "1 ea",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tissue_nn",
+   "product": "No Name Facial Tissues 2 Ply 80 Pack",
+   "size": "80 ea",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tissue_royale",
+   "product": "Royale Velour Lotion Facial Tissue, 1 Cube Box",
+   "size": "54 ea",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tissue_pc_6",
+   "product": "President's Choice 3-Ply Hypoallergenic Facial Tissues, 6 Boxes",
+   "size": "6 x 78",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "colgate_cavity",
+   "product": "Colgate Cavity Protection Fluoride Toothpaste, Winterfresh",
+   "size": "95 ml",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "colgate_optic",
+   "product": "Colgate Optic White Stain Fighter Whitening Toothpaste Gel",
+   "size": "90 ml",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sensodyne_fresh",
+   "product": "Sensodyne Extra Fresh Toothpaste",
+   "size": "75 ml",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sensodyne_white",
+   "product": "Sensodyne Brilliant Whitening Toothpaste For Sensitive Teeth",
+   "size": "100 ml",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "crest_3d_3pk",
+   "product": "Crest 3D White Advanced Whitening Toothpaste Radiant Mint, Pack of 3",
+   "size": "210 ml",
+   "price": 11.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "activia_12",
+   "product": "Activia Probiotic Yogurt, Strawberry/Blueberry/Raspberry/Peach",
+   "size": "12x100 g",
+   "price": 8.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "activia_vanilla",
+   "product": "Activia Probiotic Yogurt, Vanilla",
+   "size": "650 g",
+   "price": 4.0,
+   "regular": 4.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "iogo_16",
+   "product": "IOGO Strawberry Raspberry Blueberry Vanilla Yogurt Cups 1%",
+   "size": "16x100 g",
+   "price": 9.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "iogo_2kg",
+   "product": "IOGO Yogurt Vanilla 1.5% M.F.",
+   "size": "2 kg",
+   "price": 12.0,
+   "regular": 13.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "astro_plain",
+   "product": "Astro Original Balkan Style Plain Yogurt 6%",
+   "size": "750 g",
+   "price": 3.47,
+   "regular": 3.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dr_pepper",
+   "product": "Dr Pepper Soda",
+   "size": "12x355 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fanta_strawberry",
+   "product": "FANTA Soda Strawberry Fridge Pack Cans",
+   "size": "12x355 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sprite_zero",
+   "product": "Sprite Lemon Lime Soda Zero Sugar Fridge Pack Cans",
+   "size": "12x355 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_cream_soda",
+   "product": "President's Choice Cream Soda 12 Pack",
+   "size": "12x355 ml",
+   "price": 6.49,
+   "regular": 6.75,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lays_dill",
+   "product": "Lay's Dill Pickle Flavoured Potato Chips",
+   "size": "220 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lays_sco",
+   "product": "Lay's Sour Cream & Onion Flavoured Potato Chips",
+   "size": "220 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lays_wavy",
+   "product": "Lay's Wavy Original Potato Chips",
+   "size": "235 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "doritos_jalapeno",
+   "product": "Doritos Jalapeño & Cheddar flavoured tortilla chips",
+   "size": "235 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_ripple",
+   "product": "No Name Regular Ripple Cut Potato Chips",
+   "size": "200 g",
+   "price": 1.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_all_dressed",
+   "product": "No Name All Dressed Flavour Potato Chips",
+   "size": "200 g",
+   "price": 1.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_kettle",
+   "product": "President's Choice Original Flavour Kettle Cooked Potato Chips",
+   "size": "200 g",
+   "price": 2.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ristorante_pep",
+   "product": "Dr Oetker Ristorante Thin Crust Pepperoni Pizza",
+   "size": "320 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casa_mama_pep",
+   "product": "Dr Oetker Casa di Mama Pepperoni Pizza",
+   "size": "395 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casa_mama_hawaiian",
+   "product": "Dr Oetker Casa di Mama Hawaiian Pizza",
+   "size": "400 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "red_baron_pep",
+   "product": "RED BARON Pepperoni Classic Crust Frozen Pizza",
+   "size": "584 g",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_woodfired",
+   "product": "President's Choice Wood Fired Pepperoni Pizza",
+   "size": "379 g",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pizza_bites",
+   "product": "Pillsbury Pizza Bites Pizza Snacks Pepperoni",
+   "size": "693 g",
+   "price": 6.0,
+   "regular": 7.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pizza_pops_cheese",
+   "product": "Pillsbury Pizza Pops 3 Cheese Flavour, 4 ct",
+   "size": "380 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "haagen_vanilla",
+   "product": "Haagen Dazs Vanilla Bean Ice Cream",
+   "size": "450 ml",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "haagen_choc",
+   "product": "Haagen Dazs EXTRAAZ Chocolate Fudge Truffle Ice Cream",
+   "size": "450 ml",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "breyers_fv",
+   "product": "Breyers French Vanilla Ice Cream",
+   "size": "1.41 L",
+   "price": 4.0,
+   "regular": 5.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chapmans_fv",
+   "product": "Chapmans Premium French Vanilla Ice Cream",
+   "size": "2 L",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chapmans_wolf",
+   "product": "Chapmans Premium Wolf Pass Ice Cream",
+   "size": "2 L",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "classico_tb",
+   "product": "Classico Tomato & Basil Pasta Sauce",
+   "size": "600 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "classico_4cheese",
+   "product": "Classico Four Cheese Pasta Sauce",
+   "size": "600 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "classico_marinara",
+   "product": "Classico Sweet Basil Marinara Pasta Sauce",
+   "size": "600 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_garlic_sauce",
+   "product": "President's Choice Roasted Garlic Pasta Sauce",
+   "size": "600 ml",
+   "price": 3.0,
+   "regular": 4.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_marinara",
+   "product": "President's Choice Marinara Pasta Sauce",
+   "size": "600 ml",
+   "price": 3.0,
+   "regular": 4.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "faita_rosee",
+   "product": "Stefano Faita Rosée Pasta Sauce",
+   "size": "648 ml",
+   "price": 8.0,
+   "regular": 8.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_marble_400",
+   "product": "No Name Marble Farmer's Cheese",
+   "size": "400 g",
+   "price": 4.88,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_marble_700",
+   "product": "No Name Marble Farmer's Cheese",
+   "size": "700 g",
+   "price": 9.0,
+   "regular": 10.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_triple_cheddar",
+   "product": "President's Choice Triple Cheddar Shredded Cheese Blend",
+   "size": "320 g",
+   "price": 6.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "violife_shreds",
+   "product": "Violife Dairy Free Cheddar Cheese Shreds",
+   "size": "200 g",
+   "price": 5.5,
+   "regular": 6.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ch_14grain",
+   "product": "Country Harvest 14 Grain Bread",
+   "size": "600 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ch_protein",
+   "product": "Country Harvest Whole Grain & Protein Blend Bread",
+   "size": "600 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ace_sourdough",
+   "product": "ACE Sourdough Bistro",
+   "size": "595 g",
+   "price": 5.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "wonder_white",
+   "product": "Wonder White Bread",
+   "size": "675 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ditaliano_white",
+   "product": "D'Italiano Thick Slice Original White Bread",
+   "size": "675 g",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "allens_apple_1l",
+   "product": "Allen's Pure Apple Juice Low Acid",
+   "size": "1 L",
+   "price": 2.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oasis_orange",
+   "product": "Oasis Orange Pure Breakfast Juice",
+   "size": "960 ml",
+   "price": 1.99,
+   "regular": 2.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oasis_tropical",
+   "product": "Oasis Tropical Passion Fruit Juice",
+   "size": "960 ml",
+   "price": 1.99,
+   "regular": 2.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_oj",
+   "product": "President's Choice Pulp Free Orange Juice",
+   "size": "2.5 L",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_peach_lemonade",
+   "product": "President's Choice Peach Lemonade",
+   "size": "1.89 L",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "allens_punch",
+   "product": "Allen's Fruit punch cocktail",
+   "size": "1 L",
+   "price": 2.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "maxwell_orig",
+   "product": "Maxwell House Medium Original Roast Ground Coffee",
+   "size": "864 g",
+   "price": 21.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "maxwell_md",
+   "product": "Maxwell House Medium Dark Roast Ground Coffee",
+   "size": "900 g",
+   "price": 21.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_great_canadian",
+   "product": "President's Choice The Great Canadian Light to Medium Roast Fine Grind Coffee",
+   "size": "930 g",
+   "price": 24.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tims_coffee",
+   "product": "Tim Hortons 100% Arabica Ground Coffee Fine Grind",
+   "size": "875 g",
+   "price": 32.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nabob_trad",
+   "product": "Nabob Traditional Fine Grind Ground Coffee",
+   "size": "930 g",
+   "price": 26.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_dipped_bars",
+   "product": "President's Choice Dipped and Chewy Chocolate Chip Granola Bars",
+   "size": "5 bars",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_chewy_bars",
+   "product": "President's Choice Rich & Chewy Chocolate Chip Granola Bars",
+   "size": "5 x 24 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nv_smores",
+   "product": "Nature Valley Lunchbox Granola Bars, S'mores, 5 ct",
+   "size": "130 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nv_pretzel_nut",
+   "product": "Nature Valley Sweet and Salty Pretzel Nut Granola Bars, 5 Bars",
+   "size": "170 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nv_sweet_salty_28",
+   "product": "Nature Valley Sweet & Salty Variety Pack 28 Bars",
+   "size": "980 g",
+   "price": 12.0,
+   "regular": 12.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "madegood_berry",
+   "product": "Made Good Mixed Berry Granola Bars 5pk",
+   "size": "120 g",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nutrigrain",
+   "product": "Kelloggs Bars, Strawberry, 8 Bars",
+   "size": "295 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "quaker_chewy_big",
+   "product": "Quaker Chewy Chocolate Chip Granola Bars",
+   "size": "960 g",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tide_48",
+   "product": "Tide Liquid Detergent, Original 48 lds",
+   "size": "1.77 L",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tide_100",
+   "product": "Tide Liquid Detergent, Original 100 lds",
+   "size": "3.9 L",
+   "price": 29.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tide_free_48",
+   "product": "Tide Free & Gentle Laundry Detergent Liquid, 48 loads",
+   "size": "1.86 L",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gain_100",
+   "product": "Gain Laundry Detergent Liquid, Moonlight Breeze Scent, 100 Loads",
+   "size": "4.25 L",
+   "price": 15.0,
+   "regular": 18.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tide_simply",
+   "product": "Tide Simply All-In-One Liquid Laundry Detergent, Refreshing Breeze",
+   "size": "2.72 L",
+   "price": 14.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ecomax_laundry",
+   "product": "Eco-Max Laundry Wash, Natural Lavender",
+   "size": "3 L",
+   "price": 14.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_clean",
+   "product": "Mr. Clean All Purpose Cleaner, Meadows & Rain",
+   "size": "1.21 L",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pine_sol",
+   "product": "Pine Sol Multi-Surface Cleaner, Original",
+   "size": "1.41 L",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lysol_apc",
+   "product": "Lysol All Purpose Cleaner - Lemon",
+   "size": "650 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_apc",
+   "product": "No Name Lemon Disinfectant All-Purpose Cleaner",
+   "size": "1.3 L",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "windex",
+   "product": "Windex Original Glass and Window Cleaner Trigger",
+   "size": "765 ml",
+   "price": 5.5,
+   "regular": 7.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pink_stuff",
+   "product": "The Pink Stuff The Miracle Cleaning Paste",
+   "size": "500 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "maynards_swedish",
+   "product": "Maynards Swedish Berries",
+   "size": "154 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "wine_gums",
+   "product": "Maynards Wine Gums",
+   "size": "154 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fuzzy_peach",
+   "product": "Maynards Fuzzy Peach",
+   "size": "154 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fuzzy_peach_308",
+   "product": "Maynards Fuzzy Peach, large bag",
+   "size": "308 g",
+   "price": 3.0,
+   "regular": 5.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "haribo_goldbears",
+   "product": "Haribo Goldbears",
+   "size": "175 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "haribo_twin_snakes",
+   "product": "Haribo Twin Snakes",
+   "size": "175 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "carnaby_mixed",
+   "product": "Carnaby mixed gummies",
+   "size": "125 g",
+   "price": 1.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sour_patch_funmix",
+   "product": "Sour Patch Kids Fun Mix",
+   "size": "315 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "aveeno_sensitive",
+   "product": "Aveeno Skin Relief body wash, sensitive",
+   "size": "532 mL",
+   "price": 10.5,
+   "regular": 13.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "aveeno_975",
+   "product": "Aveeno Skin Relief body wash, large",
+   "size": "975 mL",
+   "price": 19.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nivea_roses",
+   "product": "Nivea Rose & Almond Oil body wash",
+   "size": "500 mL",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nivea_orange",
+   "product": "Nivea Orange Blossom body wash",
+   "size": "500 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nivea_men",
+   "product": "Nivea Men body wash",
+   "size": "500 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dove_shea",
+   "product": "Dove Shea Butter body wash",
+   "size": "325 mL",
+   "price": 6.0,
+   "regular": 7.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "softsoap_creamy",
+   "product": "Softsoap Creamy body wash",
+   "size": "591 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "indomie_5",
+   "product": "Indomie Mi Goreng fried noodles, 5-pack",
+   "size": "5 x 85 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rooster_400",
+   "product": "Rooster instant noodles",
+   "size": "400 g",
+   "price": 2.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ichiban_chicken",
+   "product": "Sapporo Ichiban noodles, chicken",
+   "size": "100 g",
+   "price": 1.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ichiban_original",
+   "product": "Sapporo Ichiban noodles, original",
+   "size": "100 g",
+   "price": 1.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cheesy_ramen_mild",
+   "product": "Kraft Cheesy Ramen bowl, mild heat",
+   "size": "95 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_noodle_chicken",
+   "product": "No Name chicken instant noodle soup",
+   "size": "85 g",
+   "price": 0.39,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lady_speedstick",
+   "product": "Lady Speed Stick Invisible antiperspirant, Cool Fresh",
+   "size": "70 g",
+   "price": 2.5,
+   "regular": 4.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lady_speedstick_straw",
+   "product": "Lady Speed Stick Fresh Infusions, Strawberry Splash",
+   "size": "45 g",
+   "price": 2.5,
+   "regular": 4.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dove_powder",
+   "product": "Dove antiperspirant stick, Powder",
+   "size": "74 g",
+   "price": 5.49,
+   "regular": 5.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dove_coconut",
+   "product": "Dove Advanced Care deodorant, Caring Coconut",
+   "size": "45 g",
+   "price": 5.49,
+   "regular": 5.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oldspice_puresport",
+   "product": "Old Spice High Endurance deodorant, Pure Sport",
+   "size": "85 g",
+   "price": 4.79,
+   "regular": 5.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oldspice_bearglove",
+   "product": "Old Spice deodorant, Bearglove",
+   "size": "85 g",
+   "price": 7.59,
+   "regular": 9.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nivea_rollon",
+   "product": "Nivea Invisible Black & White roll-on, Water Lily",
+   "size": "50 mL",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hs_classic",
+   "product": "Head & Shoulders Classic Clean shampoo",
+   "size": "370 mL",
+   "price": 7.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hs_green_apple",
+   "product": "Head & Shoulders Green Apple shampoo",
+   "size": "370 mL",
+   "price": 5.94,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tres_botanique",
+   "product": "TRESemmé Botanique Nourish & Replenish shampoo",
+   "size": "828 mL",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tres_rich",
+   "product": "TRESemmé Rich Moisture shampoo",
+   "size": "828 mL",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tres_rich_115",
+   "product": "TRESemmé Rich Moisture shampoo, large",
+   "size": "1.15 L",
+   "price": 11.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "loreal_hyaluron",
+   "product": "L'Oréal Paris Hyaluron Plump shampoo",
+   "size": "375 mL",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "loreal_dream",
+   "product": "L'Oréal Paris Dream Lengths shampoo",
+   "size": "375 mL",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pantene_moisture",
+   "product": "Pantene Daily Moisture Renewal shampoo",
+   "size": "355 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pantene_volume",
+   "product": "Pantene Sheer Volume shampoo",
+   "size": "355 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pantene_530",
+   "product": "Pantene Pro-V Daily Moisture Renewal shampoo, pump",
+   "size": "530 mL",
+   "price": 6.64,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fructis_strong",
+   "product": "Garnier Fructis Grow Strong shampoo",
+   "size": "370 mL",
+   "price": 4.0,
+   "regular": 5.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "aussie_moist",
+   "product": "Aussie Miracle Moist shampoo",
+   "size": "778 mL",
+   "price": 12.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "native_shampoo",
+   "product": "Native Coconut & Vanilla shampoo",
+   "size": "488 mL",
+   "price": 14.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_bbq_orig",
+   "product": "Kraft Original BBQ sauce",
+   "size": "455 mL",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_bbq_rib",
+   "product": "Kraft Chicken & Rib BBQ sauce",
+   "size": "455 mL",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "diana_orig",
+   "product": "Diana Original barbecue sauce",
+   "size": "500 mL",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "diana_rib",
+   "product": "Diana Rib & Chicken sauce",
+   "size": "500 mL",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "diana_honey_garlic",
+   "product": "Diana Honey Garlic barbecue sauce",
+   "size": "500 mL",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bullseye_renegade",
+   "product": "Bull's-Eye Chicken & Rib Renegade BBQ sauce",
+   "size": "425 mL",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bullseye_hickory",
+   "product": "Bull's-Eye Hickory BBQ sauce",
+   "size": "425 mL",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_greek",
+   "product": "Kraft Greek with Feta & Oregano dressing",
+   "size": "425 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_ranchers",
+   "product": "Kraft Rancher's Choice dressing",
+   "size": "425 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_1000",
+   "product": "Kraft Thousand Island dressing",
+   "size": "425 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_golden_ital",
+   "product": "Kraft Golden Italian dressing",
+   "size": "425 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_balsamic",
+   "product": "Kraft Balsamic dressing",
+   "size": "425 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_caesar",
+   "product": "Kraft Creamy Caesar dressing",
+   "size": "425 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_catalina",
+   "product": "Kraft Catalina dressing",
+   "size": "425 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_poppyseed",
+   "product": "Kraft Creamy Poppyseed dressing",
+   "size": "425 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_fig",
+   "product": "Kraft Fig Balsamic dressing & marinade",
+   "size": "355 mL",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_lemon_garlic",
+   "product": "PC Lemon Garlic vinaigrette",
+   "size": "350 mL",
+   "price": 4.5,
+   "regular": 5.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_green_goddess",
+   "product": "PC Green Goddess dressing",
+   "size": "475 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "renees_caesar",
+   "product": "Renée's Caesar dressing",
+   "size": "355 mL",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "renees_light_caesar",
+   "product": "Renée's Light Caesar dressing",
+   "size": "355 mL",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mccain_straight",
+   "product": "McCain Straight Cut fries",
+   "size": "800 g",
+   "price": 3.0,
+   "regular": 3.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mccain_crinkle",
+   "product": "McCain Crinkle Cut fries",
+   "size": "800 g",
+   "price": 3.0,
+   "regular": 3.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mccain_shoestring",
+   "product": "McCain Shoestring fries",
+   "size": "800 g",
+   "price": 3.0,
+   "regular": 3.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_mixed_veg_2kg",
+   "product": "No Name mixed vegetables, club size",
+   "size": "2 kg",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_california_2kg",
+   "product": "No Name California blend vegetables, club size",
+   "size": "2 kg",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_mirepoix",
+   "product": "No Name mirepoix (carrot, celery, onion)",
+   "size": "750 g",
+   "price": 3.0,
+   "regular": 3.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gg_mixed",
+   "product": "Green Giant mixed vegetables",
+   "size": "750 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gg_peas",
+   "product": "Green Giant Summer Sweet peas",
+   "size": "750 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_broccoli_frz",
+   "product": "PC broccoli florets, frozen",
+   "size": "500 g",
+   "price": 3.0,
+   "regular": 4.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_squash_frz",
+   "product": "PC butternut squash chunks, frozen",
+   "size": "750 g",
+   "price": 3.0,
+   "regular": 4.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "franks_680",
+   "product": "Frank's RedHot original, large",
+   "size": "680 mL",
+   "price": 9.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cholula",
+   "product": "Cholula Original hot sauce",
+   "size": "150 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "taco_bell_hot",
+   "product": "Taco Bell Hot Sauce",
+   "size": "207 mL",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "taco_bell_fire",
+   "product": "Taco Bell Fire Sauce",
+   "size": "207 mL",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "taco_bell_mild",
+   "product": "Taco Bell Mild Sauce",
+   "size": "207 mL",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "valentina",
+   "product": "Valentina hot sauce",
+   "size": "370 mL",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_louisiana",
+   "product": "PC Authentic Louisiana hot sauce",
+   "size": "177 mL",
+   "price": 3.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "grace_hot",
+   "product": "Grace hot pepper sauce, large",
+   "size": "170 mL",
+   "price": 3.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tabasco",
+   "product": "Tabasco hot sauce",
+   "size": "57 mL",
+   "price": 4.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "heinz_sriracha_mayo",
+   "product": "Heinz Sriracha mayonnaise-style sauce",
+   "size": "340 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cream_mushroom",
+   "product": "Campbell's Cream of Mushroom condensed soup",
+   "size": "284 mL",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tomato_soup",
+   "product": "Campbell's Tomato condensed soup",
+   "size": "284 mL",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "veg_soup",
+   "product": "Campbell's Vegetable condensed soup",
+   "size": "284 mL",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cream_chicken",
+   "product": "Campbell's Cream of Chicken soup",
+   "size": "284 mL",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "beef_barley",
+   "product": "Campbell's Beef with Vegetables & Barley soup",
+   "size": "284 mL",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chunky_chicken",
+   "product": "Campbell's Chunky Chicken with Noodles",
+   "size": "515 mL",
+   "price": 3.0,
+   "regular": 3.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "red_rose_70",
+   "product": "Red Rose orange pekoe tea, 70 bags",
+   "size": "70 bags",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "red_rose_210",
+   "product": "Red Rose orange pekoe tea, 210 bags",
+   "size": "210 bags",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tetley_216",
+   "product": "Tetley orange pekoe tea, 216 bags",
+   "size": "216 bags",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tetley_144",
+   "product": "Tetley orange pekoe tea, 144 bags",
+   "size": "144 bags",
+   "price": 10.0,
+   "regular": 11.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tetley_decaf",
+   "product": "Tetley decaf orange pekoe tea, 80 bags",
+   "size": "80 bags",
+   "price": 10.0,
+   "regular": 10.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tetley_eb",
+   "product": "Tetley English Breakfast tea, 60 bags",
+   "size": "60 bags",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "yorkshire_80",
+   "product": "Yorkshire Tea, 80 bags",
+   "size": "80 bags",
+   "price": 8.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "yorkshire_gold",
+   "product": "Yorkshire Gold tea, 80 bags",
+   "size": "80 bags",
+   "price": 9.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_tea_100",
+   "product": "No Name 2-cup black tea, 100 bags",
+   "size": "100 bags",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_tea_216",
+   "product": "PC orange pekoe tea, club size 216 bags",
+   "size": "216 bags",
+   "price": 9.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "twinings_variety",
+   "product": "Twinings variety pack tea, 20 bags",
+   "size": "20 bags",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mich_lasagna",
+   "product": "Michelina's Lasagna with Meat Sauce",
+   "size": "255 g",
+   "price": 1.35,
+   "regular": 2.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mich_fettuccine",
+   "product": "Michelina's Fettuccine Alfredo",
+   "size": "284 g",
+   "price": 1.35,
+   "regular": 2.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mich_lasagna_alf",
+   "product": "Michelina's Lasagna Alfredo with Broccoli & Cheese",
+   "size": "255 g",
+   "price": 1.35,
+   "regular": 2.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mich_mac",
+   "product": "Michelina's Macaroni and Cheese",
+   "size": "255 g",
+   "price": 1.35,
+   "regular": 2.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mich_fett_chicken",
+   "product": "Michelina's Fettuccine Alfredo with Chicken & Broccoli",
+   "size": "227 g",
+   "price": 1.35,
+   "regular": 2.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mich_mac_beef",
+   "product": "Michelina's Macaroni and Beef",
+   "size": "255 g",
+   "price": 1.35,
+   "regular": 2.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mich_bolognese",
+   "product": "Michelina's Spaghetti Bolognese",
+   "size": "255 g",
+   "price": 1.35,
+   "regular": 2.25,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dawn_ultra",
+   "product": "Dawn Ultra dish soap, Original",
+   "size": "502 mL",
+   "price": 2.5,
+   "regular": 4.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dawn_platinum",
+   "product": "Dawn Platinum dish soap, Fresh Rain",
+   "size": "431 mL",
+   "price": 2.5,
+   "regular": 4.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dawn_ezsqueeze",
+   "product": "Dawn Ultra EZ-Squeeze dish soap",
+   "size": "443 mL",
+   "price": 2.5,
+   "regular": 3.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dawn_plat_535",
+   "product": "Dawn Platinum EZ-Squeeze dish soap",
+   "size": "535 mL",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dawn_jug_198",
+   "product": "Dawn Ultra refill jug",
+   "size": "1.98 L",
+   "price": 9.0,
+   "regular": 10.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dawn_jug_264",
+   "product": "Dawn Ultra refill jug, large",
+   "size": "2.64 L",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_dish_sensitive",
+   "product": "PC Sensitive Skin dish soap",
+   "size": "1 L",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "palmolive_orange",
+   "product": "Palmolive Essential Clean dish soap, Orange",
+   "size": "828 mL",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "palmolive_orig",
+   "product": "Palmolive Essential Clean dish soap, Original",
+   "size": "828 mL",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ecomax_dish",
+   "product": "Eco-Max Orange dish wash",
+   "size": "740 mL",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_dish_5l",
+   "product": "No Name Lemon dish soap, club pack",
+   "size": "5 L",
+   "price": 12.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kd_three_cheese",
+   "product": "Kraft Dinner Three Cheese",
+   "size": "175 g",
+   "price": 1.0,
+   "regular": 2.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kd_white_cheddar",
+   "product": "Kraft Dinner White Cheddar",
+   "size": "175 g",
+   "price": 1.0,
+   "regular": 2.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kd_extra_creamy",
+   "product": "Kraft Dinner Extra Creamy",
+   "size": "175 g",
+   "price": 1.0,
+   "regular": 2.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_white_cheddar_mac",
+   "product": "PC White Cheddar Deluxe mac and cheese",
+   "size": "200 g",
+   "price": 1.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_deluxe_cheddar_mac",
+   "product": "PC Deluxe Cheddar mac and cheese",
+   "size": "225 g",
+   "price": 1.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_extra_cheesy_113",
+   "product": "PC Extra Cheesy mac and cheese, 1.13 kg box",
+   "size": "1.13 kg",
+   "price": 12.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_extra_cheesy_2kg",
+   "product": "PC Extra Cheesy mac and cheese, club size",
+   "size": "2 kg",
+   "price": 17.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "annies_white",
+   "product": "Annie's Shells & White Cheddar",
+   "size": "170 g",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "annies_aged",
+   "product": "Annie's Shells & Real Aged Cheddar",
+   "size": "170 g",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_rosemary_crackers",
+   "product": "PC Rosemary crackers",
+   "size": "185 g",
+   "price": 3.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_sea_salt_crackers",
+   "product": "PC Sea Salt crackers",
+   "size": "185 g",
+   "price": 3.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "wheat_thins_multi",
+   "product": "Wheat Thins Multigrain crackers",
+   "size": "180 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "janes_nuggets",
+   "product": "Janes Pub Style chicken nuggets",
+   "size": "700 g",
+   "price": 15.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "janes_popcorn",
+   "product": "Janes popcorn chicken",
+   "size": "700 g",
+   "price": 15.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "janes_strips",
+   "product": "Janes Pub Style chicken strips",
+   "size": "700 g",
+   "price": 15.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_pub_nuggets",
+   "product": "PC Pub Recipe chicken nuggets",
+   "size": "700 g",
+   "price": 8.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dino_nuggets",
+   "product": "Breaded white meat chicken dino nuggets",
+   "size": "1.5 kg",
+   "price": 10.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "popcorn_bites",
+   "product": "Popcorn chicken bites, large bag",
+   "size": "1.13 kg",
+   "price": 10.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_pb_1kg",
+   "product": "No Name smooth peanut butter",
+   "size": "1 kg",
+   "price": 5.0,
+   "regular": 5.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_pb_light",
+   "product": "No Name smooth light peanut butter",
+   "size": "1 kg",
+   "price": 5.0,
+   "regular": 5.75,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_pb_2kg",
+   "product": "No Name smooth peanut butter, club size",
+   "size": "2 kg",
+   "price": 11.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_pb_500",
+   "product": "No Name smooth peanut butter, small",
+   "size": "500 g",
+   "price": 3.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_pb_crunchy",
+   "product": "Kraft crunchy peanut butter",
+   "size": "1 kg",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_pb_light",
+   "product": "Kraft smooth light peanut butter",
+   "size": "1 kg",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_pb_2kg",
+   "product": "Kraft smooth peanut butter, 2 kg",
+   "size": "2 kg",
+   "price": 14.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_pb_500",
+   "product": "Kraft smooth peanut butter, 500 g",
+   "size": "500 g",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_only_peanuts",
+   "product": "Kraft Only Peanuts natural peanut butter",
+   "size": "750 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_just_peanuts",
+   "product": "PC Blue Menu Just Peanuts peanut butter",
+   "size": "750 g",
+   "price": 6.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_organic_pb",
+   "product": "PC Organics smooth peanut butter",
+   "size": "500 g",
+   "price": 5.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "smuckers_straw",
+   "product": "Smucker's strawberry spread",
+   "size": "500 mL",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "smuckers_rasp",
+   "product": "Smucker's raspberry spread",
+   "size": "500 mL",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_straw_jam",
+   "product": "PC Pure strawberry jam",
+   "size": "500 mL",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_rasp_jam",
+   "product": "PC Pure raspberry jam",
+   "size": "500 mL",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bm_rasp",
+   "product": "Bonne Maman raspberry jam",
+   "size": "250 mL",
+   "price": 6.5,
+   "regular": 8.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bm_straw",
+   "product": "Bonne Maman strawberry jam",
+   "size": "250 mL",
+   "price": 6.5,
+   "regular": 8.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_jam_1l",
+   "product": "No Name strawberry jam, club size",
+   "size": "1 L",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "philly_brick",
+   "product": "Philadelphia Original brick cream cheese",
+   "size": "250 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "philly_tub",
+   "product": "Philadelphia Original cream cheese tub",
+   "size": "227 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "philly_herb",
+   "product": "Philadelphia Herb & Garlic cream cheese",
+   "size": "227 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "philly_light",
+   "product": "Philadelphia Light cream cheese",
+   "size": "227 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "philly_whipped",
+   "product": "Philadelphia Whipped cream cheese",
+   "size": "227 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "philly_340",
+   "product": "Philadelphia Original cream cheese, large tub",
+   "size": "340 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "philly_herb_340",
+   "product": "Philadelphia Herb & Garlic cream cheese, large tub",
+   "size": "340 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_cc_light",
+   "product": "No Name light cream cheese spread",
+   "size": "250 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_cc_spread",
+   "product": "No Name cream cheese spread",
+   "size": "227 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_cc_340",
+   "product": "No Name cream cheese spread, large",
+   "size": "340 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tre_stelle_cc",
+   "product": "Tre Stelle cream cheese, original",
+   "size": "200 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "violife_cc",
+   "product": "Violife dairy-free cream cheese",
+   "size": "200 g",
+   "price": 5.5,
+   "regular": 6.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_tortilla_orig",
+   "product": "PC Original tortillas, large pack",
+   "size": "650 g",
+   "price": 3.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_tortilla_med",
+   "product": "PC Original tortillas, medium",
+   "size": "340 g",
+   "price": 3.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_tortilla_medflour",
+   "product": "PC medium flour tortillas",
+   "size": "297 g",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_protein_tortilla",
+   "product": "PC protein tortillas",
+   "size": "342 g",
+   "price": 3.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casa_orig",
+   "product": "Casa Mendosa Original 10\" large tortillas",
+   "size": "640 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casa_ww",
+   "product": "Casa Mendosa whole wheat large tortillas",
+   "size": "640 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oep_taco_shells",
+   "product": "Old El Paso Stand 'n Stuff taco shells, 10 ct",
+   "size": "133 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tostitos_rounds",
+   "product": "Tostitos Rounds tortilla chips",
+   "size": "295 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tostitos_restaurant",
+   "product": "Tostitos Restaurant Style tortilla chips",
+   "size": "275 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ml_turkey",
+   "product": "Maple Leaf Natural Selections oven roasted turkey breast",
+   "size": "175 g",
+   "price": 7.0,
+   "regular": 8.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ml_bf_ham",
+   "product": "Maple Leaf Natural Selections Black Forest ham",
+   "size": "175 g",
+   "price": 7.0,
+   "regular": 8.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ml_chicken",
+   "product": "Maple Leaf Natural Selections oven roasted chicken breast",
+   "size": "175 g",
+   "price": 7.0,
+   "regular": 8.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ml_hickory_turkey",
+   "product": "Maple Leaf Natural Selections hickory smoked turkey",
+   "size": "175 g",
+   "price": 7.0,
+   "regular": 8.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ml_bf_ham_400",
+   "product": "Maple Leaf Natural Selections Black Forest ham, family size",
+   "size": "400 g",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_deli_assort",
+   "product": "PC deli assortment slices",
+   "size": "400 g",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pillers_duo",
+   "product": "Piller's ham & turkey duo, club size",
+   "size": "350 g",
+   "price": 10.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ziggys_ham",
+   "product": "Ziggy's Black Forest ham slices",
+   "size": "175 g",
+   "price": 4.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_bbq",
+   "product": "Pringles BBQ",
+   "size": "156 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_sv",
+   "product": "Pringles Salt & Vinegar",
+   "size": "156 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_buffalo",
+   "product": "Pringles Buffalo Ranch",
+   "size": "156 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_alldressed",
+   "product": "Pringles All Dressed",
+   "size": "156 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_ketchup",
+   "product": "Pringles Ketchup",
+   "size": "156 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_party_orig",
+   "product": "Pringles Party Stack Original",
+   "size": "179 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_party_sco",
+   "product": "Pringles Party Stack Sour Cream & Onion",
+   "size": "188 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_party_bbq",
+   "product": "Pringles Party Stack BBQ",
+   "size": "188 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_12pk",
+   "product": "Pringles Original snack stacks, 12 small tubs",
+   "size": "228 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_stacks_sco",
+   "product": "Pringles Sour Cream & Onion snack stacks, 12 small tubs",
+   "size": "228 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pringles_cups_24",
+   "product": "Pringles Original snack cups, 24 pack",
+   "size": "24 x 19 g",
+   "price": 12.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oc_maple_fam",
+   "product": "Oatmeal Crisp Maple Nut cereal, family size",
+   "size": "619 g",
+   "price": 6.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oc_berry",
+   "product": "Oatmeal Crisp Triple Berry cereal",
+   "size": "399 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oc_berry_fam",
+   "product": "Oatmeal Crisp Triple Berry cereal, family size",
+   "size": "570 g",
+   "price": 6.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oc_almond_fam",
+   "product": "Oatmeal Crisp Almond cereal, family size",
+   "size": "628 g",
+   "price": 6.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oc_vanilla",
+   "product": "Oatmeal Crisp Vanilla Protein cereal",
+   "size": "455 g",
+   "price": 6.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "quaker_maple_brown",
+   "product": "Quaker instant oatmeal, Maple & Brown Sugar",
+   "size": "344 g",
+   "price": 5.19,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "quaker_variety",
+   "product": "Quaker instant oatmeal, flavour variety",
+   "size": "314 g",
+   "price": 5.19,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "quaker_quick_1kg",
+   "product": "Quaker Quick Oats",
+   "size": "1 kg",
+   "price": 5.25,
+   "regular": 5.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_oats_club",
+   "product": "No Name quick oats, club size",
+   "size": "2.25 kg",
+   "price": 8.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_large_flake",
+   "product": "No Name large flake oats",
+   "size": "1 kg",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_organic_oats",
+   "product": "PC Organics quick rolled oats",
+   "size": "1 kg",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "monster_ultra_4",
+   "product": "Monster Energy Zero Ultra, 4 pack",
+   "size": "4 x 473 mL",
+   "price": 12.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "redbull_wild",
+   "product": "Red Bull Wild Berries, 4 pack",
+   "size": "4 x 250 mL",
+   "price": 11.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "alani_dream",
+   "product": "Alani Nu Dream Float energy drink",
+   "size": "355 mL",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "alani_peach",
+   "product": "Alani Nu Juicy Peach energy drink",
+   "size": "355 mL",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bloom_peach",
+   "product": "BLOOM Peach Mango energy drink",
+   "size": "355 mL",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gatorade_fp_8",
+   "product": "Gatorade Fruit Punch, 8 small bottles",
+   "size": "8 x 355 mL",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gatorade_zero_cherry",
+   "product": "Gatorade Zero Glacier Cherry, 6 pack",
+   "size": "6 x 591 mL",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gatorade_grape",
+   "product": "Gatorade Grape, 6 pack",
+   "size": "6 x 591 mL",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sour_patch_150",
+   "product": "Sour Patch Kids",
+   "size": "150 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sour_patch_315",
+   "product": "Sour Patch Kids, sharing size",
+   "size": "315 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "swedish_315",
+   "product": "Maynards Swedish Berries, sharing size",
+   "size": "315 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ferrero_assorted",
+   "product": "Ferrero Rocher assorted treats mix",
+   "size": "393 g",
+   "price": 12.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mm_peanut_800",
+   "product": "M&M's Peanut, pantry size bag",
+   "size": "800 g",
+   "price": 16.5,
+   "regular": 18.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nerds_clusters",
+   "product": "Nerds Gummy Clusters, rainbow",
+   "size": "142 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "barilla_farfalle",
+   "product": "Barilla Farfalle",
+   "size": "410 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "barilla_rotini",
+   "product": "Barilla Rotini",
+   "size": "410 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "barilla_penne",
+   "product": "Barilla Penne Rigate",
+   "size": "410 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "barilla_shells",
+   "product": "Barilla Conchiglie (shells)",
+   "size": "410 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "barilla_macaroni",
+   "product": "Barilla Cut Macaroni",
+   "size": "410 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "barilla_spaghetti",
+   "product": "Barilla Spaghetti",
+   "size": "410 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "barilla_cellentani",
+   "product": "Barilla Cellentani",
+   "size": "340 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "catelli_p_rotini",
+   "product": "Catelli Protein+ Rotini",
+   "size": "340 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "catelli_p_elbows",
+   "product": "Catelli Protein+ Elbows",
+   "size": "340 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "catelli_p_penne",
+   "product": "Catelli Protein+ Penne",
+   "size": "340 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "catelli_p_spaghetti",
+   "product": "Catelli Protein+ Spaghetti",
+   "size": "340 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "catelli_p_rigatoni",
+   "product": "Catelli Protein+ Rigatoni",
+   "size": "340 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "catelli_smart_rotini",
+   "product": "Catelli Smart rotini",
+   "size": "375 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "catelli_garlic_onion",
+   "product": "Catelli Garden Select garlic & onion pasta sauce",
+   "size": "600 mL",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rm_oil_3",
+   "product": "Rio Mare solid light tuna in olive oil, 3 pack",
+   "size": "3 x 80 g",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rm_water_3",
+   "product": "Rio Mare tuna in water, 3 pack",
+   "size": "3 x 80 g",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rm_chili",
+   "product": "Rio Mare tuna in olive oil, Italian chili",
+   "size": "195 g",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rm_filo",
+   "product": "Rio Mare tuna in olive oil, Filo d'olio",
+   "size": "195 g",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rm_lemon",
+   "product": "Rio Mare tuna in olive oil, lemon & pepper",
+   "size": "195 g",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rm_160",
+   "product": "Rio Mare tuna in olive oil",
+   "size": "160 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_flaked_tuna",
+   "product": "No Name flaked light tuna in water",
+   "size": "170 g",
+   "price": 1.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cl_skipjack",
+   "product": "Clover Leaf flaked light tuna, skipjack in water",
+   "size": "170 g",
+   "price": 2.39,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cl_albacore_flake",
+   "product": "Clover Leaf albacore white flaked tuna in water",
+   "size": "170 g",
+   "price": 4.25,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cl_solid_white",
+   "product": "Clover Leaf solid white albacore tuna in water",
+   "size": "170 g",
+   "price": 4.25,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cl_dill_lemon",
+   "product": "Clover Leaf flaked light tuna, dill & lemon",
+   "size": "85 g",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_white_700",
+   "product": "Minute Rice long grain white",
+   "size": "700 g",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_white_1400",
+   "product": "Minute Rice long grain white, 1.4 kg",
+   "size": "1.4 kg",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_white_2600",
+   "product": "Minute Rice long grain white, 2.6 kg",
+   "size": "2.6 kg",
+   "price": 14.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_brown_1200",
+   "product": "Minute Rice wholegrain brown",
+   "size": "1.2 kg",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_basmati_500",
+   "product": "Minute Rice quick cook basmati",
+   "size": "500 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_basmati_cups",
+   "product": "Minute Rice basmati cups",
+   "size": "250 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_fried_cups",
+   "product": "Minute Rice fried rice cups",
+   "size": "250 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_chicken_cups",
+   "product": "Minute Rice chicken & herb cups",
+   "size": "250 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_jasmine_cups",
+   "product": "Minute Rice jasmine cups",
+   "size": "125 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mr_veg_cups",
+   "product": "Minute Rice vegetable medley cups",
+   "size": "250 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tims_kcup_30",
+   "product": "Tim Hortons Original K-Cup pods",
+   "size": "30 pods",
+   "price": 28.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tims_variety_30",
+   "product": "Tim Hortons variety pack K-Cup pods",
+   "size": "30 pods",
+   "price": 28.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tims_kcup_12",
+   "product": "Tim Hortons Original K-Cup pods, 12 pack",
+   "size": "12 pods",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mccafe_30",
+   "product": "McCafé Premium Medium Dark K-Cup pods",
+   "size": "30 pods",
+   "price": 31.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kicking_horse_10",
+   "product": "Kicking Horse Three Sisters K-Cup pods",
+   "size": "10 pods",
+   "price": 16.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "krispy_kreme_30",
+   "product": "Krispy Kreme Doughnuts light roast K-Cup pods",
+   "size": "30 pods",
+   "price": 28.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pike_place_10",
+   "product": "Starbucks Pike Place K-Cup pods",
+   "size": "10 pods",
+   "price": 14.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_bagel_plain",
+   "product": "No Name plain bagels, 6 pack",
+   "size": "510 g",
+   "price": 2.5,
+   "regular": 2.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_bagel_everything",
+   "product": "No Name everything bagels",
+   "size": "480 g",
+   "price": 2.5,
+   "regular": 2.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bakery_bagel_plain",
+   "product": "In-store bakery plain bagels, 6 pack",
+   "size": "492 g",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bakery_bagel_everything",
+   "product": "In-store bakery everything bagels, 6 pack",
+   "size": "492 g",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bakery_bagel_herb",
+   "product": "In-store bakery herb 'n cheese bagels",
+   "size": "490 g",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ch_everything_bagel",
+   "product": "Country Harvest everything bagels",
+   "size": "450 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_supersoft_12",
+   "product": "PC Super Soft bathroom tissue",
+   "size": "12 rolls",
+   "price": 5.0,
+   "regular": 8.75,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_maxsoft_12",
+   "product": "PC Max Soft toilet paper, 12 double rolls",
+   "size": "12 rolls",
+   "price": 5.0,
+   "regular": 8.75,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "royale_velour_8",
+   "product": "Royale Velour toilet paper, 8 = 16 rolls",
+   "size": "8 rolls",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "royale_everyday_8",
+   "product": "Royale Everyday Comfort toilet paper, 8 = 16 rolls",
+   "size": "8 rolls",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bounty_6",
+   "product": "Bounty Select-A-Size paper towels",
+   "size": "6 rolls",
+   "price": 18.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bounty_3",
+   "product": "Bounty Select-A-Size paper towels, 3 pack",
+   "size": "3 rolls",
+   "price": 12.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_max_towel_3",
+   "product": "PC Max Strength paper towels, 3 = 6 rolls",
+   "size": "3 rolls",
+   "price": 9.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_max_towel_8",
+   "product": "PC Max Strength paper towels, 8 rolls",
+   "size": "8 rolls",
+   "price": 22.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "royale_towel_3",
+   "product": "Royale Ultra Strength paper towel, 3 = 6 rolls",
+   "size": "3 rolls",
+   "price": 6.0,
+   "regular": 13.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "royale_towel_6",
+   "product": "Royale Ultra Strength paper towel, 6 = 12 rolls",
+   "size": "6 rolls",
+   "price": 23.0,
+   "regular": 24.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_triple_towel_6",
+   "product": "No Name triple roll paper towels",
+   "size": "6 rolls",
+   "price": 8.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ml_bacon",
+   "product": "Maple Leaf Original Natural bacon",
+   "size": "375 g",
+   "price": 9.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_bacon",
+   "product": "PC bacon",
+   "size": "375 g",
+   "price": 7.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_bacon_less_salt",
+   "product": "PC reduced salt bacon",
+   "size": "375 g",
+   "price": 7.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_maple_bacon",
+   "product": "PC maple flavoured bacon",
+   "size": "375 g",
+   "price": 7.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "schneiders_hickory",
+   "product": "Schneiders Hickory Smoked classic cut bacon",
+   "size": "375 g",
+   "price": 9.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "schneiders_less_salt",
+   "product": "Schneiders Hickory Smoked 50% less salt bacon",
+   "size": "375 g",
+   "price": 9.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ml_ready_crisp",
+   "product": "Maple Leaf Ready Crisp fully cooked bacon",
+   "size": "65 g",
+   "price": 9.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_thick_bacon_1kg",
+   "product": "PC extra-thick cut bacon, 1 kg",
+   "size": "1 kg",
+   "price": 20.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_thick_bacon_1kg",
+   "product": "No Name extra thick cut bacon, 1 kg",
+   "size": "1 kg",
+   "price": 15.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_slices_825",
+   "product": "Kraft Singles, big pack",
+   "size": "825 g",
+   "price": 12.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_thick_slices",
+   "product": "Kraft Singles Thick slices",
+   "size": "410 g",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cb_marble_slices",
+   "product": "Cracker Barrel marble cheese slices",
+   "size": "240 g",
+   "price": 5.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cb_medium_slices",
+   "product": "Cracker Barrel medium cheddar slices",
+   "size": "240 g",
+   "price": 5.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cb_havarti_slices",
+   "product": "Cracker Barrel havarti slices",
+   "size": "220 g",
+   "price": 5.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cb_jalapeno_slices",
+   "product": "Cracker Barrel jalapeño Monterey Jack slices",
+   "size": "220 g",
+   "price": 5.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_marble_slices",
+   "product": "No Name marble cheddar slices",
+   "size": "230 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_old_slices",
+   "product": "No Name old cheddar slices",
+   "size": "210 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bd_cheddar_slices",
+   "product": "Black Diamond cheddar cheese slices",
+   "size": "410 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mv_sv",
+   "product": "Miss Vickie's Sea Salt & Malt Vinegar kettle chips",
+   "size": "200 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mv_chili",
+   "product": "Miss Vickie's Sweet Chili & Sour Cream kettle chips",
+   "size": "200 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mv_herb",
+   "product": "Miss Vickie's Sour Cream, Herb & Onion kettle chips",
+   "size": "200 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mv_bbq",
+   "product": "Miss Vickie's Applewood Smoked BBQ kettle chips",
+   "size": "200 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mv_jalapeno",
+   "product": "Miss Vickie's Jalapeño kettle chips",
+   "size": "200 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mv_ketchup",
+   "product": "Miss Vickie's Sweet & Spicy Ketchup kettle chips",
+   "size": "190 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mv_sv_325",
+   "product": "Miss Vickie's Sea Salt & Malt Vinegar kettle chips, big bag",
+   "size": "325 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mv_orig_325",
+   "product": "Miss Vickie's Original kettle chips, big bag",
+   "size": "325 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oreo_family",
+   "product": "Oreo Original cookies, family size",
+   "size": "439 g",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oreo_mini_200",
+   "product": "Oreo Mini cookies, resealable bag",
+   "size": "200 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oreo_double",
+   "product": "Oreo Double Stuf cookies",
+   "size": "261 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oreo_golden",
+   "product": "Oreo Golden vanilla cookies",
+   "size": "270 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oreo_maple",
+   "product": "Oreo Maple Creme cookies",
+   "size": "261 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hershey_cnc_mini",
+   "product": "Hershey's Cookies 'n' Creme minis",
+   "size": "160 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sch_juicy_jumbos",
+   "product": "Schneiders Juicy Jumbos original hot dogs",
+   "size": "450 g",
+   "price": 11.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sch_jj_beef",
+   "product": "Schneiders Juicy Jumbos all beef hot dogs",
+   "size": "375 g",
+   "price": 11.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sch_jj_cheddar",
+   "product": "Schneiders Juicy Jumbos loaded cheddar hot dogs",
+   "size": "375 g",
+   "price": 11.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sch_red_hots",
+   "product": "Schneiders Red Hots original hot dogs",
+   "size": "375 g",
+   "price": 8.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sch_all_beef",
+   "product": "Schneiders all beef hot dogs",
+   "size": "375 g",
+   "price": 11.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ml_top_dogs",
+   "product": "Maple Leaf Top Dogs original hot dogs",
+   "size": "375 g",
+   "price": 8.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mlf_chicken_wiener",
+   "product": "Maple Lodge Farms chicken wieners",
+   "size": "450 g",
+   "price": 3.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_all_beef_dogs",
+   "product": "No Name all beef hot dogs",
+   "size": "450 g",
+   "price": 9.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "jumbo_wieners_18",
+   "product": "Jumbo wieners, bulk pack",
+   "size": "1.8 kg",
+   "price": 10.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "haagen_almond_bars",
+   "product": "Häagen-Dazs Vanilla Almond bars, 3 pack",
+   "size": "3 x 88 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chapmans_cc_vanilla",
+   "product": "Chapman's Canadian Collection vanilla & milk chocolate bars, 8 pack",
+   "size": "8 x 55 mL",
+   "price": 3.49,
+   "regular": 7.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chapmans_cc_almond",
+   "product": "Chapman's Canadian Collection almond & milk chocolate bars, 8 pack",
+   "size": "8 x 55 mL",
+   "price": 3.49,
+   "regular": 7.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "chapmans_super_sandwich",
+   "product": "Chapman's Super ice cream sandwiches, vanilla, 12 pack",
+   "size": "12 x 120 mL",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_ice_milk_bars",
+   "product": "No Name vanilla ice milk bars, club size",
+   "size": "30 x 60 mL",
+   "price": 11.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_nanaimo_bars",
+   "product": "PC Loads of Nanaimo Bar ice cream bars",
+   "size": "4 x 72 mL",
+   "price": 6.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "haagen_maple_toffee",
+   "product": "Häagen-Dazs EXTRÄAZ Maple Almond Toffee",
+   "size": "450 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ruffles_sco",
+   "product": "Ruffles Sour Cream & Onion chips",
+   "size": "200 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ruffles_bbq",
+   "product": "Ruffles Barbecue chips",
+   "size": "200 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ruffles_bacon",
+   "product": "Ruffles Sour Cream & Bacon chips",
+   "size": "200 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ruffles_380",
+   "product": "Ruffles Original chips, value size",
+   "size": "380 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_butter_unsalted",
+   "product": "No Name unsalted butter",
+   "size": "454 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gaylea_salted",
+   "product": "Gay Lea salted butter",
+   "size": "454 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gaylea_unsalted",
+   "product": "Gay Lea unsalted butter",
+   "size": "454 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lactantia_salted",
+   "product": "Lactantia salted butter",
+   "size": "454 g",
+   "price": 6.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lactantia_unsalted",
+   "product": "Lactantia unsalted butter",
+   "size": "454 g",
+   "price": 6.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "becel_chef_salted",
+   "product": "Becel Chef's Signature with butter, salted",
+   "size": "454 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "becel_chef_unsalted",
+   "product": "Becel Chef's Signature with butter, unsalted",
+   "size": "454 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "becel_plant_unsalted",
+   "product": "Becel unsalted plant butter sticks",
+   "size": "454 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_blueberry",
+   "product": "Eggo Blueberry waffles",
+   "size": "280 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_cinnamon",
+   "product": "Eggo Cinnamon Toast waffles",
+   "size": "280 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_chocchip",
+   "product": "Eggo Chocolatey Chip waffles",
+   "size": "280 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_orig_560",
+   "product": "Eggo Original, 16 pack waffles",
+   "size": "560 g",
+   "price": 5.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_blueberry_560",
+   "product": "Eggo Blueberry, 16 pack waffles",
+   "size": "560 g",
+   "price": 5.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_chocchip_560",
+   "product": "Eggo Chocolatey Chip, 16 pack waffles",
+   "size": "560 g",
+   "price": 5.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_thick_orig",
+   "product": "Eggo Thick & Fluffy Original waffles",
+   "size": "330 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_thick_cinn",
+   "product": "Eggo Thick & Fluffy Cinnamon Brown Sugar waffles",
+   "size": "330 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_protein_brownie",
+   "product": "Eggo Protein Chocolate Chip Brownie waffles",
+   "size": "280 g",
+   "price": 5.0,
+   "regular": 7.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_buttermilk_van",
+   "product": "Eggo Buttermilk Vanilla waffles",
+   "size": "280 g",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_protein_minis",
+   "product": "Eggo Protein Minis pancakes, buttermilk vanilla",
+   "size": "5 x 48 g",
+   "price": 5.0,
+   "regular": 7.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "eggo_168",
+   "product": "Eggo Original, bulk box waffles",
+   "size": "1.68 kg",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "natrel_lf_2",
+   "product": "Natrel lactose free 2% milk",
+   "size": "2 L",
+   "price": 7.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "natrel_lf_1",
+   "product": "Natrel lactose free 1% milk",
+   "size": "2 L",
+   "price": 7.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "neilson_lf_4l",
+   "product": "Neilson lactose free 2% milk, 4 L",
+   "size": "4 L",
+   "price": 11.28,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "neilson_lf_2",
+   "product": "Neilson lactose free 2% milk",
+   "size": "2 L",
+   "price": 7.45,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "neilson_lf_1",
+   "product": "Neilson lactose free 1% milk",
+   "size": "2 L",
+   "price": 7.45,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "neilson_lf_325",
+   "product": "Neilson lactose free 3.25% milk",
+   "size": "2 L",
+   "price": 7.55,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fairlife_2",
+   "product": "Fairlife 2% ultra-filtered milk",
+   "size": "1.5 L",
+   "price": 8.59,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "earths_own_soy",
+   "product": "Earth's Own unsweetened soy beverage",
+   "size": "1.75 L",
+   "price": 3.33,
+   "regular": 4.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "doritos_sweet_chili",
+   "product": "Doritos Sweet Chili Heat",
+   "size": "235 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "doritos_zesty",
+   "product": "Doritos Zesty Cheese",
+   "size": "235 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "doritos_rolld",
+   "product": "Doritos Roll'd Nachos Supreme",
+   "size": "280 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "doritos_400",
+   "product": "Doritos Nacho, big bag",
+   "size": "400 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tostitos_med_645",
+   "product": "Tostitos medium salsa, large jar",
+   "size": "645 mL",
+   "price": 7.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tostitos_med_418",
+   "product": "Tostitos medium salsa",
+   "size": "418 mL",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tostitos_mild_418",
+   "product": "Tostitos mild salsa",
+   "size": "418 mL",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tostitos_queso",
+   "product": "Tostitos Salsa Con Queso",
+   "size": "394 mL",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_mild_salsa",
+   "product": "PC mild salsa",
+   "size": "650 mL",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_med_salsa",
+   "product": "PC medium salsa",
+   "size": "650 mL",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pace_med",
+   "product": "Pace Thick & Chunky medium salsa",
+   "size": "642 mL",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "oep_mild_salsa",
+   "product": "Old El Paso Thick 'n Chunky mild salsa",
+   "size": "650 mL",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_mild_salsa",
+   "product": "No Name mild salsa",
+   "size": "430 mL",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_fresh_salsa",
+   "product": "PC medium fresh salsa",
+   "size": "430 mL",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pearl_complete_butter",
+   "product": "Pearl Milling Company Complete pancake & waffle mix, buttermilk",
+   "size": "905 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_pancake_buttermilk",
+   "product": "PC Extra-Fluffy buttermilk pancake & waffle mix",
+   "size": "905 g",
+   "price": 3.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_pancake_orig",
+   "product": "PC Extra-Fluffy original pancake & waffle mix",
+   "size": "905 g",
+   "price": 3.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_pancake",
+   "product": "No Name old-fashioned pancake mix",
+   "size": "905 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kodiak",
+   "product": "Kodiak Cakes Power Cakes buttermilk mix",
+   "size": "567 g",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_hummus_454",
+   "product": "PC hummus, large tub",
+   "size": "454 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_garlic_hummus",
+   "product": "PC roasted garlic hummus",
+   "size": "227 g",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_garlic_hummus_454",
+   "product": "PC roasted garlic hummus, large tub",
+   "size": "454 g",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_dill_hummus",
+   "product": "PC dill pickle hummus",
+   "size": "227 g",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_mini_hummus",
+   "product": "PC mini hummus cups",
+   "size": "228 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fontaine_hummus",
+   "product": "Fontaine Santé traditional hummus",
+   "size": "260 g",
+   "price": 4.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_prime_rib_burgers",
+   "product": "PC Thick & Juicy prime rib beef burgers",
+   "size": "1.13 kg",
+   "price": 25.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_thick_burgers",
+   "product": "PC Thick & Juicy beef burgers",
+   "size": "1.36 kg",
+   "price": 25.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_lean_burgers",
+   "product": "PC Blue Menu lean beef burgers",
+   "size": "568 g",
+   "price": 12.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_burgers",
+   "product": "No Name beef burgers",
+   "size": "1.36 kg",
+   "price": 22.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "montanas_burgers",
+   "product": "Montana's Smoky BBQ Angus beef burgers",
+   "size": "906 g",
+   "price": 18.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dandpak_unsalted",
+   "product": "Dan-D Pak cashews, unsalted",
+   "size": "908 g",
+   "price": 13.88,
+   "regular": 17.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dandpak_salted",
+   "product": "Dan-D Pak cashews, salted",
+   "size": "908 g",
+   "price": 13.88,
+   "regular": 17.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_cashews_sea_salt",
+   "product": "PC roasted cashews with sea salt",
+   "size": "200 g",
+   "price": 6.25,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_cashews_680",
+   "product": "PC unsalted dry-roasted cashews",
+   "size": "680 g",
+   "price": 20.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_organic_cashews",
+   "product": "PC Organics whole raw cashews",
+   "size": "200 g",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_cashews_100",
+   "product": "No Name whole cashews",
+   "size": "100 g",
+   "price": 5.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "planters_cashews",
+   "product": "Planters roasted & salted cashews",
+   "size": "200 g",
+   "price": 7.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "orville_extra_6",
+   "product": "Orville Redenbacher's Extra Buttery microwave popcorn, 6 pack",
+   "size": "6 x 82 g",
+   "price": 5.25,
+   "regular": 5.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "orville_butter_6",
+   "product": "Orville Redenbacher's Butter microwave popcorn, 6 pack",
+   "size": "6 x 82 g",
+   "price": 5.25,
+   "regular": 5.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "orville_smartpop_6",
+   "product": "Orville Redenbacher's Smart Pop! microwave popcorn, 6 pack",
+   "size": "6 x 70 g",
+   "price": 5.25,
+   "regular": 5.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "orville_extra_10",
+   "product": "Orville Redenbacher's Extra Buttery microwave popcorn, 10 pack",
+   "size": "10 x 82 g",
+   "price": 11.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "orville_butter_10",
+   "product": "Orville Redenbacher's Butter microwave popcorn, 10 pack",
+   "size": "10 x 82 g",
+   "price": 11.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "orville_kettle",
+   "product": "Orville Redenbacher's Sweet & Salty Kettlecorn",
+   "size": "492 g",
+   "price": 5.25,
+   "regular": 5.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_purple_popcorn",
+   "product": "PC sea salt purple kernel popcorn",
+   "size": "220 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_kettle_corn",
+   "product": "PC sweet & salty kettle corn",
+   "size": "220 g",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "angies_sea_salt",
+   "product": "Angie's BoomChickaPop sea salt popcorn",
+   "size": "136 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "angies_kettle",
+   "product": "Angie's BoomChickaPop sweet & salty kettle corn",
+   "size": "198 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_popping_corn",
+   "product": "No Name popping corn kernels",
+   "size": "1 kg",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_black_pepper",
+   "product": "Club House ground black pepper",
+   "size": "115 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_garlic_powder",
+   "product": "Club House garlic powder",
+   "size": "165 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_montreal_steak",
+   "product": "Club House La Grille Montreal Steak Spice",
+   "size": "188 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_roasted_garlic_pepper",
+   "product": "Club House Roasted Garlic & Peppers seasoning",
+   "size": "144 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_italian_blend",
+   "product": "Club House Italiano seasoning blend",
+   "size": "123 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_curry",
+   "product": "Club House curry powder",
+   "size": "110 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_allspice",
+   "product": "Club House ground allspice",
+   "size": "35 g",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_garlic_onion_ap",
+   "product": "Club House all purpose seasoning, garlic & onion",
+   "size": "127 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "magic_bp",
+   "product": "Magic baking powder",
+   "size": "450 g",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "edsmith_bp",
+   "product": "E.D. Smith baking powder",
+   "size": "450 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_bp",
+   "product": "No Name baking powder",
+   "size": "450 g",
+   "price": 5.5,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_vanilla_125",
+   "product": "Club House premium artificial vanilla",
+   "size": "125 ml",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hl_tempura",
+   "product": "High Liner tempura battered fish",
+   "size": "700 g",
+   "price": 10.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hl_fish_sticks",
+   "product": "High Liner crispy breaded fish sticks",
+   "size": "700 g",
+   "price": 10.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hl_english",
+   "product": "High Liner English style battered fillets",
+   "size": "500 g",
+   "price": 10.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hl_beer_battered",
+   "product": "High Liner beer battered fillets",
+   "size": "500 g",
+   "price": 10.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hl_haddock_pansear",
+   "product": "High Liner Pan-Sear traditional haddock fillets",
+   "size": "500 g",
+   "price": 15.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hl_salmon_med",
+   "product": "High Liner Pan-Sear Mediterranean salmon",
+   "size": "540 g",
+   "price": 15.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hl_tempura_haddock",
+   "product": "High Liner Signature Cuts tempura battered haddock",
+   "size": "350 g",
+   "price": 10.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hl_cod_crispy",
+   "product": "High Liner Signature Cuts crispy breaded cod",
+   "size": "515 g",
+   "price": 15.0,
+   "regular": 17.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dm_very_cherry",
+   "product": "Del Monte Very Cherry fruit cocktail",
+   "size": "796 ml",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dm_fc_nsa_796",
+   "product": "Del Monte fruit cocktail, no sugar added",
+   "size": "796 ml",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dm_fc_light_398",
+   "product": "Del Monte fruit cocktail in light syrup",
+   "size": "398 ml",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dm_peach_chunks",
+   "product": "Del Monte peach chunks, jar",
+   "size": "760 ml",
+   "price": 11.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dm_fruit_salad_16",
+   "product": "Del Monte Very Cherry fruit salad cups, family size",
+   "size": "16 x 112 ml",
+   "price": 19.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bc_choc_fudge",
+   "product": "Betty Crocker Super Moist cake mix, chocolate fudge",
+   "size": "375 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bc_french_vanilla",
+   "product": "Betty Crocker Super Moist cake mix, French vanilla",
+   "size": "375 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bc_golden",
+   "product": "Betty Crocker Super Moist cake mix, golden",
+   "size": "375 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bc_devils_food",
+   "product": "Betty Crocker Super Moist cake mix, devil's food",
+   "size": "375 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bc_white",
+   "product": "Betty Crocker Super Moist cake mix, white",
+   "size": "404 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bc_rainbow",
+   "product": "Betty Crocker Super Moist cake mix, rainbow bits",
+   "size": "375 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bc_whipped_buttercream",
+   "product": "Betty Crocker whipped buttercream frosting",
+   "size": "340 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lantic_icing_1kg",
+   "product": "Lantic icing sugar",
+   "size": "1 kg",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lantic_icing_500",
+   "product": "Lantic icing sugar, small",
+   "size": "500 g",
+   "price": 2.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fleisch_quick_113",
+   "product": "Fleischmann's Quick-Rise instant yeast, jar",
+   "size": "113 g",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fleisch_trad_113",
+   "product": "Fleischmann's Traditional active dry yeast, jar",
+   "size": "113 g",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fleisch_quick_24",
+   "product": "Fleischmann's Quick-Rise yeast, 3 packets",
+   "size": "24 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_seven_142",
+   "product": "Friskies 7 dry cat food",
+   "size": "1.42 kg",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_chefs_15",
+   "product": "Friskies Chef's Blend dry cat food",
+   "size": "1.5 kg",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_seven_726",
+   "product": "Friskies 7 dry cat food, big bag",
+   "size": "7.26 kg",
+   "price": 24.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_chefs_75",
+   "product": "Friskies Chef's Blend dry cat food, big bag",
+   "size": "7.5 kg",
+   "price": 24.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_pate_chicken",
+   "product": "Friskies pâté wet cat food, chicken dinner",
+   "size": "156 g",
+   "price": 0.9,
+   "regular": 1.1,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_pate_salmon",
+   "product": "Friskies pâté wet cat food, salmon dinner",
+   "size": "156 g",
+   "price": 0.9,
+   "regular": 1.1,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_ocean_24",
+   "product": "Friskies pâté Ocean Delights variety pack, 24 cans",
+   "size": "3.74 kg",
+   "price": 24.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_seafood_chicken_24",
+   "product": "Friskies Seafood & Chicken Lovers variety pack, 24 cans",
+   "size": "3.74 kg",
+   "price": 24.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_gravy_24",
+   "product": "Friskies Gravy Pleasers variety pack, 24 cans",
+   "size": "3.74 kg",
+   "price": 24.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "fr_greatest_32",
+   "product": "Friskies Greatest Hits variety pack, 32 cans",
+   "size": "4.99 kg",
+   "price": 31.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_vit_beef_8",
+   "product": "Pedigree Vitality+ adult dry dog food, hearty beef & vegetable",
+   "size": "8 kg",
+   "price": 24.99,
+   "regular": 26.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_vit_chicken_2",
+   "product": "Pedigree Vitality+ adult dry dog food, roasted chicken & vegetable",
+   "size": "2 kg",
+   "price": 14.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_vit_chicken_14",
+   "product": "Pedigree Vitality+ adult dry dog food, roasted chicken & vegetable, big bag",
+   "size": "14 kg",
+   "price": 47.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_vit_beef_14",
+   "product": "Pedigree Vitality+ adult dry dog food, hearty beef & vegetable, big bag",
+   "size": "14 kg",
+   "price": 47.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_chopped_beef",
+   "product": "Pedigree Chopped wet dog food, real beef",
+   "size": "375 g",
+   "price": 1.5,
+   "regular": 2.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_chopped_chicken",
+   "product": "Pedigree Chopped wet dog food, real chicken",
+   "size": "375 g",
+   "price": 1.5,
+   "regular": 2.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_chopped_filet",
+   "product": "Pedigree Chopped Ground Dinner wet dog food, filet mignon",
+   "size": "375 g",
+   "price": 1.5,
+   "regular": 2.5,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_cc_filet",
+   "product": "Pedigree Choice Cuts in Gravy wet dog food pouch, filet mignon",
+   "size": "100 g",
+   "price": 0.99,
+   "regular": 1.05,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_dentastix_608",
+   "product": "Pedigree Dentastix original dog treats, medium dogs",
+   "size": "608 g",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ped_marrobone",
+   "product": "Pedigree Marrobone dog treats, real beef",
+   "size": "1.9 kg",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_247_272",
+   "product": "Tidy Cats LightWeight cat litter, 24/7 Performance",
+   "size": "2.72 kg",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_free_272",
+   "product": "Tidy Cats LightWeight cat litter, Free & Clean unscented",
+   "size": "2.72 kg",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_glade_272",
+   "product": "Tidy Cats LightWeight cat litter, Glade Clear Springs",
+   "size": "2.72 kg",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_4in1_272",
+   "product": "Tidy Cats LightWeight cat litter, 4-in-1 Strength",
+   "size": "2.72 kg",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_instant_272",
+   "product": "Tidy Cats LightWeight cat litter, Instant Action",
+   "size": "2.72 kg",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_247_544",
+   "product": "Tidy Cats LightWeight cat litter, 24/7 Performance, medium",
+   "size": "5.44 kg",
+   "price": 26.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_glade_544",
+   "product": "Tidy Cats LightWeight cat litter, Glade Clear Springs, medium",
+   "size": "5.44 kg",
+   "price": 26.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_247_771",
+   "product": "Tidy Cats LightWeight cat litter, 24/7 Performance, large",
+   "size": "7.71 kg",
+   "price": 33.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tc_care_363",
+   "product": "Tidy Cats Tidy Care Alert cat litter",
+   "size": "3.63 kg",
+   "price": 32.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ah_double_duty",
+   "product": "Arm & Hammer Double Duty clumping cat litter",
+   "size": "12.7 kg",
+   "price": 21.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gb_puffs_bv",
+   "product": "Gerber Puffs baby snack, blueberry vanilla",
+   "size": "42 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gb_puffs_sa",
+   "product": "Gerber Puffs baby snack, strawberry apple",
+   "size": "42 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gb_puffs_peach",
+   "product": "Gerber Puffs baby snack, peach",
+   "size": "42 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gb_crunchies_cheddar",
+   "product": "Gerber Lil' Crunchies toddler snack, mild cheddar",
+   "size": "42 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gb_crunchies_tomato",
+   "product": "Gerber Lil' Crunchies toddler snack, zesty tomato",
+   "size": "42 g",
+   "price": 3.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gb_arrowroot",
+   "product": "Gerber arrowroot biscuits",
+   "size": "155 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gb_cereal_mg_yog",
+   "product": "Gerber Stage 3 multigrain yogurt cereal, apple pear banana",
+   "size": "227 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gb_melts_sb",
+   "product": "Gerber organic Yogurt Melts, strawberry banana",
+   "size": "28 g",
+   "price": 5.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cerelac_biscuits",
+   "product": "Nestlé Cerelac biscuits, light buttery",
+   "size": "150 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pampers_aqua_336",
+   "product": "Pampers Aqua Pure baby wipes, 6 packs",
+   "size": "336 wipes",
+   "price": 23.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pampers_sens_504",
+   "product": "Pampers Sensitive baby wipes, 6 packs",
+   "size": "504 wipes",
+   "price": 23.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_pp_51",
+   "product": "Cascade Platinum Plus dishwasher pods, fresh",
+   "size": "51 pods",
+   "price": 27.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_pp_30",
+   "product": "Cascade Platinum Plus dishwasher pods, fresh, small",
+   "size": "30 pods",
+   "price": 14.0,
+   "regular": 15.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_pp_21",
+   "product": "Cascade Platinum Plus dishwasher pods, fresh, 21 pack",
+   "size": "21 pods",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_plat_39",
+   "product": "Cascade Platinum dishwasher pods, fresh",
+   "size": "39 pods",
+   "price": 19.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_plat_67",
+   "product": "Cascade Platinum dishwasher pods, fresh, large",
+   "size": "67 pods",
+   "price": 27.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_comp_80",
+   "product": "Cascade Complete dishwasher pods, fresh",
+   "size": "80 pods",
+   "price": 28.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_free_51",
+   "product": "Cascade Free & Clear dishwasher pods, unscented",
+   "size": "51 pods",
+   "price": 27.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_gel_272",
+   "product": "Cascade Complete dishwasher gel, fresh",
+   "size": "2.72 L",
+   "price": 13.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_plat_gel",
+   "product": "Cascade Platinum dishwasher gel, fresh",
+   "size": "2.218 L",
+   "price": 13.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_rinse",
+   "product": "Cascade Clean & Dry rinse aid",
+   "size": "473 ml",
+   "price": 10.0,
+   "regular": 11.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "finish_q_72",
+   "product": "Finish Quantum Ultimate dishwasher tabs",
+   "size": "72 tabs",
+   "price": 22.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "casc_pp_pods_63",
+   "product": "Cascade Platinum Plus dishwasher pods, fresh, 63 pack",
+   "size": "63 pods",
+   "price": 27.0,
+   "regular": 28.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_cool_1l",
+   "product": "Listerine Cool Mint mouthwash",
+   "size": "1 L",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_orig_1l",
+   "product": "Listerine Original mouthwash",
+   "size": "1 L",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_burst_1l",
+   "product": "Listerine Fresh Burst mouthwash",
+   "size": "1 L",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_zero_1l",
+   "product": "Listerine Zero mouthwash, alcohol free",
+   "size": "1 L",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_greentea_1l",
+   "product": "Listerine Green Tea Zero mouthwash",
+   "size": "1 L",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_tc_1l",
+   "product": "Listerine Total Care mouthwash",
+   "size": "1 L",
+   "price": 8.5,
+   "regular": 11.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_tc_zero_1l",
+   "product": "Listerine Total Care Zero mouthwash, alcohol free",
+   "size": "1 L",
+   "price": 8.5,
+   "regular": 11.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_cool_15",
+   "product": "Listerine Cool Mint mouthwash, large",
+   "size": "1.5 L",
+   "price": 8.5,
+   "regular": 11.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_burst_15",
+   "product": "Listerine Fresh Burst mouthwash, large",
+   "size": "1.5 L",
+   "price": 8.5,
+   "regular": 11.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_smart_500",
+   "product": "Listerine Smart Rinse kids mouthwash, mint",
+   "size": "500 ml",
+   "price": 8.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lst_pocketpaks",
+   "product": "Listerine PocketPaks breath strips, cool mint",
+   "size": "72 strips",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bounce_200",
+   "product": "Bounce dryer sheets, Outdoor Fresh",
+   "size": "200 sheets",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bounce_80",
+   "product": "Bounce dryer sheets, Outdoor Fresh, small",
+   "size": "80 sheets",
+   "price": 5.0,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bounce_free_80",
+   "product": "Bounce Free & Gentle dryer sheets, unscented",
+   "size": "80 sheets",
+   "price": 5.0,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bounce_pet_40",
+   "product": "Bounce Pet Hair & Lint Guard mega dryer sheets",
+   "size": "40 sheets",
+   "price": 5.0,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gain_sheets_moon",
+   "product": "Gain dryer sheets, Moonlight Breeze",
+   "size": "200 sheets",
+   "price": 14.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "gain_sheets_orig",
+   "product": "Gain dryer sheets, Original",
+   "size": "200 sheets",
+   "price": 14.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_dryer_fresh",
+   "product": "No Name dryer sheets, Mountain Fresh",
+   "size": "80 sheets",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_dryer_free",
+   "product": "No Name dryer sheets, fragrance free",
+   "size": "80 sheets",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "downy_light_853",
+   "product": "Downy Light scent booster beads, Ocean Mist",
+   "size": "853 g",
+   "price": 26.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tpx_reg_18",
+   "product": "Tampax Pearl tampons, regular",
+   "size": "18 tampons",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tpx_super_18",
+   "product": "Tampax Pearl tampons, super",
+   "size": "18 tampons",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tpx_reg_36",
+   "product": "Tampax Pearl tampons, regular, 36 pack",
+   "size": "36 tampons",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tpx_super_36",
+   "product": "Tampax Pearl tampons, super, 36 pack",
+   "size": "36 tampons",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tpx_sp_36",
+   "product": "Tampax Pearl tampons, super plus, 36 pack",
+   "size": "36 tampons",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tpx_duo_34",
+   "product": "Tampax Pearl tampons multipack, regular/super",
+   "size": "34 tampons",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "tpx_trio_34",
+   "product": "Tampax Pearl tampons multipack, regular/super/super plus",
+   "size": "34 tampons",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "always_inf3_28",
+   "product": "Always Infinity FlexFoam pads, size 3, extra heavy, with wings",
+   "size": "28 pads",
+   "price": 10.5,
+   "regular": 13.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "always_cotton2_24",
+   "product": "Always Pure Cotton FlexFoam pads, size 2, heavy, with wings",
+   "size": "24 pads",
+   "price": 10.5,
+   "regular": 13.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "always_inf4_38",
+   "product": "Always Infinity FlexFoam pads, size 4, overnight",
+   "size": "38 pads",
+   "price": 16.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_ww",
+   "product": "Dempster's 100% whole wheat bread",
+   "size": "675 g",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_white",
+   "product": "Dempster's white bread",
+   "size": "675 g",
+   "price": 4.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_12grain",
+   "product": "Dempster's 100% Whole Grains 12 grain bread",
+   "size": "600 g",
+   "price": 4.69,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_ancient",
+   "product": "Dempster's 100% Whole Grains Ancient Grains with quinoa",
+   "size": "600 g",
+   "price": 4.69,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_multigrain",
+   "product": "Dempster's 100% Whole Grains multigrain bread",
+   "size": "600 g",
+   "price": 4.69,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_protein_wg",
+   "product": "Dempster's Protein with whole grains loaf",
+   "size": "600 g",
+   "price": 4.49,
+   "regular": 4.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_protein_white",
+   "product": "Dempster's Protein white loaf",
+   "size": "600 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_gold_burger",
+   "product": "Dempster's Signature The Gold burger buns",
+   "size": "528 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dem_bagels_orig",
+   "product": "Dempster's Original bagels, 6 pack",
+   "size": "450 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_alfredo",
+   "product": "Knorr Sidekicks Fettuccine Alfredo",
+   "size": "133 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_parmesan",
+   "product": "Knorr Sidekicks Creamy Parmesan pasta",
+   "size": "124 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_butter_herb",
+   "product": "Knorr Sidekicks Butter & Herb pasta",
+   "size": "136 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_carbonara",
+   "product": "Knorr Sidekicks Creamy Bacon Carbonara pasta",
+   "size": "134 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_raffaello",
+   "product": "Knorr Sidekicks Creamy Garlic Raffaello pasta",
+   "size": "137 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_chicken",
+   "product": "Knorr Sidekicks Chicken pasta",
+   "size": "126 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_honey_garlic",
+   "product": "Knorr Sidekicks Honey Garlic noodles",
+   "size": "162 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_cheddar_broc",
+   "product": "Knorr Sidekicks Cheddar & Broccoli rice",
+   "size": "130 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_harvest",
+   "product": "Knorr Sidekicks Harvest Chicken rice & vermicelli",
+   "size": "133 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ks_fried_rice",
+   "product": "Knorr Sidekicks Chicken Fried Rice",
+   "size": "153 g",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ns_oolong_shin",
+   "product": "Nong Shim Oolongmen Shin cup noodles, spicy",
+   "size": "75 g",
+   "price": 1.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ns_oolong_beef",
+   "product": "Nong Shim Oolongmen beef cup noodles",
+   "size": "75 g",
+   "price": 1.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nissin_bowl_chicken",
+   "product": "Nissin Bowl Noodles, chicken",
+   "size": "118 g",
+   "price": 2.5,
+   "regular": 2.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "knorr_cup_teriyaki",
+   "product": "Knorr Noodle Cup, teriyaki noodles",
+   "size": "73 g",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "knorr_cup_garlic",
+   "product": "Knorr Pasta Cup, creamy roasted garlic",
+   "size": "73 g",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "knorr_cup_bolognese",
+   "product": "Knorr Pasta Cup, beef bolognese",
+   "size": "73 g",
+   "price": 3.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kik_soy_591",
+   "product": "Kikkoman soy sauce",
+   "size": "591 ml",
+   "price": 7.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kik_ls_591",
+   "product": "Kikkoman less sodium soy sauce",
+   "size": "591 ml",
+   "price": 9.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kik_ls_296",
+   "product": "Kikkoman less sodium soy sauce, small",
+   "size": "295 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kik_soy_148",
+   "product": "Kikkoman soy sauce, table dispenser",
+   "size": "148 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kik_ls_148",
+   "product": "Kikkoman less sodium soy sauce, table dispenser",
+   "size": "148 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kik_stirfry",
+   "product": "Kikkoman stir fry sauce",
+   "size": "285 ml",
+   "price": 6.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "post_hbo_almond",
+   "product": "Post Honey Bunches of Oats with almonds",
+   "size": "340 g",
+   "price": 4.0,
+   "regular": 5.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "post_hbo_honey",
+   "product": "Post Honey Bunches of Oats, honey roasted",
+   "size": "340 g",
+   "price": 4.0,
+   "regular": 5.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "post_cran_almond",
+   "product": "Post Cranberry Almond Crunch cereal",
+   "size": "380 g",
+   "price": 4.0,
+   "regular": 5.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "post_honeycomb",
+   "product": "Post Honeycomb cereal",
+   "size": "400 g",
+   "price": 4.0,
+   "regular": 5.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "post_shreddies",
+   "product": "Post Shreddies Original cereal",
+   "size": "440 g",
+   "price": 4.0,
+   "regular": 5.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_ex70",
+   "product": "Lindt Excellence 70% cacao dark chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_ex85",
+   "product": "Lindt Excellence 85% cacao dark chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_exseasalt",
+   "product": "Lindt Excellence sea salt dark chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_excaramel",
+   "product": "Lindt Excellence caramel & sea salt dark chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_exorange",
+   "product": "Lindt Excellence orange intense dark chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_exmint",
+   "product": "Lindt Excellence intense mint dark chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_exmadagascar",
+   "product": "Lindt Excellence Madagascar 70% dark chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_sc_milk",
+   "product": "Lindt Swiss Classic milk chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lindt_sc_hazelnut",
+   "product": "Lindt Swiss Classic hazelnut milk chocolate bar",
+   "size": "100 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hv_ranch",
+   "product": "Hidden Valley Original Ranch dressing",
+   "size": "473 ml",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hv_ranch_light",
+   "product": "Hidden Valley Original Ranch Light dressing",
+   "size": "473 ml",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hv_ranch_spicy",
+   "product": "Hidden Valley Spicy Ranch dressing",
+   "size": "473 ml",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hv_tzatziki",
+   "product": "Hidden Valley Greek Tzatziki dressing",
+   "size": "473 ml",
+   "price": 6.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "renees_home_ranch",
+   "product": "Renée's Homestyle Ranch dressing",
+   "size": "355 ml",
+   "price": 6.0,
+   "regular": 7.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "renees_classic_ranch",
+   "product": "Renée's Classic Ranch dressing",
+   "size": "355 ml",
+   "price": 6.0,
+   "regular": 7.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kraft_3cheese_ranch",
+   "product": "Kraft Three Cheese Ranch dressing",
+   "size": "425 ml",
+   "price": 4.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "litehouse_ranch",
+   "product": "Litehouse Homestyle Ranch dressing & dip, family size",
+   "size": "591 ml",
+   "price": 7.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "janes_wings_hg",
+   "product": "Janes Pub Style chicken wings, honey garlic",
+   "size": "660 g",
+   "price": 14.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "janes_wings_buffalo",
+   "product": "Janes Pub Style chicken wings, buffalo",
+   "size": "660 g",
+   "price": 14.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "janes_wings_parm",
+   "product": "Janes breaded chicken wings, garlic parmesan",
+   "size": "660 g",
+   "price": 14.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "pc_wings_southern",
+   "product": "PC Crisp & Crunchy mild Southern-style chicken wings",
+   "size": "907 g",
+   "price": 18.0,
+   "regular": 19.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_wings_sp",
+   "product": "No Name salt & pepper chicken wings",
+   "size": "908 g",
+   "price": 14.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_wings_club",
+   "product": "No Name chicken wings, club pack",
+   "size": "2 kg",
+   "price": 27.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "classico_bolognese",
+   "product": "Classico Bolognese pasta sauce",
+   "size": "600 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "classico_fire_roasted",
+   "product": "Classico fire-roasted tomato & garlic pasta sauce",
+   "size": "600 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "classico_garlic_onion",
+   "product": "Classico roasted garlic & onion pasta sauce",
+   "size": "600 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "classico_sausage",
+   "product": "Classico Italian sausage pasta sauce",
+   "size": "600 ml",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "hunts_4cheese",
+   "product": "Hunt's Thick & Rich four cheese pasta sauce",
+   "size": "680 ml",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "catelli_gs_tom_basil",
+   "product": "Catelli Garden Select tomato & basil pasta sauce",
+   "size": "600 ml",
+   "price": 2.0,
+   "regular": 3.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "nn_garlic_pasta",
+   "product": "No Name garlic pasta sauce",
+   "size": "680 ml",
+   "price": 2.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "trop_nopulp",
+   "product": "Tropicana orange juice, no pulp",
+   "size": "1.36 L",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "trop_lotspulp",
+   "product": "Tropicana orange juice, lots of pulp",
+   "size": "1.36 L",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "trop_somepulp",
+   "product": "Tropicana orange juice, some pulp",
+   "size": "1.36 L",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "trop_pp_nopulp",
+   "product": "Tropicana Pure Premium orange juice, pulp free, big",
+   "size": "2.63 L",
+   "price": 11.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "trop_pp_homestyle",
+   "product": "Tropicana Pure Premium Homestyle orange juice, some pulp, big",
+   "size": "2.63 L",
+   "price": 11.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "trop_apple",
+   "product": "Tropicana 100% fresh pressed apple juice",
+   "size": "1.36 L",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "trop_ref_pm",
+   "product": "Tropicana Refreshers pineapple mango",
+   "size": "1.36 L",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "simply_peach",
+   "product": "Simply peach juice drink",
+   "size": "1.54 L",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kinder_choc_6",
+   "product": "Kinder Chocolate bars, 6 pack",
+   "size": "126 g",
+   "price": 5.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kinder_choc_mini",
+   "product": "Kinder Chocolate Mini bars, 16 pack",
+   "size": "96 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kinder_bueno",
+   "product": "Kinder Bueno wafer bar",
+   "size": "43 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kinder_bueno_3",
+   "product": "Kinder Bueno wafer bars, 3 pack",
+   "size": "129 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kinder_bueno_mini",
+   "product": "Kinder Bueno Mini wafers",
+   "size": "145 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kinder_surprise",
+   "product": "Kinder Surprise egg with toy",
+   "size": "20 g",
+   "price": 1.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "kinder_surprise_3",
+   "product": "Kinder Surprise eggs with toys, 3 pack",
+   "size": "60 g",
+   "price": 5.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bb_orig_6",
+   "product": "Babybel Original cheese snacks, 6 pack",
+   "size": "120 g",
+   "price": 5.0,
+   "regular": 6.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bb_orig_12",
+   "product": "Babybel Original cheese snacks, 12 pack",
+   "size": "240 g",
+   "price": 11.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bb_orig_18",
+   "product": "Babybel Original cheese snacks, 18 pack",
+   "size": "360 g",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bb_variety_18",
+   "product": "Babybel variety pack cheese snacks, 18 pack",
+   "size": "360 g",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bb_light_18",
+   "product": "Babybel Light cheese snacks, 18 pack",
+   "size": "360 g",
+   "price": 15.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bb_gouda_6",
+   "product": "Babybel Gouda cheese snacks, 6 pack",
+   "size": "120 g",
+   "price": 5.0,
+   "regular": 6.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "bb_minirolls_6",
+   "product": "Babybel Mini Rolls cheese snacks, 6 pack",
+   "size": "102 g",
+   "price": 5.0,
+   "regular": 6.49,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lc_orig_8",
+   "product": "The Laughing Cow original spreadable cheese, 8 wedges",
+   "size": "133 g",
+   "price": 5.0,
+   "regular": 5.79,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lc_orig_32",
+   "product": "The Laughing Cow original spreadable cheese, 32 wedges",
+   "size": "535 g",
+   "price": 16.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "lc_dippers_4",
+   "product": "The Laughing Cow Cheese Dippers, original, 4 pack",
+   "size": "140 g",
+   "price": 5.0,
+   "regular": 5.99,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sc_cheddar",
+   "product": "SunChips Harvest Cheddar multigrain snacks",
+   "size": "205 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sc_onion",
+   "product": "SunChips French Onion multigrain snacks",
+   "size": "205 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sc_bbq",
+   "product": "SunChips Honey BBQ multigrain snacks",
+   "size": "205 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sc_salsa",
+   "product": "SunChips Garden Salsa multigrain snacks",
+   "size": "205 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sc_cheddar_360",
+   "product": "SunChips Harvest Cheddar, value size",
+   "size": "360 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sc_minis",
+   "product": "SunChips Minis Harvest Cheddar",
+   "size": "106 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "munchies_450",
+   "product": "Munchies Original snack mix, value size",
+   "size": "450 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "crispers_ranch",
+   "product": "Christie Crispers, ranch",
+   "size": "145 g",
+   "price": 4.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "crispers_alldressed_240",
+   "product": "Christie Crispers, all dressed, family size",
+   "size": "240 g",
+   "price": 4.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sp_water_1l",
+   "product": "San Pellegrino sparkling mineral water",
+   "size": "1 L",
+   "price": 2.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sp_water_750",
+   "product": "San Pellegrino sparkling mineral water, glass",
+   "size": "750 ml",
+   "price": 2.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sp_water_6x1l",
+   "product": "San Pellegrino sparkling mineral water, 6 x 1 L",
+   "size": "6 x 1 L",
+   "price": 13.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sp_aranciata",
+   "product": "San Pellegrino Aranciata sparkling orange, 6 cans",
+   "size": "6 x 330 ml",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sp_rossa",
+   "product": "San Pellegrino Aranciata Rossa blood orange, 6 cans",
+   "size": "6 x 330 ml",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sp_limonata",
+   "product": "San Pellegrino Limonata sparkling lemon, 6 cans",
+   "size": "6 x 330 ml",
+   "price": 9.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sp_ciao_bo",
+   "product": "San Pellegrino CIAO! blood orange sparkling water, 6 cans",
+   "size": "6 x 330 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sp_light_bo",
+   "product": "San Pellegrino Light blood orange, 6 cans",
+   "size": "6 x 330 ml",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ab_unsw_946",
+   "product": "Almond Breeze unsweetened, shelf-stable",
+   "size": "946 ml",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ab_orig_946",
+   "product": "Almond Breeze original, shelf-stable",
+   "size": "946 ml",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ab_van_946",
+   "product": "Almond Breeze vanilla, shelf-stable",
+   "size": "946 ml",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ab_unsw_van_946",
+   "product": "Almond Breeze unsweetened vanilla, shelf-stable",
+   "size": "946 ml",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ab_choc_946",
+   "product": "Almond Breeze chocolate, shelf-stable",
+   "size": "946 ml",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "ab_unsw_choc_946",
+   "product": "Almond Breeze unsweetened chocolate, shelf-stable",
+   "size": "946 ml",
+   "price": 3.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "clif_cc_5",
+   "product": "CLIF energy bars, chocolate chip, 5 pack",
+   "size": "5 x 68 g",
+   "price": 10.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "clif_cpb_5",
+   "product": "CLIF energy bars, crunchy peanut butter, 5 pack",
+   "size": "5 x 68 g",
+   "price": 10.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "clif_wcm_5",
+   "product": "CLIF energy bars, white chocolate macadamia, 5 pack",
+   "size": "5 x 68 g",
+   "price": 10.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "clif_caf_5",
+   "product": "CLIF energy bars, chocolate almond fudge, 5 pack",
+   "size": "5 x 68 g",
+   "price": 10.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "clif_brownie_5",
+   "product": "CLIF energy bars, chocolate brownie, 5 pack",
+   "size": "5 x 68 g",
+   "price": 10.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dole_pine_tidbits",
+   "product": "Dole pineapple tidbits in pineapple juice",
+   "size": "398 ml",
+   "price": 2.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dole_pine_slices",
+   "product": "Dole pineapple slices in pineapple juice",
+   "size": "398 ml",
+   "price": 2.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dole_pine_chunks",
+   "product": "Dole pineapple chunks in pineapple juice",
+   "size": "398 ml",
+   "price": 2.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "dole_pine_crushed",
+   "product": "Dole crushed pineapple in pineapple juice",
+   "size": "398 ml",
+   "price": 2.75,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rh_ap_25",
+   "product": "Robin Hood Original all purpose flour",
+   "size": "2.5 kg",
+   "price": 7.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rh_ap_5",
+   "product": "Robin Hood Original all purpose flour, 5 kg",
+   "size": "5 kg",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rh_ap_10",
+   "product": "Robin Hood Original all purpose flour, 10 kg",
+   "size": "10 kg",
+   "price": 19.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rh_unbl_25",
+   "product": "Robin Hood unbleached all purpose flour",
+   "size": "2.5 kg",
+   "price": 7.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rh_unbl_5",
+   "product": "Robin Hood unbleached all purpose flour, 5 kg",
+   "size": "5 kg",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rh_bread_25",
+   "product": "Robin Hood Best for Bread homestyle white flour",
+   "size": "2.5 kg",
+   "price": 7.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "rh_bread_5",
+   "product": "Robin Hood Best for Bread homestyle white flour, 5 kg",
+   "size": "5 kg",
+   "price": 13.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_cinnamon_125",
+   "product": "Club House ground cinnamon",
+   "size": "125 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_cinnamon_32",
+   "product": "Club House ground cinnamon, small",
+   "size": "32 g",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_org_cinnamon_40",
+   "product": "Club House organic ground cinnamon",
+   "size": "40 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_pumpkin_pie",
+   "product": "Club House pumpkin pie spice",
+   "size": "35 g",
+   "price": 6.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_paprika_119",
+   "product": "Club House paprika",
+   "size": "119 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_smoked_paprika",
+   "product": "Club House smoked paprika",
+   "size": "116 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_org_paprika_40",
+   "product": "Club House organic paprika",
+   "size": "40 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_chili_powder",
+   "product": "Club House chili powder",
+   "size": "138 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_cumin_90",
+   "product": "Club House ground cumin",
+   "size": "90 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_org_cumin_40",
+   "product": "Club House organic ground cumin",
+   "size": "40 g",
+   "price": 3.79,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_crushed_red",
+   "product": "Club House crushed red pepper",
+   "size": "70 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_cayenne_81",
+   "product": "Club House ground cayenne pepper",
+   "size": "81 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_onion_powder",
+   "product": "Club House onion powder",
+   "size": "116 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_chili_mix",
+   "product": "Club House chili seasoning mix",
+   "size": "35 g",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_spicy_chili_mix",
+   "product": "Club House spicy chili seasoning mix",
+   "size": "32 g",
+   "price": 2.29,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_rotisserie",
+   "product": "Club House rotisserie chicken blend",
+   "size": "161 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_montreal_chicken",
+   "product": "Club House La Grille Montreal chicken seasoning",
+   "size": "170 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_montreal_bbq_rub",
+   "product": "Club House La Grille Montreal BBQ seasoning rub",
+   "size": "175 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_chicken_topping",
+   "product": "Club House Flavour Maker chicken topping seasoning",
+   "size": "162 g",
+   "price": 6.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_smoked_pap_onion",
+   "product": "Club House La Grille smoked paprika & onion seasoning",
+   "size": "171 g",
+   "price": 8.99,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "cs_pickling",
+   "product": "Club House pickling spice",
+   "size": "110 g",
+   "price": 5.49,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sh_little_big",
+   "product": "Silver Hills Little Big Bread",
+   "size": "430 g",
+   "price": 4.75,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sh_big16",
+   "product": "Silver Hills The Big 16 bread",
+   "size": "615 g",
+   "price": 4.75,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sh_squirrelly",
+   "product": "Silver Hills Squirrelly bread",
+   "size": "600 g",
+   "price": 4.75,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sh_org_multigrain",
+   "product": "Silver Hills organic multigrain sprouted bread",
+   "size": "680 g",
+   "price": 4.75,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sh_org_softwheat",
+   "product": "Silver Hills organic sprouted soft wheat bread",
+   "size": "680 g",
+   "price": 4.75,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "sh_omegamazing",
+   "product": "Silver Hills Omegamazing sprouted grain bread",
+   "size": "600 g",
+   "price": 4.75,
+   "regular": 6.0,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "vil_classico_675",
+   "product": "Villaggio Classico Italian style thick slice white bread",
+   "size": "675 g",
+   "price": 4.19,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mlp_meatballs_700",
+   "product": "Maple Leaf Prime chicken meatballs",
+   "size": "700 g",
+   "price": 15.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mlp_cutlette_ham",
+   "product": "Maple Leaf Prime stuffed chicken cutlettes, ham & mozzarella",
+   "size": "568 g",
+   "price": 15.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  },
+  {
+   "id": "mlp_cutlette_broc",
+   "product": "Maple Leaf Prime stuffed chicken cutlettes, broccoli & cheddar",
+   "size": "568 g",
+   "price": 15.0,
+   "regular": null,
+   "unit": "each",
+   "match": "exact",
+   "note": ""
+  }
+ ]
+}
