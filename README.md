@@ -1,29 +1,49 @@
-# Waterloo Basket Check
+# BasketCheck: grocery price comparison for Waterloo Region
 
-Build a grocery cart once and see what it costs at every grocery store in Waterloo Region that posts prices online, plus how long it takes to get to each one by walking, biking, bus or car.
+**Live site:** https://basketcheck-waterloo.pages.dev
 
-## Features
-- Shop page with 1051 common grocery items, search, aisles and a cart
-- Itemized receipt for each store with subtotal, 13% HST on taxable items and total
-- Stores ranked by Recommended (balance of price and trip time), Lowest price or Shortest trip
-- Map of 66 grocery stores; drop a pin to change your starting point
-- Missing items flagged per store; stores without online prices shown on the map only
-- Saved carts (kept in the browser), Help / FAQ page
+BasketCheck lets students in Waterloo Region build a grocery cart once and see what it costs at six grocery chains, along with how long the trip takes from their residence or address.
 
-## Run it
-Open `index.html` in a browser. In VS Code, install the recommended **Live Server** extension, right-click `index.html` and choose **Open with Live Server** so the page reloads as you edit.
+## What it does
+- Compares 1,051 grocery items across No Frills, Walmart, Your Independent Grocer, Zehrs, Sobeys and Real Canadian Superstore (31 stores)
+- Like for like only: an item counts at a store only if that store sells the same brand in the same size
+- Itemized receipt for each store, with sale prices marked, 13% HST on taxable items and the total
+- Ranks stores by lowest price, shortest trip, or a balance of both, based on what matters more to you
+- Real walking, biking and driving times from OpenStreetMap street routes, with presets for the UW campus and residences
+- Meal starters, a budget mode with cheaper swaps, split the bill, shareable cart links and saved carts
+- Works on phones and follows dark mode; no account needed, and carts stay in your own browser
+
+## How the prices stay current
+Prices are read from each chain's own website. Every week the prices most likely to have changed (sale prices first) are checked again, and each rechecked price keeps its source link and the date it was checked. Prices in this version were checked Oct 20 to Nov 17, 2026.
+
+## Built with
+- Plain HTML, CSS and JavaScript: no framework, no server, no build step for the site
+- Python to merge the per-chain price lists into one data file
+- Leaflet with Esri street map tiles; Esri and Photon for address search; OpenStreetMap routing (OSRM) for trip times
+- Hosted free on Cloudflare Pages
+
+## Testing
+`scripts/browser-tests.js` clicks through every page in a real browser (about 1,400 checks: receipt math, HST, sorting, brand choices, typed amounts, address search, street map, saved carts, phone widths). Before each release the site is also checked on 12 phone, tablet and desktop screen sizes and with an accessibility checker. To run the included tests:
+```
+npm install playwright leaflet@1.9.4
+npx playwright install chromium
+node scripts/browser-tests.js
+```
+
+## Run it locally
+Open `index.html` in a browser. In VS Code, the recommended **Live Server** extension reloads the page as you edit (right-click `index.html`, **Open with Live Server**).
 
 ## Project layout
 ```
-index.html               page markup (Home, Shop, Compare stores, Help)
+index.html               page markup (Welcome, Shop, Checkout, Help)
 css/styles.css           all styling
-js/app.js                cart, totals, HST, map, ranking, routing
+js/app.js                cart, totals, HST, map, ranking, routes
 js/art.js                product illustrations (inline SVG)
-data/data.js             prices + stores used by the page (generated)
+data/data.js             prices and stores used by the page (generated)
 data/prices.json         same data as plain JSON
-scripts/browser-tests.js automated tests
 scripts/build_data.py    rebuilds data/ from scripts/catalog/
-scripts/catalog/         raw price picks per chain + item list (spec.tsv)
+scripts/catalog/         price lists per chain, item list, store locations
+scripts/browser-tests.js automated browser tests
 ```
 
 ## Updating prices
@@ -32,20 +52,7 @@ Edit or replace the files in `scripts/catalog/`, then run:
 python3 scripts/build_data.py
 ```
 
-## Tests
-`scripts/browser-tests.js` clicks through every page in a real browser (about 1,400 checks: receipt math, HST, sorting, brand choices, typed amounts, address autofill, street map, saved carts, phone widths). To run it:
-```
-npm install playwright leaflet@1.9.4
-npx playwright install chromium
-node scripts/browser-tests.js
-```
-
-## Putting it online
-See HOSTING.md for step-by-step instructions (free hosting on Cloudflare Pages, with GitHub Pages as the backup option).
-
-## Notes
-- Prices were collected from each chain's website on Oct 20 to Nov 17, 2026; they change often.
-- Trip times are distance-based estimates, not live schedules.
-- The street map uses Leaflet with Esri World Street Map tiles (no key needed), and address suggestions come from Photon (photon.komoot.io). Both need internet; without it the page falls back to the drawn map. If the site gets real traffic, check Esri's and Photon's usage terms or switch to a paid tile and search plan.
-- The cart lasts for the open tab only (sessionStorage), so every new visit starts with an empty cart. The starting address also lasts for the tab only; saved carts are kept in localStorage.
-- To do before publishing: add GRT bus routes and departure times (GTFS feed from grt.ca).
+## Limitations
+- Walmart's site blocks automated reading, so only some items have a Walmart price.
+- Bus and ION times are estimates until GRT timetable data is added.
+- Chains post one online price per region, so a particular store's shelf price can differ slightly.
