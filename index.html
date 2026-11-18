@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Compare what your grocery cart costs at every store in Waterloo Region, and how long it takes to get there.">
+<title>Waterloo Basket Check</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="utility gutter" role="region" aria-label="Price date and coverage"><div class="inner"><span>Prices checked <b id="asof"></b></span><span id="storeCount"></span><span>Serving Waterloo, Kitchener, Cambridge and the townships</span></div></div>
+<header class="top gutter">
+  <div class="inner">
+    <a class="logo" href="#home"><span class="mark"><svg width="28" height="28" viewBox="0 0 28 28" aria-hidden="true"><path d="M9.5 10.5 14 4l4.5 6.5" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M3 10h22l-2.6 13.2a1.5 1.5 0 0 1-1.5 1.3H7.1a1.5 1.5 0 0 1-1.5-1.3Z" fill="currentColor"/><path d="M10.5 14v6M14 14v6M17.5 14v6" stroke="#fff" stroke-width="1.8"/></svg></span><span>Basket<b>Check</b></span></a>
+    <nav class="nav" aria-label="Pages">
+      <a href="#home" data-p="home">Home</a>
+      <a href="#shop" data-p="shop">Shop</a>
+      <a href="#checkout" data-p="checkout">Compare stores</a>
+      <a href="#faq" data-p="faq">Help</a>
+    </nav>
+    <a class="cartbtn" href="#checkout" aria-label="Cart">
+      <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><path d="M1 2.5h3.2l.6 2.5H19l-2 7.5H6.6l-.4 1.5H17v2H3.6l1.3-4.6L3 4.5H1Z" fill="currentColor"/><circle cx="6" cy="18" r="1.6" fill="currentColor"/><circle cx="15.5" cy="18" r="1.6" fill="currentColor"/></svg>
+      Cart <span class="n" id="cartN">0</span>
+    </a>
+  </div>
+</header>
+<div class="sub-strip"></div>
+
+<main class="gutter"><div class="inner">
+
+<!-- ================= WELCOME ================= -->
+<section class="page" id="p-home" aria-label="Welcome">
+  <div class="promo">
+    <div class="copy">
+      <h1>One cart, priced at six grocery chains in Waterloo Region.</h1>
+      <p>Shop like you normally would, then see what your exact cart costs at <span id="chainList"></span>, and how long it takes to get there.</p>
+      <div class="ctas"><a class="btn" href="#shop">Start shopping</a><a class="btn ghost" href="#checkout">Compare stores</a></div>
+    </div>
+    <div class="demo" id="demo"></div>
+  </div>
+
+  <div class="section-h"><h2>Shop by aisle</h2><a href="#shop">See all <span id="itemCount"></span> items</a></div>
+  <div class="aisles" id="aisleTiles"></div>
+
+  <div class="section-h"><h2>Lowest prices we found</h2><span class="label" id="lowOf"></span></div>
+  <div class="lows" id="flyerRows"></div>
+
+  <div class="section-h"><h2>How it works</h2></div>
+  <ol class="how">
+    <li><b>Fill your cart.</b> Search or browse the aisles and add what you actually buy.</li>
+    <li><b>Set your starting point.</b> Type your address, pick campus, a residence or Uptown, or click the map.</li>
+    <li><b>Compare the stores.</b> Each location gets an itemized receipt, a total with HST and a trip time.</li>
+  </ol>
+
+  <div class="section-h"><h2>Stores we compare</h2></div>
+  <div class="stores-strip" id="chainStrip"></div>
+  <p class="fineprint">Prices come from each chain's own website. Walk, bike and car times follow real street routes from OpenStreetMap (or an estimate if that service can't be reached); bus and ION times are estimates. Grocers that don't publish prices online appear on the map only.</p>
+</section>
+
+<!-- ================= SHOP ================= -->
+<section class="page" id="p-shop" aria-label="Shop" hidden>
+  <div class="shop">
+    <nav class="rail" id="rail" aria-label="Aisles"></nav>
+    <div>
+      <div class="shophead">
+        <label class="search" for="q">
+          <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><path d="M8.5 2a6.5 6.5 0 0 1 5.2 10.4l4.6 4.6-1.4 1.4-4.6-4.6A6.5 6.5 0 1 1 8.5 2Zm0 2.2a4.3 4.3 0 1 0 0 8.6 4.3 4.3 0 0 0 0-8.6Z" fill="currentColor"/></svg>
+          <input id="q" type="search" maxlength="80" placeholder="Search, e.g. eggs, chips or breakfast" autocomplete="off">
+        </label>
+        <div style="display:flex;gap:8px;align-items:center"><label class="label" for="shopSort">Sort</label>
+          <select id="shopSort"><option value="aisle">Aisle</option><option value="low">Lowest price</option><option value="name">Name A–Z</option><option value="sale">On sale first</option><option value="unit">Lowest unit price</option></select></div>
+      </div>
+      <div class="tagrow" id="tagrow" aria-label="Popular searches"><span class="label">Popular</span></div>
+      <div class="tagrow" id="dietrow" aria-label="Diet"><span class="label">Diet</span><button type="button" data-diet="veg" aria-pressed="false">Vegetarian</button><button type="button" data-diet="vegan" aria-pressed="false">Vegan</button></div>
+      <div class="tagrow mealrow" id="mealrow" aria-label="Meal starters"><span class="label">Meal starters</span></div>
+      <div class="mealbox" id="mealBox" hidden></div>
+      <p class="mealmsg" id="mealMsg" role="status"></p>
+      <h1 id="aisleTitle" style="margin-bottom:12px;font-size:1.5rem"></h1>
+      <div class="grid" id="grid"></div>
+    </div>
+  </div>
+  <div style="height:70px"></div>
+</section>
+
+<!-- ================= CHECKOUT ================= -->
+<section class="page" id="p-checkout" aria-label="Checkout" hidden>
+  <div class="sharedbanner" id="sharedBanner" hidden></div>
+  <div class="reshead" style="margin-bottom:16px"><h1 style="font-size:clamp(1.6rem,3.5vw,2.2rem)">Checkout</h1><a class="btn ghost small" href="#shop" style="text-decoration:none">Keep shopping</a></div>
+  <div class="answer" id="answer" aria-live="polite" hidden></div>
+  <div class="co">
+    <div style="display:grid;gap:16px">
+      <div class="panel">
+        <div class="reshead"><h2 style="font-size:1.1rem">Your cart</h2><button class="compare" id="clearCart" type="button">Clear cart</button></div>
+        <ul class="cartlist" id="cartList"></ul>
+      </div>
+      <details class="panel fold" id="savedFold">
+        <summary><h2 style="font-size:1.1rem">Saved carts</h2><span class="foldnote" id="savedNote"></span></summary>
+        <div class="foldbody">
+        <form class="saverow" id="saveForm"><input id="saveName" maxlength="40" placeholder="Name this cart, e.g. Weekly shop" aria-label="Cart name"><button class="btn small" type="submit">Save cart</button></form>
+        <ul class="savedlist" id="savedList"></ul>
+        <div class="pchgbox" id="savedChg" role="status" hidden></div>
+        </div>
+      </details>
+      <details class="panel fold" id="budgetPanel">
+        <summary><h2 style="font-size:1.1rem">Budget</h2><span class="foldnote" id="budgetNote"></span></summary>
+        <div class="foldbody">
+        <div class="budrow"><label for="budget">Your budget for this shop</label><span class="dollar"><span aria-hidden="true">$</span><input id="budget" type="number" min="0" max="5000" step="1" inputmode="decimal" placeholder="e.g. 60"></span></div>
+        <div id="budgetOut" role="status"></div>
+        <div class="swaps" id="swaps"></div>
+        </div>
+      </details>
+      <details class="panel fold" id="sharePanel">
+        <summary><h2 style="font-size:1.1rem">Share with roommates</h2><span class="foldnote" id="shareNote"></span></summary>
+        <div class="foldbody">
+        <p class="rmeta" style="margin:0">Send this link and they'll open the same cart and brand picks. The cart is written into the link itself, so nothing is uploaded.</p>
+        <div class="saverow"><input id="shareLink" readonly aria-label="Share link for this cart" placeholder="Add items to get a link"><button class="btn small" id="copyShare" type="button">Copy link</button></div>
+        <span class="sharemsg" id="shareMsg" role="status"></span>
+        <div class="budrow"><label for="people">Split the bill between</label><span class="numwrap"><input id="people" class="num" type="text" inputmode="numeric" value="1" maxlength="2" autocomplete="off" aria-describedby="peopleNote"><span id="peopleNote">people <span class="rmeta">(including you)</span></span></span></div>
+        <div id="peopleOut"></div>
+        </div>
+      </details>
+    </div>
+    <div class="results">
+      <div class="panel" id="locPanel" style="scroll-margin-top:100px">
+        <div class="reshead"><h2 style="font-size:1.1rem">Where are you starting?</h2><div class="seg" id="zoom" role="group" aria-label="Map view" style="flex:none"><button type="button" data-z="near" aria-pressed="true">Nearby</button><button type="button" data-z="all" aria-pressed="false">Whole region</button></div></div>
+        <form class="addrrow" id="addrForm" role="search"><div class="addrbox"><input id="addr" autocomplete="off" spellcheck="false" placeholder="Start typing your address, e.g. 200 University Ave W" aria-label="Your address" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="addrList"><ul class="addrlist" id="addrList" role="listbox" hidden></ul></div></form>
+        <div class="addrmsg" id="addrMsg" hidden></div>
+        <p class="addrnote">To find what you type, it's sent to Esri's address search (or Photon if Esri doesn't answer). It isn't saved. <a href="#privacy">Privacy</a></p>
+        <div class="startrow"><select id="startSel" aria-label="Starting point"></select>
+        <div class="seg" id="mode" role="group" aria-label="How you'll get there">
+          <button type="button" data-m="walk" aria-pressed="true">Walk</button>
+          <button type="button" data-m="bike" aria-pressed="false">Bike</button>
+          <button type="button" data-m="bus" aria-pressed="false">Bus / ION</button>
+          <button type="button" data-m="car" aria-pressed="false">Car</button>
+        </div></div>
+        <div class="maptitle" id="mapTitle"></div>
+        <div class="mapwrap" id="mapwrap">
+          <div class="lmap" id="lmap" role="region" aria-label="Street map of grocery stores in Waterloo Region" hidden></div>
+          <svg class="map" id="map" role="img" aria-label="Map of grocery stores in Waterloo Region"></svg>
+          <div class="tip" id="tip" hidden></div>
+        </div>
+        <div class="applyrow" id="applyRow" hidden><span>New starting point picked on the map.</span><span style="display:flex;gap:8px"><button class="btn small" id="cancelPin" type="button" style="background:transparent;color:var(--tag-ink);border:1.5px solid var(--tag-ink)">Cancel</button><button class="btn small" id="applyPin" type="button">Apply changes</button></span></div>
+        <div class="legend" id="legend"></div>
+        <p style="margin:0;font-size:.8rem;color:var(--muted)">Hover or tap a dot for the store and distance, or click a numbered dot to open its receipt. Drag to move the map, use + and − to zoom, and click an empty spot to move your YOU pin there.</p>
+      </div>
+      <div class="reshead" style="margin-top:8px">
+        <div><h2 style="font-size:1.25rem" id="resTitle">Stores for your cart</h2><span class="rmeta" id="resSub"></span></div>
+        <div class="tabs" role="group" aria-label="Sort stores">
+          <button type="button" data-s="rec" aria-pressed="true">Recommended</button>
+          <button type="button" data-s="price" aria-pressed="false">Lowest price</button>
+          <button type="button" data-s="time" aria-pressed="false">Shortest trip</button>
+        </div>
+      </div>
+      <div class="prefq" id="prefQ"><span id="prefLbl">What matters more to you?</span><div class="seg" id="pref" role="group" aria-labelledby="prefLbl"><button type="button" data-p="price" aria-pressed="false">Saving money</button><button type="button" data-p="both" aria-pressed="true">Both</button><button type="button" data-p="time" aria-pressed="false">Saving time</button></div></div>
+      <div class="why" id="why"></div>
+      <div class="split" id="split" hidden></div>
+      <div id="receipts" class="results" style="scroll-margin-top:110px"></div>
+    </div>
+  </div>
+  <div class="notes">
+    <p><b>Where prices come from.</b> <span id="srcNote"></span></p>
+    <p><b>Trip times.</b> When the site runs on its own web address, walking, biking and driving times come from real street routes (OpenStreetMap routing, plus 1 min to lock a bike or 3 min to park). If that service can't be reached, and always for bus or ION, times are estimated one way from straight-line distance × 1.3 for real streets: walking 4.7 km/h, biking 14 km/h, car 30 km/h plus 3 min to park, bus or ION 22 km/h plus 13 min to walk to the stop and wait.</p>
+    <p><b>Student discounts.</b> None of the six chains we compare advertises a student discount at its Waterloo Region stores, as far as we could confirm on October 28, 2026. See <a href="#faq">Help</a> for what we checked and the loyalty points that do work here.</p>
+    <p><b>Map.</b> The black YOU pin is where you start. Each coloured dot is a store we compare, coloured by chain, and the number inside is its place in the ranked list. Hollow grey dots are grocers without online prices. Dashed circles are 2, 5 and 10 km in a straight line from you, and the purple line is the ION route (approximate). Pins marked as approximate may be a few hundred metres off.</p>
+  </div>
+</section>
+
+<!-- ================= FAQ ================= -->
+<section class="page" id="p-faq" aria-label="Help" hidden>
+  <h1 style="font-size:clamp(1.6rem,3.5vw,2.2rem);margin-bottom:6px">Help and FAQ</h1>
+  <p style="color:var(--muted);margin:0 0 8px;max-width:680px">How to build a basket, pick where you're starting from, and read the store comparison.</p>
+  <div class="faq">
+    <h2>Using the site</h2>
+    <details open><summary>How do I compare stores?</summary><div><p>Go to <a href="#shop">Shop</a>, add the groceries you usually buy, then open <a href="#checkout">Compare stores</a>. Every store with online prices is ranked for your exact cart, with an itemized receipt and total for each one.</p></div></details>
+    <details><summary>How do I find or add an item?</summary><div><p>Search at the top of the Shop page or pick an aisle. You can search by name (e.g. “Doritos”) or by a general word like “breakfast”, “chips”, “vegan” or “quick meal” to see everything that fits, or tap one of the Popular buttons. Press <b>Add</b> on a product, then use + and − or type an amount to change the quantity. Your cart stays while the page is open, even if you refresh. Each time you open the site it starts with an empty cart, so save any cart you want to keep.</p></div></details>
+    <details><summary>Can I save my cart?</summary><div><p>Yes. Your current cart resets when you close the page, so save any cart you want to keep, like a weekly shop or a party shop. Type a name under <b>Saved carts</b> on the Compare stores page and press <b>Save cart</b>. Press <b>Load</b> to bring one back. Saved carts live in this browser only, so they won't appear on another device.</p></div></details>
+    <details><summary>Can I type an exact amount?</summary><div><p>Yes. Click the number in the cart or on a product card and type any amount, then press Enter. Items sold by weight take kilograms with up to two decimals (for example 0.35 kg), and other items take whole numbers. Typing 0 removes the item.</p></div></details>
+    <details><summary>How do I set where I'm starting from?</summary><div><p>On the Compare stores page, start typing your address and pick it from the suggestions (click one, or use the arrow keys and press Enter), choose a spot from the list, or click anywhere on the map to drop a pin. Press <b>Apply changes</b> to recalculate distances, or <b>Cancel</b> to keep your old spot.</p></div></details>
+    <details><summary>How do I get directions to a store?</summary><div><p>Open a store's receipt and press the directions button. Google Maps opens with the route from your starting point, using the travel option you picked (walk, bike, bus or car). <b>Show store on Google Maps</b> shows the store on a Google map right on the page.</p></div></details>
+    <details><summary>Is my address saved or shared?</summary><div><p>It isn't saved. Your starting point is forgotten when you close the page, and nothing is stored on a server. To find your address, what you type is sent to Esri's address search (or Photon, a free OpenStreetMap search, if Esri doesn't answer), and the directions button sends your starting point to Google Maps. See the <a href="#privacy">Privacy page</a> for the full list.</p></div></details>
+    <details><summary>What do Walk, Bike, Bus / ION and Car change?</summary><div><p>They change the trip time shown for each store and the order under <b>Shortest trip</b> and <b>Recommended</b>. Prices stay the same.</p></div></details>
+    <details><summary>What does "Recommended" mean?</summary><div><p>It weighs basket cost against the round-trip time, based on your answer to <b>What matters more to you?</b> With <b>Saving money</b>, a farther store wins if it's noticeably cheaper. With <b>Saving time</b>, the closer store wins unless the price gap is large. <b>Both</b> sits in between. Use <b>Lowest price</b> or <b>Shortest trip</b> if you only care about one of them.</p></div></details>
+    <details><summary>What are meal starters?</summary><div><p>On the Shop page, a <b>Meal starters</b> button shows the groceries for a simple meal, like tacos or a stir fry. Choose how many people you're cooking for and the amounts change to match, with a rough idea of each person's portion. Nothing goes in your cart until you press <b>Add all to cart</b>. Items you already have enough of are left as they are, and you can change amounts or remove items afterwards.</p></div></details>
+    <details><summary>What is the unit price?</summary><div><p>It's the price per 100 g, per 100 ml or per item (like per roll or per egg), worked out from the pack size and the lowest price we found. It makes different sizes easy to compare. Pick <b>Lowest unit price</b> in the Shop page's Sort menu to see the best value first. Items with a size range, like "12 to 18 pops", have no unit price.</p></div></details>
+    <details><summary>How does the budget work?</summary><div><p>Type what you want to spend under <b>Budget</b> on the Compare stores page. You'll see the lowest total for your whole cart and how far under or over your budget it is. <b>Cheaper swaps</b> lists similar items in the same aisle and size range that cost less at that store, plus items where picking "Cheapest available" in the Brand menu saves money. Press <b>Swap</b> to change your cart. Swaps are ideas, so check they suit you.</p></div></details>
+    <details><summary>What does "Split your cart" mean?</summary><div><p>Sometimes buying part of your cart at one store and the rest at another store nearby costs noticeably less. When two stores within 2 km of each other save you at least $2 together, and the two-stop trip is no more than 30 minutes longer than going to one store, a yellow box above the receipts shows which items to buy where, the total, and how long the two-stop trip takes. It never changes the store ranking below it.</p></div></details>
+    <details><summary>How do I share a cart with roommates?</summary><div><p>On the Compare stores page, press <b>Copy link</b> under <b>Share with roommates</b> and send it. When someone opens it, they're asked before it replaces their own cart. Pick how many people are splitting the bill to see each person's share of the lowest total.</p></div></details>
+    <h2>Prices and stores</h2>
+    <details><summary>Do any of these stores have a student discount?</summary><div><p>Not that we could confirm for Waterloo Region (checked October 28, 2026). <a href="https://www.foodbasics.ca/student-discount" target="_blank" rel="noopener">Food Basics</a> gives post-secondary students 10% off on Tuesdays at select stores, but none of the stores it lists are in Waterloo Region. Sobeys' Tuesday student discount is <a href="https://www.narcity.com/grocery-stores-in-canada-student-discounts-sobeys-metro-bulk-barn" target="_blank" rel="noopener">reported</a> only at select Atlantic Canada stores. <a href="https://www.bulkbarn.ca/en/Promo/Discount-Programs" target="_blank" rel="noopener">Bulk Barn</a> has a student discount on Wednesdays for regular-priced items with a student ID. What does work at the stores we compare: PC Optimum points at No Frills, Zehrs, Your Independent Grocer and Real Canadian Superstore, and Scene+ points at Sobeys. Always ask at the till, since store offers change.</p></div></details>
+    <details><summary>Where do the prices come from?</summary><div><p>From each chain's own website, for its Waterloo Region stores, on the date shown at the top of the page. Sale prices are marked. Prices change often, so check the store before you go.</p></div></details>
+    <details><summary>Do the totals include tax?</summary><div><p>Yes. Each total includes 13% HST on taxable items, which are marked <b>H</b> on the receipt. Basic groceries like produce, dairy, meat, bread and pantry staples aren't taxed in Ontario, while chips, pop and household items like paper towel and detergent are. Period products such as pads and tampons are HST-free.</p></div></details>
+    <details><summary>Why does a store say an item is "not available"?</summary><div><p>That store's website didn't list the same product at the same size. The receipt lists every missing item. The store is still ranked using an estimate for those items so the comparison stays fair, and it's flagged so you know.</p></div></details>
+    <details><summary>Why are some stores only on the map?</summary><div><p>Stores like Food Basics, FreshCo, Farm Boy, Costco and T&amp;T don't post readable prices online, so they can't be compared. They're shown on the map as hollow grey dots with no number, so you still know they're nearby.</p></div></details>
+    <details><summary>Are the prices for the same brand at every store?</summary><div><p>Yes, by default. Each item is compared as the same product and size at every store, and per-kg items like produce and meat are compared per kilogram. If you pick <b>Cheapest available</b> in an item's Brand menu, each store uses its lowest-priced brand of that item instead, still at the same size.</p></div></details>
+    <details><summary>How accurate are trip times and store locations?</summary><div><p>Trip times are estimates from distance and typical travel speeds, not live traffic or bus schedules. Pins marked "approximate" may be a few hundred metres off.</p></div></details>
+  </div>
+  <div style="height:20px"></div>
+</section>
+
+<!-- ================= PRIVACY ================= -->
+<section class="page legal" id="p-privacy" aria-label="Privacy" hidden>
+  <h1>Privacy</h1>
+  <p class="upd">Last updated October 28, 2026</p>
+  <p>BasketCheck is a free student project that compares grocery prices in Waterloo Region. It has no accounts, no ads and no analytics, and it doesn't run a server that stores anything about you.</p>
+  <h2>What stays in your browser</h2>
+  <table>
+    <tr><th>What</th><th>Where</th><th>How long</th></tr>
+    <tr><td>Your current cart, starting point, travel choice, "What matters more" answer, brand picks and budget</td><td>This tab's session storage</td><td>Until you close the tab</td></tr>
+    <tr><td>Carts you choose to save</td><td>This browser's local storage</td><td>Until you delete them</td></tr>
+  </table>
+  <p>None of this leaves your device, and BasketCheck sets no cookies.</p>
+  <div class="delrow"><button class="btn small" id="wipeData" type="button">Delete all my saved data</button><span class="msg" id="wipeMsg" role="status"></span></div>
+  <h2>What other services see</h2>
+  <ul>
+    <li><b>Esri address search</b> gets the text you type in the address box, and <b>Photon</b> (komoot) gets it only if Esri doesn't answer. They send back matching addresses.</li>
+    <li><b>Esri map tiles</b> are loaded for the street map, so Esri sees which part of the map is on screen.</li>
+    <li><b>Share links</b> contain your cart's item codes, amounts and brand picks in the link itself. Only the people you send a link to can see it.</li>
+    <li><b>Google Maps</b> gets your starting point and the store only when you press a directions button or "Show store on Google Maps". The embedded Google map may set Google's own cookies.</li>
+    <li><b>Google Fonts</b> and <b>cdnjs (Cloudflare)</b> send the font and the map code, so they see a normal web request from your browser.</li>
+  </ul>
+  <p>Each of these services handles that data under its own privacy policy: <a href="https://www.esri.com/en-us/privacy/overview" target="_blank" rel="noopener">Esri</a>, <a href="https://www.komoot.com/privacy" target="_blank" rel="noopener">komoot (Photon)</a>, <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google</a> and <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Cloudflare</a>.</p>
+  <h2>Cookies</h2>
+  <p>BasketCheck doesn't use cookies or tracking, so there's no cookie banner. Browser storage is only used for the cart features listed above.</p>
+  <h2>Children</h2>
+  <p>The site is meant for adults and older students doing their own shopping. It doesn't collect personal information from anyone, including children.</p>
+  <h2>Questions</h2>
+  <p>BasketCheck is run by a University of Waterloo student. For privacy questions or requests, use the contact details in the <a href="#terms">Terms</a>.</p>
+</section>
+
+<!-- ================= TERMS ================= -->
+<section class="page legal" id="p-terms" aria-label="Terms of use" hidden>
+  <h1>Terms of use</h1>
+  <p class="upd">Last updated October 28, 2026</p>
+  <h2>What this site is</h2>
+  <p>BasketCheck is a free, independent student project that estimates what a grocery cart costs at different stores in Waterloo Region. It's for information only. You don't buy anything here.</p>
+  <h2>Prices and trip times</h2>
+  <ul>
+    <li>Prices are copied from each chain's public website on the date shown at the top of the page. They change often and can differ in store, so check the price before you buy.</li>
+    <li>Items a chain doesn't list at the same size are shown as missing, and their cost is estimated so stores can still be ranked.</li>
+    <li>Trip times are estimates from distance and typical speeds, not live traffic or bus schedules.</li>
+  </ul>
+  <h2>Payments and refunds</h2>
+  <p>BasketCheck sells nothing and takes no payments, so there are no fees or refunds. Anything you buy is between you and the store, under that store's own policies.</p>
+  <h2>Stores and trademarks</h2>
+  <p>BasketCheck isn't affiliated with or endorsed by No Frills, Walmart, Your Independent Grocer, Zehrs, Real Canadian Superstore, Sobeys or any other store named here. Store and product names belong to their owners and are used only to identify them. Product pictures are simple drawings made for this site, not real packaging.</p>
+  <h2>Fair use</h2>
+  <p>Please don't copy the price data in bulk or send automated traffic to the site.</p>
+  <h2>Credits and licences</h2>
+  <ul>
+    <li>Font: Source Sans 3 by Adobe, under the SIL Open Font License, served by Google Fonts.</li>
+    <li>Street map: Leaflet (BSD 2-Clause licence). Map tiles &copy; Esri and its data partners, including OpenStreetMap contributors.</li>
+    <li>Address search: Esri World Geocoding, and Photon by komoot using OpenStreetMap data (&copy; OpenStreetMap contributors, ODbL).</li>
+    <li>Directions and store maps: Google Maps, under Google's terms.</li>
+  </ul>
+  <h2>No warranty</h2>
+  <p>The site is provided as is. We try to keep it accurate but can't promise every price, time or location is right, and we aren't responsible for decisions made using it. These terms are governed by the laws of Ontario, Canada.</p>
+  <h2>Contact</h2>
+  <p id="contactLine">BasketCheck is a University of Waterloo student project. A contact email will be listed here before the site is shared publicly.</p>
+</section>
+
+<footer class="sitefoot" aria-label="About this site">
+  <nav aria-label="Site information"><a href="#faq">Help</a><a href="#privacy">Privacy</a><a href="#terms">Terms of use</a></nav>
+  <p>BasketCheck is an independent student project from Waterloo, Ontario. It isn't affiliated with any grocery chain. Prices are copied from each chain's website (checked <span id="asofFoot"></span>) and can change, so check in store.</p>
+</footer>
+
+</div></main>
+
+<div class="undo" id="undo" role="status" hidden></div>
+<div class="mbar" id="mbar" role="region" aria-label="Best pick" hidden></div>
+<div class="cartbar gutter" id="cartbar" role="region" aria-label="Cart summary" hidden><div class="inner">
+  <span><b class="mono" id="barN">0</b> <span id="barWord">items</span> in cart · lowest total with HST <b class="mono" id="barLow">$0.00</b></span>
+  <a class="btn" href="#checkout" style="text-decoration:none">Go to checkout</a>
+</div></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+
+<script src="data/data.js"></script>
+<script src="js/art.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
