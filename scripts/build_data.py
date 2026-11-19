@@ -169,7 +169,7 @@ for _iid, _per in brand_rows.items():
         for _p in _prods:
             if MULTIBUY.search(_p.get("note") or "") and _p.get("regular") and _p.get("price") and _p["price"] < _p["regular"]: _p["price"], _p["regular"] = _p["regular"], None
             _full = _p.get("product","") if _p.get("product","").lower().startswith((_p.get("brand") or "").lower()) else f'{_p.get("brand","")} {_p.get("product","")}'
-            if _v and _full.strip().lower() == _v.get("product","").lower(): _p["price"], _p["regular"] = _v["price"], _v["regular"]
+            if _v and re.sub(r"[^a-z0-9]", "", _full.lower()) == re.sub(r"[^a-z0-9]", "", _v.get("product","").lower()): _p["price"], _p["regular"] = _v["price"], _v["regular"]  # same product even if the punctuation differs ("Soap, Original" vs "Soap Original")
 spec_size = {}
 if os.path.exists(CAT + "/brand-items.tsv"):
     for r in csv.reader(open(CAT + "/brand-items.tsv"), delimiter="\t"):

@@ -1,5 +1,5 @@
 {
- "ASOF": "Oct 20 to Nov 17, 2026",
+ "ASOF": "Oct 20 to Nov 18, 2026",
  "CHAINS": [
   {
    "id": "nofrills",
@@ -235,14 +235,14 @@
      "size": "1 each"
     },
     "independent": {
-     "price": 0.8,
-     "regular": 1.25,
+     "price": 1.25,
+     "regular": null,
      "product": "Lemon",
      "size": "1 ea"
     },
     "zehrs": {
-     "price": 0.75,
-     "regular": 1.25,
+     "price": 1.25,
+     "regular": null,
      "product": "Lemon",
      "size": "1 ea"
     },
@@ -390,7 +390,7 @@
     },
     "zehrs": {
      "price": 3.0,
-     "regular": 4.0,
+     "regular": null,
      "product": "Farmer's Market Yellow Onions",
      "size": "1.36 kg (3 lb)"
     },
@@ -430,7 +430,7 @@
    "prices": {
     "nofrills": {
      "price": 2.99,
-     "regular": 3.49,
+     "regular": null,
      "product": "Farmer's Market Carrots",
      "size": "3 lb (1.362 kg)"
     },
@@ -442,13 +442,13 @@
     },
     "independent": {
      "price": 3.0,
-     "regular": 3.5,
+     "regular": 4.0,
      "product": "Farmer's Market Carrots, 3 lb Bag",
      "size": "1.362 kg"
     },
     "zehrs": {
      "price": 3.0,
-     "regular": 4.0,
+     "regular": null,
      "product": "Farmer's Market Carrots, 3 lb Bag",
      "size": "1.362 kg"
     },
@@ -900,8 +900,8 @@
      "size": "454 g"
     },
     "zehrs": {
-     "price": 2.88,
-     "regular": 2.99,
+     "price": 7.5,
+     "regular": null,
      "product": "Strawberries 1LB",
      "size": "454 g"
     },
@@ -1339,13 +1339,13 @@
     "independent": {
      "price": 4.88,
      "regular": 6.0,
-     "product": "No Name Medium Cheddar Cheese",
+     "product": "No Name Old Cheddar Cheese",
      "size": "400 g"
     },
     "zehrs": {
-     "price": 4.98,
+     "price": 4.88,
      "regular": 6.0,
-     "product": "Black Diamond Medium Cheddar Cheese Bar",
+     "product": "No Name Old Cheddar Cheese",
      "size": "400 g"
     },
     "sobeys": {
@@ -1374,7 +1374,7 @@
      "label": "Store brand",
      "prices": {
       "zehrs": {
-       "price": 4.98,
+       "price": 4.88,
        "regular": 6.0,
        "product": "No Name Old Cheddar Cheese",
        "size": "400 g"
@@ -1400,7 +1400,7 @@
       "independent": {
        "price": 4.88,
        "regular": 6.0,
-       "product": "No Name Medium Cheddar Cheese",
+       "product": "No Name Old Cheddar Cheese",
        "size": "400 g"
       }
      }
@@ -1498,8 +1498,8 @@
    "kw": "shredded mozzarella",
    "prices": {
     "nofrills": {
-     "price": 4.88,
-     "regular": 5.79,
+     "price": 5.79,
+     "regular": null,
      "product": "No Name Shredded Mozzarella",
      "size": "320 g"
     },
@@ -1510,13 +1510,13 @@
      "size": "320 g"
     },
     "independent": {
-     "price": 4.88,
+     "price": 4.98,
      "regular": 6.0,
      "product": "No Name Shredded Mozzarella",
      "size": "320 g"
     },
     "zehrs": {
-     "price": 4.88,
+     "price": 4.98,
      "regular": 6.0,
      "product": "No Name Shredded Mozzarella",
      "size": "320 g"
@@ -1671,8 +1671,8 @@
    "kw": "cream cheese",
    "prices": {
     "nofrills": {
-     "price": 2.0,
-     "regular": 3.0,
+     "price": 3.0,
+     "regular": null,
      "product": "No Name Pasteurized Cream Cheese",
      "size": "250 g"
     },
@@ -1683,8 +1683,8 @@
      "size": "250 g (implied by $1.19/100g)"
     },
     "independent": {
-     "price": 3.75,
-     "regular": 3.99,
+     "price": 3.99,
+     "regular": null,
      "product": "No Name Pasteurized Cream Cheese",
      "size": "250 g"
     },
@@ -1839,14 +1839,14 @@
      "size": "1 L"
     },
     "independent": {
-     "price": 5.5,
-     "regular": 7.47,
+     "price": 7.47,
+     "regular": null,
      "product": "Neilson 18% Table Cream",
      "size": "1 L"
     },
     "zehrs": {
-     "price": 5.5,
-     "regular": 7.47,
+     "price": 7.47,
+     "regular": null,
      "product": "Neilson 18% Table Cream",
      "size": "1 L"
     },
@@ -2254,14 +2254,14 @@
      "size": "6 count, 450 g"
     },
     "independent": {
-     "price": 2.5,
-     "regular": 2.99,
+     "price": 2.99,
+     "regular": null,
      "product": "No Name Bagel Plain 6 Pack",
      "size": "510 g"
     },
     "zehrs": {
-     "price": 2.5,
-     "regular": 2.99,
+     "price": 2.99,
+     "regular": null,
      "product": "No Name Bagel Plain, 6 Pack",
      "size": "510 g"
     },
@@ -2458,8 +2458,8 @@
      "size": "342 g"
     },
     "superstore": {
-     "price": 2.0,
-     "regular": 2.25,
+     "price": 2.25,
+     "regular": null,
      "product": "No Name Original English Muffins",
      "size": "342 g (6 pk)"
     },
@@ -2655,8 +2655,8 @@
    "kw": "lean ground beef",
    "prices": {
     "nofrills": {
-     "price": 6.0,
-     "regular": 9.0,
+     "price": 9.5,
+     "regular": null,
      "product": "Grass Fed Lean Ground Beef",
      "size": "450 g"
     },
@@ -2714,8 +2714,8 @@
    "kw": "bacon",
    "prices": {
     "nofrills": {
-     "price": 3.5,
-     "regular": 6.0,
+     "price": 6.0,
+     "regular": null,
      "product": "No Name Mild Sugar Cured Bacon",
      "size": "375 g"
     },
@@ -3182,8 +3182,8 @@
    "kw": "chicken nuggets",
    "prices": {
     "nofrills": {
-     "price": 5.77,
-     "regular": 12.0,
+     "price": 12.0,
+     "regular": null,
      "product": "Janes Pub Style Chicken Nugget, Fully Cooked",
      "size": "700 g"
     },
@@ -3462,14 +3462,14 @@
      "size": "not shown"
     },
     "independent": {
-     "price": 2.0,
-     "regular": 2.29,
+     "price": 2.29,
+     "regular": null,
      "product": "No Name Penne Rigate Pasta",
      "size": "900 g"
     },
     "zehrs": {
-     "price": 2.0,
-     "regular": 2.29,
+     "price": 2.29,
+     "regular": null,
      "product": "No Name Penne Rigate Pasta",
      "size": "900 g"
     },
@@ -3543,8 +3543,8 @@
    "kw": "pasta sauce",
    "prices": {
     "nofrills": {
-     "price": 2.0,
-     "regular": 2.69,
+     "price": 2.69,
+     "regular": null,
      "product": "Catelli Garden Select Tomato & Basil Pasta Sauce",
      "size": "600 ml"
     },
@@ -3563,7 +3563,7 @@
     "zehrs": {
      "price": 3.0,
      "regular": 4.25,
-     "product": "President's Choice Marinara Pasta Sauce",
+     "product": "President's Choice Roasted Garlic Pasta Sauce",
      "size": "600 ml"
     },
     "superstore": {
@@ -3600,7 +3600,7 @@
       "zehrs": {
        "price": 3.0,
        "regular": 4.25,
-       "product": "President's Choice Marinara Pasta Sauce",
+       "product": "President's Choice Roasted Garlic Pasta Sauce",
        "size": "600 ml"
       },
       "sobeys": {
@@ -3652,8 +3652,8 @@
        "size": "600 mL"
       },
       "nofrills": {
-       "price": 2.0,
-       "regular": 2.69,
+       "price": 2.69,
+       "regular": null,
        "product": "Catelli Garden Select Tomato & Basil Pasta Sauce",
        "size": "600 ml"
       },
@@ -3811,8 +3811,8 @@
      "size": "540 ml"
     },
     "superstore": {
-     "price": 1.39,
-     "regular": 1.69,
+     "price": 1.69,
+     "regular": null,
      "product": "No Name Black Beans",
      "size": "540 ml"
     },
@@ -3870,8 +3870,8 @@
      "size": "540 ml"
     },
     "superstore": {
-     "price": 1.39,
-     "regular": 1.69,
+     "price": 1.69,
+     "regular": null,
      "product": "No Name Chickpeas",
      "size": "540 ml"
     },
@@ -3928,8 +3928,8 @@
      "size": "170 g"
     },
     "superstore": {
-     "price": 1.24,
-     "regular": 2.0,
+     "price": 2.19,
+     "regular": null,
      "product": "Clover Leaf Chunk Light Tuna, Skip Jack In Water",
      "size": "170 g"
     },
@@ -4123,8 +4123,8 @@
    "kw": "mr noodles",
    "prices": {
     "nofrills": {
-     "price": 0.39,
-     "regular": 0.5,
+     "price": 0.5,
+     "regular": null,
      "product": "Mr Noodles Instant Noodles Chicken Flavour",
      "size": "85 g"
     },
@@ -4297,8 +4297,8 @@
      "size": "1 kg"
     },
     "superstore": {
-     "price": 5.97,
-     "regular": 6.5,
+     "price": 6.29,
+     "regular": null,
      "product": "Kraft Smooth Peanut Butter",
      "size": "1 kg"
     },
@@ -4404,14 +4404,14 @@
      "size": "500 mL (not shown; implied by 79¢/100ml)"
     },
     "independent": {
-     "price": 5.5,
-     "regular": 6.0,
+     "price": 6.0,
+     "regular": null,
      "product": "No Name Strawberry Jam with Pectin",
      "size": "500 ml"
     },
     "zehrs": {
-     "price": 5.5,
-     "regular": 6.0,
+     "price": 6.0,
+     "regular": null,
      "product": "No Name Strawberry Jam with Pectin",
      "size": "500 ml"
     },
@@ -4483,8 +4483,8 @@
      "label": "Store brand",
      "prices": {
       "zehrs": {
-       "price": 5.5,
-       "regular": 6.0,
+       "price": 6.0,
+       "regular": null,
        "product": "No Name Strawberry Jam with Pectin",
        "size": "500 ml"
       },
@@ -4501,8 +4501,8 @@
        "size": "500 ml"
       },
       "independent": {
-       "price": 5.5,
-       "regular": 6.0,
+       "price": 6.0,
+       "regular": null,
        "product": "No Name Strawberry Jam with Pectin",
        "size": "500 ml"
       }
@@ -4553,8 +4553,8 @@
      "size": "500 g (not shown; implied by $1.39/100g)"
     },
     "independent": {
-     "price": 6.5,
-     "regular": 6.99,
+     "price": 6.99,
+     "regular": null,
      "product": "Tamam Liquid Honey",
      "size": "500 g"
     },
@@ -4599,8 +4599,8 @@
    "kw": "all purpose flour",
    "prices": {
     "nofrills": {
-     "price": 3.0,
-     "regular": 3.79,
+     "price": 3.79,
+     "regular": null,
      "product": "No Name All-Purpose Flour",
      "size": "2.5 kg"
     },
@@ -4767,8 +4767,8 @@
      "size": "1 L"
     },
     "zehrs": {
-     "price": 12.0,
-     "regular": 14.5,
+     "price": 9.49,
+     "regular": 13.0,
      "product": "PC Splendido Cold-Extracted Extra Virgin Olive Oil",
      "size": "1 L"
     },
@@ -4944,20 +4944,20 @@
      "size": "Family Size (~570 g implied by $1.22/100g)"
     },
     "independent": {
-     "price": 6.0,
-     "regular": 7.99,
+     "price": 7.99,
+     "regular": null,
      "product": "General Mills Original Cheerios Breakfast Cereal, Family Size, Whole Grains",
      "size": "570 g"
     },
     "zehrs": {
-     "price": 6.0,
-     "regular": 7.99,
+     "price": 7.99,
+     "regular": null,
      "product": "Original Cheerios Breakfast Cereal, Family Size, Whole Grains",
      "size": "570 g"
     },
     "superstore": {
-     "price": 5.5,
-     "regular": 6.0,
+     "price": 7.49,
+     "regular": null,
      "product": "Original Cheerios Breakfast Cereal, Family Size",
      "size": "570 g"
     },
@@ -5452,8 +5452,8 @@
    "kw": "orange pekoe tea",
    "prices": {
     "nofrills": {
-     "price": 5.5,
-     "regular": 5.99,
+     "price": 5.99,
+     "regular": null,
      "product": "Tetley Tea Bags Orange Pekoe",
      "size": "72 ea"
     },
@@ -5726,14 +5726,14 @@
      "size": "750 g"
     },
     "independent": {
-     "price": 3.0,
-     "regular": 3.49,
+     "price": 3.79,
+     "regular": null,
      "product": "No Name Mixed Vegetables",
      "size": "750 g"
     },
     "zehrs": {
-     "price": 3.0,
-     "regular": 3.49,
+     "price": 3.79,
+     "regular": null,
      "product": "No Name Mixed Vegetables",
      "size": "750 g"
     },
@@ -5844,13 +5844,13 @@
     "independent": {
      "price": 3.0,
      "regular": 4.49,
-     "product": "McCain Straight Cut French Fries",
+     "product": "McCain Crinkle Cut French Fries",
      "size": "800 g"
     },
     "zehrs": {
      "price": 3.0,
      "regular": 4.29,
-     "product": "McCain Straight Cut French Fries",
+     "product": "McCain Crinkle Cut French Fries",
      "size": "800 g"
     },
     "superstore": {
@@ -5887,7 +5887,7 @@
       "zehrs": {
        "price": 3.0,
        "regular": 4.29,
-       "product": "McCain Straight Cut French Fries",
+       "product": "McCain Crinkle Cut French Fries",
        "size": "800 g"
       },
       "sobeys": {
@@ -5911,7 +5911,7 @@
       "independent": {
        "price": 3.0,
        "regular": 4.49,
-       "product": "McCain Straight Cut French Fries",
+       "product": "McCain Crinkle Cut French Fries",
        "size": "800 g"
       }
      }
@@ -5973,8 +5973,8 @@
      "size": "720 g"
     },
     "zehrs": {
-     "price": 6.0,
-     "regular": 7.0,
+     "price": 7.99,
+     "regular": null,
      "product": "Dr Oetker Giuseppe Pizzeria Rising Crust Pepperoni Pizza",
      "size": "720 g"
     },
@@ -6002,8 +6002,8 @@
      "label": "Dr Oetker",
      "prices": {
       "zehrs": {
-       "price": 6.0,
-       "regular": 7.0,
+       "price": 7.99,
+       "regular": null,
        "product": "Dr Oetker Giuseppe Pizzeria Rising Crust Pepperoni Pizza",
        "size": "720 g"
       },
@@ -6084,16 +6084,16 @@
      "size": "2 L"
     },
     "independent": {
-     "price": 3.49,
-     "regular": 5.49,
-     "product": "Chapmans Markdale Creamery Vanilla Ice Cream",
-     "size": "2 L"
+     "price": 4.0,
+     "regular": 5.99,
+     "product": "Breyers Natural Vanilla Ice Cream",
+     "size": "1.41 L"
     },
     "zehrs": {
-     "price": 3.49,
-     "regular": 5.49,
-     "product": "Chapmans Markdale Creamery Vanilla Ice Cream",
-     "size": "2 L"
+     "price": 4.0,
+     "regular": 5.99,
+     "product": "Breyers Natural Vanilla Ice Cream",
+     "size": "1410 ml"
     },
     "superstore": {
      "price": 5.49,
@@ -6161,8 +6161,8 @@
      "label": "Chapman's",
      "prices": {
       "zehrs": {
-       "price": 3.49,
-       "regular": 5.49,
+       "price": 5.49,
+       "regular": null,
        "product": "Chapmans Markdale Creamery Vanilla Ice Cream",
        "size": "2 L"
       },
@@ -6185,8 +6185,8 @@
        "size": "2 L"
       },
       "independent": {
-       "price": 3.49,
-       "regular": 5.49,
+       "price": 5.49,
+       "regular": null,
        "product": "Chapmans Markdale Creamery Vanilla Ice Cream",
        "size": "2 L"
       }
@@ -6242,7 +6242,7 @@
     }
    ],
    "uq": [
-    2000.0,
+    1410.0,
     "ml"
    ]
   },
@@ -6267,10 +6267,10 @@
      "size": "1.5 L"
     },
     "independent": {
-     "price": 4.0,
-     "regular": 4.49,
-     "product": "No Name Pulp Free 100% Orange Juice Blend",
-     "size": "1.75 L"
+     "price": 4.49,
+     "regular": null,
+     "product": "Oasis Orange Juice No Pulp, Not from Concentrate",
+     "size": "1.5 L"
     },
     "zehrs": {
      "price": 5.49,
@@ -6279,8 +6279,8 @@
      "size": "1.36 L"
     },
     "superstore": {
-     "price": 4.25,
-     "regular": 5.0,
+     "price": 5.0,
+     "regular": null,
      "product": "Tropicana Orange Juice, No Pulp",
      "size": "1.36 l"
     },
@@ -6332,8 +6332,8 @@
        "size": "1.36 L"
       },
       "independent": {
-       "price": 4.0,
-       "regular": 4.49,
+       "price": 4.49,
+       "regular": null,
        "product": "No Name Pulp Free 100% Orange Juice Blend",
        "size": "1.75 L"
       }
@@ -6438,8 +6438,8 @@
      "size": "12 x 355 ml"
     },
     "superstore": {
-     "price": 7.99,
-     "regular": 8.79,
+     "price": 8.79,
+     "regular": null,
      "product": "Coca-Cola Cola Fridge Pack Cans",
      "size": "12x355 ml"
     },
@@ -6736,8 +6736,8 @@
     "zehrs": {
      "price": 5.0,
      "regular": 8.75,
-     "product": "President's Choice Max Soft Toilet Paper, 12 Double Rolls = 24 Single Rolls",
-     "size": "12 double rolls"
+     "product": "President's Choice Super Soft Hypoallergenic Bathroom Tissue 12 Pack",
+     "size": "12 rolls"
     }
    },
    "tax": 1,
@@ -6863,20 +6863,20 @@
      "size": "591 mL"
     },
     "independent": {
-     "price": 2.5,
-     "regular": 4.79,
-     "product": "Dawn Ultra Dish Soap, Original",
-     "size": "502 mL"
+     "price": 3.5,
+     "regular": null,
+     "product": "President's Choice Dishwashing Liquid, Icelandic Springs",
+     "size": "638 ml"
     },
     "zehrs": {
-     "price": 2.5,
-     "regular": 4.79,
-     "product": "Dawn Ultra Dish Soap, Original",
-     "size": "502 ml"
+     "price": 3.99,
+     "regular": null,
+     "product": "Palmolive Essential Clean Liquid Dish Soap, Original Scent",
+     "size": "828 ml"
     },
     "superstore": {
-     "price": 2.5,
-     "regular": 2.99,
+     "price": 2.99,
+     "regular": null,
      "product": "Dawn Ultra Dish Soap Original",
      "size": "502 ml"
     },
@@ -6904,8 +6904,8 @@
      "label": "Dawn",
      "prices": {
       "zehrs": {
-       "price": 2.5,
-       "regular": 4.79,
+       "price": 4.79,
+       "regular": null,
        "product": "Dawn Ultra Dish Soap Original",
        "size": "502 ml"
       },
@@ -6928,8 +6928,8 @@
        "size": "502 ml"
       },
       "independent": {
-       "price": 2.5,
-       "regular": 4.79,
+       "price": 4.79,
+       "regular": null,
        "product": "Dawn Ultra Dish Soap Original",
        "size": "502 ml"
       }
@@ -7171,8 +7171,8 @@
    "kw": "doritos nacho cheese",
    "prices": {
     "nofrills": {
-     "price": 3.0,
-     "regular": 4.5,
+     "price": 4.5,
+     "regular": null,
      "product": "Doritos Nacho Cheese Flavoured Tortilla Chips",
      "size": "235 g"
     },
@@ -7226,8 +7226,8 @@
    "kw": "doritos cool ranch",
    "prices": {
     "nofrills": {
-     "price": 3.0,
-     "regular": 4.5,
+     "price": 4.5,
+     "regular": null,
      "product": "Doritos Cool Ranch flavoured Tortilla Chips",
      "size": "235 g"
     },
@@ -7621,8 +7621,8 @@
      "size": "200 g"
     },
     "superstore": {
-     "price": 4.79,
-     "regular": 5.49,
+     "price": 5.49,
+     "regular": null,
      "product": "Miss Vickies Original Recipe Kettle Cooked Potato Chips",
      "size": "200 g"
     },
@@ -7708,8 +7708,8 @@
    "kw": "tostitos scoops",
    "prices": {
     "nofrills": {
-     "price": 4.0,
-     "regular": 4.49,
+     "price": 4.49,
+     "regular": null,
      "product": "Tostitos Scoops! tortilla chips 215g",
      "size": "215 g"
     },
@@ -8439,8 +8439,8 @@
      "size": "120 g (5 bars)"
     },
     "superstore": {
-     "price": 2.75,
-     "regular": 3.0,
+     "price": 2.99,
+     "regular": null,
      "product": "Quaker Chewy Chocolatey Chip Granola Bars (5 bars)",
      "size": "120 g"
     },
@@ -8909,8 +8909,8 @@
      "size": "315 g"
     },
     "independent": {
-     "price": 3.0,
-     "regular": 5.0,
+     "price": 5.0,
+     "regular": null,
      "product": "Maynards Sour Patch Kids Original Candy, Sharing Size",
      "size": "315 g"
     },
@@ -9093,8 +9093,8 @@
    "kw": "hummus",
    "prices": {
     "nofrills": {
-     "price": 3.0,
-     "regular": 3.5,
+     "price": 3.79,
+     "regular": null,
      "product": "President's Choice Hummus",
      "size": "227 g"
     },
@@ -9111,8 +9111,8 @@
      "size": "227 g"
     },
     "superstore": {
-     "price": 3.0,
-     "regular": 3.5,
+     "price": 3.5,
+     "regular": null,
      "product": "President's Choice Hummus",
      "size": "227 g"
     },
@@ -9499,14 +9499,14 @@
      "size": "475 g"
     },
     "zehrs": {
-     "price": 5.0,
+     "price": 4.25,
      "regular": 6.49,
      "product": "Quaker Harvest Crunch Original Granola Cereal",
      "size": "475 g"
     },
     "superstore": {
-     "price": 3.79,
-     "regular": 5.0,
+     "price": 5.0,
+     "regular": null,
      "product": "Quaker Harvest Crunch Original Granola Cereal",
      "size": "475 g"
     },
@@ -9705,7 +9705,7 @@
    "kw": "pancake mix",
    "prices": {
     "nofrills": {
-     "price": 3.5,
+     "price": 3.79,
      "regular": 4.29,
      "product": "Pearl Milling Company Complete Pancake & Waffle Mix, Original",
      "size": "905 g"
@@ -9757,8 +9757,8 @@
    "kw": "mr noodles chicken",
    "prices": {
     "nofrills": {
-     "price": 0.39,
-     "regular": 0.5,
+     "price": 0.5,
+     "regular": null,
      "product": "Mr Noodles Instant Noodles Chicken Flavour",
      "size": "85 g"
     },
@@ -10347,8 +10347,8 @@
    "kw": "dill pickles",
    "prices": {
     "nofrills": {
-     "price": 5.29,
-     "regular": 5.49,
+     "price": 5.49,
+     "regular": null,
      "product": "Bicks Dill Pickles Garlic",
      "size": "1000 ml"
     },
@@ -10417,14 +10417,14 @@
      "size": "~4 L"
     },
     "independent": {
-     "price": 3.0,
-     "regular": 4.99,
+     "price": 4.99,
+     "regular": null,
      "product": "President's Choice The Natural Vinegar (white)",
      "size": "4 l"
     },
     "zehrs": {
-     "price": 3.0,
-     "regular": 4.49,
+     "price": 4.99,
+     "regular": null,
      "product": "President's Choice The Natural Vinegar",
      "size": "4 l"
     },
@@ -10720,7 +10720,7 @@
    "kw": "kernel corn can",
    "prices": {
     "nofrills": {
-     "price": 1.25,
+     "price": 1.33,
      "regular": 1.99,
      "product": "Green Giant Corn Niblets, Whole Kernel",
      "size": "341 ml"
@@ -10778,7 +10778,7 @@
    "kw": "canned peas",
    "prices": {
     "nofrills": {
-     "price": 1.25,
+     "price": 1.33,
      "regular": 1.99,
      "product": "Green Giant Sweetlet Peas",
      "size": "398 ml"
@@ -10860,8 +10860,8 @@
      "size": "540 ml"
     },
     "superstore": {
-     "price": 1.39,
-     "regular": 1.69,
+     "price": 1.69,
+     "regular": null,
      "product": "No Name Dark Red Kidney Beans",
      "size": "540 ml"
     },
@@ -10895,8 +10895,8 @@
    "kw": "baked beans",
    "prices": {
     "nofrills": {
-     "price": 1.79,
-     "regular": 2.0,
+     "price": 1.99,
+     "regular": null,
      "product": "Heinz Deep-Browned Beans With Tomato Sauce",
      "size": "398 ml"
     },
@@ -11036,8 +11036,8 @@
      "size": "340 g"
     },
     "superstore": {
-     "price": 3.47,
-     "regular": 4.99,
+     "price": 4.99,
+     "regular": null,
      "product": "Spam Classic Fully Cooked Luncheon Meat",
      "size": "340 g"
     },
@@ -11182,8 +11182,8 @@
    "kw": "chicken broth 900 ml",
    "prices": {
     "nofrills": {
-     "price": 1.5,
-     "regular": 2.0,
+     "price": 2.0,
+     "regular": null,
      "product": "Campbell's Chicken Broth",
      "size": "900 ml"
     },
@@ -11194,13 +11194,13 @@
      "size": "900 ml"
     },
     "independent": {
-     "price": 1.5,
-     "regular": 2.0,
+     "price": 2.0,
+     "regular": null,
      "product": "No Name Chicken Broth",
      "size": "900 ml"
     },
     "zehrs": {
-     "price": 1.5,
+     "price": 2.0,
      "regular": 2.29,
      "product": "No Name Chicken Broth",
      "size": "900 ml"
@@ -11251,8 +11251,8 @@
      "size": "500 g"
     },
     "independent": {
-     "price": 3.0,
-     "regular": 3.79,
+     "price": 3.79,
+     "regular": null,
      "product": "Italpasta Lasagne",
      "size": "500 g"
     },
@@ -11308,14 +11308,14 @@
      "size": "900 g"
     },
     "independent": {
-     "price": 2.0,
-     "regular": 2.29,
+     "price": 2.29,
+     "regular": null,
      "product": "No Name Elbow Macaroni",
      "size": "900 g"
     },
     "zehrs": {
-     "price": 2.0,
-     "regular": 2.29,
+     "price": 2.29,
+     "regular": null,
      "product": "No Name Elbow Macaroni",
      "size": "900 g"
     },
@@ -11353,8 +11353,8 @@
    "kw": "alfredo sauce",
    "prices": {
     "nofrills": {
-     "price": 3.0,
-     "regular": 3.25,
+     "price": 3.49,
+     "regular": null,
      "product": "President's Choice Alfredo Pasta Sauce",
      "size": "410 ml"
     },
@@ -11365,8 +11365,8 @@
      "size": "410 ml"
     },
     "independent": {
-     "price": 3.0,
-     "regular": 4.25,
+     "price": 4.5,
+     "regular": null,
      "product": "President's Choice Alfredo Pasta Sauce",
      "size": "410 ml"
     },
@@ -11377,8 +11377,8 @@
      "size": "410 ml"
     },
     "superstore": {
-     "price": 2.97,
-     "regular": 3.49,
+     "price": 3.49,
+     "regular": null,
      "product": "Classico Alfredo Pasta Sauce",
      "size": "410 ml"
     },
@@ -11476,8 +11476,8 @@
      "size": "425 g"
     },
     "zehrs": {
-     "price": 4.0,
-     "regular": 4.49,
+     "price": 4.99,
+     "regular": null,
      "product": "4C Plain Bread Crumbs",
      "size": "425 g"
     },

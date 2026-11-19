@@ -481,7 +481,10 @@ function renderStart(){
   $("#startSel").value = custom ? "pin" : S.start.id;
 }
 $("#startSel").addEventListener("change", e=>{ const p=START_PRESETS.find(x=>x.id===e.target.value); if(!p) return; setStart({...p}); });
-document.querySelectorAll("#mode button").forEach(b=>b.onclick=()=>{ S.mode=b.dataset.m; document.querySelectorAll("#mode button").forEach(x=>x.setAttribute("aria-pressed", String(x===b))); renderCheckout(); });
+/* travel mode: the list is redrawn in place, and if the bar is stuck above the list the page is nudged so the list stays exactly where it was (the best-pick card above it can change height) */
+document.querySelectorAll("#mode button").forEach(b=>b.onclick=()=>{ const list=$("#receipts"), before=list.getBoundingClientRect().top, stuck=before<innerHeight && $("#modeBar").getBoundingClientRect().top<=parseFloat(getComputedStyle($("#modeBar")).top)+1;
+  S.mode=b.dataset.m; document.querySelectorAll("#mode button").forEach(x=>x.setAttribute("aria-pressed", String(x===b))); renderCheckout();
+  if (stuck){ const d=list.getBoundingClientRect().top-before; if (Math.abs(d)>0.5) scrollBy(0, d); } });
 document.querySelectorAll("#zoom button").forEach(b=>b.onclick=()=>{ S.zoom=b.dataset.z; document.querySelectorAll("#zoom button").forEach(x=>x.setAttribute("aria-pressed", String(x===b))); renderMap(); });
 document.querySelectorAll("#pref button").forEach(b=>b.onclick=()=>{ S.pref=b.dataset.p; try { sessionStorage.setItem("wbc-pref", S.pref); } catch(e){} document.querySelectorAll("#pref button").forEach(x=>x.setAttribute("aria-pressed", String(x===b))); if (S.sort!=="rec") $('.tabs [data-s="rec"]').click(); else renderResults(); });
 try { const p=sessionStorage.getItem("wbc-pref"); if (PREF_RATE[p]) { S.pref=p; document.querySelectorAll("#pref button").forEach(x=>x.setAttribute("aria-pressed", String(x.dataset.p===p))); } } catch(e){}
@@ -582,18 +585,20 @@ const ION=[[43.4977,-80.5281],[43.4908,-80.5375],[43.4830,-80.5430],[43.4743,-80
 let MAPGEO=null;
 /* the YOU pin: a black teardrop with a white centre and a YOU tag, so it never looks like a store dot */
 const PIN_PATH = "M0 0C-4 -9 -12 -14 -12 -24A12 12 0 1 1 12 -24C12 -14 4 -9 0 0Z";
-const pinSvg = (ghost) => `<svg width="34" height="44" viewBox="-17 -40 34 44" aria-hidden="true"><ellipse cx="0" cy="1" rx="7" ry="2.5" fill="rgba(0,0,0,.25)"/><path d="${PIN_PATH}" fill="#111" stroke="#fff" stroke-width="2.5"${ghost?' opacity=".55"':""}/><circle cx="0" cy="-24" r="5" fill="#fff"/></svg>`;
+/* read a colour token from :root, for the map library and inline SVG that can't use CSS variables */
+const tok = n => getComputedStyle(document.documentElement).getPropertyValue("--"+n).trim();
+const pinSvg = (ghost) => `<svg width="34" height="44" viewBox="-17 -40 34 44" aria-hidden="true"><ellipse cx="0" cy="1" rx="7" ry="2.5" fill="${tok("pin-shadow")}"/><path d="${PIN_PATH}" fill="${tok("pin")}" stroke="${tok("surface")}" stroke-width="2.5"${ghost?' opacity=".55"':""}/><circle cx="0" cy="-24" r="5" fill="${tok("surface")}"/></svg>`;
 const darkText = hex => { const n=parseInt(hex.slice(1),16), r=n>>16, g=(n>>8)&255, b=n&255; return (0.299*r+0.587*g+0.114*b) > 160; };
 /* rank of each priced store in the list below (empty when the cart is empty) */
 const mapRank = () => S.rank || {};
-/* Street map: Leaflet + CARTO Voyager tiles (OpenStreetMap data). Falls back to the drawn map if either can't load. */
+/* Street map: Leaflet + Esri street tiles. Falls back to the drawn map if either can't load. */
 let MAPMODE = typeof L!=="undefined" ? "street" : "drawn", LMAP=null, LLAYER=null, LFIT="";
 const tipHtml = s => { const tr=trip(s); return `<b>${esc(s.name)}</b>${esc(s.addr)}, ${esc(s.city)}<br><span class="mono">${tr.d.toFixed(1)} km · ${fmtMin(tr.min)} ${MODE_WORD[S.mode]}</span>${s.chain?"":"<br><i>No online prices</i>"}${s.approx?"<br><i>Approximate location</i>":""}`; };
 const nearPool = () => S.zoom==="near" ? STORES.filter(s=>s.lat>43.43 && s.lat<43.515 && s.lon>-80.59 && s.lon<-80.47) : STORES;
 function useDrawnMap(){ MAPMODE="drawn"; $("#lmap").hidden=true; $("#map").style.display=""; renderMap(); }
 function initStreetMap(){
   $("#map").style.display="none"; $("#lmap").hidden=false;
-  LMAP = L.map("lmap", {scrollWheelZoom:false, zoomSnap:0.5});
+  LMAP = L.map("lmap", {scrollWheelZoom:false, zoomSnap:0.5});  /* +/- buttons, double-click zoom, drag to pan and touch-screen pinch stay on (Leaflet defaults) */
   const tiles = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {maxZoom:19, attribution:'Tiles &copy; Esri &mdash; Esri, HERE, Garmin, &copy; OpenStreetMap contributors, and the GIS user community'});
   let loaded=false, failed=0;
   tiles.on("tileload", ()=>{ loaded=true; });
@@ -602,8 +607,17 @@ function initStreetMap(){
   LLAYER = L.layerGroup().addTo(LMAP);
   if (typeof ResizeObserver!=="undefined") new ResizeObserver(()=>{ if (LMAP) fitStreetMap(false); }).observe($("#lmap"));
   LMAP.on("click", e=>{ S.pending={lat:e.latlng.lat, lon:e.latlng.lng}; $("#applyRow").hidden=false; renderMap(); });
-  LMAP.on("focus", ()=>LMAP.scrollWheelZoom.enable());
-  LMAP.on("blur", ()=>LMAP.scrollWheelZoom.disable());
+  /* Trackpad pinch over the map zooms the map, never the page. Chrome, Edge and Firefox send a pinch as a wheel event with ctrlKey set;
+     Safari sends gesture events. A plain two-finger scroll is left alone, so it always scrolls the page. Zoom steps follow zoomSnap,
+     so the pinch is added up and the map moves each time it crosses a half step. */
+  const box=$("#lmap"); let pz=null, pzT=0, gz=null, gpt=null;
+  const zoomTo=(z, pt)=>{ z=Math.max(LMAP.getMinZoom(), Math.min(LMAP.getMaxZoom(), z)); LMAP.setZoomAround(pt, z, {animate:false}); return z; };
+  box.addEventListener("wheel", e=>{ if (!e.ctrlKey || !LMAP) return; e.preventDefault(); if (gz!=null) return;
+    pz = zoomTo((pz==null ? LMAP.getZoom() : pz) - e.deltaY*(e.deltaMode===1 ? 0.05 : 0.01), LMAP.mouseEventToContainerPoint(e));
+    clearTimeout(pzT); pzT=setTimeout(()=>{ pz=null; }, 250); }, {passive:false});
+  box.addEventListener("gesturestart", e=>{ e.preventDefault(); if (!LMAP) return; gz=LMAP.getZoom(); gpt=LMAP.mouseEventToContainerPoint(e); }, {passive:false});
+  box.addEventListener("gesturechange", e=>{ e.preventDefault(); if (LMAP && gz!=null && e.scale>0) zoomTo(gz+Math.log2(e.scale), gpt); }, {passive:false});
+  box.addEventListener("gestureend", e=>{ e.preventDefault(); gz=null; }, {passive:false});
 }
 /* fit only once the box has its real size; a ResizeObserver refits when the width changes */
 function fitStreetMap(force){ if (!LMAP) return; const el=$("#lmap"), key=`${S.zoom}|${S.start.lat}|${S.start.lon}|${el.clientWidth}`; if (!el.clientWidth || (!force && key===LFIT)) return; LFIT=key; LMAP.invalidateSize(false); const pts=nearPool().map(s=>[s.lat,s.lon]).concat([[S.start.lat,S.start.lon]]); LMAP.fitBounds(L.latLngBounds(pts), {padding:[24,24]}); }
@@ -611,9 +625,9 @@ function renderStreetMap(){
   if (!LMAP){ initStreetMap(); if (MAPMODE!=="street") return; }
   LMAP.invalidateSize(false);
   LLAYER.clearLayers();
-  L.polyline(ION, {color:"#8e6fb5", weight:4, opacity:.7, interactive:false}).addTo(LLAYER);
-  [2,5,10].forEach(r=>L.circle([S.start.lat,S.start.lon], {radius:r*1000, color:"#0a6b5b", weight:1.5, dashArray:"4 6", fill:false, interactive:false}).addTo(LLAYER));
-  STORES.filter(s=>!s.chain).forEach(s=>{ const m=L.circleMarker([s.lat,s.lon], {radius:5, color:"#7f8a90", weight:1.5, fillColor:"#fff", fillOpacity:1}).bindTooltip(tipHtml(s), {direction:"top", offset:[0,-6]}).addTo(LLAYER);
+  L.polyline(ION, {color:tok("map-ion"), weight:4, opacity:.7, interactive:false}).addTo(LLAYER);
+  [2,5,10].forEach(r=>L.circle([S.start.lat,S.start.lon], {radius:r*1000, color:tok("accent"), weight:1.5, dashArray:"4 6", fill:false, interactive:false}).addTo(LLAYER));
+  STORES.filter(s=>!s.chain).forEach(s=>{ const m=L.circleMarker([s.lat,s.lon], {radius:5, color:tok("map-other"), weight:1.5, fillColor:tok("surface"), fillOpacity:1}).bindTooltip(tipHtml(s), {direction:"top", offset:[0,-6]}).addTo(LLAYER);
     m.on("click", e=>{ L.DomEvent.stopPropagation(e); m.openTooltip(); }); });
   [2,5,10].forEach(r=>{ L.marker([S.start.lat+r/110.57, S.start.lon], {interactive:false, keyboard:false, icon:L.divIcon({className:"lring", html:`${r} km`, iconSize:[40,14], iconAnchor:[20,16]})}).addTo(LLAYER); });
   const RK=mapRank();
@@ -632,14 +646,16 @@ function renderMap(){
 function renderLegend(){
   const n=cartCount(), rk=Object.keys(mapRank()).length>0, SORTW={rec:"Recommended", price:"Lowest price", time:"Shortest trip"}[S.sort];
   $("#mapTitle").innerHTML = rk ? `<b>Map: your starting point and the ${PRICED.length} stores ranked for your cart</b><span>Numbers match the list below (sorted by ${SORTW}).</span>` : `<b>Map: your starting point and the grocery stores around it</b><span>Add items to your cart and each store gets its rank number here.</span>`;
-  const dotSvg = (fill, num, dark) => `<svg viewBox="0 0 34 30" aria-hidden="true"><circle cx="17" cy="15" r="11" fill="${fill}" stroke="#fff" stroke-width="2"/>${num?`<text x="17" y="19" text-anchor="middle" font-size="11" font-weight="800" fill="${dark?"#1d2327":"#fff"}">${num}</text>`:""}</svg>`;
-  $("#legend").innerHTML = `<div class="mapkey"><h3>What the map shows</h3><ul>
-    <li><svg viewBox="-17 -40 34 44" aria-hidden="true"><path d="${PIN_PATH}" fill="#111" stroke="#fff" stroke-width="2.5"/><circle cx="0" cy="-24" r="5" fill="#fff"/></svg><div><b>You</b>: where your trip starts (${esc(S.start.name)}). <span>Change it with the address box, the list above, or by clicking the map.</span></div></li>
-    <li>${dotSvg("#0a6b5b", rk?"1":"")}<div><b>Stores we compare</b>, coloured by chain (colours below). ${rk?`<span>The number is the store's place in the list below; 1 is the top pick. A dark ring marks the store whose receipt is open.</span>`:`<span>Click one to see its receipt once your cart has items.</span>`}</div></li>
-    <li>${dotSvg("#fff","",false).replace('fill="#fff" stroke="#fff"','fill="#fff" stroke="#7f8a90"')}<div><b>Other grocers</b> <span>(Food Basics, FreshCo, Costco and others) that don't post prices online, shown so you know they're there.</span></div></li>
-    <li><svg viewBox="0 0 34 30" aria-hidden="true"><circle cx="17" cy="15" r="12" fill="none" stroke="#0a6b5b" stroke-width="1.5" stroke-dasharray="3 4"/></svg><div><b>Distance rings</b> <span>at 2, 5 and 10 km in a straight line from you. Real trips are a bit longer.</span></div></li>
-    <li><svg viewBox="0 0 34 30" aria-hidden="true"><path d="M3 22 L14 12 L22 17 L31 7" fill="none" stroke="#8e6fb5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/></svg><div><b>ION light rail</b> <span>(approximate route).</span></div></li>
-  </ul><div class="chainkey"><span style="font-weight:600;color:var(--ink)">Chain colours:</span>${CHAINS.map(c=>`<span><i class="dot" style="background:${c.color}"></i> ${esc(c.name)}</span>`).join("")}</div></div>`;
+  const W=tok("surface"), dotSvg = (fill, num, stroke=W) => `<svg viewBox="0 0 34 30" aria-hidden="true"><circle cx="17" cy="15" r="11" fill="${fill}" stroke="${stroke}" stroke-width="2"/>${num?`<text x="17" y="19" text-anchor="middle" font-size="11" font-weight="800" fill="${tok("on-accent")}">${num}</text>`:""}</svg>`;
+  const wasOpen = !!($("#legend details") && $("#legend details").open);
+  $("#legend").innerHTML = `<details class="mapkey"${wasOpen?" open":""}><summary>What the map shows</summary><ul>
+    <li><svg viewBox="-17 -40 34 44" aria-hidden="true"><path d="${PIN_PATH}" fill="${tok("pin")}" stroke="${W}" stroke-width="2.5"/><circle cx="0" cy="-24" r="5" fill="${W}"/></svg><div><b>You</b>: where your trip starts (${esc(S.start.name)}). <span>Change it with the address box, the list above, or by clicking the map.</span></div></li>
+    <li>${dotSvg(tok("accent"), rk?"1":"")}<div><b>Stores we compare</b>, coloured by chain (colours below). ${rk?`<span>The number is the store's place in the list below; 1 is the top pick. A dark ring marks the store whose receipt is open.</span>`:`<span>Click one to see its receipt once your cart has items.</span>`}</div></li>
+    <li>${dotSvg(W, "", tok("map-other"))}<div><b>Other grocers</b> <span>(Food Basics, FreshCo, Costco and others) that don't post prices online, shown so you know they're there.</span></div></li>
+    <li><svg viewBox="0 0 34 30" aria-hidden="true"><circle cx="17" cy="15" r="12" fill="none" stroke="${tok("accent")}" stroke-width="1.5" stroke-dasharray="3 4"/></svg><div><b>Distance rings</b> <span>at 2, 5 and 10 km in a straight line from you. Real trips are a bit longer.</span></div></li>
+    <li><svg viewBox="0 0 34 30" aria-hidden="true"><path d="M3 22 L14 12 L22 17 L31 7" fill="none" stroke="${tok("map-ion")}" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/></svg><div><b>ION light rail</b> <span>(approximate route).</span></div></li>
+    <li><svg viewBox="0 0 34 30" aria-hidden="true"></svg><div><b>Moving around</b> <span>drag to move the map, pinch or use + and − to zoom, and click an empty spot to move your YOU pin there.</span></div></li>
+  </ul><div class="chainkey"><span style="font-weight:600;color:var(--ink)">Chain colours:</span>${CHAINS.map(c=>`<span><i class="dot" style="background:${c.color}"></i> ${esc(c.name)}</span>`).join("")}</div></details>`;
 }
 function renderSvgMap(){
   const pool = nearPool();
@@ -661,7 +677,7 @@ function renderSvgMap(){
   STORES.filter(s=>!s.chain).forEach(s=>{ const p=P(s.lat,s.lon); g+=at(p[0],p[1],`<circle class="st off" r="4.5" data-s="${s.i}"/>`); });
   const RK=mapRank();
   STORES.filter(s=>s.chain).sort((a,b)=>(RK[b.i]||99)-(RK[a.i]||99)).forEach(s=>{ const p=P(s.lat,s.lon), rk=RK[s.i], col=CH[s.chain].color, r=rk?(rk===1?13:11):7; g+=at(p[0],p[1],`<circle class="st ${S.open===s.i?"hi":""}" r="${r}" fill="${col}" data-s="${s.i}"/>`+(rk?`<text class="snum${darkText(col)?" dark":""}" y="4" text-anchor="middle">${rk}</text>`:"")); });
-  const youPin = (x,y,ghost,label) => at(x,y,`<g class="youpin${ghost?" ghost":""}"><ellipse cx="0" cy="1" rx="7" ry="2.5" fill="rgba(0,0,0,.25)"/><path d="${PIN_PATH}"/><circle class="hole" cx="0" cy="-24" r="5"/><rect x="15" y="-44" width="${label.length*9+12}" height="20" rx="4"/><text x="21" y="-29">${label}</text></g>`);
+  const youPin = (x,y,ghost,label) => at(x,y,`<g class="youpin${ghost?" ghost":""}"><ellipse cx="0" cy="1" rx="7" ry="2.5" fill="${tok("pin-shadow")}"/><path d="${PIN_PATH}"/><circle class="hole" cx="0" cy="-24" r="5"/><rect x="15" y="-44" width="${label.length*9+12}" height="20" rx="4"/><text x="21" y="-29">${label}</text></g>`);
   g+=youPin(me[0],me[1],false,"YOU");
   if (S.pending){ const pp=P(S.pending.lat,S.pending.lon); g+=youPin(pp[0],pp[1],true,"NEW?"); }
   const svg=$("#map"); svg.setAttribute("viewBox",`0 0 ${VW} ${VH}`); svg.innerHTML=g;
@@ -724,6 +740,8 @@ function renderAnswer(R){
 /* phone bottom bar: pinned while the answer card is scrolled out of view */
 function showMbar(on){ const m=$("#mbar"); m.hidden=!on; document.body.classList.toggle("mbar-on", on); }
 let answerSeen=false;
+/* keep --top-h equal to the sticky header's height (it wraps to two rows on phones) so the travel-mode bar sits right under it */
+{ const top=$(".top"), setH=()=>document.documentElement.style.setProperty("--top-h", (getComputedStyle(top).position==="sticky" ? top.offsetHeight : 0)+"px"); setH(); if (typeof ResizeObserver!=="undefined") new ResizeObserver(setH).observe(top); addEventListener("resize", setH); }
 if ("IntersectionObserver" in window) new IntersectionObserver(es=>{ answerSeen=es[0].isIntersecting; const m=$("#mbar"); m.classList.toggle("away", answerSeen); m.inert=answerSeen; }).observe($("#answer"));
 function renderSteps(){ if (!$("#steps")) return;
   const n=cartCount(), picked=!!S.startPicked;

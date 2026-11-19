@@ -1,6 +1,6 @@
 {
  "note": "Prices re-checked against each chain's own search page. build.py applies these on top of the catalog files.",
- "checked": "2026-11-17",
+ "checked": "2026-11-18",
  "prices": {
   "nofrills": {
    "eggs": {
@@ -14,6 +14,202 @@
     "regular": null,
     "source": "https://www.nofrills.ca/en/old-cheddar-cheese/p/21289751_EA",
     "product": "No Name Old Cheddar Cheese"
+   },
+   "carrot": {
+    "price": 2.99,
+    "regular": null,
+    "product": "Farmer's Market Carrots",
+    "source": "https://www.nofrills.ca/en/carrots-3-lb-bag/p/20600927001_EA",
+    "checked": "2026-11-18"
+   },
+   "mozza": {
+    "price": 5.79,
+    "regular": null,
+    "product": "No Name Shredded Mozzarella",
+    "source": "https://www.nofrills.ca/en/shredded-mozzarella/p/21082491_EA",
+    "checked": "2026-11-18"
+   },
+   "cream_cheese": {
+    "price": 3.0,
+    "regular": null,
+    "product": "No Name Pasteurized Cream Cheese",
+    "source": "https://www.nofrills.ca/en/pasteurized-cream-cheese/p/20308105001_EA",
+    "checked": "2026-11-18"
+   },
+   "beef": {
+    "price": 9.5,
+    "regular": null,
+    "product": "Grass Fed Lean Ground Beef",
+    "source": "https://www.nofrills.ca/en/grass-fed-lean-ground-beef/p/21615428_EA",
+    "checked": "2026-11-18"
+   },
+   "bacon": {
+    "price": 6.0,
+    "regular": null,
+    "product": "No Name Mild Sugar Cured Bacon",
+    "source": "https://www.nofrills.ca/en/mild-sugar-cured-bacon/p/21738685_EA",
+    "checked": "2026-11-18"
+   },
+   "nuggets": {
+    "price": 12.0,
+    "regular": null,
+    "product": "Janes Pub Style Chicken Nugget, Fully Cooked",
+    "source": "https://www.nofrills.ca/en/pub-style-chicken-nugget-fully-cooked/p/21191830_EA",
+    "checked": "2026-11-18"
+   },
+   "sauce": {
+    "price": 2.69,
+    "regular": null,
+    "product": "Catelli Garden Select Tomato & Basil Pasta Sauce",
+    "source": "https://www.nofrills.ca/en/garden-select-tomato-basil-pasta-sauce/p/21619105_EA",
+    "checked": "2026-11-18"
+   },
+   "noodles": {
+    "price": 0.5,
+    "regular": null,
+    "product": "Mr Noodles Instant Noodles Chicken Flavour",
+    "source": "https://www.nofrills.ca/en/instant-noodles-chicken-flavour/p/20322658001_EA",
+    "checked": "2026-11-18"
+   },
+   "flour": {
+    "price": 3.79,
+    "regular": null,
+    "product": "No Name All-Purpose Flour",
+    "source": "https://www.nofrills.ca/en/all-purpose-flour/p/20013256_EA",
+    "checked": "2026-11-18"
+   },
+   "mayo": {
+    "price": 5.99,
+    "regular": 6.5,
+    "product": "Hellmann's Real Mayonnaise",
+    "source": "https://www.nofrills.ca/en/mayonnaise-real/p/20618579001_EA",
+    "checked": "2026-11-18"
+   },
+   "tea": {
+    "price": 5.99,
+    "regular": null,
+    "product": "Tetley Tea Bags Orange Pekoe",
+    "source": "https://www.nofrills.ca/en/tea-bags-orange-pekoe/p/21611907_EA",
+    "checked": "2026-11-18"
+   },
+   "pizza": {
+    "price": 5.5,
+    "regular": 7.29,
+    "product": "Dr Oetker Giuseppe Pizzeria Rising Crust Pepperoni Pizza",
+    "source": "https://www.nofrills.ca/en/giuseppe-pizzeria-rising-crust-pepperoni-pizza/p/21106361_EA",
+    "checked": "2026-11-18"
+   },
+   "doritos_nacho": {
+    "price": 4.5,
+    "regular": null,
+    "product": "Doritos Nacho Cheese Flavoured Tortilla Chips",
+    "source": "https://www.nofrills.ca/en/nacho-cheese-flavoured-tortilla-chips/p/21693042_EA",
+    "checked": "2026-11-18"
+   },
+   "doritos_ranch": {
+    "price": 4.5,
+    "regular": null,
+    "product": "Doritos Cool Ranch flavoured Tortilla Chips",
+    "source": "https://www.nofrills.ca/en/cool-ranch-flavoured-tortilla-chips/p/21369106_EA",
+    "checked": "2026-11-18"
+   },
+   "tostitos": {
+    "price": 4.49,
+    "regular": null,
+    "product": "Tostitos Scoops! tortilla chips 215g",
+    "source": "https://www.nofrills.ca/en/scoops-tortilla-chips-215g/p/21050572_EA",
+    "checked": "2026-11-18"
+   },
+   "hummus": {
+    "price": 3.79,
+    "regular": null,
+    "product": "President's Choice Hummus",
+    "source": "https://www.nofrills.ca/en/hummus/p/20584097_EA",
+    "checked": "2026-11-18"
+   },
+   "froot_loops": {
+    "price": 3.5,
+    "regular": 4.0,
+    "product": "Kelloggs Froot Loops Cereal",
+    "source": "https://www.nofrills.ca/en/froot-loops-cereal/p/21652128_EA",
+    "checked": "2026-11-18"
+   },
+   "pancake_mix": {
+    "price": 3.79,
+    "regular": 4.29,
+    "product": "Pearl Milling Company Complete Pancake & Waffle Mix, Original",
+    "source": "https://www.nofrills.ca/en/complete-pancake-waffle-mix-original/p/21384609_EA",
+    "checked": "2026-11-18"
+   },
+   "mr_noodles": {
+    "price": 0.5,
+    "regular": null,
+    "product": "Mr Noodles Instant Noodles Chicken Flavour",
+    "source": "https://www.nofrills.ca/en/instant-noodles-chicken-flavour/p/20322658001_EA",
+    "checked": "2026-11-18"
+   },
+   "pickles": {
+    "price": 5.49,
+    "regular": null,
+    "product": "Bicks Dill Pickles Garlic",
+    "source": "https://www.nofrills.ca/en/dill-pickles-garlic/p/21668773_EA",
+    "checked": "2026-11-18"
+   },
+   "brown_sugar": {
+    "price": 2.79,
+    "regular": 3.79,
+    "product": "Lantic Brilliant Yellow Sugar",
+    "source": "https://www.nofrills.ca/en/brilliant-yellow-sugar/p/20016320_EA",
+    "checked": "2026-11-18"
+   },
+   "cake_mix": {
+    "price": 1.87,
+    "regular": 2.29,
+    "product": "Betty Crocker Super Moist Cake Mix Chocolate Fudge",
+    "source": "https://www.nofrills.ca/en/super-moist-cake-mix-chocolate-fudge/p/21547846_EA",
+    "checked": "2026-11-18"
+   },
+   "icing": {
+    "price": 1.87,
+    "regular": 2.29,
+    "product": "Betty Crocker Creamy Deluxe Frosting, Chocolate",
+    "source": "https://www.nofrills.ca/en/creamy-deluxe-frosting-chocolate/p/20562641002_EA",
+    "checked": "2026-11-18"
+   },
+   "canned_corn": {
+    "price": 1.33,
+    "regular": 1.99,
+    "product": "Green Giant Corn Niblets, Whole Kernel",
+    "source": "https://www.nofrills.ca/en/corn-niblets-whole-kernel/p/21021224_EA",
+    "checked": "2026-11-18"
+   },
+   "canned_peas": {
+    "price": 1.33,
+    "regular": 1.99,
+    "product": "Green Giant Sweetlet Peas",
+    "source": "https://www.nofrills.ca/en/sweetlet-peas/p/21021264_EA",
+    "checked": "2026-11-18"
+   },
+   "baked_beans": {
+    "price": 1.99,
+    "regular": null,
+    "product": "Heinz Deep-Browned Beans With Tomato Sauce",
+    "source": "https://www.nofrills.ca/en/deep-browned-beans-with-tomato-sauce/p/20177278004_EA",
+    "checked": "2026-11-18"
+   },
+   "chicken_broth": {
+    "price": 2.0,
+    "regular": null,
+    "product": "Campbell's Chicken Broth",
+    "source": "https://www.nofrills.ca/en/chicken-broth/p/20322348002_EA",
+    "checked": "2026-11-18"
+   },
+   "alfredo": {
+    "price": 3.49,
+    "regular": null,
+    "product": "President's Choice Alfredo Pasta Sauce",
+    "source": "https://www.nofrills.ca/en/alfredo-pasta-sauce/p/20320838001_EA",
+    "checked": "2026-11-18"
    }
   },
   "zehrs": {
@@ -30,10 +226,186 @@
     "product": "No Name Spaghetti"
    },
    "cheddar": {
+    "price": 7.99,
+    "regular": null,
+    "product": "Black Diamond Medium Cheddar Cheese Bar",
+    "source": "https://www.zehrs.ca/en/medium-cheddar-cheese-bar/p/21279230_EA",
+    "checked": "2026-11-18"
+   },
+   "lemon": {
+    "price": 1.25,
+    "regular": null,
+    "product": "Lemon",
+    "source": "https://www.zehrs.ca/en/lemon/p/20028593001_EA",
+    "checked": "2026-11-18"
+   },
+   "onion": {
+    "price": 3.0,
+    "regular": null,
+    "product": "Farmer's Market Yellow Onions",
+    "source": "https://www.zehrs.ca/en/yellow-onions-3-lb-bag/p/20811994001_EA",
+    "checked": "2026-11-18"
+   },
+   "carrot": {
+    "price": 3.0,
+    "regular": null,
+    "product": "Farmer's Market Carrots, 3 lb Bag",
+    "source": "https://www.zehrs.ca/en/carrots-3-lb-bag/p/20600927001_EA",
+    "checked": "2026-11-18"
+   },
+   "strawberry": {
+    "price": 7.5,
+    "regular": null,
+    "product": "Strawberries 1LB",
+    "source": "https://www.zehrs.ca/en/strawberries-1lb/p/20049778001_EA",
+    "checked": "2026-11-18"
+   },
+   "mozza": {
     "price": 4.98,
     "regular": 6.0,
-    "source": "https://www.zehrs.ca/en/old-cheddar-cheese/p/21289751_EA",
-    "product": "No Name Old Cheddar Cheese"
+    "product": "No Name Shredded Mozzarella",
+    "source": "https://www.zehrs.ca/en/shredded-mozzarella/p/21082491_EA",
+    "checked": "2026-11-18"
+   },
+   "cream": {
+    "price": 7.47,
+    "regular": null,
+    "product": "Neilson 18% Table Cream",
+    "source": "https://www.zehrs.ca/en/18-table-cream/p/20155660_EA",
+    "checked": "2026-11-18"
+   },
+   "bagel": {
+    "price": 2.99,
+    "regular": null,
+    "product": "No Name Bagel Plain, 6 Pack",
+    "source": "https://www.zehrs.ca/en/bagel-plain-6-pack/p/21297816_EA",
+    "checked": "2026-11-18"
+   },
+   "shrimp": {
+    "price": 8.0,
+    "regular": 10.0,
+    "product": "President's Choice Peeled Raw Pacific White Shrimp",
+    "source": "https://www.zehrs.ca/en/peeled-raw-pacific-white-shrimp/p/20789931_EA",
+    "checked": "2026-11-18"
+   },
+   "penne": {
+    "price": 2.29,
+    "regular": null,
+    "product": "No Name Penne Rigate Pasta",
+    "source": "https://www.zehrs.ca/en/penne-rigate-pasta/p/20315613006_EA",
+    "checked": "2026-11-18"
+   },
+   "sauce": {
+    "price": 4.5,
+    "regular": null,
+    "product": "President's Choice Marinara Pasta Sauce",
+    "source": "https://www.zehrs.ca/en/marinara-pasta-sauce/p/21734544_EA",
+    "checked": "2026-11-18"
+   },
+   "jam": {
+    "price": 6.0,
+    "regular": null,
+    "product": "No Name Strawberry Jam with Pectin",
+    "source": "https://www.zehrs.ca/en/strawberry-jam-with-pectin/p/20032552001_EA",
+    "checked": "2026-11-18"
+   },
+   "olive": {
+    "price": 9.49,
+    "regular": 13.0,
+    "product": "PC Splendido Cold-Extracted Extra Virgin Olive Oil",
+    "source": "https://www.zehrs.ca/en/cold-extracted-extra-virgin-olive-oil/p/20081865_EA",
+    "checked": "2026-11-18"
+   },
+   "cheerios": {
+    "price": 7.99,
+    "regular": null,
+    "product": "Original Cheerios Breakfast Cereal, Family Size, Whole Grains",
+    "source": "https://www.zehrs.ca/en/original-cheerios-breakfast-cereal-family-size-who/p/21103499_EA",
+    "checked": "2026-11-18"
+   },
+   "ketchup": {
+    "price": 5.0,
+    "regular": 6.0,
+    "product": "Heinz Tomato Ketchup",
+    "source": "https://www.zehrs.ca/en/tomato-ketchup/p/20069080_EA",
+    "checked": "2026-11-18"
+   },
+   "frozen_veg": {
+    "price": 3.79,
+    "regular": null,
+    "product": "No Name Mixed Vegetables",
+    "source": "https://www.zehrs.ca/en/mixed-vegetables/p/20301012_EA",
+    "checked": "2026-11-18"
+   },
+   "fries": {
+    "price": 3.49,
+    "regular": null,
+    "product": "McCain Straight Cut French Fries",
+    "source": "https://www.zehrs.ca/en/straight-cut-french-fries/p/21521219_EA",
+    "checked": "2026-11-18"
+   },
+   "pizza": {
+    "price": 7.99,
+    "regular": null,
+    "product": "Dr Oetker Giuseppe Pizzeria Rising Crust Pepperoni Pizza",
+    "source": "https://www.zehrs.ca/en/giuseppe-pizzeria-rising-crust-pepperoni-pizza/p/21106361_EA",
+    "checked": "2026-11-18"
+   },
+   "ice_cream": {
+    "price": 5.49,
+    "regular": null,
+    "product": "Chapmans Markdale Creamery Vanilla Ice Cream",
+    "source": "https://www.zehrs.ca/en/markdale-creamery-vanilla-ice-cream/p/20315236001_EA",
+    "checked": "2026-11-18"
+   },
+   "toilet_paper": {
+    "price": 8.0,
+    "regular": null,
+    "product": "President's Choice Max Soft Toilet Paper, 12 Double Rolls = 24 Single Rolls",
+    "source": "https://www.zehrs.ca/en/max-soft-toilet-paper-12-double-rolls-24-single-ro/p/21300716_EA",
+    "checked": "2026-11-18"
+   },
+   "dish_soap": {
+    "price": 4.79,
+    "regular": null,
+    "product": "Dawn Ultra Dish Soap, Original",
+    "source": "https://www.zehrs.ca/en/ultra-dish-soap-original/p/21735713_EA",
+    "checked": "2026-11-18"
+   },
+   "granola": {
+    "price": 4.25,
+    "regular": 6.49,
+    "product": "Quaker Harvest Crunch Original Granola Cereal",
+    "source": "https://www.zehrs.ca/en/harvest-crunch-original-granola-cereal/p/21219824_EA",
+    "checked": "2026-11-18"
+   },
+   "vinegar": {
+    "price": 4.99,
+    "regular": null,
+    "product": "President's Choice The Natural Vinegar",
+    "source": "https://www.zehrs.ca/en/the-natural-vinegar/p/20149137_EA",
+    "checked": "2026-11-18"
+   },
+   "chicken_broth": {
+    "price": 2.0,
+    "regular": 2.29,
+    "product": "No Name Chicken Broth",
+    "source": "https://www.zehrs.ca/en/chicken-broth/p/21189611_EA",
+    "checked": "2026-11-18"
+   },
+   "macaroni": {
+    "price": 2.29,
+    "regular": null,
+    "product": "No Name Elbow Macaroni",
+    "source": "https://www.zehrs.ca/en/elbow-macaroni/p/20315613003_EA",
+    "checked": "2026-11-18"
+   },
+   "bread_crumbs": {
+    "price": 4.99,
+    "regular": null,
+    "product": "4C Plain Bread Crumbs",
+    "source": "https://www.zehrs.ca/en/plain-bread-crumbs/p/20871099002_EA",
+    "checked": "2026-11-18"
    }
   },
   "superstore": {
@@ -48,6 +420,125 @@
     "regular": null,
     "source": "https://www.realcanadiansuperstore.ca/search?search-bar=no%20name%20spaghetti",
     "product": "No Name Spaghetti"
+   },
+   "muffin": {
+    "price": 2.25,
+    "regular": null,
+    "product": "No Name Original English Muffins",
+    "source": "https://www.realcanadiansuperstore.ca/en/original-english-muffins/p/21297780_EA",
+    "checked": "2026-11-18"
+   },
+   "black_beans": {
+    "price": 1.69,
+    "regular": null,
+    "product": "No Name Black Beans",
+    "source": "https://www.realcanadiansuperstore.ca/en/black-beans/p/20325921005_EA",
+    "checked": "2026-11-18"
+   },
+   "chickpeas": {
+    "price": 1.69,
+    "regular": null,
+    "product": "No Name Chickpeas",
+    "source": "https://www.realcanadiansuperstore.ca/en/chickpeas/p/20325921001_EA",
+    "checked": "2026-11-18"
+   },
+   "tuna": {
+    "price": 2.19,
+    "regular": null,
+    "product": "Clover Leaf Chunk Light Tuna, Skip Jack In Water",
+    "source": "https://www.realcanadiansuperstore.ca/en/chunk-light-tuna-skip-jack-in-water/p/20018117001_EA",
+    "checked": "2026-11-18"
+   },
+   "pb": {
+    "price": 6.29,
+    "regular": null,
+    "product": "Kraft Smooth Peanut Butter",
+    "source": "https://www.realcanadiansuperstore.ca/en/smooth-peanut-butter/p/20039581001_EA",
+    "checked": "2026-11-18"
+   },
+   "cheerios": {
+    "price": 7.49,
+    "regular": null,
+    "product": "Original Cheerios Breakfast Cereal, Family Size",
+    "source": "https://www.realcanadiansuperstore.ca/en/original-cheerios-breakfast-cereal-family-size-who/p/21103499_EA",
+    "checked": "2026-11-18"
+   },
+   "oj": {
+    "price": 5.0,
+    "regular": null,
+    "product": "Tropicana Orange Juice, No Pulp",
+    "source": "https://www.realcanadiansuperstore.ca/en/orange-juice-no-pulp/p/21622130_EA",
+    "checked": "2026-11-18"
+   },
+   "coke": {
+    "price": 8.79,
+    "regular": null,
+    "product": "Coca-Cola Cola Fridge Pack Cans",
+    "source": "https://www.realcanadiansuperstore.ca/en/cola-fridge-pack-cans/p/20318694002_C12",
+    "checked": "2026-11-18"
+   },
+   "dish_soap": {
+    "price": 2.99,
+    "regular": null,
+    "product": "Dawn Ultra Dish Soap Original",
+    "source": "https://www.realcanadiansuperstore.ca/en/ultra-dish-soap-original/p/21735713_EA",
+    "checked": "2026-11-18"
+   },
+   "miss_vickies": {
+    "price": 5.49,
+    "regular": null,
+    "product": "Miss Vickies Original Recipe Kettle Cooked Potato Chips",
+    "source": "https://www.realcanadiansuperstore.ca/en/original-recipe-kettle-cooked-potato-chips/p/21240703_EA",
+    "checked": "2026-11-18"
+   },
+   "chewy_bars": {
+    "price": 2.99,
+    "regular": null,
+    "product": "Quaker Chewy Chocolatey Chip Granola Bars (5 bars)",
+    "source": "https://www.realcanadiansuperstore.ca/en/chewy-chocolatey-chip-granola-bars/p/21359366_EA",
+    "checked": "2026-11-18"
+   },
+   "hummus": {
+    "price": 3.5,
+    "regular": null,
+    "product": "President's Choice Hummus",
+    "source": "https://www.realcanadiansuperstore.ca/en/hummus/p/20584097_EA",
+    "checked": "2026-11-18"
+   },
+   "granola": {
+    "price": 5.0,
+    "regular": null,
+    "product": "Quaker Harvest Crunch Original Granola Cereal",
+    "source": "https://www.realcanadiansuperstore.ca/en/harvest-crunch-original-granola-cereal/p/21219824_EA",
+    "checked": "2026-11-18"
+   },
+   "choc_chips": {
+    "price": 5.5,
+    "regular": 5.79,
+    "product": "President's Choice The Decadent Semi-Sweet Chocolate Chips",
+    "source": "https://www.realcanadiansuperstore.ca/en/the-decadent-semi-sweet-chocolate-chips/p/20011473_EA",
+    "checked": "2026-11-18"
+   },
+   "kidney_beans": {
+    "price": 1.69,
+    "regular": null,
+    "product": "No Name Dark Red Kidney Beans",
+    "source": "https://www.realcanadiansuperstore.ca/en/dark-red-kidney-beans/p/20554593_EA",
+    "checked": "2026-11-18"
+   },
+   "spam": {
+    "price": 4.99,
+    "regular": null,
+    "product": "Spam Classic Fully Cooked Luncheon Meat",
+    "source": "https://www.realcanadiansuperstore.ca/en/classic-fully-cooked-luncheon-meat/p/20968255_EA",
+    "checked": "2026-11-18"
+   },
+   "alfredo": {
+    "price": 3.49,
+    "regular": null,
+    "product": "Classico Alfredo Pasta Sauce",
+    "source": "https://www.realcanadiansuperstore.ca/en/alfredo-pasta-sauce/p/20325609003_EA",
+    "checked": "2026-11-18"
    }
   },
   "independent": {
@@ -62,6 +553,181 @@
     "regular": null,
     "source": "https://www.yourindependentgrocer.ca/search?search-bar=no%20name%20spaghetti",
     "product": "No Name Spaghetti"
+   },
+   "lemon": {
+    "price": 1.25,
+    "regular": null,
+    "product": "Lemon",
+    "source": "https://www.yourindependentgrocer.ca/en/lemon/p/20028593001_EA",
+    "checked": "2026-11-18"
+   },
+   "onion": {
+    "price": 3.0,
+    "regular": 4.0,
+    "product": "Farmer's Market Yellow Onions",
+    "source": "https://www.yourindependentgrocer.ca/en/yellow-onions-3-lb-bag/p/20811994001_EA",
+    "checked": "2026-11-18"
+   },
+   "carrot": {
+    "price": 3.0,
+    "regular": 4.0,
+    "product": "Farmer's Market Carrots, 3 lb Bag",
+    "source": "https://www.yourindependentgrocer.ca/en/carrots-3-lb-bag/p/20600927001_EA",
+    "checked": "2026-11-18"
+   },
+   "cheddar": {
+    "price": 4.98,
+    "regular": 6.0,
+    "product": "No Name Medium Cheddar Cheese",
+    "source": "https://www.yourindependentgrocer.ca/en/medium-cheddar-cheese/p/21289764_EA",
+    "checked": "2026-11-18"
+   },
+   "mozza": {
+    "price": 4.98,
+    "regular": 6.0,
+    "product": "No Name Shredded Mozzarella",
+    "source": "https://www.yourindependentgrocer.ca/en/shredded-mozzarella/p/21082491_EA",
+    "checked": "2026-11-18"
+   },
+   "cream_cheese": {
+    "price": 3.99,
+    "regular": null,
+    "product": "No Name Pasteurized Cream Cheese",
+    "source": "https://www.yourindependentgrocer.ca/en/pasteurized-cream-cheese/p/20308105001_EA",
+    "checked": "2026-11-18"
+   },
+   "cream": {
+    "price": 7.47,
+    "regular": null,
+    "product": "Neilson 18% Table Cream",
+    "source": "https://www.yourindependentgrocer.ca/en/18-table-cream/p/20155660_EA",
+    "checked": "2026-11-18"
+   },
+   "bagel": {
+    "price": 2.99,
+    "regular": null,
+    "product": "No Name Bagel Plain 6 Pack",
+    "source": "https://www.yourindependentgrocer.ca/en/bagel-plain-6-pack/p/21217970_EA",
+    "checked": "2026-11-18"
+   },
+   "shrimp": {
+    "price": 8.0,
+    "regular": 10.0,
+    "product": "President's Choice Peeled Raw Pacific White Shrimp",
+    "source": "https://www.yourindependentgrocer.ca/en/peeled-raw-pacific-white-shrimp/p/20789931_EA",
+    "checked": "2026-11-18"
+   },
+   "penne": {
+    "price": 2.29,
+    "regular": null,
+    "product": "No Name Penne Rigate Pasta",
+    "source": "https://www.yourindependentgrocer.ca/en/penne-rigate-pasta/p/20315613006_EA",
+    "checked": "2026-11-18"
+   },
+   "jam": {
+    "price": 6.0,
+    "regular": null,
+    "product": "No Name Strawberry Jam with Pectin",
+    "source": "https://www.yourindependentgrocer.ca/en/strawberry-jam-with-pectin/p/20032552001_EA",
+    "checked": "2026-11-18"
+   },
+   "honey": {
+    "price": 6.99,
+    "regular": null,
+    "product": "Tamam Liquid Honey",
+    "source": "https://www.yourindependentgrocer.ca/en/liquid-honey/p/21417389_EA",
+    "checked": "2026-11-18"
+   },
+   "cheerios": {
+    "price": 7.99,
+    "regular": null,
+    "product": "General Mills Original Cheerios Breakfast Cereal, Family Size, Whole Grains",
+    "source": "https://www.yourindependentgrocer.ca/en/original-cheerios-breakfast-cereal-family-size-who/p/21103499_EA",
+    "checked": "2026-11-18"
+   },
+   "ketchup": {
+    "price": 5.0,
+    "regular": 6.0,
+    "product": "Heinz Tomato Ketchup",
+    "source": "https://www.yourindependentgrocer.ca/en/tomato-ketchup/p/20069080_EA",
+    "checked": "2026-11-18"
+   },
+   "frozen_veg": {
+    "price": 3.79,
+    "regular": null,
+    "product": "No Name Mixed Vegetables",
+    "source": "https://www.yourindependentgrocer.ca/en/mixed-vegetables/p/20301012_EA",
+    "checked": "2026-11-18"
+   },
+   "fries": {
+    "price": 3.49,
+    "regular": null,
+    "product": "McCain Straight Cut French Fries",
+    "source": "https://www.yourindependentgrocer.ca/en/straight-cut-french-fries/p/21521219_EA",
+    "checked": "2026-11-18"
+   },
+   "ice_cream": {
+    "price": 5.49,
+    "regular": null,
+    "product": "Chapmans Markdale Creamery Vanilla Ice Cream",
+    "source": "https://www.yourindependentgrocer.ca/en/markdale-creamery-vanilla-ice-cream/p/20315236001_EA",
+    "checked": "2026-11-18"
+   },
+   "oj": {
+    "price": 4.49,
+    "regular": null,
+    "product": "No Name Pulp Free 100% Orange Juice Blend",
+    "source": "https://www.yourindependentgrocer.ca/en/pulp-free-100-orange-juice-blend/p/21671461_EA",
+    "checked": "2026-11-18"
+   },
+   "dish_soap": {
+    "price": 4.79,
+    "regular": null,
+    "product": "Dawn Ultra Dish Soap, Original",
+    "source": "https://www.yourindependentgrocer.ca/en/ultra-dish-soap-original/p/21735713_EA",
+    "checked": "2026-11-18"
+   },
+   "sour_patch": {
+    "price": 5.0,
+    "regular": null,
+    "product": "Maynards Sour Patch Kids Original Candy, Sharing Size",
+    "source": "https://www.yourindependentgrocer.ca/en/sour-patch-kids-original-candy-gummy-candy-sharing/p/21545809_EA",
+    "checked": "2026-11-18"
+   },
+   "vinegar": {
+    "price": 4.99,
+    "regular": null,
+    "product": "President's Choice The Natural Vinegar (white)",
+    "source": "https://www.yourindependentgrocer.ca/en/the-natural-vinegar/p/20149137_EA",
+    "checked": "2026-11-18"
+   },
+   "chicken_broth": {
+    "price": 2.0,
+    "regular": null,
+    "product": "No Name Chicken Broth",
+    "source": "https://www.yourindependentgrocer.ca/en/chicken-broth/p/21189611_EA",
+    "checked": "2026-11-18"
+   },
+   "lasagna": {
+    "price": 3.79,
+    "regular": null,
+    "product": "Italpasta Lasagne",
+    "source": "https://www.yourindependentgrocer.ca/en/lasagne/p/20313491002_EA",
+    "checked": "2026-11-18"
+   },
+   "macaroni": {
+    "price": 2.29,
+    "regular": null,
+    "product": "No Name Elbow Macaroni",
+    "source": "https://www.yourindependentgrocer.ca/en/elbow-macaroni/p/20315613003_EA",
+    "checked": "2026-11-18"
+   },
+   "alfredo": {
+    "price": 4.5,
+    "regular": null,
+    "product": "President's Choice Alfredo Pasta Sauce",
+    "source": "https://www.yourindependentgrocer.ca/en/alfredo-pasta-sauce/p/20320838001_EA",
+    "checked": "2026-11-18"
    }
   }
  }
