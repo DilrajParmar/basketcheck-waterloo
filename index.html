@@ -88,16 +88,16 @@
 <!-- ================= CHECKOUT ================= -->
 <section class="page" id="p-checkout" aria-label="Checkout" hidden>
   <div class="sharedbanner" id="sharedBanner" hidden></div>
-  <div class="reshead" style="margin-bottom:16px"><h1 style="font-size:clamp(1.6rem,3.5vw,2.2rem)">Checkout</h1><a class="btn ghost small" href="#shop" style="text-decoration:none">Keep shopping</a></div>
+  <div class="reshead pagehead"><h1>Checkout</h1><a class="btn ghost small" href="#shop" style="text-decoration:none">Keep shopping</a></div>
   <div class="answer" id="answer" aria-live="polite" hidden></div>
   <div class="co">
     <div style="display:grid;gap:16px">
       <div class="panel">
-        <div class="reshead"><h2 style="font-size:1.1rem">Your cart</h2><button class="compare" id="clearCart" type="button">Clear cart</button></div>
+        <div class="reshead"><h2>Your cart</h2><button class="compare" id="clearCart" type="button">Clear cart</button></div>
         <ul class="cartlist" id="cartList"></ul>
       </div>
       <details class="panel fold" id="savedFold">
-        <summary><h2 style="font-size:1.1rem">Saved carts</h2><span class="foldnote" id="savedNote"></span></summary>
+        <summary><h2>Saved carts</h2><span class="foldnote" id="savedNote"></span></summary>
         <div class="foldbody">
         <form class="saverow" id="saveForm"><input id="saveName" maxlength="40" placeholder="Name this cart, e.g. Weekly shop" aria-label="Cart name"><button class="btn small" type="submit">Save cart</button></form>
         <ul class="savedlist" id="savedList"></ul>
@@ -105,7 +105,7 @@
         </div>
       </details>
       <details class="panel fold" id="budgetPanel">
-        <summary><h2 style="font-size:1.1rem">Budget</h2><span class="foldnote" id="budgetNote"></span></summary>
+        <summary><h2>Budget</h2><span class="foldnote" id="budgetNote"></span></summary>
         <div class="foldbody">
         <div class="budrow"><label for="budget">Your budget for this shop</label><span class="dollar"><span aria-hidden="true">$</span><input id="budget" type="number" min="0" max="5000" step="1" inputmode="decimal" placeholder="e.g. 60"></span></div>
         <div id="budgetOut" role="status"></div>
@@ -113,7 +113,7 @@
         </div>
       </details>
       <details class="panel fold" id="sharePanel">
-        <summary><h2 style="font-size:1.1rem">Share with roommates</h2><span class="foldnote" id="shareNote"></span></summary>
+        <summary><h2>Share with roommates</h2><span class="foldnote" id="shareNote"></span></summary>
         <div class="foldbody">
         <p class="rmeta" style="margin:0">Send this link and they'll open the same cart and brand picks. The cart is written into the link itself, so nothing is uploaded.</p>
         <div class="saverow"><input id="shareLink" readonly aria-label="Share link for this cart" placeholder="Add items to get a link"><button class="btn small" id="copyShare" type="button">Copy link</button></div>
@@ -124,30 +124,33 @@
       </details>
     </div>
     <div class="results">
-      <div class="panel" id="locPanel" style="scroll-margin-top:100px">
-        <div class="reshead"><h2 style="font-size:1.1rem">Where are you starting?</h2><div class="seg" id="zoom" role="group" aria-label="Map view" style="flex:none"><button type="button" data-z="near" aria-pressed="true">Nearby</button><button type="button" data-z="all" aria-pressed="false">Whole region</button></div></div>
+      <div class="panel" id="locPanel">
+        <div class="reshead"><h2>Where are you starting?</h2><div class="seg" id="zoom" role="group" aria-label="Map view" style="flex:none"><button type="button" data-z="near" aria-pressed="true">Nearby</button><button type="button" data-z="all" aria-pressed="false">Whole region</button></div></div>
         <form class="addrrow" id="addrForm" role="search"><div class="addrbox"><input id="addr" autocomplete="off" spellcheck="false" placeholder="Start typing your address, e.g. 200 University Ave W" aria-label="Your address" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="addrList"><ul class="addrlist" id="addrList" role="listbox" hidden></ul></div></form>
         <div class="addrmsg" id="addrMsg" hidden></div>
         <p class="addrnote">To find what you type, it's sent to Esri's address search (or Photon if Esri doesn't answer). It isn't saved. <a href="#privacy">Privacy</a></p>
-        <div class="startrow"><select id="startSel" aria-label="Starting point"></select>
-        <div class="seg" id="mode" role="group" aria-label="How you'll get there">
-          <button type="button" data-m="walk" aria-pressed="true">Walk</button>
-          <button type="button" data-m="bike" aria-pressed="false">Bike</button>
-          <button type="button" data-m="bus" aria-pressed="false">Bus / ION</button>
-          <button type="button" data-m="car" aria-pressed="false">Car</button>
-        </div></div>
+        <select id="startSel" aria-label="Starting point"></select>
         <div class="maptitle" id="mapTitle"></div>
         <div class="mapwrap" id="mapwrap">
           <div class="lmap" id="lmap" role="region" aria-label="Street map of grocery stores in Waterloo Region" hidden></div>
           <svg class="map" id="map" role="img" aria-label="Map of grocery stores in Waterloo Region"></svg>
           <div class="tip" id="tip" hidden></div>
         </div>
-        <div class="applyrow" id="applyRow" hidden><span>New starting point picked on the map.</span><span style="display:flex;gap:8px"><button class="btn small" id="cancelPin" type="button" style="background:transparent;color:var(--tag-ink);border:1.5px solid var(--tag-ink)">Cancel</button><button class="btn small" id="applyPin" type="button">Apply changes</button></span></div>
+        <div class="applyrow" id="applyRow" hidden><span>New starting point picked on the map.</span><span style="display:flex;gap:8px"><button class="btn small ghost" id="cancelPin" type="button">Cancel</button><button class="btn small" id="applyPin" type="button">Apply changes</button></span></div>
         <div class="legend" id="legend"></div>
-        <p style="margin:0;font-size:.8rem;color:var(--muted)">Hover or tap a dot for the store and distance, or click a numbered dot to open its receipt. Drag to move the map, use + and − to zoom, and click an empty spot to move your YOU pin there.</p>
       </div>
-      <div class="reshead" style="margin-top:8px">
-        <div><h2 style="font-size:1.25rem" id="resTitle">Stores for your cart</h2><span class="rmeta" id="resSub"></span></div>
+      <!-- one travel-mode control, kept in view (sticky) right above the store list -->
+      <div class="modebar" id="modeBar">
+        <span class="label" id="modeLbl">Getting there</span>
+        <div class="seg" id="mode" role="group" aria-labelledby="modeLbl">
+          <button type="button" data-m="walk" aria-pressed="true">Walk</button>
+          <button type="button" data-m="bike" aria-pressed="false">Bike</button>
+          <button type="button" data-m="bus" aria-pressed="false">Bus / ION</button>
+          <button type="button" data-m="car" aria-pressed="false">Car</button>
+        </div>
+      </div>
+      <div class="reshead">
+        <div><h2 id="resTitle">Stores for your cart</h2><span class="rmeta" id="resSub"></span></div>
         <div class="tabs" role="group" aria-label="Sort stores">
           <button type="button" data-s="rec" aria-pressed="true">Recommended</button>
           <button type="button" data-s="price" aria-pressed="false">Lowest price</button>
@@ -157,14 +160,12 @@
       <div class="prefq" id="prefQ"><span id="prefLbl">What matters more to you?</span><div class="seg" id="pref" role="group" aria-labelledby="prefLbl"><button type="button" data-p="price" aria-pressed="false">Saving money</button><button type="button" data-p="both" aria-pressed="true">Both</button><button type="button" data-p="time" aria-pressed="false">Saving time</button></div></div>
       <div class="why" id="why"></div>
       <div class="split" id="split" hidden></div>
-      <div id="receipts" class="results" style="scroll-margin-top:110px"></div>
+      <div id="receipts" class="results"></div>
     </div>
   </div>
   <div class="notes">
     <p><b>Where prices come from.</b> <span id="srcNote"></span></p>
-    <p><b>Trip times.</b> When the site runs on its own web address, walking, biking and driving times come from real street routes (OpenStreetMap routing, plus 1 min to lock a bike or 3 min to park). If that service can't be reached, and always for bus or ION, times are estimated one way from straight-line distance × 1.3 for real streets: walking 4.7 km/h, biking 14 km/h, car 30 km/h plus 3 min to park, bus or ION 22 km/h plus 13 min to walk to the stop and wait.</p>
-    <p><b>Student discounts.</b> None of the six chains we compare advertises a student discount at its Waterloo Region stores, as far as we could confirm on October 28, 2026. See <a href="#faq">Help</a> for what we checked and the loyalty points that do work here.</p>
-    <p><b>Map.</b> The black YOU pin is where you start. Each coloured dot is a store we compare, coloured by chain, and the number inside is its place in the ranked list. Hollow grey dots are grocers without online prices. Dashed circles are 2, 5 and 10 km in a straight line from you, and the purple line is the ION route (approximate). Pins marked as approximate may be a few hundred metres off.</p>
+    <p><b>Student discounts.</b> None of the six chains advertises one at its Waterloo Region stores (checked October 28, 2026). <a href="#faq">Help</a> explains how trip times are worked out and which loyalty points work here.</p>
   </div>
 </section>
 

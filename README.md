@@ -11,10 +11,10 @@ BasketCheck lets students in Waterloo Region build a grocery cart once and see w
 - Ranks stores by lowest price, shortest trip, or a balance of both, based on what matters more to you
 - Real walking, biking and driving times from OpenStreetMap street routes, with presets for the UW campus and residences
 - Meal starters, a budget mode with cheaper swaps, split the bill, shareable cart links and saved carts
-- Works on phones and follows dark mode; no account needed, and carts stay in your own browser
+- Works on phones and computers; no account needed, and carts stay in your own browser
 
 ## How the prices stay current
-Prices are read from each chain's own website. Every week the prices most likely to have changed (sale prices first) are checked again, and each rechecked price keeps its source link and the date it was checked. Prices in this version were checked Oct 20 to Nov 17, 2026.
+Prices are read from each chain's own website. Every week the prices most likely to have changed (sale prices first) are checked again, and each rechecked price keeps its source link and the date it was checked. Prices in this version were checked Oct 20 to Nov 18, 2026.
 
 ## Built with
 - Plain HTML, CSS and JavaScript: no framework, no server, no build step for the site
