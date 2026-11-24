@@ -8,6 +8,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700;800&display=swap">
+<link rel="icon" href="favicon.ico" sizes="32x32">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#f5f5f3">
 <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -157,7 +161,6 @@
           <button type="button" data-s="time" aria-pressed="false">Shortest trip</button>
         </div>
       </div>
-      <div class="prefq" id="prefQ"><span id="prefLbl">What matters more to you?</span><div class="seg" id="pref" role="group" aria-labelledby="prefLbl"><button type="button" data-p="price" aria-pressed="false">Saving money</button><button type="button" data-p="both" aria-pressed="true">Both</button><button type="button" data-p="time" aria-pressed="false">Saving time</button></div></div>
       <div class="why" id="why"></div>
       <div class="split" id="split" hidden></div>
       <div id="receipts" class="results"></div>
@@ -183,7 +186,7 @@
     <details><summary>How do I get directions to a store?</summary><div><p>Open a store's receipt and press the directions button. Google Maps opens with the route from your starting point, using the travel option you picked (walk, bike, bus or car). <b>Show store on Google Maps</b> shows the store on a Google map right on the page.</p></div></details>
     <details><summary>Is my address saved or shared?</summary><div><p>It isn't saved. Your starting point is forgotten when you close the page, and nothing is stored on a server. To find your address, what you type is sent to Esri's address search (or Photon, a free OpenStreetMap search, if Esri doesn't answer), and the directions button sends your starting point to Google Maps. See the <a href="#privacy">Privacy page</a> for the full list.</p></div></details>
     <details><summary>What do Walk, Bike, Bus / ION and Car change?</summary><div><p>They change the trip time shown for each store and the order under <b>Shortest trip</b> and <b>Recommended</b>. Prices stay the same.</p></div></details>
-    <details><summary>What does "Recommended" mean?</summary><div><p>It weighs basket cost against the round-trip time, based on your answer to <b>What matters more to you?</b> With <b>Saving money</b>, a farther store wins if it's noticeably cheaper. With <b>Saving time</b>, the closer store wins unless the price gap is large. <b>Both</b> sits in between. Use <b>Lowest price</b> or <b>Shortest trip</b> if you only care about one of them.</p></div></details>
+    <details><summary>What does "Recommended" mean?</summary><div><p>It balances basket cost against the round-trip time: a farther store wins only if it's noticeably cheaper, and a closer store wins unless the price gap is large. Use <b>Lowest price</b> or <b>Shortest trip</b> if you only care about one of them.</p></div></details>
     <details><summary>What are meal starters?</summary><div><p>On the Shop page, a <b>Meal starters</b> button shows the groceries for a simple meal, like tacos or a stir fry. Choose how many people you're cooking for and the amounts change to match, with a rough idea of each person's portion. Nothing goes in your cart until you press <b>Add all to cart</b>. Items you already have enough of are left as they are, and you can change amounts or remove items afterwards.</p></div></details>
     <details><summary>What is the unit price?</summary><div><p>It's the price per 100 g, per 100 ml or per item (like per roll or per egg), worked out from the pack size and the lowest price we found. It makes different sizes easy to compare. Pick <b>Lowest unit price</b> in the Shop page's Sort menu to see the best value first. Items with a size range, like "12 to 18 pops", have no unit price.</p></div></details>
     <details><summary>How does the budget work?</summary><div><p>Type what you want to spend under <b>Budget</b> on the Compare stores page. You'll see the lowest total for your whole cart and how far under or over your budget it is. <b>Cheaper swaps</b> lists similar items in the same aisle and size range that cost less at that store, plus items where picking "Cheapest available" in the Brand menu saves money. Press <b>Swap</b> to change your cart. Swaps are ideas, so check they suit you.</p></div></details>
@@ -191,7 +194,7 @@
     <details><summary>How do I share a cart with roommates?</summary><div><p>On the Compare stores page, press <b>Copy link</b> under <b>Share with roommates</b> and send it. When someone opens it, they're asked before it replaces their own cart. Pick how many people are splitting the bill to see each person's share of the lowest total.</p></div></details>
     <h2>Prices and stores</h2>
     <details><summary>Do any of these stores have a student discount?</summary><div><p>Not that we could confirm for Waterloo Region (checked October 28, 2026). <a href="https://www.foodbasics.ca/student-discount" target="_blank" rel="noopener">Food Basics</a> gives post-secondary students 10% off on Tuesdays at select stores, but none of the stores it lists are in Waterloo Region. Sobeys' Tuesday student discount is <a href="https://www.narcity.com/grocery-stores-in-canada-student-discounts-sobeys-metro-bulk-barn" target="_blank" rel="noopener">reported</a> only at select Atlantic Canada stores. <a href="https://www.bulkbarn.ca/en/Promo/Discount-Programs" target="_blank" rel="noopener">Bulk Barn</a> has a student discount on Wednesdays for regular-priced items with a student ID. What does work at the stores we compare: PC Optimum points at No Frills, Zehrs, Your Independent Grocer and Real Canadian Superstore, and Scene+ points at Sobeys. Always ask at the till, since store offers change.</p></div></details>
-    <details><summary>Where do the prices come from?</summary><div><p>From each chain's own website, for its Waterloo Region stores, on the date shown at the top of the page. Sale prices are marked. Prices change often, so check the store before you go.</p></div></details>
+    <details><summary>Where do the prices come from?</summary><div><p>From each chain's own website, for its Waterloo Region stores, on the date shown at the top of the page. Sale prices are marked. Prices change often, so check the store before you go. If you spot a wrong price, press <b>Report a wrong price</b> under any store's receipt, or email <a href="mailto:basketcheck.support@gmail.com">basketcheck.support@gmail.com</a>.</p></div></details>
     <details><summary>Do the totals include tax?</summary><div><p>Yes. Each total includes 13% HST on taxable items, which are marked <b>H</b> on the receipt. Basic groceries like produce, dairy, meat, bread and pantry staples aren't taxed in Ontario, while chips, pop and household items like paper towel and detergent are. Period products such as pads and tampons are HST-free.</p></div></details>
     <details><summary>Why does a store say an item is "not available"?</summary><div><p>That store's website didn't list the same product at the same size. The receipt lists every missing item. The store is still ranked using an estimate for those items so the comparison stays fair, and it's flagged so you know.</p></div></details>
     <details><summary>Why are some stores only on the map?</summary><div><p>Stores like Food Basics, FreshCo, Farm Boy, Costco and T&amp;T don't post readable prices online, so they can't be compared. They're shown on the map as hollow grey dots with no number, so you still know they're nearby.</p></div></details>
@@ -209,7 +212,7 @@
   <h2>What stays in your browser</h2>
   <table>
     <tr><th>What</th><th>Where</th><th>How long</th></tr>
-    <tr><td>Your current cart, starting point, travel choice, "What matters more" answer, brand picks and budget</td><td>This tab's session storage</td><td>Until you close the tab</td></tr>
+    <tr><td>Your current cart, starting point, travel choice, brand picks and budget</td><td>This tab's session storage</td><td>Until you close the tab</td></tr>
     <tr><td>Carts you choose to save</td><td>This browser's local storage</td><td>Until you delete them</td></tr>
   </table>
   <p>None of this leaves your device, and BasketCheck sets no cookies.</p>
@@ -228,7 +231,7 @@
   <h2>Children</h2>
   <p>The site is meant for adults and older students doing their own shopping. It doesn't collect personal information from anyone, including children.</p>
   <h2>Questions</h2>
-  <p>BasketCheck is run by a University of Waterloo student. For privacy questions or requests, use the contact details in the <a href="#terms">Terms</a>.</p>
+  <p>BasketCheck is run by a University of Waterloo student. For privacy questions or requests, email <a href="mailto:basketcheck.support@gmail.com">basketcheck.support@gmail.com</a>.</p>
 </section>
 
 <!-- ================= TERMS ================= -->
@@ -259,11 +262,11 @@
   <h2>No warranty</h2>
   <p>The site is provided as is. We try to keep it accurate but can't promise every price, time or location is right, and we aren't responsible for decisions made using it. These terms are governed by the laws of Ontario, Canada.</p>
   <h2>Contact</h2>
-  <p id="contactLine">BasketCheck is a University of Waterloo student project. A contact email will be listed here before the site is shared publicly.</p>
+  <p id="contactLine">BasketCheck is a University of Waterloo student project. For questions, wrong prices or requests, email <a href="mailto:basketcheck.support@gmail.com">basketcheck.support@gmail.com</a>.</p>
 </section>
 
 <footer class="sitefoot" aria-label="About this site">
-  <nav aria-label="Site information"><a href="#faq">Help</a><a href="#privacy">Privacy</a><a href="#terms">Terms of use</a></nav>
+  <nav aria-label="Site information"><a href="#faq">Help</a><a href="#privacy">Privacy</a><a href="#terms">Terms of use</a><a href="mailto:basketcheck.support@gmail.com">Contact</a></nav>
   <p>BasketCheck is an independent student project from Waterloo, Ontario. It isn't affiliated with any grocery chain. Prices are copied from each chain's website (checked <span id="asofFoot"></span>) and can change, so check in store.</p>
 </footer>
 

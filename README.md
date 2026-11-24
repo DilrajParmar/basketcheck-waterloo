@@ -8,7 +8,7 @@ BasketCheck lets students in Waterloo Region build a grocery cart once and see w
 - Compares 1,051 grocery items across No Frills, Walmart, Your Independent Grocer, Zehrs, Sobeys and Real Canadian Superstore (31 stores)
 - Like for like only: an item counts at a store only if that store sells the same brand in the same size
 - Itemized receipt for each store, with sale prices marked, 13% HST on taxable items and the total
-- Ranks stores by lowest price, shortest trip, or a balance of both, based on what matters more to you
+- Ranks stores by lowest price, shortest trip, or a recommended balance of both
 - Real walking, biking and driving times from OpenStreetMap street routes, with presets for the UW campus and residences
 - Meal starters, a budget mode with cheaper swaps, split the bill, shareable cart links and saved carts
 - Works on phones and computers; no account needed, and carts stay in your own browser
