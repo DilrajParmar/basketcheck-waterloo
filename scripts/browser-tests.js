@@ -141,25 +141,23 @@ async function checkReceipts(p, tag){
     }
   }
   ok((await p.textContent('#resSub')).includes('drive'), 'subtitle follows mode');
-  // E2. "What matters more to you?" with the oranges example from 415 King St N
+  // E2. Recommended uses one fixed balance of price and trip time (the "What matters more to you?" question was removed Nov 19 at Sifio's request); oranges example from 415 King St N
   await p.click('.tabs [data-s="rec"]');
   await p.evaluate(()=>{ sessionStorage.setItem('wbc-cart','{"orange":1}'); sessionStorage.setItem('wbc-start', JSON.stringify({id:'addr',name:'415 King Street North, Waterloo',lat:43.4822,lon:-80.5265})); }); await p.reload(); await p.waitForTimeout(150);
-  await p.click('#mode [data-m="walk"]'); ok(!(await p.isHidden('#prefQ')), 'preference question shown on Recommended');
-  const topName = async pr => { await p.click(`#pref [data-p="${pr}"]`); return p.$eval('#receipts .receipt .rhead', e=>e.innerText); };
-  ok(/No Frills/.test(await topName('both')), 'Both picks the close No Frills');
-  ok(/No Frills/.test(await topName('time')), 'Saving time picks No Frills');
-  ok(/Zehrs/.test(await topName('price')), 'Saving money picks cheaper Zehrs');
+  await p.click('#mode [data-m="walk"]'); ok(!(await p.$('#prefQ, #pref')), 'no preference question on checkout');
+  ok(/No Frills/.test(await p.$eval('#receipts .receipt .rhead', e=>e.innerText)), 'Recommended picks the close No Frills over the slightly cheaper, farther Zehrs');
+  ok(!/You picked|Saving money|Saving time/.test(await p.textContent('#why')+await p.textContent('#p-faq')), 'no leftover wording about the removed question');
   ok(!/\$[\d.]+ ?(an|per) (hour|minute)|time cost/i.test(await p.textContent('#why')+await p.textContent('#p-faq')), 'no dollar value on time shown');
-  await p.click('#pref [data-p="both"]'); ok(/cheaper but a \d+ min longer walk each way/.test(await p.textContent('#why')), 'why explains the trade-off in prices and minutes');
+  ok(/cheaper but a \d+ min longer walk each way, so the shorter trip wins/.test(await p.textContent('#why')), 'why explains the trade-off in prices and minutes');
   ok(/total there and back/.test(await p.textContent('#receipts .receipt .facts')), 'round-trip total shown');
-  await p.click('.tabs [data-s="price"]'); ok(await p.isHidden('#prefQ'), 'question hidden on other sorts'); await p.click('.tabs [data-s="rec"]');
+  await p.click('.tabs [data-s="price"]'); ok(/Sorted by basket total/.test(await p.textContent('#why')), 'Lowest price sort explains itself'); await p.click('.tabs [data-s="rec"]');
   await p.evaluate(()=>{ sessionStorage.setItem('wbc-cart', JSON.stringify({eggs:2,milk:1,chips:3,coke:1,detergent:1,banana:1.5,chicken_breast:1,lettuce:1,cucumber:2,potato:1,toilet_paper:1})); sessionStorage.removeItem('wbc-start'); }); await p.reload(); await p.waitForTimeout(150);
   { await p.evaluate(()=>sessionStorage.setItem('wbc-cart', JSON.stringify({lettuce:1}))); await p.reload(); await p.waitForTimeout(100);
     const R=await p.$$eval('#receipts .receipt', a=>a.map(x=>/missing/.test(x.querySelector('.rtotal small')?.textContent||'')));
     const w=await p.$$('#why .warn'); ok(R[0] ? w.length===1 : w.length===0, 'missing-items disclaimer matches the top store');
     await p.evaluate(()=>sessionStorage.setItem('wbc-cart', JSON.stringify({eggs:1}))); await p.reload(); await p.waitForTimeout(100); ok((await p.$$('#why .warn')).length===0, 'no disclaimer when nothing missing'); }
   { const p3=await fresh(b); await p3.goto(URL+'#checkout'); await p3.evaluate(()=>sessionStorage.setItem('wbc-cart', JSON.stringify({lettuce:1, eggs:1}))); await p3.reload(); await p3.waitForTimeout(100);
-    await p3.click('#pref [data-p="time"]'); const top=await p3.$eval('#receipts .receipt .rtotal small', e=>e.textContent); const w=await p3.$$eval('#why .warn', e=>e.map(x=>x.textContent));
+    const top=await p3.$eval('#receipts .receipt .rtotal small', e=>e.textContent); const w=await p3.$$eval('#why .warn', e=>e.map(x=>x.textContent));
     ok(/missing/.test(top) ? (w.length===1 && /lettuce/i.test(w[0])) : w.length===0, 'disclaimer names the missing item: '+w); await p3.context().close(); }
   await p.evaluate(()=>sessionStorage.setItem('wbc-cart', JSON.stringify({eggs:2,milk:1,chips:3,coke:1,detergent:1,banana:1.5,chicken_breast:1,lettuce:1,cucumber:2,potato:1,toilet_paper:1}))); await p.reload(); await p.waitForTimeout(150);
   // F. hide receipt

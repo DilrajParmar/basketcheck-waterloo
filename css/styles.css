@@ -821,8 +821,6 @@ tfoot tr.subrow td { font-weight: 500; color: var(--muted); }
 .cartlist .mini label { display: flex; align-items: baseline; justify-content: center; gap: 2px; font-size: 0.86rem; min-width: 0; }
 .cartlist .mini .qty { width: 3.3em; padding: 1px 0; }
 .x { border: 0; background: none; color: var(--muted); font-size: 1.15rem; line-height: 1; padding: 2px 4px; }
-.prefq { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 10px 0 4px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); font-weight: 600; }
-.prefq .seg { flex: 1 1 320px; }
 .seg { display: flex; flex-wrap: wrap; border: 1.5px solid var(--line-strong); border-radius: 6px; overflow: hidden; background: var(--surface); }
 .seg button { flex: 1; border: 0; background: transparent; color: var(--ink); padding: 7px 10px; font-size: 0.92rem; white-space: nowrap; font-weight: 600; }
 .seg button + button { border-left: 1px solid var(--line); }

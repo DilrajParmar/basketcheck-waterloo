@@ -54,9 +54,9 @@ const START_PRESETS = [
   {id:"up", name:"Uptown Waterloo", lat:43.4655, lon:-80.5225},
   {id:"dtk", name:"Downtown Kitchener", lat:43.451, lon:-80.4925}
 ];
-const S = { cart:{}, start:{...START_PRESETS[0]}, pending:null, mode:"walk", zoom:"near", sort:"rec", aisle:"All", q:"", shopSort:"aisle", open:null, cmp:{}, gmap:null, pref:"both" };
+const S = { cart:{}, start:{...START_PRESETS[0]}, pending:null, mode:"walk", zoom:"near", sort:"rec", aisle:"All", q:"", shopSort:"aisle", open:null, cmp:{}, gmap:null };
 const QMAX = 99;
-const PREF_RATE = {price:0.03, both:0.20, time:0.67}; /* internal weights only: never shown on the page */
+const TIME_RATE = 0.20; /* Recommended: how much each minute of round trip counts against the basket cost. Internal only: never shown on the page, and never a dollar value for time */
 /* the cart lasts for this tab only (survives a reload, not a fresh open); saved carts and your start point are what's kept */
 // the cart always starts empty on a fresh open
 try { localStorage.removeItem("wbc-cart"); } catch(e){}
@@ -341,6 +341,9 @@ const PICKUP = {
   sobeys: {svc:"Voilà by Sobeys", url:"https://voila.ca/", how:"delivery", extra:"Voilà delivers from its own warehouse, so prices can differ a little from the store."},
   walmart: {svc:"Walmart", url:"https://www.walmart.ca/en", how:"pickup or delivery", fees:"Same Day Delivery is $8.97. Orders under $35 have a $7.97 small order fee (pickup or delivery). Walmart help pages, checked Nov 10, 2026."},
 };
+const SUPPORT_EMAIL = "basketcheck.support@gmail.com";
+/* "Report a wrong price": opens the visitor's own email app with the store filled in; nothing is sent by the site */
+function reportUrl(s){ return "mailto:"+SUPPORT_EMAIL+"?subject="+encodeURIComponent("Wrong price at "+s.name)+"&body="+encodeURIComponent("Item:\nPrice on BasketCheck:\nPrice at the store or on its website:\nDate you checked:\n"); }
 function pickupBox(c){ const p=PICKUP[c.id]; if (!p) return "";
   return `<div class="pickup"><span><b>Order online for ${p.how}</b> with ${esc(p.svc)}${p.svc==="PC Express"?" (what's offered depends on the store)":""}. ${p.fees ? esc(p.fees) : "Fees and the minimum order are shown on their site before you pay."}${p.extra?" "+esc(p.extra):""}</span><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.svc)}</a></div>`; }
 /* ---------- saved carts (kept in this browser) */
@@ -441,7 +444,7 @@ function renderSharedBanner(){
 const SPLIT_KM = 2, SPLIT_MIN_SAVE = 2, SPLIT_EXTRA_MIN = 30;
 function bestSplit(R){
   const ids=Object.keys(S.cart).filter(id=>S.cart[id]>0); if (ids.length<2) return null;
-  const perMin=PREF_RATE[S.pref]||PREF_RATE.both;
+  const perMin=TIME_RATE;
   const singles=R.filter(r=>!r.b.missing.length), base=singles.length ? singles.reduce((m,r)=>r.b.t<m.b.t||(r.b.t===m.b.t&&r.tr.min<m.tr.min)?r:m) : null;
   let best=null;
   for (const a of PRICED) for (const b of PRICED){
@@ -486,8 +489,6 @@ document.querySelectorAll("#mode button").forEach(b=>b.onclick=()=>{ const list=
   S.mode=b.dataset.m; document.querySelectorAll("#mode button").forEach(x=>x.setAttribute("aria-pressed", String(x===b))); renderCheckout();
   if (stuck){ const d=list.getBoundingClientRect().top-before; if (Math.abs(d)>0.5) scrollBy(0, d); } });
 document.querySelectorAll("#zoom button").forEach(b=>b.onclick=()=>{ S.zoom=b.dataset.z; document.querySelectorAll("#zoom button").forEach(x=>x.setAttribute("aria-pressed", String(x===b))); renderMap(); });
-document.querySelectorAll("#pref button").forEach(b=>b.onclick=()=>{ S.pref=b.dataset.p; try { sessionStorage.setItem("wbc-pref", S.pref); } catch(e){} document.querySelectorAll("#pref button").forEach(x=>x.setAttribute("aria-pressed", String(x===b))); if (S.sort!=="rec") $('.tabs [data-s="rec"]').click(); else renderResults(); });
-try { const p=sessionStorage.getItem("wbc-pref"); if (PREF_RATE[p]) { S.pref=p; document.querySelectorAll("#pref button").forEach(x=>x.setAttribute("aria-pressed", String(x.dataset.p===p))); } } catch(e){}
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{ S.sort=b.dataset.s; document.querySelectorAll(".tabs button").forEach(x=>x.setAttribute("aria-pressed", String(x===b))); renderResults(); });
 $("#applyPin").onclick = ()=>{ if(!S.pending) return; setStart({id:"pin", name:"Your pin", lat:S.pending.lat, lon:S.pending.lon}); };
 
@@ -703,17 +704,16 @@ $("#map").addEventListener("click", e=>{
 function rows(){
   return PRICED.map(s=>({s, tr:trip(s), b:chainTotal(s.chain)}));
 }
-const PREF_WORD = {price:"Saving money", both:"Both", time:"Saving time"};
 /* the trade-off in prices and minutes only (no dollar value on time) */
 function whyTrade(top, cheapest, fastest){
   const w = MODE_WORD[S.mode], out=[];
-  if (cheapest!==top && cheapest.b.full<top.b.full-0.005 && cheapest.tr.min>top.tr.min) out.push(`${esc(cheapest.s.name)} is ${money(top.b.full-cheapest.b.full)} cheaper but a ${cheapest.tr.min-top.tr.min} min longer ${w} each way; with ${PREF_WORD[S.pref]} selected, the shorter trip wins.`);
-  if (fastest!==top && fastest.tr.min<top.tr.min && fastest.b.full>top.b.full+0.005) out.push(`${esc(fastest.s.name)} is ${top.tr.min-fastest.tr.min} min closer but ${money(fastest.b.full-top.b.full)} more; with ${PREF_WORD[S.pref]} selected, the lower price wins.`);
+  if (cheapest!==top && cheapest.b.full<top.b.full-0.005 && cheapest.tr.min>top.tr.min) out.push(`${esc(cheapest.s.name)} is ${money(top.b.full-cheapest.b.full)} cheaper but a ${cheapest.tr.min-top.tr.min} min longer ${w} each way, so the shorter trip wins.`);
+  if (fastest!==top && fastest.tr.min<top.tr.min && fastest.b.full>top.b.full+0.005) out.push(`${esc(fastest.s.name)} is ${top.tr.min-fastest.tr.min} min closer but ${money(fastest.b.full-top.b.full)} more, so the lower price wins.`);
   return out.join(" ");
 }
 function whyRec(top, cheapest, fastest, pMin, tMin, R){
   const m=top.b.missing.length, cost = top.b.full-pMin<0.005 ? "the cheapest basket" : `a basket ${money(top.b.full-pMin)} more than the cheapest`, trip = top.tr.min-tMin===0 ? "the shortest trip" : `a trip ${top.tr.min-tMin} min longer each way than the shortest`;
-  const parts = [`<b>Why ${esc(top.s.name)} is recommended:</b>`, m ? `It has ${cost} and ${trip}, but it's missing ${m} of your item${m===1?"":"s"}.` : `It has everything in your cart, ${cost} and ${trip}.`, `You picked <b>${PREF_WORD[S.pref]}</b>.`, whyTrade(top, cheapest, fastest)];
+  const parts = [`<b>Why ${esc(top.s.name)} is recommended:</b>`, m ? `It has ${cost} and ${trip}, but it's missing ${m} of your item${m===1?"":"s"}.` : `It has everything in your cart, ${cost} and ${trip}.`, whyTrade(top, cheapest, fastest)];
   if (m) { const names=top.b.missing.map(x=>x.it.name.toLowerCase()); const list = names.length<=3 ? (names.length>1 ? names.slice(0,-1).join(", ")+" and "+names.at(-1) : names[0]) : names.slice(0,2).join(", ")+` and ${names.length-2} more`; parts.push(`<span class="warn"><b>Heads up:</b> ${esc(top.s.name)} doesn't list ${esc(list)} online, so you may need a second stop for ${m===1?"it":"them"}.</span>`); }
   if (R.some(r=>r.b.missing.length)) parts.push("For stores missing items, we add what those items cost on average elsewhere so baskets compare fairly.");
   return parts.filter(Boolean).join(" ");
@@ -770,14 +770,13 @@ function renderResults(){
   renderSteps();
   $("#resSub").textContent = n ? `${n} item${n===1?"":"s"} · ${PRICED.length} locations · times by ${MODE_WORD[S.mode]}${routed() ? " (real routes from OpenStreetMap)" : " (estimated)"} from ${S.start.name}` : "";
   renderBudget();
-  if (!n){ S.rank={}; $("#why").hidden=true; $("#prefQ").hidden=true; renderSplit(R); renderAnswer(R); $("#receipts").innerHTML=`<div class="empty">Add groceries to your cart to see every store ranked. <a href="#shop">Start shopping</a></div>`; renderMap(); return; }
+  if (!n){ S.rank={}; $("#why").hidden=true; renderSplit(R); renderAnswer(R); $("#receipts").innerHTML=`<div class="empty">Add groceries to your cart to see every store ranked. <a href="#shop">Start shopping</a></div>`; renderMap(); return; }
   $("#why").hidden=false;
   const pMin=Math.min(...R.map(r=>r.b.full)), pMax=Math.max(...R.map(r=>r.b.full)), tMin=Math.min(...R.map(r=>r.tr.min)), tMax=Math.max(...R.map(r=>r.tr.min));
-  /* Recommended: basket cost plus round-trip minutes weighted by the shopper's answer to "What matters more to you?" */
-  const perMin = PREF_RATE[S.pref]||PREF_RATE.both;
+  /* Recommended: basket cost plus round-trip minutes at one fixed balance (TIME_RATE) */
+  const perMin = TIME_RATE;
   R.forEach(r=>{ r.score = r.b.full + perMin*2*r.tr.min; });
   renderAnswer(R);
-  $("#prefQ").hidden = S.sort!=="rec";
   const key = S.sort==="price" ? (a,b)=>a.b.missing.length-b.b.missing.length || a.b.t-b.b.t || a.tr.min-b.tr.min : S.sort==="time" ? (a,b)=>a.tr.min-b.tr.min || a.b.t-b.b.t : (a,b)=>(a.b.missing.length>0)-(b.b.missing.length>0) || a.score-b.score || a.b.t-b.b.t;  /* a store missing items means a second stop, so complete baskets come first */
   R.sort(key);
   S.rank = Object.fromEntries(R.map((r,i)=>[r.s.i,i+1]));
@@ -799,7 +798,7 @@ function renderResults(){
       ${(()=>{ const n=r.b.lines.filter(l=>l.p.regular&&l.p.regular>l.p.price).length; return `<div class="flyer"><span>${n?`<b>${n} ${n===1?"item":"items"} in your cart ${n===1?"is":"are"} on sale this week</b> (highlighted above).`:"Nothing in your cart is on sale here this week."} Check the flyer for more deals.</span>${c.flyer?`<a href="${esc(c.flyer)}" target="_blank" rel="noopener">This week's ${esc(c.short)} flyer</a>`:""}</div>`; })()}
       ${pickupBox(c)}
       ${r.s.chain==="walmart" ? `<p class="limited">Walmart's website blocks automated price checks, so only ${ITEMS.filter(it=>it.prices.walmart).length.toLocaleString()} of our ${ITEMS.length.toLocaleString()} items have a Walmart price. Items marked "not available" here may still be on the shelf.</p>` : ""}
-      <p class="rmeta" style="margin:8px 0 0">Prices from ${esc(c.site)}${r.s.approx?" · map pin approximate":""}</p></div>` : "";
+      <p class="rmeta" style="margin:8px 0 0">Prices from ${esc(c.site)}${r.s.approx?" · map pin approximate":""} · <a href="${reportUrl(r.s)}">Report a wrong price</a></p></div>` : "";
     return `<article class="receipt ${idx===0?"top1":""}" id="r-${r.s.i}">
       <div class="rhead" data-o="${r.s.i}" role="button" tabindex="0" aria-expanded="${open}">
         <span class="rank">${idx+1}</span>
