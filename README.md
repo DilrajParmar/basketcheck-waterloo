@@ -1,6 +1,6 @@
 # BasketCheck: grocery price comparison for Waterloo Region
 
-**Live site:** https://basketcheck-waterloo.pages.dev
+**Live site:** https://basketcheck.pages.dev
 
 BasketCheck lets students in Waterloo Region build a grocery cart once and see what it costs at six grocery chains, along with how long the trip takes from their residence or address.
 
