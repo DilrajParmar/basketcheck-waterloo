@@ -1,6 +1,6 @@
 {
  "note": "Prices re-checked against each chain's own search page. build.py applies these on top of the catalog files.",
- "checked": "2026-11-18",
+ "checked": "2026-11-25",
  "prices": {
   "nofrills": {
    "eggs": {
@@ -210,6 +210,195 @@
     "product": "President's Choice Alfredo Pasta Sauce",
     "source": "https://www.nofrills.ca/en/alfredo-pasta-sauce/p/20320838001_EA",
     "checked": "2026-11-18"
+   },
+   "choc_milk": {
+    "price": 5.75,
+    "regular": null,
+    "product": "Neilson Chocolate Milk",
+    "source": "https://www.nofrills.ca/en/chocolate-milk/p/20187292_EA",
+    "checked": "2026-11-25"
+   },
+   "pita": {
+    "price": 1.0,
+    "regular": 1.29,
+    "product": "Cedar Lebanese-Style White Pita Bread",
+    "source": "https://www.nofrills.ca/en/lebanese-style-white-pita-bread/p/21509350_EA",
+    "checked": "2026-11-25"
+   },
+   "fish_sticks": {
+    "price": 10.5,
+    "regular": null,
+    "product": "High Liner Fish Sticks Crispy Breaded",
+    "source": "https://www.nofrills.ca/en/fish-sticks-crispy-breaded/p/20303200001_EA",
+    "checked": "2026-11-25"
+   },
+   "chicken_strips": {
+    "price": 12.0,
+    "regular": null,
+    "product": "Janes Pub Style Chicken Strips, Fully Cooked",
+    "source": "https://www.nofrills.ca/en/pub-style-chicken-strips-fully-cooked/p/21191828_EA",
+    "checked": "2026-11-25"
+   },
+   "dumplings": {
+    "price": 7.99,
+    "regular": null,
+    "product": "O'Tasty Pork & Vegetable Dumplings",
+    "source": "https://www.nofrills.ca/en/pork-vegetable-dumplings/p/20319243001_EA",
+    "checked": "2026-11-25"
+   },
+   "ice_cream_bars": {
+    "price": 4.99,
+    "regular": 5.5,
+    "product": "Nestl\u00e9 Drumstick Vanilla Caramel Cones",
+    "source": "https://www.nofrills.ca/en/drumstick-vanilla-caramel-cones/p/20322380001_EA",
+    "checked": "2026-11-25"
+   },
+   "iced_tea": {
+    "price": 8.49,
+    "regular": null,
+    "product": "Nestea Lemon Iced Tea",
+    "source": "https://www.nofrills.ca/en/lemon-iced-tea/p/21689167_C12",
+    "checked": "2026-11-25"
+   },
+   "lemonade": {
+    "price": 4.99,
+    "regular": null,
+    "product": "Simply Lemonade Bottle",
+    "source": "https://www.nofrills.ca/en/lemonade-bottle/p/21170793_EA",
+    "checked": "2026-11-25"
+   },
+   "mars_bar": {
+    "price": 1.25,
+    "regular": null,
+    "product": "Mars Peanut Free Chocolate Candy Bar, Full Size Bar",
+    "source": "https://www.nofrills.ca/en/peanut-free-chocolate-candy-bar-full-size-bar/p/20695204_EA",
+    "checked": "2026-11-25"
+   },
+   "twix": {
+    "price": 1.25,
+    "regular": null,
+    "product": "Twix Caramel Cookie Chocolate Candy Bar, Full Size Bar",
+    "source": "https://www.nofrills.ca/en/caramel-cookie-chocolate-candy-bar-full-size-bar/p/20695015_EA",
+    "checked": "2026-11-25"
+   },
+   "rice_krispies": {
+    "price": 3.5,
+    "regular": 4.0,
+    "product": "Kelloggs Rice Krispies Cereal",
+    "source": "https://www.nofrills.ca/en/rice-krispies-cereal/p/21450814_EA",
+    "checked": "2026-11-25"
+   },
+   "corn_pops": {
+    "price": 3.5,
+    "regular": 4.0,
+    "product": "Kelloggs Corn Pops Cereal",
+    "source": "https://www.nofrills.ca/en/corn-pops-cereal/p/21652133_EA",
+    "checked": "2026-11-25"
+   },
+   "digestive": {
+    "price": 4.29,
+    "regular": null,
+    "product": "Christie Family Digestive Cookie Biscuit",
+    "source": "https://www.nofrills.ca/en/family-digestive-cookie-biscuit/p/20679968_EA",
+    "checked": "2026-11-25"
+   },
+   "premium_plus": {
+    "price": 4.0,
+    "regular": 4.5,
+    "product": "Christie Premium Plus Salted Tops Crackers",
+    "source": "https://www.nofrills.ca/en/premium-plus-salted-tops-crackers-canada-s-favouri/p/21109004_EA",
+    "checked": "2026-11-25"
+   },
+   "garbage_bags": {
+    "price": 11.49,
+    "regular": 12.0,
+    "product": "Glad Black Garbage Bags - Regular 74 Litres",
+    "source": "https://www.nofrills.ca/en/black-garbage-bags-regular-74-litres/p/21165477_EA",
+    "checked": "2026-11-25"
+   },
+   "crest_3d_3pk": {
+    "price": 10.99,
+    "regular": null,
+    "product": "Crest 3D White Advanced Whitening Toothpaste Radiant Mint, Pack of 3",
+    "source": "https://www.nofrills.ca/en/3d-white-advanced-whitening-toothpaste-radiant-min/p/21506752_EA",
+    "checked": "2026-11-25"
+   },
+   "activia_12": {
+    "price": 6.79,
+    "regular": null,
+    "product": "Activia Probiotic Yogurt, Strawberry/Blueberry/Raspberry/Peach",
+    "source": "https://www.nofrills.ca/en/probiotic-yogurt-strawberry-blueberry-raspberry-pe/p/20303412001_EA",
+    "checked": "2026-11-25"
+   },
+   "iogo_2kg": {
+    "price": 11.0,
+    "regular": 12.0,
+    "product": "IOGO Yogurt Vanilla 1.5% M.F.",
+    "source": "https://www.nofrills.ca/en/yogurt-vanilla-1-5-m-f/p/21761131_EA",
+    "checked": "2026-11-25"
+   },
+   "oikos_4": {
+    "price": 3.47,
+    "regular": 3.75,
+    "product": "Oikos Greek Yogurt, Raspberry-Pomegranate, Fruit on the Bottom, 2% M.F.",
+    "source": "https://www.nofrills.ca/en/greek-yogurt-rasberry-pomegranate-fruit-on-the-bot/p/20419715005_EA",
+    "checked": "2026-11-25"
+   },
+   "doritos_jalapeno": {
+    "price": 4.5,
+    "regular": null,
+    "product": "Doritos Jalape\u00f1o & Cheddar flavoured tortilla chips",
+    "source": "https://www.nofrills.ca/en/jalape-o-cheddar-flavoured-tortilla-chips/p/21369080_EA",
+    "checked": "2026-11-25"
+   },
+   "red_baron_pep": {
+    "price": 6.99,
+    "regular": null,
+    "product": "RED BARON Pepperoni Classic Crust Frozen Pizza",
+    "source": "https://www.nofrills.ca/en/pepperoni-classic-crust-frozen-pizza/p/21736881_EA",
+    "checked": "2026-11-25"
+   },
+   "haagen_vanilla": {
+    "price": 5.5,
+    "regular": null,
+    "product": "Haagen Dazs Vanilla Bean Ice Cream",
+    "source": "https://www.nofrills.ca/en/vanilla-bean-ice-cream/p/21513578_EA",
+    "checked": "2026-11-25"
+   },
+   "haagen_choc": {
+    "price": 5.5,
+    "regular": null,
+    "product": "Haagen Dazs EXTRAAZ Chocolate Fudge Truffle Ice Cream",
+    "source": "https://www.nofrills.ca/en/extr-az-chocolate-fudge-truffle-ice-cream/p/21722230_EA",
+    "checked": "2026-11-25"
+   },
+   "chapmans_fv": {
+    "price": 6.5,
+    "regular": 7.0,
+    "product": "Chapmans Premium French Vanilla Ice Cream",
+    "source": "https://www.nofrills.ca/en/premium-french-vanilla-ice-cream/p/20323573001_EA",
+    "checked": "2026-11-25"
+   },
+   "chapmans_wolf": {
+    "price": 6.5,
+    "regular": 7.0,
+    "product": "Chapmans Premium Wolf Pass Ice Cream",
+    "source": "https://www.nofrills.ca/en/premium-wolf-pass-ice-cream/p/21657456_EA",
+    "checked": "2026-11-25"
+   },
+   "pc_garlic_sauce": {
+    "price": 3.25,
+    "regular": null,
+    "product": "President's Choice Roasted Garlic Pasta Sauce",
+    "source": "https://www.nofrills.ca/en/roasted-garlic-pasta-sauce/p/21734387_EA",
+    "checked": "2026-11-25"
+   },
+   "pc_marinara": {
+    "price": 3.25,
+    "regular": null,
+    "product": "President's Choice Marinara Pasta Sauce",
+    "source": "https://www.nofrills.ca/en/marinara-pasta-sauce/p/21734544_EA",
+    "checked": "2026-11-25"
    }
   },
   "zehrs": {
@@ -406,6 +595,111 @@
     "product": "4C Plain Bread Crumbs",
     "source": "https://www.zehrs.ca/en/plain-bread-crumbs/p/20871099002_EA",
     "checked": "2026-11-18"
+   },
+   "choc_milk": {
+    "price": 6.35,
+    "regular": null,
+    "product": "Neilson Chocolate Milk",
+    "source": "https://www.zehrs.ca/en/chocolate-milk/p/20187292_EA",
+    "checked": "2026-11-25"
+   },
+   "frozen_meal": {
+    "price": 6.99,
+    "regular": null,
+    "product": "Crave Spicy Szechuan Style Fried Chicken on Rice Frozen Meal",
+    "source": "https://www.zehrs.ca/en/spicy-szechuan-style-fried-chicken-on-rice-frozen/p/21604379_EA",
+    "checked": "2026-11-25"
+   },
+   "cranberry": {
+    "price": 4.5,
+    "regular": null,
+    "product": "Ocean Spray Juice Drink, Diet Cranberry Cherry",
+    "source": "https://www.zehrs.ca/en/juice-drink-diet-cranberry-cherry/p/20679626_EA",
+    "checked": "2026-11-25"
+   },
+   "lemonade": {
+    "price": 5.49,
+    "regular": null,
+    "product": "Minute Maid Zero Sugar Lemonade Bottle",
+    "source": "https://www.zehrs.ca/en/zero-sugar-lemonade-bottle/p/21434119_EA",
+    "checked": "2026-11-25"
+   },
+   "cinnamon_toast_fam": {
+    "price": 7.99,
+    "regular": null,
+    "product": "General Mills Cinnamon Toast Crunch Breakfast Cereal, Family Size",
+    "source": "https://www.zehrs.ca/en/cinnamon-toast-crunch-breakfast-cereal-family-size/p/21103492_EA",
+    "checked": "2026-11-25"
+   },
+   "lucky_charms_fam": {
+    "price": 7.99,
+    "regular": null,
+    "product": "General Mills Lucky Charms Breakfast Cereal, Family Size",
+    "source": "https://www.zehrs.ca/en/lucky-charms-breakfast-cereal-with-marshmallows-fa/p/21103505_EA",
+    "checked": "2026-11-25"
+   },
+   "pc_decadent": {
+    "price": 4.99,
+    "regular": null,
+    "product": "President's Choice The Decadent Chocolate Chip Cookie",
+    "source": "https://www.zehrs.ca/en/the-decadent-chocolate-chip-cookie/p/20612257_EA",
+    "checked": "2026-11-25"
+   },
+   "kitchen_bags": {
+    "price": 10.99,
+    "regular": null,
+    "product": "Glad White Tall 45 L 30 Bags",
+    "source": "https://www.zehrs.ca/en/white-tall-45-l-30-bags/p/21359461_EA",
+    "checked": "2026-11-25"
+   },
+   "activia_vanilla": {
+    "price": 4.25,
+    "regular": null,
+    "product": "Activia Probiotic Yogurt, Vanilla",
+    "source": "https://www.zehrs.ca/en/probiotic-yogurt-vanilla/p/20325132003_EA",
+    "checked": "2026-11-25"
+   },
+   "iogo_2kg": {
+    "price": 13.49,
+    "regular": null,
+    "product": "IOGO Yogurt Vanilla 1.5% M.F.",
+    "source": "https://www.zehrs.ca/en/yogurt-vanilla-1-5-m-f/p/21761131_EA",
+    "checked": "2026-11-25"
+   },
+   "astro_plain": {
+    "price": 4.99,
+    "regular": null,
+    "product": "Astro Original Balkan Style Plain Yogurt 6%",
+    "source": "https://www.zehrs.ca/en/original-balkan-style-plain-yogurt-6/p/20165226001_EA",
+    "checked": "2026-11-25"
+   },
+   "pc_cream_soda": {
+    "price": 7.29,
+    "regular": null,
+    "product": "President's Choice Cream Soda 12 Pack",
+    "source": "https://www.zehrs.ca/en/cream-soda-12-pack/p/20970837_C12",
+    "checked": "2026-11-25"
+   },
+   "pizza_bites": {
+    "price": 8.99,
+    "regular": null,
+    "product": "Pillsbury Pizza Bites Pizza Snacks Pepperoni",
+    "source": "https://www.zehrs.ca/en/pizza-bites-pizza-snacks-pepperoni/p/20972958_EA",
+    "checked": "2026-11-25"
+   },
+   "breyers_fv": {
+    "price": 4.0,
+    "regular": 5.5,
+    "product": "Breyers French Vanilla Ice Cream",
+    "source": "https://www.zehrs.ca/en/french-vanilla-ice-cream/p/21651382_EA",
+    "checked": "2026-11-25"
+   },
+   "pc_garlic_sauce": {
+    "price": 4.5,
+    "regular": null,
+    "product": "President's Choice Roasted Garlic Pasta Sauce",
+    "source": "https://www.zehrs.ca/en/roasted-garlic-pasta-sauce/p/21734387_EA",
+    "checked": "2026-11-25"
    }
   },
   "superstore": {
@@ -539,6 +833,279 @@
     "product": "Classico Alfredo Pasta Sauce",
     "source": "https://www.realcanadiansuperstore.ca/en/alfredo-pasta-sauce/p/20325609003_EA",
     "checked": "2026-11-18"
+   },
+   "yogurt_cups": {
+    "price": 7.29,
+    "regular": null,
+    "product": "IOGO Strawberry Raspberry Blueberry Vanilla Yogurt Cups 1%",
+    "source": "https://www.realcanadiansuperstore.ca/en/strawberry-raspberry-blueberry-vanilla-yogurt-cups/p/20609583001_EA",
+    "checked": "2026-11-25"
+   },
+   "cheese_slices": {
+    "price": 5.49,
+    "regular": null,
+    "product": "Kraft Original Slices",
+    "source": "https://www.realcanadiansuperstore.ca/en/original-slices/p/21188654_EA",
+    "checked": "2026-11-25"
+   },
+   "parmesan": {
+    "price": 8.49,
+    "regular": null,
+    "product": "Kraft Grated Parmesan Cheese",
+    "source": "https://www.realcanadiansuperstore.ca/en/grated-parmesan-cheese/p/21528135_EA",
+    "checked": "2026-11-25"
+   },
+   "margarine": {
+    "price": 6.99,
+    "regular": null,
+    "product": "Becel Margarine Original",
+    "source": "https://www.realcanadiansuperstore.ca/en/margarine-original/p/21747692_EA",
+    "checked": "2026-11-25"
+   },
+   "sausage": {
+    "price": 6.5,
+    "regular": 8.49,
+    "product": "President's Choice Mild Italian Pork Sausages",
+    "source": "https://www.realcanadiansuperstore.ca/en/mild-italian-pork-sausages/p/21584342_EA",
+    "checked": "2026-11-25"
+   },
+   "perogies": {
+    "price": 3.25,
+    "regular": 3.79,
+    "product": "Cheemo Pre-Cooked Perogies, Potato and Cheddar Cheese",
+    "source": "https://www.realcanadiansuperstore.ca/en/pre-cooked-perogies-potato-and-cheddar-cheese/p/20527369_EA",
+    "checked": "2026-11-25"
+   },
+   "pizza_pops": {
+    "price": 2.5,
+    "regular": null,
+    "product": "Pillsbury Pepperoni and Bacon Pizza Pops, 4CT",
+    "source": "https://www.realcanadiansuperstore.ca/en/pepperoni-and-bacon-pizza-pops-4ct/p/21436023_EA",
+    "checked": "2026-11-25"
+   },
+   "frozen_meal": {
+    "price": 2.69,
+    "regular": null,
+    "product": "Michelina Lasagna with Meat Sauce",
+    "source": "https://www.realcanadiansuperstore.ca/en/lasagna-with-meat-sauce/p/21208633_EA",
+    "checked": "2026-11-25"
+   },
+   "tater_tots": {
+    "price": 3.49,
+    "regular": null,
+    "product": "McCain Tasti Taters, Tater Tots",
+    "source": "https://www.realcanadiansuperstore.ca/en/tasti-taters-tater-tots/p/20799522_EA",
+    "checked": "2026-11-25"
+   },
+   "coke_zero": {
+    "price": 8.79,
+    "regular": null,
+    "product": "Coca-Cola Cola Zero Sugar Fridge Pack Cans",
+    "source": "https://www.realcanadiansuperstore.ca/en/cola-zero-sugar-fridge-pack-cans/p/20318694001_C12",
+    "checked": "2026-11-25"
+   },
+   "sprite": {
+    "price": 8.79,
+    "regular": null,
+    "product": "Sprite Lemon Lime Soda Fridge Pack Cans",
+    "source": "https://www.realcanadiansuperstore.ca/en/lemon-lime-soda-fridge-pack-cans/p/20319214002_C12",
+    "checked": "2026-11-25"
+   },
+   "ginger_ale": {
+    "price": 8.79,
+    "regular": null,
+    "product": "Canada Dry Ginger Ale",
+    "source": "https://www.realcanadiansuperstore.ca/en/ginger-ale/p/20307569004_C12",
+    "checked": "2026-11-25"
+   },
+   "root_beer": {
+    "price": 8.79,
+    "regular": null,
+    "product": "A&W Root Beer",
+    "source": "https://www.realcanadiansuperstore.ca/en/root-beer/p/20316407001_C12",
+    "checked": "2026-11-25"
+   },
+   "cranberry": {
+    "price": 4.5,
+    "regular": null,
+    "product": "Ocean Spray Cranberry Cocktail",
+    "source": "https://www.realcanadiansuperstore.ca/en/cranberry-cocktail/p/20300006008_EA",
+    "checked": "2026-11-25"
+   },
+   "juice_boxes": {
+    "price": 3.99,
+    "regular": null,
+    "product": "Minute Maid Apple Juice Cartons",
+    "source": "https://www.realcanadiansuperstore.ca/en/apple-juice-cartons/p/21092667_EA",
+    "checked": "2026-11-25"
+   },
+   "cinnamon_toast_fam": {
+    "price": 6.0,
+    "regular": null,
+    "product": "General Mills Cinnamon Toast Crunch Breakfast Cereal, Family Size",
+    "source": "https://www.realcanadiansuperstore.ca/en/cinnamon-toast-crunch-breakfast-cereal-family-size/p/21103492_EA",
+    "checked": "2026-11-25"
+   },
+   "lucky_charms_fam": {
+    "price": 6.0,
+    "regular": null,
+    "product": "General Mills Lucky Charms Breakfast Cereal, Family Size",
+    "source": "https://www.realcanadiansuperstore.ca/en/lucky-charms-breakfast-cereal-with-marshmallows-fa/p/21103505_EA",
+    "checked": "2026-11-25"
+   },
+   "digestive": {
+    "price": 4.79,
+    "regular": null,
+    "product": "Christie Family Digestive Cookie Biscuit",
+    "source": "https://www.realcanadiansuperstore.ca/en/family-digestive-cookie-biscuit/p/20679968_EA",
+    "checked": "2026-11-25"
+   },
+   "pc_decadent": {
+    "price": 4.99,
+    "regular": null,
+    "product": "President's Choice The Decadent Chocolate Chip Cookie",
+    "source": "https://www.realcanadiansuperstore.ca/en/the-decadent-chocolate-chip-cookie/p/20612257_EA",
+    "checked": "2026-11-25"
+   },
+   "pretzel_crisps": {
+    "price": 5.5,
+    "regular": null,
+    "product": "The Snack Factory Pretzel Crisps, Original",
+    "source": "https://www.realcanadiansuperstore.ca/en/pretzel-crisps-original/p/20948940_EA",
+    "checked": "2026-11-25"
+   },
+   "ziploc_freezer": {
+    "price": 5.49,
+    "regular": 6.49,
+    "product": "Ziploc Freezer Bags Large, with Stay Open Technology",
+    "source": "https://www.realcanadiansuperstore.ca/en/freezer-bags-large-with-stay-open-technology/p/20300461001_EA",
+    "checked": "2026-11-25"
+   },
+   "ziploc_sandwich": {
+    "price": 5.49,
+    "regular": 6.49,
+    "product": "Ziploc Sandwich Bags, with Grip 'n Seal Technology",
+    "source": "https://www.realcanadiansuperstore.ca/en/sandwich-bags-with-grip-n-seal-technology/p/20871415_EA",
+    "checked": "2026-11-25"
+   },
+   "ziploc_snack": {
+    "price": 5.49,
+    "regular": 6.49,
+    "product": "Ziploc Snack Bags, with Grip 'n Seal Technology",
+    "source": "https://www.realcanadiansuperstore.ca/en/snack-bags-with-grip-n-seal-technology/p/20871443_EA",
+    "checked": "2026-11-25"
+   },
+   "nn_sandwich_bags": {
+    "price": 2.79,
+    "regular": null,
+    "product": "No Name Zipper Sandwich Bags",
+    "source": "https://www.realcanadiansuperstore.ca/en/zipper-sandwich-bags/p/20180393_EA",
+    "checked": "2026-11-25"
+   },
+   "tissue_royale": {
+    "price": 3.99,
+    "regular": null,
+    "product": "Royale Velour Lotion Facial Tissue, 1 Cube Box",
+    "source": "https://www.realcanadiansuperstore.ca/en/velour-lotion-facial-tissue-1-cube-box-54-tissues/p/21595046_EA",
+    "checked": "2026-11-25"
+   },
+   "colgate_cavity": {
+    "price": 1.79,
+    "regular": null,
+    "product": "Colgate Cavity Protection Fluoride Toothpaste, Winterfresh",
+    "source": "https://www.realcanadiansuperstore.ca/en/cavity-protection-fluoride-toothpaste-winterfresh/p/20975529_EA",
+    "checked": "2026-11-25"
+   },
+   "activia_vanilla": {
+    "price": 4.49,
+    "regular": null,
+    "product": "Activia Probiotic Yogurt, Vanilla",
+    "source": "https://www.realcanadiansuperstore.ca/en/probiotic-yogurt-vanilla/p/20325132003_EA",
+    "checked": "2026-11-25"
+   },
+   "iogo_16": {
+    "price": 7.29,
+    "regular": null,
+    "product": "IOGO Strawberry Raspberry Blueberry Vanilla Yogurt Cups 1%",
+    "source": "https://www.realcanadiansuperstore.ca/en/strawberry-raspberry-blueberry-vanilla-yogurt-cups/p/20609583001_EA",
+    "checked": "2026-11-25"
+   },
+   "oikos_4": {
+    "price": 4.29,
+    "regular": null,
+    "product": "Oikos Greek Yogurt, Raspberry-Pomegranate, Fruit on the Bottom, 2% M.F.",
+    "source": "https://www.realcanadiansuperstore.ca/en/greek-yogurt-rasberry-pomegranate-fruit-on-the-bot/p/20419715005_EA",
+    "checked": "2026-11-25"
+   },
+   "fanta_strawberry": {
+    "price": 8.79,
+    "regular": null,
+    "product": "FANTA Soda Strawberry Fridge Pack Cans",
+    "source": "https://www.realcanadiansuperstore.ca/en/soda-strawberry-fridge-pack-cans/p/21649324_C12",
+    "checked": "2026-11-25"
+   },
+   "sprite_zero": {
+    "price": 8.79,
+    "regular": null,
+    "product": "Sprite Lemon Lime Soda Zero Sugar Fridge Pack Cans",
+    "source": "https://www.realcanadiansuperstore.ca/en/lemon-lime-soda-zero-sugar-fridge-pack-cans/p/20713862_C12",
+    "checked": "2026-11-25"
+   },
+   "cherry_coke": {
+    "price": 8.79,
+    "regular": null,
+    "product": "Coca-Cola Cola Cherry Cans",
+    "source": "https://www.realcanadiansuperstore.ca/en/cola-cherry-cans/p/21392782_C12",
+    "checked": "2026-11-25"
+   },
+   "pizza_pops_cheese": {
+    "price": 2.5,
+    "regular": null,
+    "product": "Pillsbury Pizza Pops 3 Cheese Flavour, 4 ct",
+    "source": "https://www.realcanadiansuperstore.ca/en/pizza-pops-3-cheese-flavour-4-ct/p/21435996_EA",
+    "checked": "2026-11-25"
+   },
+   "haagen_vanilla": {
+    "price": 6.99,
+    "regular": null,
+    "product": "Haagen Dazs Vanilla Bean Ice Cream",
+    "source": "https://www.realcanadiansuperstore.ca/en/vanilla-bean-ice-cream/p/21513578_EA",
+    "checked": "2026-11-25"
+   },
+   "haagen_choc": {
+    "price": 6.99,
+    "regular": null,
+    "product": "Haagen Dazs EXTRAAZ Chocolate Fudge Truffle Ice Cream",
+    "source": "https://www.realcanadiansuperstore.ca/en/extr-az-chocolate-fudge-truffle-ice-cream/p/21722230_EA",
+    "checked": "2026-11-25"
+   },
+   "classico_tb": {
+    "price": 2.97,
+    "regular": 3.49,
+    "product": "Classico Tomato & Basil Pasta Sauce",
+    "source": "https://www.realcanadiansuperstore.ca/en/tomato-basil-pasta-sauce/p/21618217_EA",
+    "checked": "2026-11-25"
+   },
+   "classico_4cheese": {
+    "price": 2.97,
+    "regular": 3.49,
+    "product": "Classico Four Cheese Pasta Sauce",
+    "source": "https://www.realcanadiansuperstore.ca/en/four-cheese-pasta-sauce/p/21618218_EA",
+    "checked": "2026-11-25"
+   },
+   "classico_marinara": {
+    "price": 2.97,
+    "regular": 3.49,
+    "product": "Classico Sweet Basil Marinara Pasta Sauce",
+    "source": "https://www.realcanadiansuperstore.ca/en/sweet-basil-marinara-pasta-sauce/p/21618426_EA",
+    "checked": "2026-11-25"
+   },
+   "pc_garlic_sauce": {
+    "price": 3.49,
+    "regular": null,
+    "product": "President's Choice Roasted Garlic Pasta Sauce",
+    "source": "https://www.realcanadiansuperstore.ca/en/roasted-garlic-pasta-sauce/p/21734387_EA",
+    "checked": "2026-11-25"
    }
   },
   "independent": {
@@ -728,6 +1295,104 @@
     "product": "President's Choice Alfredo Pasta Sauce",
     "source": "https://www.yourindependentgrocer.ca/en/alfredo-pasta-sauce/p/20320838001_EA",
     "checked": "2026-11-18"
+   },
+   "choc_milk": {
+    "price": 6.35,
+    "regular": null,
+    "product": "Neilson Chocolate Milk",
+    "source": "https://www.yourindependentgrocer.ca/en/chocolate-milk/p/20187292_EA",
+    "checked": "2026-11-25"
+   },
+   "dumplings": {
+    "price": 5.99,
+    "regular": null,
+    "product": "O'Tasty Pork & Vegetable Dumplings",
+    "source": "https://www.yourindependentgrocer.ca/en/pork-vegetable-dumplings/p/20319243001_EA",
+    "checked": "2026-11-25"
+   },
+   "frozen_meal": {
+    "price": 1.5,
+    "regular": 2.25,
+    "product": "Michelina Fettuccine Alfredo",
+    "source": "https://www.yourindependentgrocer.ca/en/fettuccine-alfredo/p/21208788_EA",
+    "checked": "2026-11-25"
+   },
+   "cranberry": {
+    "price": 4.5,
+    "regular": null,
+    "product": "Ocean Spray Low Calorie Cranberry Raspberry Cocktail",
+    "source": "https://www.yourindependentgrocer.ca/en/low-calorie-cranberry-raspberry-cocktail/p/20300006001_EA",
+    "checked": "2026-11-25"
+   },
+   "cinnamon_toast_fam": {
+    "price": 7.99,
+    "regular": null,
+    "product": "General Mills Cinnamon Toast Crunch Breakfast Cereal, Family Size, Whole Grains",
+    "source": "https://www.yourindependentgrocer.ca/en/cinnamon-toast-crunch-breakfast-cereal-family-size/p/21103492_EA",
+    "checked": "2026-11-25"
+   },
+   "iogo_2kg": {
+    "price": 13.49,
+    "regular": null,
+    "product": "IOGO Yogurt Vanilla 1.5% M.F.",
+    "source": "https://www.yourindependentgrocer.ca/en/yogurt-vanilla-1-5-m-f/p/21761131_EA",
+    "checked": "2026-11-25"
+   },
+   "lays_dill": {
+    "price": 5.29,
+    "regular": null,
+    "product": "Lay's Dill Pickle Flavoured Potato Chips",
+    "source": "https://www.yourindependentgrocer.ca/en/dill-pickle-flavoured-potato-chips/p/21664537_EA",
+    "checked": "2026-11-25"
+   },
+   "lays_sco": {
+    "price": 5.29,
+    "regular": null,
+    "product": "Lay's Sour Cream & Onion Flavoured Potato Chips",
+    "source": "https://www.yourindependentgrocer.ca/en/sour-cream-onion-flavoured-potato-chips/p/21664543_EA",
+    "checked": "2026-11-25"
+   },
+   "lays_wavy": {
+    "price": 5.29,
+    "regular": null,
+    "product": "Lay's Wavy Original Potato Chips",
+    "source": "https://www.yourindependentgrocer.ca/en/wavy-original-potato-chips/p/21240990_EA",
+    "checked": "2026-11-25"
+   },
+   "red_baron_pep": {
+    "price": 5.0,
+    "regular": null,
+    "product": "RED BARON Pepperoni Classic Crust Frozen Pizza",
+    "source": "https://www.yourindependentgrocer.ca/en/pepperoni-classic-crust-frozen-pizza/p/21736881_EA",
+    "checked": "2026-11-25"
+   },
+   "pizza_bites": {
+    "price": 8.99,
+    "regular": null,
+    "product": "Pillsbury Pizza Bites Pizza Snacks Pepperoni",
+    "source": "https://www.yourindependentgrocer.ca/en/pizza-bites-pizza-snacks-pepperoni/p/20972958_EA",
+    "checked": "2026-11-25"
+   },
+   "haagen_vanilla": {
+    "price": 5.5,
+    "regular": null,
+    "product": "Haagen Dazs Vanilla Bean Ice Cream",
+    "source": "https://www.yourindependentgrocer.ca/en/vanilla-bean-ice-cream/p/21513578_EA",
+    "checked": "2026-11-25"
+   },
+   "haagen_choc": {
+    "price": 5.5,
+    "regular": null,
+    "product": "Haagen Dazs EXTR\u00c4AZ Chocolate Fudge Truffle Ice Cream",
+    "source": "https://www.yourindependentgrocer.ca/en/extr-az-chocolate-fudge-truffle-ice-cream/p/21722230_EA",
+    "checked": "2026-11-25"
+   },
+   "breyers_fv": {
+    "price": 4.0,
+    "regular": 5.5,
+    "product": "Breyers French Vanilla Ice Cream",
+    "source": "https://www.yourindependentgrocer.ca/en/french-vanilla-ice-cream/p/21651382_EA",
+    "checked": "2026-11-25"
    }
   }
  }

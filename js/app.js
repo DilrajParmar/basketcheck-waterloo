@@ -348,7 +348,10 @@ function pickupBox(c){ const p=PICKUP[c.id]; if (!p) return "";
   return `<div class="pickup"><span><b>Order online for ${p.how}</b> with ${esc(p.svc)}${p.svc==="PC Express"?" (what's offered depends on the store)":""}. ${p.fees ? esc(p.fees) : "Fees and the minimum order are shown on their site before you pay."}${p.extra?" "+esc(p.extra):""}</span><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.svc)}</a></div>`; }
 /* ---------- saved carts (kept in this browser) */
 let SAVED = [];
-try { SAVED = JSON.parse(localStorage.getItem("wbc-saved")||"[]").filter(x=>x&&x.name&&x.cart); } catch(e){}
+/* re-read before every change so two open tabs don't overwrite each other's saved carts (Nov 24) */
+const reloadSaved = () => { try { const v = JSON.parse(localStorage.getItem("wbc-saved")||"[]").filter(x=>x&&x.name&&x.cart); SAVED.length=0; SAVED.push(...v); } catch(e){} };
+reloadSaved();
+window.addEventListener("storage", e => { if (e.key===null || e.key==="wbc-saved") { reloadSaved(); renderSaved(); } });
 const storeSaved = () => { try { localStorage.setItem("wbc-saved", JSON.stringify(SAVED)); } catch(e){} };
 $("#wipeData").onclick = ()=>{ try { ["wbc-saved","wbc-cart","wbc-start"].forEach(k=>localStorage.removeItem(k)); ["wbc-cart","wbc-start","wbc-pref","wbc-brand","wbc-budget"].forEach(k=>sessionStorage.removeItem(k)); } catch(e){} S.budget=0; $("#budget").value="";
   SAVED.length=0; S.cart={}; S.start={...START_PRESETS[0]}; S.startPicked=false; S.pending=null; hideUndo(); renderSaved(); renderHeader(); $("#wipeMsg").textContent="Done. Your saved carts, cart and address have been deleted from this browser."; };
@@ -364,10 +367,10 @@ function renderSaved(){
     : `<li style="grid-template-columns:1fr"><span class="rmeta">Save your usual groceries here and load them again any time.</span></li>`;
   $("#savedList").querySelectorAll("[data-sl]").forEach(b=>b.onclick=()=>{ const x=SAVED[+b.dataset.sl]; S.cart={}; for (const k in x.cart) if (byId[k]) { const q=cleanQty(byId[k], x.cart[k]); if (q>0) S.cart[k]=q; } for (const k of Object.keys(BRAND)) setBrand(k, ""); if (x.brand && typeof x.brand==="object") for (const k in x.brand) setBrand(k, String(x.brand[k])); saveCart(); renderHeader(); renderCheckout();
     const ch=priceChanges(x), box=$("#savedChg"); if (box){ box.hidden=!ch.length; box.innerHTML = ch.length ? `<b>Since you saved “${esc(x.name)}”:</b><ul>${ch.slice(0,8).map(c=>`<li>${esc(c.it.name)} ${c.d>0?"went up":"went down"} ${money(Math.abs(c.d))}${c.it.unit==="per_kg"?"/kg":""} (lowest now ${money(c.now)})</li>`).join("")}</ul>${ch.length>8?`<span class="rmeta">and ${ch.length-8} more.</span>`:""}` : ""; } });
-  $("#savedList").querySelectorAll("[data-sd]").forEach(b=>b.onclick=()=>{ SAVED.splice(+b.dataset.sd,1); storeSaved(); renderSaved(); });
+  $("#savedList").querySelectorAll("[data-sd]").forEach(b=>b.onclick=()=>{ const gone=SAVED[+b.dataset.sd]; reloadSaved(); const j=gone?SAVED.findIndex(x=>x.name===gone.name):-1; if (j>=0) SAVED.splice(j,1); storeSaved(); renderSaved(); });
   if ($("#savedNote")) $("#savedNote").textContent = SAVED.length ? `${SAVED.length} saved` : "None yet";
 }
-$("#saveForm").onsubmit = e => { e.preventDefault(); if (!cartCount()){ $("#saveName").placeholder="Add items to your cart first"; return; } const name=$("#saveName").value.trim() || `Cart ${SAVED.length+1}`;
+$("#saveForm").onsubmit = e => { e.preventDefault(); reloadSaved(); if (!cartCount()){ $("#saveName").placeholder="Add items to your cart first"; return; } const name=$("#saveName").value.trim() || `Cart ${SAVED.length+1}`;
   const when=new Date().toLocaleDateString("en-CA",{month:"short",day:"numeric"}); const i=SAVED.findIndex(x=>x.name.toLowerCase()===name.toLowerCase());
   const entry={name, when, cart:{...S.cart}, prices:Object.fromEntries(Object.keys(S.cart).filter(k=>byId[k]&&lowest(byId[k])).map(k=>[k, lowest(byId[k]).v])), brand:Object.fromEntries(Object.entries(BRAND).filter(([k])=>S.cart[k]))}; if (i>=0) SAVED[i]=entry; else SAVED.unshift(entry); storeSaved(); $("#saveName").value=""; $("#saveName").placeholder="Name this cart, e.g. Weekly shop"; renderSaved(); };
 $("#clearCart").onclick = ()=>{ const n=cartCount(); if (n) offerUndo(`Cleared ${n} item${n===1?"":"s"} from your cart.`, {...S.cart}); S.cart={}; saveCart(); renderHeader(); renderCheckout(); };

@@ -965,3 +965,680 @@ vil_classico_675	Bakery	Villaggio Classico Italian style thick slice white bread
 mlp_meatballs_700	Meat & Seafood	Maple Leaf Prime chicken meatballs, 700 g	maple leaf prime chicken meatballs	Maple Leaf Prime chicken meatballs	700 g	0	box|#1d4f91|PRIME|Chicken meatballs
 mlp_cutlette_ham	Meat & Seafood	Maple Leaf Prime stuffed chicken cutlettes, ham & mozzarella, 568 g	maple leaf prime stuffed chicken cutlettes, ham & mozzarella	Maple Leaf Prime stuffed chicken cutlettes, ham & mozzarella	568 g	0	box|#1d4f91|PRIME|Ham & mozzarella cutlettes
 mlp_cutlette_broc	Meat & Seafood	Maple Leaf Prime stuffed chicken cutlettes, broccoli & cheddar, 568 g	maple leaf prime stuffed chicken cutlettes, broccoli & cheddar	Maple Leaf Prime stuffed chicken cutlettes, broccoli & cheddar	568 g	0	box|#1d4f91|PRIME|Broccoli & cheddar cutlettes
+pcff_striploin_kg	Meat & Seafood	PC Free From striploin steak, per kg	pc free from striploin steak	PC Free From striploin steak	per kg	0	tray|#b8333a
+pcff_ribsteak_kg	Meat & Seafood	PC Free From boneless rib steak, per kg	pc free from boneless rib steak	PC Free From boneless rib steak	per kg	0	tray|#a8282f
+striploin_kg	Meat & Seafood	Beef striploin steak, per kg	beef striploin steak	Beef striploin steak	per kg	0	tray|#b8333a
+striploin_ff_kg	Meat & Seafood	Beef striploin fast fry steak, per kg	beef striploin fast fry steak	Beef striploin fast fry steak	per kg	0	tray|#c0393f
+rib_capoff_kg	Meat & Seafood	Beef cap-off rib steak, per kg	beef cap-off rib steak	Beef cap-off rib steak	per kg	0	tray|#a8282f
+top_sirloin_cap_kg	Meat & Seafood	Beef top sirloin grilling cap steak, per kg	beef top sirloin grilling cap steak	Beef top sirloin grilling cap steak	per kg	0	tray|#b8333a
+pc_sirloin_strips	Meat & Seafood	PC sirloin beef strips, 300 g	pc sirloin beef strips	PC sirloin beef strips	300 g	0	tray|#b8333a
+marc_bacon_beef	Meat & Seafood	Marcangelo bacon wrapped beef, 340 g	marcangelo bacon wrapped beef	Marcangelo bacon wrapped beef	340 g	0	tray|#a93226
+lous_philly	Meat & Seafood	Lou's fully cooked Philly-style shaved steak, 400 g	lou's fully cooked philly-style shaved steak	Lou's fully cooked Philly-style shaved steak	400 g	0	box|#7a1f1f|LOU'S|Philly steak
+bc_lean_gb	Meat & Seafood	Butcher's Choice lean ground beef, 450 g	butcher's choice lean ground beef	Butcher's Choice lean ground beef	450 g	0	tray|#b8333a
+bc_xlean_gb	Meat & Seafood	Butcher's Choice extra lean ground beef, 450 g	butcher's choice extra lean ground beef	Butcher's Choice extra lean ground beef	450 g	0	tray|#a8282f
+pcff_lean_gb	Meat & Seafood	PC Free From lean ground beef, 454 g	pc free from lean ground beef	PC Free From lean ground beef	454 g	0	tray|#b8333a
+grassfed_gb_2pk	Meat & Seafood	Grass fed lean ground beef, 2-pack, 900 g	grass fed lean ground beef, 2-pack	Grass fed lean ground beef, 2-pack	900 g	0	tray|#a8282f
+marc_chops_bbq	Meat & Seafood	Marcangelo pork loin centre cut chops, Applewood BBQ, 380 g	marcangelo pork loin centre cut chops, applewood bbq	Marcangelo pork loin centre cut chops, Applewood BBQ	380 g	0	tray|#f1b3a8
+lethbridge_rib_chop_kg	Meat & Seafood	Lethbridge pork loin rib chop, bone in, per kg	lethbridge pork loin rib chop, bone in	Lethbridge pork loin rib chop, bone in	per kg	0	tray|#f1b3a8
+kraft_coat_pork	Pantry	Kraft Shake 'n Bake crispy pork coating mix, 160 g	kraft shake 'n bake crispy pork coating mix	Kraft Shake 'n Bake crispy pork coating mix	160 g	0	box|#e35205|SHAKE 'N BAKE|Crispy pork
+kraft_coat_orig	Pantry	Kraft Shake 'n Bake original coating mix, 142 g	kraft shake 'n bake original coating mix	Kraft Shake 'n Bake original coating mix	142 g	0	box|#e35205|SHAKE 'N BAKE|Original
+crave_teriyaki	Frozen	Crave teriyaki beef steak on rice, 300 g	crave teriyaki beef steak on rice	Crave teriyaki beef steak on rice	300 g	0	box|#1a1a1a|CRAVE|Teriyaki beef
+crave_bolognese	Frozen	Crave Korean BBQ beef bolognese, 312 g	crave korean bbq beef bolognese	Crave Korean BBQ beef bolognese	312 g	0	box|#1a1a1a|CRAVE|BBQ bolognese
+crave_loaded_pot	Frozen	Crave cheesy loaded potatoes with Angus beef, 284 g	crave cheesy loaded potatoes with angus beef	Crave cheesy loaded potatoes with Angus beef	284 g	0	box|#1a1a1a|CRAVE|Loaded potatoes
+crave_bbq_beef	Frozen	Crave smokey BBQ Angus beef, 283 g	crave smokey bbq angus beef	Crave smokey BBQ Angus beef	283 g	0	box|#1a1a1a|CRAVE|Smokey BBQ beef
+elmonterey_steak_taq	Frozen	El Monterey steak & cheese taquitos, 595 g	el monterey steak & cheese taquitos	El Monterey steak & cheese taquitos	595 g	0	box|#c8102e|EL MONTEREY|Steak taquitos
+pt_smores	Pantry	Pop-Tarts frosted s'mores, 8 pastries, 384 g	pop-tarts frosted s'mores	Pop-Tarts frosted s'mores	8 pastries, 384 g	0	box|#1f6fd1|POP-TARTS|S'mores
+pt_choc_fudge	Pantry	Pop-Tarts frosted chocolate fudge, 8 pastries, 384 g	pop-tarts frosted chocolate fudge	Pop-Tarts frosted chocolate fudge	8 pastries, 384 g	0	box|#1f6fd1|POP-TARTS|Chocolate Fudge
+pt_unfrosted_straw	Pantry	Pop-Tarts unfrosted strawberry, 8 pastries, 384 g	pop-tarts unfrosted strawberry	Pop-Tarts unfrosted strawberry	8 pastries, 384 g	0	box|#1f6fd1|POP-TARTS|Unfrosted Strawberry
+pt_cherry	Pantry	Pop-Tarts frosted cherry, 8 pastries, 384 g	pop-tarts frosted cherry	Pop-Tarts frosted cherry	8 pastries, 384 g	0	box|#1f6fd1|POP-TARTS|Cherry
+pt_churro	Pantry	Pop-Tarts frosted churro, 8 pastries, 384 g	pop-tarts frosted churro	Pop-Tarts frosted churro	8 pastries, 384 g	0	box|#1f6fd1|POP-TARTS|Churro
+pt_cookies_cream	Pantry	Pop-Tarts cookies 'n creme, 8 pastries, 384 g	pop-tarts cookies 'n creme	Pop-Tarts cookies 'n creme	8 pastries, 384 g	0	box|#1f6fd1|POP-TARTS|Cookies 'n Creme
+pt_straw_milkshake	Pantry	Pop-Tarts frosted strawberry milkshake, 8 pastries, 384 g	pop-tarts frosted strawberry milkshake	Pop-Tarts frosted strawberry milkshake	8 pastries, 384 g	0	box|#1f6fd1|POP-TARTS|Strawberry Milkshake
+pt_raspberry	Pantry	Pop-Tarts frosted raspberry, 8 pastries, 384 g	pop-tarts frosted raspberry	Pop-Tarts frosted raspberry	8 pastries, 384 g	0	box|#1f6fd1|POP-TARTS|Raspberry
+pt_jumbo	Pantry	Pop-Tarts jumbo pack, 1.152 kg	pop-tarts jumbo pack	Pop-Tarts jumbo pack	1.152 kg	0	box|#1f6fd1|POP-TARTS|Jumbo pack
+strudel_straw	Frozen	Pillsbury Toaster Strudel, strawberry, 6 pastries, 326 g	pillsbury toaster strudel, strawberry	Pillsbury Toaster Strudel, strawberry	6 pastries, 326 g	0	box|#1d4f91|TOASTER STRUDEL|Strawberry
+strudel_apple	Frozen	Pillsbury Toaster Strudel, apple, 6 pastries, 326 g	pillsbury toaster strudel, apple	Pillsbury Toaster Strudel, apple	6 pastries, 326 g	0	box|#1d4f91|TOASTER STRUDEL|Apple
+np_frosted_berry	Pantry	Nature's Path organic frosted berry strawberry toaster pastries, 312 g	nature's path organic frosted berry strawberry toaster pastries	Nature's Path organic frosted berry strawberry toaster pastries	312 g	0	box|#5a8f29|NATURE'S PATH|Berry strawberry
+np_cherry_pom	Pantry	Nature's Path organic frosted cherry pomegranate toaster pastries, 312 g	nature's path organic frosted cherry pomegranate toaster pastries	Nature's Path organic frosted cherry pomegranate toaster pastries	312 g	0	box|#5a8f29|NATURE'S PATH|Cherry pom
+jalapeno_kg	Produce	Jalapeño peppers, per kg	jalapeño peppers	Jalapeño peppers	per kg	0	tray|#2e7d32
+pc_jalapeno_hot	Pantry	PC jalapeño hot peppers, 226 g	pc jalapeño hot peppers	PC jalapeño hot peppers	226 g	0	jar|#1b5e20|#4caf50|PC|#fff|#1b5e20
+unico_jalapeno	Pantry	Unico green jalapeño peppers, pickled, 375 ml	unico green jalapeño peppers, pickled	Unico green jalapeño peppers, pickled	375 ml	0	jar|#c8102e|#6b8e23|UNICO|#fff|#c8102e
+oep_jalapenos	Pantry	Old El Paso pickled sliced jalapeños, 250 ml	old el paso pickled sliced jalapeños	Old El Paso pickled sliced jalapeños	250 ml	0	jar|#c8102e|#4caf50|OLD EL PASO|#fff|#c8102e
+lacostena_jalapeno	Pantry	La Costeña pickled jalapeño nacho slices, 477 ml	la costeña pickled jalapeño nacho slices	La Costeña pickled jalapeño nacho slices	477 ml	0	jar|#f2a900|#4caf50|LA COSTEÑA|#c8102e|#fff
+oep_green_chilies	Pantry	Old El Paso chopped green chilies, 113 ml	old el paso chopped green chilies	Old El Paso chopped green chilies	113 ml	0	can|#c8102e|OLD EL PASO|Green chilies
+mezzetta_tamed	Pantry	Mezzetta sliced tamed jalapeño peppers, 375 ml	mezzetta sliced tamed jalapeño peppers	Mezzetta sliced tamed jalapeño peppers	375 ml	0	jar|#1b5e20|#6b8e23|MEZZETTA|#fff|#1b5e20
+mezzetta_hot	Pantry	Mezzetta hot jalapeño peppers, 375 ml	mezzetta hot jalapeño peppers	Mezzetta hot jalapeño peppers	375 ml	0	jar|#b71c1c|#6b8e23|MEZZETTA|#fff|#b71c1c
+cerave_foaming_355	Household	CeraVe foaming face wash, normal to oily skin, 355 ml	cerave foaming face wash, normal to oily skin	CeraVe foaming face wash, normal to oily skin	355 ml	1	bottle|#e8f1fa|CERAVE|#1d4f91
+cerave_hydrating_355	Household	CeraVe hydrating facial cleanser, 355 ml	cerave hydrating facial cleanser	CeraVe hydrating facial cleanser	355 ml	1	bottle|#e8f1fa|CERAVE|#1d4f91
+cerave_sa_473	Household	CeraVe salicylic acid cleanser, 473 ml	cerave salicylic acid cleanser	CeraVe salicylic acid cleanser	473 ml	1	bottle|#e8f1fa|CERAVE|#1d4f91
+lb_gentle_cleanser	Household	Life Brand gentle skin cleanser, 500 ml	life brand gentle skin cleanser	Life Brand gentle skin cleanser	500 ml	1	bottle|#ffffff|LIFE BRAND|#c8102e
+lb_foaming_cleanser	Household	Life Brand foaming cleanser, 355 ml	life brand foaming cleanser	Life Brand foaming cleanser	355 ml	1	bottle|#ffffff|LIFE BRAND|#c8102e
+lb_hydrating_cleanser	Household	Life Brand hydrating cleanser, 355 ml	life brand hydrating cleanser	Life Brand hydrating cleanser	355 ml	1	bottle|#ffffff|LIFE BRAND|#c8102e
+neut_ultra_gentle	Household	Neutrogena Ultra Gentle daily cleanser, 354 ml	neutrogena ultra gentle daily cleanser	Neutrogena Ultra Gentle daily cleanser	354 ml	1	bottle|#e0f2f1|NEUTROGENA|#00838f
+neut_deep_clean	Household	Neutrogena Deep Clean facial cleanser, 200 ml	neutrogena deep clean facial cleanser	Neutrogena Deep Clean facial cleanser	200 ml	1	bottle|#1565c0|NEUTROGENA|#fff
+neut_pink_grapefruit	Household	Neutrogena Oil-Free acne wash, pink grapefruit, 177 ml	neutrogena oil-free acne wash, pink grapefruit	Neutrogena Oil-Free acne wash, pink grapefruit	177 ml	1	tube|#f48fb1|NEUTROGENA|Pink grapefruit
+cetaphil_gentle_473	Household	Cetaphil gentle skin cleanser, 473 ml	cetaphil gentle skin cleanser	Cetaphil gentle skin cleanser	473 ml	1	bottle|#ffffff|CETAPHIL|#1d4f91
+cetaphil_daily_473	Household	Cetaphil daily facial cleanser, 473 ml	cetaphil daily facial cleanser	Cetaphil daily facial cleanser	473 ml	1	bottle|#ffffff|CETAPHIL|#1d4f91
+olay_citrus_scrub	Household	Olay Total Effects citrus scrub, 150 ml	olay total effects citrus scrub	Olay Total Effects citrus scrub	150 ml	1	tube|#7b1f3a|OLAY|Citrus scrub
+nivea_cleansing_gel	Household	Nivea refreshing cleansing gel, 150 ml	nivea refreshing cleansing gel	Nivea refreshing cleansing gel	150 ml	1	tube|#1b2a6b|NIVEA|Cleansing gel
+stives_oatmeal_600	Household	St. Ives body lotion, oatmeal & shea butter, 600 ml	st. ives body lotion, oatmeal & shea butter	St. Ives body lotion, oatmeal & shea butter	600 ml	1	bottle|#f3e5c0|ST. IVES|#8d6e63
+stives_collagen_600	Household	St. Ives renewing body lotion, collagen elastin, 600 ml	st. ives renewing body lotion, collagen elastin	St. Ives renewing body lotion, collagen elastin	600 ml	1	bottle|#fce4ec|ST. IVES|#ad1457
+aveeno_lotion_ff_532	Household	Aveeno daily moisturizing lotion, fragrance free, 532 ml	aveeno daily moisturizing lotion, fragrance free	Aveeno daily moisturizing lotion, fragrance free	532 ml	1	bottle|#f5f0e6|AVEENO|#2e7d32
+aveeno_sheer_532	Household	Aveeno daily moisturizing lotion, sheer hydration, 532 ml	aveeno daily moisturizing lotion, sheer hydration	Aveeno daily moisturizing lotion, sheer hydration	532 ml	1	bottle|#f5f0e6|AVEENO|#2e7d32
+aveeno_dry_354	Household	Aveeno daily moisturizing body lotion, dry skin, fragrance free, 354 ml	aveeno daily moisturizing body lotion, dry skin, fragrance free	Aveeno daily moisturizing body lotion, dry skin, fragrance free	354 ml	1	bottle|#f5f0e6|AVEENO|#2e7d32
+aveeno_unscented_227	Household	Aveeno daily moisturizing body lotion, unscented, 227 ml	aveeno daily moisturizing body lotion, unscented	Aveeno daily moisturizing body lotion, unscented	227 ml	1	tube|#f5f0e6|AVEENO|Unscented
+vaseline_cocoa_600	Household	Vaseline Intensive Care lotion, cocoa radiant, 600 ml	vaseline intensive care lotion, cocoa radiant	Vaseline Intensive Care lotion, cocoa radiant	600 ml	1	bottle|#6d4c41|VASELINE|#3e2723
+vaseline_dryrepair_600	Household	Vaseline Intensive Care lotion, dry skin repair, 600 ml	vaseline intensive care lotion, dry skin repair	Vaseline Intensive Care lotion, dry skin repair	600 ml	1	bottle|#1e88e5|VASELINE|#0d47a1
+lubriderm_ff_480	Household	Lubriderm daily moisture lotion, fragrance free, 480 ml	lubriderm daily moisture lotion, fragrance free	Lubriderm daily moisture lotion, fragrance free	480 ml	1	bottle|#e3f2fd|LUBRIDERM|#1565c0
+nivea_creme_250	Household	Nivea Creme moisturizer, 250 ml	nivea creme moisturizer	Nivea Creme moisturizer	250 ml	1	tub|#1b2a6b|#1b2a6b|NIVEA|#fff
+nivea_bodymilk_625	Household	Nivea Body Milk nourishing lotion, 625 ml	nivea body milk nourishing lotion	Nivea Body Milk nourishing lotion	625 ml	1	bottle|#1b2a6b|NIVEA|#fff
+nivea_cocoa_625	Household	Nivea cocoa butter body lotion, dry skin, 625 ml	nivea cocoa butter body lotion, dry skin	Nivea cocoa butter body lotion, dry skin	625 ml	1	bottle|#5d4037|NIVEA|#1b2a6b
+eos_vanilla_473	Household	eos Shea Better body lotion, vanilla cashmere, 473 ml	eos shea better body lotion, vanilla cashmere	eos Shea Better body lotion, vanilla cashmere	473 ml	1	bottle|#f3e5f5|EOS|#6a1b9a
+olay_serum_lotion	Household	Olay Super Serum body lotion, 547 ml	olay super serum body lotion	Olay Super Serum body lotion	547 ml	1	bottle|#1a1a1a|OLAY|#c9a227
+ht_sheer_50	Household	Hawaiian Tropic Sheer Touch sunscreen lotion, SPF 50+, 240 ml	hawaiian tropic sheer touch sunscreen lotion, spf 50+	Hawaiian Tropic Sheer Touch sunscreen lotion, SPF 50+	240 ml	1	bottle|#f57c00|HAWAIIAN TROPIC|#fff
+bb_sport_30_315	Household	Banana Boat Ultra Sport sunscreen lotion, SPF 30, 315 ml	banana boat ultra sport sunscreen lotion, spf 30	Banana Boat Ultra Sport sunscreen lotion, SPF 30	315 ml	1	bottle|#1565c0|BANANA BOAT|#fdd835
+bb_sport_50_240	Household	Banana Boat Ultra Sport sunscreen lotion, SPF 50+, 240 ml	banana boat ultra sport sunscreen lotion, spf 50+	Banana Boat Ultra Sport sunscreen lotion, SPF 50+	240 ml	1	bottle|#0d47a1|BANANA BOAT|#fdd835
+bb_sport_spray_50	Household	Banana Boat Ultra Sport sunscreen spray, SPF 50+, 170 g	banana boat ultra sport sunscreen spray, spf 50+	Banana Boat Ultra Sport sunscreen spray, SPF 50+	170 g	1	bottle|#0d47a1|BANANA BOAT|#fdd835|1
+bb_sport_spray_30	Household	Banana Boat Ultra Sport sunscreen spray, SPF 30, 226 g	banana boat ultra sport sunscreen spray, spf 30	Banana Boat Ultra Sport sunscreen spray, SPF 30	226 g	1	bottle|#1565c0|BANANA BOAT|#fdd835|1
+sunbum_face_50	Household	Sun Bum SPF 50 face lotion, 88 ml	sun bum spf 50 face lotion	Sun Bum SPF 50 face lotion	88 ml	1	tube|#f9a825|SUN BUM|Face SPF 50
+neut_sheer_face_60	Household	Neutrogena Ultra Sheer face sunscreen, SPF 60, 88 ml	neutrogena ultra sheer face sunscreen, spf 60	Neutrogena Ultra Sheer face sunscreen, SPF 60	88 ml	1	tube|#ff8f00|NEUTROGENA|Face SPF 60
+neut_drytouch_60	Household	Neutrogena Ultra Sheer Dry-Touch sunscreen, SPF 60, 88 ml	neutrogena ultra sheer dry-touch sunscreen, spf 60	Neutrogena Ultra Sheer Dry-Touch sunscreen, SPF 60	88 ml	1	tube|#ff8f00|NEUTROGENA|Dry-Touch SPF 60
+lb_sunscreen_50	Household	Life Brand sunscreen lotion, SPF 50+, 237 ml	life brand sunscreen lotion, spf 50+	Life Brand sunscreen lotion, SPF 50+	237 ml	1	bottle|#ffffff|LIFE BRAND|#f57c00
+garnier_sensitive_60	Household	Garnier Complete sunscreen lotion for sensitive skin, SPF 60, 90 ml	garnier complete sunscreen lotion for sensitive skin, spf 60	Garnier Complete sunscreen lotion for sensitive skin, SPF 60	90 ml	1	tube|#ffffff|GARNIER|Sensitive SPF 60
+nivea_lip_essential	Household	Nivea Essential lip balm, twin pack, 2 x 4.8 g	nivea essential lip balm, twin pack	Nivea Essential lip balm, twin pack	2 x 4.8 g	1	tube|#1b2a6b|NIVEA|Lip balm x2
+nivea_lip_hydro	Household	Nivea Hydro Care lip balm, twin pack, 2 x 4.8 g	nivea hydro care lip balm, twin pack	Nivea Hydro Care lip balm, twin pack	2 x 4.8 g	1	tube|#1e88e5|NIVEA|Hydro Care x2
+vaseline_lip_7	Household	Vaseline Lip Therapy, original, 7 g	vaseline lip therapy, original	Vaseline Lip Therapy, original	7 g	1	tub|#1e88e5|#e3f2fd|VASELINE|#0d47a1
+lypsyl_original	Household	Lypsyl lip balm, original, 4.2 g	lypsyl lip balm, original	Lypsyl lip balm, original	4.2 g	1	tube|#c8102e|LYPSYL|Original
+aquaphor_lip	Household	Aquaphor lip repair stick, 4.8 g	aquaphor lip repair stick	Aquaphor lip repair stick	4.8 g	1	tube|#ffffff|AQUAPHOR|Lip repair
+blistex_mint_2pk	Household	Blistex Mint SPF 15 lip balm, twin pack, 8.5 g	blistex mint spf 15 lip balm, twin pack	Blistex Mint SPF 15 lip balm, twin pack	8.5 g	1	tube|#2e7d32|BLISTEX|Mint x2
+green_pepper_kg	Produce	Sweet green peppers, per kg	sweet green peppers	Sweet green peppers	per kg	0	tray|#2e7d32
+orange_pepper_kg	Produce	Greenhouse peppers, orange, per kg	greenhouse peppers, orange	Greenhouse peppers, orange	per kg	0	tray|#f57c00
+yellow_pepper_kg	Produce	Greenhouse peppers, yellow, per kg	greenhouse peppers, yellow	Greenhouse peppers, yellow	per kg	0	tray|#fbc02d
+nn_imperfect_peppers	Produce	No Name Naturally Imperfect mixed sweet peppers, 1.113 kg bag	no name naturally imperfect mixed sweet peppers	No Name Naturally Imperfect mixed sweet peppers	1.113 kg bag	0	pouch|#f2d600|NO NAME|Mixed peppers|#333
+pco_peppers_2pk	Produce	PC Organics peppers, 2-pack, 2 peppers	pc organics peppers, 2-pack	PC Organics peppers, 2-pack	2 peppers	0	tray|#c62828
+pc_seedless_mini	Produce	PC Seedless Sweets mini sweet peppers, 454 g	pc seedless sweets mini sweet peppers	PC Seedless Sweets mini sweet peppers	454 g	0	pouch|#c62828|PC|Mini sweet peppers|#fff
+pc_mini_peppers	Produce	PC mini sweet peppers, 454 g	pc mini sweet peppers	PC mini sweet peppers	454 g	0	pouch|#e65100|PC|Mini peppers|#fff
+fm_mixed_peppers_6	Produce	Farmer's Market mixed peppers, 6 pack, 6 peppers	farmer's market mixed peppers, 6 pack	Farmer's Market mixed peppers, 6 pack	6 peppers	0	tray|#c62828
+pc_pepper_onion	Frozen	PC 3 pepper & onion blend, frozen, 500 g	pc 3 pepper & onion blend, frozen	PC 3 pepper & onion blend, frozen	500 g	0	pouch|#2e7d32|PC|Pepper & onion|#fff
+pc_rrp_dip	Dairy & Eggs	PC roasted red pepper dip, 227 g	pc roasted red pepper dip	PC roasted red pepper dip	227 g	0	tub|#c62828|#fff3e0|PC|#c62828
+nn_imperfect_avocados	Produce	No Name Naturally Imperfect avocados, 998 g bag	no name naturally imperfect avocados	No Name Naturally Imperfect avocados	998 g bag	0	pouch|#f2d600|NO NAME|Avocados|#333
+pco_avocados_3	Produce	PC Organics avocados, bag, 3 avocados	pc organics avocados, bag	PC Organics avocados, bag	3 avocados	0	pouch|#33691e|PC ORGANICS|Avocados|#fff
+caribbean_avocado	Produce	Caribbean avocado (large green), 1 each	caribbean avocado (large green)	Caribbean avocado (large green)	1 each	0	tray|#558b2f
+pc_avocado_chunks	Frozen	PC avocado chunks, frozen, 400 g	pc avocado chunks, frozen	PC avocado chunks, frozen	400 g	0	pouch|#558b2f|PC|Avocado chunks|#fff
+wholly_guac_minis	Dairy & Eggs	Wholly Guacamole minis, 227 g	wholly guacamole minis	Wholly Guacamole minis	227 g	0	tub|#2e7d32|#e8f5e9|WHOLLY|#2e7d32
+pc_chunky_guac	Dairy & Eggs	PC original chunky guacamole, 227 g	pc original chunky guacamole	PC original chunky guacamole	227 g	0	tub|#2e7d32|#e8f5e9|PC|#2e7d32
+pc_guac_425	Dairy & Eggs	PC authentic chunky guacamole, 425 g	pc authentic chunky guacamole	PC authentic chunky guacamole	425 g	0	tub|#1b5e20|#e8f5e9|PC|#1b5e20
+pc_mini_guac	Dairy & Eggs	PC mini authentic guacamole, 228 g	pc mini authentic guacamole	PC mini authentic guacamole	228 g	0	tub|#2e7d32|#e8f5e9|PC|#2e7d32
+eggo_buttermilk	Frozen	Eggo Buttermilk waffles, 280 g	eggo buttermilk waffles	Eggo Buttermilk waffles	280 g	0	box|#f2c500|EGGO|Buttermilk|#c8102e
+mr_noodles_beef	Pantry	Mr. Noodles instant noodles, beef, 85 g	mr. noodles instant noodles, beef	Mr. Noodles instant noodles, beef	85 g	0	pouch|#c8102e|MR. NOODLES|Beef|#f2c500
+shin_ramyun_480	Pantry	Nong Shim Shin Ramyun noodle soup, gourmet spicy, multi-pack, 480 g	nong shim shin ramyun noodle soup, gourmet spicy, multi-pack	Nong Shim Shin Ramyun noodle soup, gourmet spicy, multi-pack	480 g	0	pouch|#c8102e|SHIN RAMYUN|Gourmet spicy|#fff
+mr_mexican_cups	Pantry	Minute Rice Mexican rice cups, 250 g	minute rice mexican rice cups	Minute Rice Mexican rice cups	250 g	0	box|#e65100|MINUTE RICE|Mexican cups
+mr_noodles_veg	Pantry	Mr. Noodles instant noodles, vegetable, 85 g	mr. noodles instant noodles, vegetable	Mr. Noodles instant noodles, vegetable	85 g	0	pouch|#c8102e|MR. NOODLES|Vegetable|#f2c500
+mr_noodles_spicy	Pantry	Mr. Noodles instant noodles, spicy chicken, 85 g	mr. noodles instant noodles, spicy chicken	Mr. Noodles instant noodles, spicy chicken	85 g	0	pouch|#c8102e|MR. NOODLES|Spicy Chicken|#f2c500
+mr_noodles_oriental	Pantry	Mr. Noodles instant noodles, oriental, 85 g	mr. noodles instant noodles, oriental	Mr. Noodles instant noodles, oriental	85 g	0	pouch|#c8102e|MR. NOODLES|Oriental|#f2c500
+mr_noodles_chicken_12	Pantry	Mr. Noodles instant noodles, chicken, 12-pack, 12 x 85 g	mr. noodles instant noodles, chicken, 12-pack	Mr. Noodles instant noodles, chicken, 12-pack	12 x 85 g	0	box|#c8102e|MR. NOODLES|Chicken 12-pack|#f2c500
+mr_noodles_beef_12	Pantry	Mr. Noodles instant noodles, beef, 12-pack, 12 x 85 g	mr. noodles instant noodles, beef, 12-pack	Mr. Noodles instant noodles, beef, 12-pack	12 x 85 g	0	box|#c8102e|MR. NOODLES|Beef 12-pack|#f2c500
+mr_cup_beef	Pantry	Mr. Noodles cup, beef, 64 g	mr. noodles cup, beef	Mr. Noodles cup, beef	64 g	0	tub|#c8102e|#fff|MR. NOODLES|#c8102e
+mr_cup_spicy	Pantry	Mr. Noodles cup, spicy chicken, 64 g	mr. noodles cup, spicy chicken	Mr. Noodles cup, spicy chicken	64 g	0	tub|#c8102e|#fff|MR. NOODLES|#c8102e
+mr_cup_veg	Pantry	Mr. Noodles cup, vegetable, 64 g	mr. noodles cup, vegetable	Mr. Noodles cup, vegetable	64 g	0	tub|#2e7d32|#fff|MR. NOODLES|#2e7d32
+mr_bowl_chicken	Pantry	Mr. Noodles bowl, chicken, 110 g	mr. noodles bowl, chicken	Mr. Noodles bowl, chicken	110 g	0	tub|#c8102e|#fff|MR. NOODLES|#c8102e
+kd_1kg	Pantry	Kraft Dinner Original, 1 kg box, 1 kg	kraft dinner original, 1 kg box	Kraft Dinner Original, 1 kg box	1 kg	0	box|#1d4f91|KRAFT DINNER|1 kg|#f2c500
+kd_sharp_cheddar	Pantry	Kraft Dinner Sharp Cheddar, 175 g	kraft dinner sharp cheddar	Kraft Dinner Sharp Cheddar	175 g	0	box|#1d4f91|KRAFT DINNER|Sharp cheddar|#f2c500
+kd_spirals	Pantry	Kraft Dinner Spirals, 175 g	kraft dinner spirals	Kraft Dinner Spirals	175 g	0	box|#1d4f91|KRAFT DINNER|Spirals|#f2c500
+kd_snack_cup	Pantry	Kraft Dinner Original snack cup, single, 58 g	kraft dinner original snack cup, single	Kraft Dinner Original snack cup, single	58 g	0	tub|#1d4f91|#f2c500|KD|#1d4f91
+kd_mario	Pantry	Kraft Dinner Super Mario shapes, 156 g	kraft dinner super mario shapes	Kraft Dinner Super Mario shapes	156 g	0	box|#c8102e|KRAFT DINNER|Super Mario|#f2c500
+kd_protein	Pantry	Kraft Dinner Protein+ high fibre, 175 g	kraft dinner protein+ high fibre	Kraft Dinner Protein+ high fibre	175 g	0	box|#1d4f91|KRAFT DINNER|Protein+|#f2c500
+stovetop_chicken	Pantry	Stove Top chicken stuffing mix, 120 g	stove top chicken stuffing mix	Stove Top chicken stuffing mix	120 g	0	box|#c8102e|STOVE TOP|Chicken stuffing
+pc_dipped_club	Snacks	PC Dipped & Chewy chocolate chip granola bars, club size, 40 x 31 g	pc dipped & chewy chocolate chip granola bars, club size	PC Dipped & Chewy chocolate chip granola bars, club size	40 x 31 g	1	box|#c8102e|PC|Dipped & Chewy 40
+pc_chewy_club	Snacks	PC Rich & Chewy chocolate chip granola bars, club size, 1.344 kg	pc rich & chewy chocolate chip granola bars, club size	PC Rich & Chewy chocolate chip granola bars, club size	1.344 kg	1	box|#c8102e|PC|Rich & Chewy club
+nv_protein_pbdc	Snacks	Nature Valley protein bars, peanut butter dark chocolate, 4 bars, 148 g	nature valley protein bars, peanut butter dark chocolate	Nature Valley protein bars, peanut butter dark chocolate	4 bars, 148 g	1	box|#2e7d32|NATURE VALLEY|Protein PB choc
+madegood_cc_5	Snacks	MadeGood chocolate chip granola bars, 5 bars, 120 g	madegood chocolate chip granola bars	MadeGood chocolate chip granola bars	5 bars, 120 g	1	box|#f2a900|MADEGOOD|Chocolate chip
+madegood_cc_15	Snacks	MadeGood chocolate chip granola bars, 15 pack, 15 bars, 360 g	madegood chocolate chip granola bars, 15 pack	MadeGood chocolate chip granola bars, 15 pack	15 bars, 360 g	1	box|#f2a900|MADEGOOD|Choc chip 15pk
+kellogg_bars_apple	Snacks	Kellogg's apple cinnamon cereal bars, 8 bars, 295 g	kellogg's apple cinnamon cereal bars	Kellogg's apple cinnamon cereal bars	8 bars, 295 g	1	box|#c8102e|KELLOGG'S|Apple cinnamon
+vector_400	Pantry	Kellogg's Vector meal replacement cereal, 400 g	kellogg's vector meal replacement cereal	Kellogg's Vector meal replacement cereal	400 g	0	box|#1a1a1a|VECTOR|Cereal
+mini_wheats_minis	Pantry	Mini-Wheats Minis original cereal, 430 g	mini-wheats minis original cereal	Mini-Wheats Minis original cereal	430 g	0	box|#1d4f91|MINI-WHEATS|Minis
+frosted_flakes_355	Pantry	Frosted Flakes cereal, regular box, 355 g	frosted flakes cereal, regular box	Frosted Flakes cereal, regular box	355 g	0	box|#1d6fd1|FROSTED FLAKES|355 g
+post_honey_shreddies	Pantry	Post Honey Shreddies cereal, 440 g	post honey shreddies cereal	Post Honey Shreddies cereal	440 g	0	box|#f2a900|SHREDDIES|Honey
+pc_kefir_plain	Dairy & Eggs	PC plain kefir, 1 L	pc plain kefir	PC plain kefir	1 L	0	carton|#1d4f91|PC|Kefir
+pc_lf_vanilla_8	Dairy & Eggs	PC lactose free vanilla probiotic yogurt cups, 8 x 100 g	pc lactose free vanilla probiotic yogurt cups	PC lactose free vanilla probiotic yogurt cups	8 x 100 g	0	tub|#1d4f91|#fff|PC|#1d4f91
+yoplait_tubes_berry	Dairy & Eggs	Yoplait Tubes yogurt, mixed berry, 8 x 56 g	yoplait tubes yogurt, mixed berry	Yoplait Tubes yogurt, mixed berry	8 x 56 g	0	box|#1e88e5|YOPLAIT|Tubes berry
+iogo_nano_straw	Dairy & Eggs	iÖGO Nanö strawberry drinkable yogurt, 6 x 93 ml	iögo nanö strawberry drinkable yogurt	iÖGO Nanö strawberry drinkable yogurt	6 x 93 ml	0	box|#e91e63|IOGO|Nanö
+oikos_pro_plain	Dairy & Eggs	Oikos Pro high protein yogurt, plain, 650 g	oikos pro high protein yogurt, plain	Oikos Pro high protein yogurt, plain	650 g	0	tub|#1a1a1a|#fff|OIKOS PRO|#1a1a1a
+oikos_pro_vanilla	Dairy & Eggs	Oikos Pro high protein yogurt, vanilla, 650 g	oikos pro high protein yogurt, vanilla	Oikos Pro high protein yogurt, vanilla	650 g	0	tub|#1a1a1a|#fff8e1|OIKOS PRO|#1a1a1a
+oikos_plain_0_650	Dairy & Eggs	Oikos 0% Greek yogurt, plain, high protein, 650 g	oikos 0% greek yogurt, plain, high protein	Oikos 0% Greek yogurt, plain, high protein	650 g	0	tub|#1d4f91|#fff|OIKOS|#1d4f91
+oikos_vanilla_4	Dairy & Eggs	Oikos Greek yogurt cups, vanilla, 4 x 100 g	oikos greek yogurt cups, vanilla	Oikos Greek yogurt cups, vanilla	4 x 100 g	0	tub|#1d4f91|#fff|OIKOS|#1d4f91
+oikos_peach_4	Dairy & Eggs	Oikos Greek yogurt cups, peach-mango, 4 x 100 g	oikos greek yogurt cups, peach-mango	Oikos Greek yogurt cups, peach-mango	4 x 100 g	0	tub|#1d4f91|#fff|OIKOS|#1d4f91
+oikos_keylime_4	Dairy & Eggs	Oikos Greek yogurt cups, key lime, 4 x 100 g	oikos greek yogurt cups, key lime	Oikos Greek yogurt cups, key lime	4 x 100 g	0	tub|#1d4f91|#fff|OIKOS|#1d4f91
+pc_greek_club_0	Dairy & Eggs	PC plain Greek yogurt 0%, club size, 1 kg	pc plain greek yogurt 0%, club size	PC plain Greek yogurt 0%, club size	1 kg	0	tub|#1d4f91|#fff|PC GREEK|#1d4f91
+pc_greek_club_2	Dairy & Eggs	PC plain Greek yogurt 2%, club size, 1 kg	pc plain greek yogurt 2%, club size	PC plain Greek yogurt 2%, club size	1 kg	0	tub|#1d4f91|#fff|PC GREEK|#1d4f91
+pc_greek_vanilla	Dairy & Eggs	PC vanilla Greek yogurt 0%, 750 g	pc vanilla greek yogurt 0%	PC vanilla Greek yogurt 0%	750 g	0	tub|#1d4f91|#fff8e1|PC GREEK|#1d4f91
+breyers_natural_van	Frozen	Breyers natural vanilla ice cream, 1.41 L	breyers natural vanilla ice cream	Breyers natural vanilla ice cream	1.41 L	0	tub|#5d4037|#fff8e1|BREYERS|#5d4037
+breyers_rocky_road	Frozen	Breyers rocky road ice cream, 1.41 L	breyers rocky road ice cream	Breyers rocky road ice cream	1.41 L	0	tub|#5d4037|#d7ccc8|BREYERS|#5d4037
+pc_caramel_treats	Frozen	PC Loads of Chocolatey Caramel Treats light ice cream, 1.5 L	pc loads of chocolatey caramel treats light ice cream	PC Loads of Chocolatey Caramel Treats light ice cream	1.5 L	0	tub|#c8102e|#d7ccc8|PC|#5d4037
+frutee_bars	Frozen	Frutee frozen dessert bars, variety pack, 270 ml	frutee frozen dessert bars, variety pack	Frutee frozen dessert bars, variety pack	270 ml	1	box|#e91e63|FRUTEE|Variety bars
+ristorante_4cheese	Frozen	Dr. Oetker Ristorante 4 cheese pizza, 340 g	dr. oetker ristorante 4 cheese pizza	Dr. Oetker Ristorante 4 cheese pizza	340 g	0	box|#1a1a1a|RISTORANTE|4 cheese
+ristorante_spinach	Frozen	Dr. Oetker Ristorante spinach pizza, 390 g	dr. oetker ristorante spinach pizza	Dr. Oetker Ristorante spinach pizza	390 g	0	box|#1a1a1a|RISTORANTE|Spinach
+pizza_pops_pepperoni	Frozen	Pizza Pops, pepperoni, 4 x 95 g	pizza pops, pepperoni	Pizza Pops, pepperoni	4 x 95 g	0	box|#c8102e|PIZZA POPS|Pepperoni
+oreo_white_fudge	Snacks	Oreo white fudge covered cookies, 240 g	oreo white fudge covered cookies	Oreo white fudge covered cookies	240 g	0	box|#1d4f91|OREO|White fudge
+oreo_mini_golden_150	Snacks	Oreo Mini Golden snack packs, 6 x 25 g	oreo mini golden snack packs	Oreo Mini Golden snack packs	6 x 25 g	0	box|#f2a900|OREO MINI|Golden
+oreo_mini_golden_200	Snacks	Oreo Mini Golden cookies, resealable bag, 200 g	oreo mini golden cookies, resealable bag	Oreo Mini Golden cookies, resealable bag	200 g	0	pouch|#f2a900|OREO MINI|Golden|#1d4f91
+ca_family	Snacks	Chips Ahoy! original cookies, family size, 460 g	chips ahoy! original cookies, family size	Chips Ahoy! original cookies, family size	460 g	0	box|#1d4f91|CHIPS AHOY!|Family size
+ca_mini_200	Snacks	Chips Ahoy! mini cookies, resealable bag, 200 g	chips ahoy! mini cookies, resealable bag	Chips Ahoy! mini cookies, resealable bag	200 g	0	pouch|#1d4f91|CHIPS AHOY!|Mini|#fff
+ca_mini_rainbow_200	Snacks	Chips Ahoy! mini rainbow cookies, resealable bag, 200 g	chips ahoy! mini rainbow cookies, resealable bag	Chips Ahoy! mini rainbow cookies, resealable bag	200 g	0	pouch|#7b1fa2|CHIPS AHOY!|Mini rainbow|#fff
+ca_chewy	Snacks	Chips Ahoy! chewy cookies, 271 g	chips ahoy! chewy cookies	Chips Ahoy! chewy cookies	271 g	0	box|#c8102e|CHIPS AHOY!|Chewy
+ca_chewy_family	Snacks	Chips Ahoy! chewy cookies, family size, 453 g	chips ahoy! chewy cookies, family size	Chips Ahoy! chewy cookies, family size	453 g	0	box|#c8102e|CHIPS AHOY!|Chewy family
+ca_rainbow_258	Snacks	Chips Ahoy! rainbow cookies, 258 g	chips ahoy! rainbow cookies	Chips Ahoy! rainbow cookies	258 g	0	box|#7b1fa2|CHIPS AHOY!|Rainbow
+ca_triple_choc	Snacks	Chips Ahoy! triple chocolate chunks cookies, 251 g	chips ahoy! triple chocolate chunks cookies	Chips Ahoy! triple chocolate chunks cookies	251 g	0	box|#4e342e|CHIPS AHOY!|Triple chocolate
+ca_caramilk	Snacks	Chips Ahoy! Caramilk cookies, 253 g	chips ahoy! caramilk cookies	Chips Ahoy! Caramilk cookies	253 g	0	box|#6a1b9a|CHIPS AHOY!|Caramilk
+yellow_onion_10lb	Produce	Farmer's Market yellow onions, 10 lb bag, 4.54 kg	farmer's market yellow onions, 10 lb bag	Farmer's Market yellow onions, 10 lb bag	4.54 kg	0	pouch|#c9a227|ONIONS|Yellow 10 lb|#333
+red_onion_3lb	Produce	Farmer's Market red onions, 3 lb bag, 1.36 kg	farmer's market red onions, 3 lb bag	Farmer's Market red onions, 3 lb bag	1.36 kg	0	pouch|#7b1f3a|ONIONS|Red 3 lb|#fff
+red_onion_10lb	Produce	Farmer's Market red onions, 10 lb bag, 4.54 kg	farmer's market red onions, 10 lb bag	Farmer's Market red onions, 10 lb bag	4.54 kg	0	pouch|#7b1f3a|ONIONS|Red 10 lb|#fff
+red_onion_kg	Produce	Red onion, loose, per kg	red onion, loose	Red onion, loose	per kg	0	tray|#7b1f3a
+white_onion_kg	Produce	White onion, loose, per kg	white onion, loose	White onion, loose	per kg	0	tray|#efe9dc
+yellow_onion_kg	Produce	Yellow onion, loose, per kg	yellow onion, loose	Yellow onion, loose	per kg	0	tray|#c9a227
+sweet_onion_kg	Produce	Sweet onion, loose, per kg	sweet onion, loose	Sweet onion, loose	per kg	0	tray|#e0c068
+green_onion	Produce	Green onions, bunch, 1 bunch	green onions, bunch	Green onions, bunch	1 bunch	0	tray|#4caf50
+sweet_onion_3lb	Produce	Sweet onions, 3 lb bag, 1.36 kg	sweet onions, 3 lb bag	Sweet onions, 3 lb bag	1.36 kg	0	pouch|#e0c068|ONIONS|Sweet 3 lb|#333
+pco_yellow_onion	Produce	PC Organics yellow onions, 2 lb bag, 907 g	pc organics yellow onions, 2 lb bag	PC Organics yellow onions, 2 lb bag	907 g	0	pouch|#33691e|PC ORGANICS|Yellow onions|#fff
+yellow_potato_10lb	Produce	Farmer's Market yellow potatoes, 10 lb bag, 4.54 kg	farmer's market yellow potatoes, 10 lb bag	Farmer's Market yellow potatoes, 10 lb bag	4.54 kg	0	pouch|#c9a227|POTATOES|Yellow 10 lb|#333
+russet_potato_10lb	Produce	Farmer's Market russet potatoes, 10 lb bag, 4.54 kg	farmer's market russet potatoes, 10 lb bag	Farmer's Market russet potatoes, 10 lb bag	4.54 kg	0	pouch|#8d6e63|POTATOES|Russet 10 lb|#fff
+pc_yellow_mini_pot	Produce	PC yellow mini potatoes, 680 g	pc yellow mini potatoes	PC yellow mini potatoes	680 g	0	pouch|#c9a227|PC|Mini potatoes|#333
+pc_yellow_pot_5lb	Produce	PC yellow potatoes, 5 lb bag, 2.268 kg	pc yellow potatoes, 5 lb bag	PC yellow potatoes, 5 lb bag	2.268 kg	0	pouch|#c9a227|PC|Yellow 5 lb|#333
+pc_wedges	Frozen	PC Sous-Chef Sides crispy wedges, 400 g	pc sous-chef sides crispy wedges	PC Sous-Chef Sides crispy wedges	400 g	0	box|#1a1a1a|PC SOUS-CHEF|Crispy wedges
+pc_baby_pot_thyme	Frozen	PC Sous-Chef Sides butter & thyme baby potatoes, 400 g	pc sous-chef sides butter & thyme baby potatoes	PC Sous-Chef Sides butter & thyme baby potatoes	400 g	0	box|#1a1a1a|PC SOUS-CHEF|Baby potatoes
+mccain_smiles	Frozen	McCain Smiles potato faces, 650 g	mccain smiles potato faces	McCain Smiles potato faces	650 g	0	pouch|#f2c500|McCAIN|Smiles|#c8102e
+pc_baby_carrots	Produce	PC whole baby carrots, 500 g	pc whole baby carrots	PC whole baby carrots	500 g	0	pouch|#ef6c00|PC|Baby carrots|#fff
+mini_carrots_2lb	Produce	Mini carrots, 2 lb bag, 907 g	mini carrots, 2 lb bag	Mini carrots, 2 lb bag	907 g	0	pouch|#ef6c00|MINI CARROTS|2 lb|#fff
+mini_carrots_340	Produce	Mini carrots, 340 g	mini carrots	Mini carrots	340 g	0	pouch|#ef6c00|MINI CARROTS|340 g|#fff
+pco_carrots_2lb	Produce	PC Organics carrots, 2 lb bag, 907 g	pc organics carrots, 2 lb bag	PC Organics carrots, 2 lb bag	907 g	0	pouch|#33691e|PC ORGANICS|Carrots|#fff
+carrots_kg	Produce	Carrots, loose, per kg	carrots, loose	Carrots, loose	per kg	0	tray|#ef6c00
+nantes_carrots	Produce	Sweet Nantes carrots, 454 g	sweet nantes carrots	Sweet Nantes carrots	454 g	0	pouch|#ef6c00|NANTES|Carrots|#fff
+carrots_bunched	Produce	Carrots, bunched, 1 bunch	carrots, bunched	Carrots, bunched	1 bunch	0	tray|#ef6c00
+matchstick_carrots	Produce	Matchstick carrots, 283 g	matchstick carrots	Matchstick carrots	283 g	0	pouch|#ef6c00|CARROTS|Matchstick|#fff
+nn_imperfect_carrots	Produce	No Name Naturally Imperfect carrots, 2.27 kg	no name naturally imperfect carrots	No Name Naturally Imperfect carrots	2.27 kg	0	pouch|#f2d600|NO NAME|Carrots|#333
+chinese_carrots_kg	Produce	Chinese carrots, jumbo, per kg	chinese carrots, jumbo	Chinese carrots, jumbo	per kg	0	tray|#e65100
+broccoli_bunch	Produce	Broccoli, bunch, 1 each	broccoli, bunch	Broccoli, bunch	1 each	0	tray|#2e7d32
+broccoli_crown_ea	Produce	Broccoli crown, 1 each	broccoli crown	Broccoli crown	1 each	0	tray|#388e3c
+pc_florets_340	Produce	PC broccoli florets, fresh, 340 g	pc broccoli florets, fresh	PC broccoli florets, fresh	340 g	0	pouch|#2e7d32|PC|Broccoli florets|#fff
+pc_florets_907	Produce	PC broccoli florets, fresh, large, 907 g	pc broccoli florets, fresh, large	PC broccoli florets, fresh, large	907 g	0	pouch|#2e7d32|PC|Florets 907 g|#fff
+pc_broc_frz_club	Frozen	PC frozen broccoli florets, club size, 1.75 kg	pc frozen broccoli florets, club size	PC frozen broccoli florets, club size	1.75 kg	0	pouch|#2e7d32|PC|Broccoli club|#fff
+pco_broccoli	Produce	PC Organics broccoli, 1 each	pc organics broccoli	PC Organics broccoli	1 each	0	tray|#33691e
+pco_broc_frz	Frozen	PC Organics frozen broccoli florets, 500 g	pc organics frozen broccoli florets	PC Organics frozen broccoli florets	500 g	0	pouch|#33691e|PC ORGANICS|Broccoli|#fff
+gg_cut_broccoli	Frozen	Green Giant Valley Selections cut broccoli, 500 g	green giant valley selections cut broccoli	Green Giant Valley Selections cut broccoli	500 g	0	pouch|#2e7d32|GREEN GIANT|Cut broccoli|#fff
+nn_california_750	Frozen	No Name California blend vegetables, 750 g	no name california blend vegetables	No Name California blend vegetables	750 g	0	pouch|#f2d600|NO NAME|California blend|#333
+pc_veg_medley	Produce	PC vegetable medley, 340 g	pc vegetable medley	PC vegetable medley	340 g	0	pouch|#2e7d32|PC|Veg medley|#fff
+tf_broccoli_crunch	Produce	Taylor Farms Broccoli Crunch chopped salad kit, 360 g	taylor farms broccoli crunch chopped salad kit	Taylor Farms Broccoli Crunch chopped salad kit	360 g	0	pouch|#2e7d32|TAYLOR FARMS|Broccoli Crunch|#fff
+tf_buffalo_ranch	Produce	Taylor Farms Buffalo Ranch chopped salad kit, 383 g	taylor farms buffalo ranch chopped salad kit	Taylor Farms Buffalo Ranch chopped salad kit	383 g	0	pouch|#c62828|TAYLOR FARMS|Buffalo Ranch|#fff
+broccolini	Produce	Broccolini, 1 bunch	broccolini	Broccolini	1 bunch	0	tray|#2e7d32
+goodleaf_micro_broc	Produce	GoodLeaf micro broccoli, 50 g	goodleaf micro broccoli	GoodLeaf micro broccoli	50 g	0	tub|#2e7d32|#e8f5e9|GOODLEAF|#2e7d32
+tetley_72	Drinks	Tetley orange pekoe tea, 72 bags	tetley orange pekoe tea	Tetley orange pekoe tea	72 bags	0	box|#c8102e|TETLEY|Orange pekoe 72
+pc_tea_lemon_ginger	Drinks	PC lemon ginger herbal tea, 20 bags	pc lemon ginger herbal tea	PC lemon ginger herbal tea	20 bags	0	box|#5a8f29|PC|Lemon Ginger
+pc_tea_mint	Drinks	PC mint refresher herbal tea, 20 bags	pc mint refresher herbal tea	PC mint refresher herbal tea	20 bags	0	box|#5a8f29|PC|Mint Refresher
+pc_tea_ginger_peach	Drinks	PC ginger peach herbal tea, 20 bags	pc ginger peach herbal tea	PC ginger peach herbal tea	20 bags	0	box|#ef6c00|PC|Ginger peach
+twinings_chai_20	Drinks	Twinings chai tea, 20 bags	twinings chai tea	Twinings chai tea	20 bags	0	box|#5d4037|TWININGS|Chai
+simply_mango_pine	Drinks	Simply mango pineapple juice drink, 1.54 L	simply mango pineapple juice drink	Simply mango pineapple juice drink	1.54 L	1	bottle|#ffb300|SIMPLY|#2e7d32|1
+simply_punch	Drinks	Simply fruit punch juice drink, 1.54 L	simply fruit punch juice drink	Simply fruit punch juice drink	1.54 L	1	bottle|#c62828|SIMPLY|#2e7d32|1
+simply_apple	Drinks	Simply apple juice, 1.54 L	simply apple juice	Simply apple juice	1.54 L	0	bottle|#f9a825|SIMPLY|#2e7d32|1
+oasis_mango	Drinks	Oasis exotic mango juice, 960 ml	oasis exotic mango juice	Oasis exotic mango juice	960 ml	0	carton|#ffb300|OASIS|Mango
+allens_peach_1l	Drinks	Allen's peach cocktail, 1 L	allen's peach cocktail	Allen's peach cocktail	1 L	0	carton|#ffab91|ALLEN'S|Peach
+allens_punch_1l	Drinks	Allen's fruit punch cocktail, 1 L	allen's fruit punch cocktail	Allen's fruit punch cocktail	1 L	0	carton|#c62828|ALLEN'S|Fruit punch
+kiju_mango_orange	Drinks	Kiju mango orange juice, 1 L	kiju mango orange juice	Kiju mango orange juice	1 L	0	carton|#ff8f00|KIJU|Mango orange
+kiju_boxes_mo	Drinks	Kiju mango orange juice boxes, 4 x 200 ml	kiju mango orange juice boxes	Kiju mango orange juice boxes	4 x 200 ml	0	box|#ff8f00|KIJU|Juice boxes
+nn_coffee_med	Drinks	No Name medium roast ground coffee, 907 g	no name medium roast ground coffee	No Name medium roast ground coffee	907 g	0	can|#f2d600|NO NAME|Medium roast
+pc_westcoast_dark	Drinks	PC Gourmet West Coast dark roast coffee, 875 g	pc gourmet west coast dark roast coffee	PC Gourmet West Coast dark roast coffee	875 g	0	can|#1a1a1a|PC GOURMET|West Coast dark
+maxwell_breakfast	Drinks	Maxwell House breakfast blend ground coffee, 900 g	maxwell house breakfast blend ground coffee	Maxwell House breakfast blend ground coffee	900 g	0	can|#1d4f91|MAXWELL HOUSE|Breakfast blend
+kh_three_sisters	Drinks	Kicking Horse Three Sisters medium roast ground coffee, 284 g	kicking horse three sisters medium roast ground coffee	Kicking Horse Three Sisters medium roast ground coffee	284 g	0	pouch|#5d4037|KICKING HORSE|Three Sisters|#fff
+sb_crema_vanilla	Drinks	Starbucks Crema Collection Madagascar vanilla instant coffee mix, 202 g	starbucks crema collection madagascar vanilla instant coffee mix	Starbucks Crema Collection Madagascar vanilla instant coffee mix	202 g	0	box|#00704a|STARBUCKS|Vanilla crema
+pc_lemon_garlic_vin	Pantry	PC lemon garlic vinaigrette, 350 ml	pc lemon garlic vinaigrette	PC lemon garlic vinaigrette	350 ml	0	bottle|#f9e79f|PC|#2e7d32
+kraft_honey_shallot	Pantry	Kraft honey & shallots dressing & marinade, 355 ml	kraft honey & shallots dressing & marinade	Kraft honey & shallots dressing & marinade	355 ml	0	bottle|#e0a030|KRAFT|#1d4f91
+nn_ranch	Pantry	No Name ranch dressing, 475 ml	no name ranch dressing	No Name ranch dressing	475 ml	0	bottle|#f2d600|NO NAME|#333
+faita_marinara	Pantry	Stefano Faita marinara pasta sauce, 648 ml	stefano faita marinara pasta sauce	Stefano Faita marinara pasta sauce	648 ml	0	jar|#c8102e|#b71c1c|FAITA|#fff|#c8102e
+faita_tomato_basil	Pantry	Stefano Faita tomato basil pasta sauce, 648 ml	stefano faita tomato basil pasta sauce	Stefano Faita tomato basil pasta sauce	648 ml	0	jar|#2e7d32|#b71c1c|FAITA|#fff|#2e7d32
+classico_alfredo_garlic	Pantry	Classico Alfredo & roasted garlic sauce, 410 ml	classico alfredo & roasted garlic sauce	Classico Alfredo & roasted garlic sauce	410 ml	0	jar|#1a1a1a|#f5f0e6|CLASSICO|#fff|#1a1a1a
+pc_sweet_basil_sauce	Pantry	PC sweet basil pasta sauce, 600 ml	pc sweet basil pasta sauce	PC sweet basil pasta sauce	600 ml	0	jar|#2e7d32|#b71c1c|PC|#fff|#2e7d32
+franks_buffalo_354	Pantry	Frank's RedHot Buffalo Wings sauce, 354 ml	frank's redhot buffalo wings sauce	Frank's RedHot Buffalo Wings sauce	354 ml	0	bottle|#c8102e|FRANK'S|#fff|1
+huy_fong_sriracha	Pantry	Huy Fong sriracha hot chili sauce, 714 ml	huy fong sriracha hot chili sauce	Huy Fong sriracha hot chili sauce	714 ml	0	bottle|#c62828|SRIRACHA|#2e7d32|1
+bloom_apple	Drinks	BLOOM Crisp Apple energy drink, 355 ml	bloom crisp apple energy drink	BLOOM Crisp Apple energy drink	355 ml	1	can|#7cb342|BLOOM|Crisp apple
+celsius_shirley	Drinks	Celsius Shirley Temple energy drink, 355 ml	celsius shirley temple energy drink	Celsius Shirley Temple energy drink	355 ml	1	can|#e53935|CELSIUS|Shirley Temple
+rb_white_peach_4	Drinks	Red Bull White Peach, 4 pack, 4 x 250 ml	red bull white peach, 4 pack	Red Bull White Peach, 4 pack	4 x 250 ml	1	cans|#f8bbd0|RED BULL|White peach 4-pack
+rb_sugarfree_4	Drinks	Red Bull Sugarfree, 4 pack, 4 x 250 ml	red bull sugarfree, 4 pack	Red Bull Sugarfree, 4 pack	4 x 250 ml	1	cans|#90caf9|RED BULL|Sugarfree 4-pack
+rb_variety_8	Drinks	Red Bull variety pack, 8 pack, 8 x 250 ml	red bull variety pack, 8 pack	Red Bull variety pack, 8 pack	8 x 250 ml	1	cans|#1d4f91|RED BULL|Variety 8-pack
+rb_sugarfree_8	Drinks	Red Bull Sugarfree, 8 pack, 8 x 250 ml	red bull sugarfree, 8 pack	Red Bull Sugarfree, 8 pack	8 x 250 ml	1	cans|#90caf9|RED BULL|Sugarfree 8-pack
+rb_fuji_apple	Drinks	Red Bull Fuji Apple & Ginger edition, 250 ml	red bull fuji apple & ginger edition	Red Bull Fuji Apple & Ginger edition	250 ml	1	can|#c62828|RED BULL|Fuji apple
+pcbm_rasp_hibiscus	Drinks	PC Blue Menu sparkling water, raspberry hibiscus, 12 pack, 12 x 355 ml	pc blue menu sparkling water, raspberry hibiscus, 12 pack	PC Blue Menu sparkling water, raspberry hibiscus, 12 pack	12 x 355 ml	1	cans|#1d4f91|PC BLUE MENU|Raspberry Hibiscus
+pcbm_calamansi	Drinks	PC Blue Menu sparkling water, calamansi citrus and strawberry, 12 pack, 12 x 355 ml	pc blue menu sparkling water, calamansi citrus and strawberry, 12 pack	PC Blue Menu sparkling water, calamansi citrus and strawberry, 12 pack	12 x 355 ml	1	cans|#1d4f91|PC BLUE MENU|Calamansi Citrus
+pcbm_mandarin	Drinks	PC Blue Menu sparkling water, mandarin orange, 12 pack, 12 x 355 ml	pc blue menu sparkling water, mandarin orange, 12 pack	PC Blue Menu sparkling water, mandarin orange, 12 pack	12 x 355 ml	1	cans|#1d4f91|PC BLUE MENU|Mandarin Orange
+pcbm_lime	Drinks	PC Blue Menu sparkling water, lime, 12 pack, 12 x 355 ml	pc blue menu sparkling water, lime, 12 pack	PC Blue Menu sparkling water, lime, 12 pack	12 x 355 ml	1	cans|#1d4f91|PC BLUE MENU|Lime
+pcbm_passion_guava	Drinks	PC Blue Menu sparkling water, passionfruit guava, 12 pack, 12 x 355 ml	pc blue menu sparkling water, passionfruit guava, 12 pack	PC Blue Menu sparkling water, passionfruit guava, 12 pack	12 x 355 ml	1	cans|#1d4f91|PC BLUE MENU|Passionfruit Guava
+aha_blueberry_pom	Drinks	AHA blueberry pomegranate sparkling water, 12 pack, 12 x 355 ml	aha blueberry pomegranate sparkling water, 12 pack	AHA blueberry pomegranate sparkling water, 12 pack	12 x 355 ml	1	cans|#5e35b1|AHA|Blueberry pom
+mperrier_grapefruit_1l	Drinks	Maison Perrier Forever grapefruit sparkling water, 1 L	maison perrier forever grapefruit sparkling water	Maison Perrier Forever grapefruit sparkling water	1 L	1	bottle|#f48fb1|PERRIER|#2e7d32|1
+pco_baby_spinach_142	Produce	PC Organics baby spinach, 142 g	pc organics baby spinach	PC Organics baby spinach	142 g	0	tub|#33691e|#e8f5e9|PC ORGANICS|#33691e
+pco_baby_spinach_312	Produce	PC Organics baby spinach, large, 312 g	pc organics baby spinach, large	PC Organics baby spinach, large	312 g	0	tub|#33691e|#e8f5e9|PC ORGANICS|#33691e
+pc_baby_spinach_312	Produce	PC baby spinach, large, 312 g	pc baby spinach, large	PC baby spinach, large	312 g	0	tub|#2e7d32|#e8f5e9|PC|#2e7d32
+pc_arugula_spinach	Produce	PC baby arugula & spinach blend, 142 g	pc baby arugula & spinach blend	PC baby arugula & spinach blend	142 g	0	tub|#2e7d32|#e8f5e9|PC|#2e7d32
+fm_spinach_1134	Produce	Farmer's Market spinach, big bag, 1.134 kg	farmer's market spinach, big bag	Farmer's Market spinach, big bag	1.134 kg	0	pouch|#2e7d32|SPINACH|1.134 kg|#fff
+fm_spinach_283	Produce	Farmer's Market spinach, 283 g	farmer's market spinach	Farmer's Market spinach	283 g	0	pouch|#2e7d32|SPINACH|283 g|#fff
+cooking_spinach	Produce	Cooking spinach, 227 g	cooking spinach	Cooking spinach	227 g	0	pouch|#2e7d32|SPINACH|Cooking|#fff
+spinach_bunch	Produce	Spinach, bunch, 1 bunch	spinach, bunch	Spinach, bunch	1 bunch	0	tray|#2e7d32
+romaine_ea	Produce	Romaine lettuce, 1 each	romaine lettuce	Romaine lettuce	1 each	0	tray|#43a047
+green_leaf_ea	Produce	Green leaf lettuce, 1 each	green leaf lettuce	Green leaf lettuce	1 each	0	tray|#66bb6a
+romaine_hearts_3	Produce	Romaine hearts, 3 pack, 3 each	romaine hearts, 3 pack	Romaine hearts, 3 pack	3 each	0	pouch|#43a047|ROMAINE|Hearts 3 pack|#fff
+pc_live_lettuce_trio	Produce	PC live lettuce trio, 350 g	pc live lettuce trio	PC live lettuce trio	350 g	0	tub|#2e7d32|#e8f5e9|PC|#2e7d32
+fa_caesar_kit	Produce	Fresh Attitude Caesar salad kit with toppings, 171 g	fresh attitude caesar salad kit with toppings	Fresh Attitude Caesar salad kit with toppings	171 g	0	pouch|#1b5e20|FRESH ATTITUDE|Caesar kit|#fff
+goodleaf_micro_arugula	Produce	GoodLeaf micro arugula, 50 g	goodleaf micro arugula	GoodLeaf micro arugula	50 g	0	tub|#2e7d32|#e8f5e9|GOODLEAF|#2e7d32
+goodleaf_rainbow	Produce	GoodLeaf microgreens rainbow mix, 50 g	goodleaf microgreens rainbow mix	GoodLeaf microgreens rainbow mix	50 g	0	tub|#2e7d32|#e8f5e9|GOODLEAF|#2e7d32
+heinz_garlic_mayo	Pantry	Heinz garlic mayonnaise-style sauce, 340 ml	heinz garlic mayonnaise-style sauce	Heinz garlic mayonnaise-style sauce	340 ml	0	bottle|#f5f0e1|HEINZ|#c8102e|1
+heinz_pickle_mayo	Pantry	Heinz pickle mayonnaise-style sauce, 340 ml	heinz pickle mayonnaise-style sauce	Heinz pickle mayonnaise-style sauce	340 ml	0	bottle|#dcedc8|HEINZ|#c8102e|1
+roma_tomato_kg	Produce	Roma tomatoes, loose, per kg	roma tomatoes, loose	Roma tomatoes, loose	per kg	0	tray|#e53935
+beefsteak_tomato_kg	Produce	Beefsteak tomatoes, loose, per kg	beefsteak tomatoes, loose	Beefsteak tomatoes, loose	per kg	0	tray|#c62828
+pc_bistro_cocktail	Produce	PC Bistro cocktail tomatoes on the vine, 454 g	pc bistro cocktail tomatoes on the vine	PC Bistro cocktail tomatoes on the vine	454 g	0	tub|#c62828|#ffebee|PC|#c62828
+pc_balancia	Produce	PC Balancia mid-size tomatoes on the vine, 454 g	pc balancia mid-size tomatoes on the vine	PC Balancia mid-size tomatoes on the vine	454 g	0	tub|#c62828|#ffebee|PC|#c62828
+fm_grape_tomatoes	Produce	Farmer's Market grape tomatoes, 283 g	farmer's market grape tomatoes	Farmer's Market grape tomatoes	283 g	0	tub|#e53935|#ffebee|GRAPE|#c62828
+pc_little_beauts	Produce	PC Little Beauts tomato variety pack, 567 g	pc little beauts tomato variety pack	PC Little Beauts tomato variety pack	567 g	0	tub|#ef6c00|#fff3e0|PC|#c62828
+pc_axiany	Produce	PC Axiany cherry tomatoes, 567 g	pc axiany cherry tomatoes	PC Axiany cherry tomatoes	567 g	0	tub|#c62828|#ffebee|PC|#c62828
+pc_mixiany	Produce	PC Mixiany cherry tomatoes, 340 g	pc mixiany cherry tomatoes	PC Mixiany cherry tomatoes	340 g	0	tub|#ef6c00|#fff3e0|PC|#c62828
+nn_imperfect_tomatoes	Produce	No Name Naturally Imperfect tomatoes, 1.13 kg	no name naturally imperfect tomatoes	No Name Naturally Imperfect tomatoes	1.13 kg	0	pouch|#f2d600|NO NAME|Tomatoes|#333
+unico_diced	Pantry	Unico diced tomatoes, 796 ml	unico diced tomatoes	Unico diced tomatoes	796 ml	0	can|#c62828|UNICO|Diced tomatoes
+fm_mini_cucumbers	Produce	Farmer's Market mini cucumbers, 6 pack, 6 each	farmer's market mini cucumbers, 6 pack	Farmer's Market mini cucumbers, 6 pack	6 each	0	pouch|#2e7d32|MINI CUKES|6 pack|#fff
+fm_english_cuke_3	Produce	Farmer's Market English cucumbers, 3 pack, 3 each	farmer's market english cucumbers, 3 pack	Farmer's Market English cucumbers, 3 pack	3 each	0	pouch|#2e7d32|ENGLISH CUKES|3 pack|#fff
+nn_imperfect_mini_cukes	Produce	No Name Naturally Imperfect mini cucumbers, 907 g	no name naturally imperfect mini cucumbers	No Name Naturally Imperfect mini cucumbers	907 g	0	pouch|#f2d600|NO NAME|Mini cucumbers|#333
+nn_imperfect_english_cukes	Produce	No Name Naturally Imperfect English cucumbers, 3 lb bag, 1.36 kg	no name naturally imperfect english cucumbers, 3 lb bag	No Name Naturally Imperfect English cucumbers, 3 lb bag	1.36 kg	0	pouch|#f2d600|NO NAME|English cukes|#333
+pco_mini_cukes	Produce	PC Organics mini cucumbers, 342 g	pc organics mini cucumbers	PC Organics mini cucumbers	342 g	0	pouch|#33691e|PC ORGANICS|Mini cucumbers|#fff
+field_cucumber	Produce	Field cucumber, 1 each	field cucumber	Field cucumber	1 each	0	tray|#388e3c
+organic_english_cuke	Produce	Organic English cucumber, 1 each	organic english cucumber	Organic English cucumber	1 each	0	tray|#2e7d32
+pc_tzatziki_454	Dairy & Eggs	PC traditional tzatziki yogurt dip, 454 g	pc traditional tzatziki yogurt dip	PC traditional tzatziki yogurt dip	454 g	0	tub|#1565c0|#e3f2fd|PC|#1565c0
+nn_baby_dills	Pantry	No Name baby dill pickles, 1 L	no name baby dill pickles	No Name baby dill pickles	1 L	0	jar|#f2d600|#7cb342|NO NAME|#f2d600|#333
+colossal_garlic_kg	Produce	Colossal fresh garlic, loose, per kg	colossal fresh garlic, loose	Colossal fresh garlic, loose	per kg	0	tray|#efe9dc
+garlic_bulbs_1kg	Produce	Garlic bulbs, 1 kg bag, 1 kg	garlic bulbs, 1 kg bag	Garlic bulbs, 1 kg bag	1 kg	0	pouch|#efe9dc|GARLIC|1 kg|#333
+pco_garlic	Produce	PC Organics garlic, 115 g	pc organics garlic	PC Organics garlic	115 g	0	pouch|#33691e|PC ORGANICS|Garlic|#fff
+peeled_garlic_250	Produce	Peeled garlic, 250 g	peeled garlic	Peeled garlic	250 g	0	tub|#efe9dc|#fafafa|GARLIC|#555
+ontario_garlic	Produce	Heirloom Ontario garlic, 115 g	heirloom ontario garlic	Heirloom Ontario garlic	115 g	0	pouch|#efe9dc|ONTARIO|Garlic|#333
+nn_chopped_garlic	Pantry	No Name chopped garlic, 250 g	no name chopped garlic	No Name chopped garlic	250 g	0	jar|#f2d600|#efe9dc|NO NAME|#f2d600|#333
+nn_chopped_garlic_1kg	Pantry	No Name chopped garlic, club size, 1 kg	no name chopped garlic, club size	No Name chopped garlic, club size	1 kg	0	jar|#f2d600|#efe9dc|NO NAME|#f2d600|#333
+derlea_minced_garlic	Pantry	Derlea minced garlic, 250 g	derlea minced garlic	Derlea minced garlic	250 g	0	jar|#2e7d32|#efe9dc|DERLEA|#fff|#2e7d32
+nn_garlic_powder	Pantry	No Name garlic powder, 150 g	no name garlic powder	No Name garlic powder	150 g	0	jar|#f2d600|#efe9dc|NO NAME|#f2d600|#333
+gg_garlic_paste	Pantry	Gourmet Garden garlic paste, 80 g	gourmet garden garlic paste	Gourmet Garden garlic paste	80 g	0	tube|#2e7d32|GOURMET GARDEN|Garlic
+furlani_texas_toast	Frozen	Furlani Texas-style garlic toast, 16 x 40 g	furlani texas-style garlic toast	Furlani Texas-style garlic toast	16 x 40 g	0	box|#c62828|FURLANI|Garlic toast
+boursin_garlic	Dairy & Eggs	Boursin garlic & fine herbs cheese, 150 g	boursin garlic & fine herbs cheese	Boursin garlic & fine herbs cheese	150 g	0	tub|#1a237e|#fafafa|BOURSIN|#1a237e
+fm_lemons_2lb	Produce	Farmer's Market lemons, 2 lb bag, 907 g	farmer's market lemons, 2 lb bag	Farmer's Market lemons, 2 lb bag	907 g	0	pouch|#fdd835|LEMONS|2 lb|#333
+organic_lemons_2lb	Produce	Organic lemons, 2 lb bag, 907 g	organic lemons, 2 lb bag	Organic lemons, 2 lb bag	907 g	0	pouch|#33691e|ORGANIC|Lemons 2 lb|#fff
+nn_imperfect_lemons	Produce	No Name Naturally Imperfect lemons, 3 lb bag, 1.36 kg	no name naturally imperfect lemons, 3 lb bag	No Name Naturally Imperfect lemons, 3 lb bag	1.36 kg	0	pouch|#f2d600|NO NAME|Lemons|#333
+lime_ea	Produce	Lime, 1 each	lime	Lime	1 each	0	tray|#7cb342
+nn_imperfect_limes	Produce	No Name Naturally Imperfect limes, 680 g	no name naturally imperfect limes	No Name Naturally Imperfect limes	680 g	0	pouch|#f2d600|NO NAME|Limes|#333
+organic_limes_1lb	Produce	Organic limes, 1 lb bag, 454 g	organic limes, 1 lb bag	Organic limes, 1 lb bag	454 g	0	pouch|#33691e|ORGANIC|Limes 1 lb|#fff
+realemon_125	Pantry	ReaLemon lemon juice, small, 125 ml	realemon lemon juice, small	ReaLemon lemon juice, small	125 ml	0	bottle|#fdd835|REALEMON|#2e7d32
+realemon_945	Pantry	ReaLemon lemon juice, 945 ml	realemon lemon juice	ReaLemon lemon juice	945 ml	0	bottle|#fdd835|REALEMON|#2e7d32|1
+realime_125	Pantry	ReaLime lime juice, small, 125 ml	realime lime juice, small	ReaLime lime juice, small	125 ml	0	bottle|#7cb342|REALIME|#2e7d32
+realime_440	Pantry	ReaLime lime juice, 440 ml	realime lime juice	ReaLime lime juice	440 ml	0	bottle|#7cb342|REALIME|#2e7d32|1
+nn_lemon_juice	Pantry	No Name lemon juice from concentrate, 946 ml	no name lemon juice from concentrate	No Name lemon juice from concentrate	946 ml	0	bottle|#f2d600|NO NAME|#333|1
+nn_lime_juice	Pantry	No Name lime juice from concentrate, 445 ml	no name lime juice from concentrate	No Name lime juice from concentrate	445 ml	0	bottle|#f2d600|NO NAME|#7cb342|1
+santa_cruz_lemon	Pantry	Santa Cruz Organic pure lemon juice, 473 ml	santa cruz organic pure lemon juice	Santa Cruz Organic pure lemon juice	473 ml	0	bottle|#fdd835|SANTA CRUZ|#2e7d32|1
+santa_cruz_lime	Pantry	Santa Cruz Organic pure lime juice, 473 ml	santa cruz organic pure lime juice	Santa Cruz Organic pure lime juice	473 ml	0	bottle|#7cb342|SANTA CRUZ|#2e7d32|1
+quick_lemon_500	Pantry	Quick Lemon squeezed lemon juice, 500 ml	quick lemon squeezed lemon juice	Quick Lemon squeezed lemon juice	500 ml	0	bottle|#fdd835|QUICK LEMON|#2e7d32|1
+volcano_lemon_burst	Drinks	Italian Volcano lemon burst, 200 ml	italian volcano lemon burst	Italian Volcano lemon burst	200 ml	0	bottle|#fdd835|VOLCANO|#333
+true_lemon_wedges	Drinks	True Lemon crystallized lemon packets, 32 pack, 25.6 g	true lemon crystallized lemon packets, 32 pack	True Lemon crystallized lemon packets, 32 pack	25.6 g	1	box|#fdd835|TRUE LEMON|32 packets|#2e7d32
+sp_light_lemon	Drinks	San Pellegrino Light lemon, 6 cans, 6 x 330 ml	san pellegrino light lemon, 6 cans	San Pellegrino Light lemon, 6 cans	6 x 330 ml	1	cans|#fdd835|SANPELLEGRINO|Light lemon
+country_time_liquid	Drinks	Country Time lemonade liquid drink mix, 48 ml	country time lemonade liquid drink mix	Country Time lemonade liquid drink mix	48 ml	1	bottle|#fdd835|COUNTRY TIME|#c8102e
+pepsi_zero_lime	Drinks	Pepsi Zero Sugar lime, 12 cans, 12 x 355 ml	pepsi zero sugar lime, 12 cans	Pepsi Zero Sugar lime, 12 cans	12 x 355 ml	1	cans|#1a1a1a|PEPSI ZERO|Lime 12 pack
+tostitos_hint_lime	Snacks	Tostitos Hint of Lime tortilla chips, 245 g	tostitos hint of lime tortilla chips	Tostitos Hint of Lime tortilla chips	245 g	1	pouch|#7cb342|TOSTITOS|Hint of Lime|#fff
+honeycrisp_kg	Produce	Honeycrisp apples, loose, per kg	honeycrisp apples, loose	Honeycrisp apples, loose	per kg	0	tray|#c62828
+granny_smith_kg	Produce	Granny Smith apples, loose, per kg	granny smith apples, loose	Granny Smith apples, loose	per kg	0	tray|#7cb342
+pink_lady_kg	Produce	Pink Lady apples, loose, per kg	pink lady apples, loose	Pink Lady apples, loose	per kg	0	tray|#e57373
+fm_gala_4lb	Produce	Farmer's Market Gala apples, 4 lb bag, 1.81 kg	farmer's market gala apples, 4 lb bag	Farmer's Market Gala apples, 4 lb bag	1.81 kg	0	pouch|#c62828|GALA|4 lb bag|#fff
+fm_ambrosia_4lb	Produce	Farmer's Market Ambrosia apples, 4 lb bag, 1.814 kg	farmer's market ambrosia apples, 4 lb bag	Farmer's Market Ambrosia apples, 4 lb bag	1.814 kg	0	pouch|#e53935|AMBROSIA|4 lb bag|#fff
+fm_honeycrisp_4lb	Produce	Farmer's Market Honeycrisp apples, 4 lb bag, 1.81 kg	farmer's market honeycrisp apples, 4 lb bag	Farmer's Market Honeycrisp apples, 4 lb bag	1.81 kg	0	pouch|#c62828|HONEYCRISP|4 lb bag|#fff
+fm_mcintosh_4lb	Produce	Farmer's Market McIntosh apples, 4 lb bag, 1.81 kg	farmer's market mcintosh apples, 4 lb bag	Farmer's Market McIntosh apples, 4 lb bag	1.81 kg	0	pouch|#b71c1c|McINTOSH|4 lb bag|#fff
+pco_gala_3lb	Produce	PC Organics Gala apples, 3 lb bag, 1.36 kg	pc organics gala apples, 3 lb bag	PC Organics Gala apples, 3 lb bag	1.36 kg	0	pouch|#33691e|PC ORGANICS|Gala 3 lb|#fff
+nn_imperfect_apples	Produce	No Name Naturally Imperfect apples, 6 lb bag, 2.72 kg	no name naturally imperfect apples, 6 lb bag	No Name Naturally Imperfect apples, 6 lb bag	2.72 kg	0	pouch|#f2d600|NO NAME|Apples 6 lb|#333
+mush_apple_pie	Dairy & Eggs	MUSH protein overnight oats, apple pie, 172 ml	mush protein overnight oats, apple pie	MUSH protein overnight oats, apple pie	172 ml	1	tub|#6d4c41|#efebe9|MUSH|#6d4c41
+mush_apple_cinnamon	Dairy & Eggs	MUSH overnight oats, apple cinnamon, 141 g	mush overnight oats, apple cinnamon	MUSH overnight oats, apple cinnamon	141 g	1	tub|#8d6e63|#efebe9|MUSH|#6d4c41
+mush_blueberry	Dairy & Eggs	MUSH overnight oats, blueberry, 141 g	mush overnight oats, blueberry	MUSH overnight oats, blueberry	141 g	1	tub|#3949ab|#e8eaf6|MUSH|#3949ab
+red_grapes_kg	Produce	Red seedless grapes, loose, per kg	red seedless grapes, loose	Red seedless grapes, loose	per kg	0	tray|#8e244d
+pc_black_grapes_kg	Produce	PC black seedless grapes, loose, per kg	pc black seedless grapes, loose	PC black seedless grapes, loose	per kg	0	tray|#311b92
+cotton_candy_grapes_kg	Produce	Cotton Candy green grapes, loose, per kg	cotton candy green grapes, loose	Cotton Candy green grapes, loose	per kg	0	tray|#9ccc65
+pco_black_grapes	Produce	PC Organics black seedless grapes, 907 g	pc organics black seedless grapes	PC Organics black seedless grapes	907 g	0	pouch|#33691e|PC ORGANICS|Black grapes|#fff
+pco_red_grapes	Produce	PC Organics red seedless grapes, 907 g	pc organics red seedless grapes	PC Organics red seedless grapes	907 g	0	pouch|#33691e|PC ORGANICS|Red grapes|#fff
+cheese_grape_nibbler	Produce	Cheese & grape nibbler tray, 391 g	cheese & grape nibbler tray	Cheese & grape nibbler tray	391 g	0	tub|#fbc02d|#fffde7|NIBBLER|#6d4c41
+grape_cheese_cup	Produce	Snack cup, grapes & cheese, 179 g	snack cup, grapes & cheese	Snack cup, grapes & cheese	179 g	0	tub|#fbc02d|#fffde7|SNACK CUP|#6d4c41
+pc_greenhouse_straw	Produce	PC greenhouse grown Ontario strawberries, 340 g	pc greenhouse grown ontario strawberries	PC greenhouse grown Ontario strawberries	340 g	0	tub|#e53935|#ffebee|PC|#c62828
+nn_imperfect_straw	Produce	No Name Naturally Imperfect strawberries, 340 g	no name naturally imperfect strawberries	No Name Naturally Imperfect strawberries	340 g	0	tub|#f2d600|#ffebee|NO NAME|#333
+organic_straw_1lb	Produce	Organic strawberries, 1 lb, 454 g	organic strawberries, 1 lb	Organic strawberries, 1 lb	454 g	0	tub|#33691e|#ffebee|ORGANIC|#33691e
+nn_frz_sliced_straw	Frozen	No Name frozen sliced strawberries, 400 g	no name frozen sliced strawberries	No Name frozen sliced strawberries	400 g	0	pouch|#f2d600|NO NAME|Sliced strawberries|#c62828
+nn_whole_straw_2kg	Frozen	No Name frozen whole strawberries, 2 kg, 2 kg	no name frozen whole strawberries, 2 kg	No Name frozen whole strawberries, 2 kg	2 kg	0	pouch|#f2d600|NO NAME|Strawberries 2 kg|#c62828
+sunrype_ftg_apple_straw	Snacks	SunRype Fruit To Go fruit snack bites, apple strawberry, 112 g	sunrype fruit to go fruit snack bites, apple strawberry	SunRype Fruit To Go fruit snack bites, apple strawberry	112 g	1	box|#c62828|SUNRYPE|Fruit To Go|#fff
+welchs_28	Snacks	Welch's fruit snacks, mixed fruit, 28 pouches, 28 x 22 g	welch's fruit snacks, mixed fruit, 28 pouches	Welch's fruit snacks, mixed fruit, 28 pouches	28 x 22 g	1	box|#5e35b1|WELCH'S|28 pouches|#fff
+blueberries_half_pint	Produce	Blueberries, half pint, 170 g	blueberries, half pint	Blueberries, half pint	170 g	0	tub|#3949ab|#e8eaf6|BLUEBERRIES|#3949ab
+pco_blueberries	Produce	PC Organics blueberries, 277 g	pc organics blueberries	PC Organics blueberries	277 g	0	tub|#33691e|#e8eaf6|PC ORGANICS|#33691e
+pc_blueberries_278	Produce	PC blueberries, 278 g	pc blueberries	PC blueberries	278 g	0	tub|#3949ab|#e8eaf6|PC|#3949ab
+pc_frz_blueberries	Frozen	PC frozen cultivated blueberries, 600 g	pc frozen cultivated blueberries	PC frozen cultivated blueberries	600 g	0	pouch|#3949ab|PC|Blueberries|#fff
+pc_wild_blueberries	Frozen	PC frozen Canadian wild blueberries, 400 g	pc frozen canadian wild blueberries	PC frozen Canadian wild blueberries	400 g	0	pouch|#283593|PC|Wild blueberries|#fff
+nn_blueberries_2kg	Frozen	No Name frozen blueberries, 2 kg, 2 kg	no name frozen blueberries, 2 kg	No Name frozen blueberries, 2 kg	2 kg	0	pouch|#f2d600|NO NAME|Blueberries 2 kg|#3949ab
+nn_imperfect_frz_blue	Frozen	No Name Naturally Imperfect frozen blueberries, 300 g	no name naturally imperfect frozen blueberries	No Name Naturally Imperfect frozen blueberries	300 g	0	pouch|#f2d600|NO NAME|Blueberries|#3949ab
+cilantro_bunch	Produce	Cilantro, bunch, 1 bunch	cilantro, bunch	Cilantro, bunch	1 bunch	0	tray|#388e3c
+pc_cilantro_28	Produce	PC cilantro, packaged, 28 g	pc cilantro, packaged	PC cilantro, packaged	28 g	0	pouch|#2e7d32|PC|Cilantro|#fff
+pc_thai_herbs	Produce	PC fresh Thai herb blend, 28 g	pc fresh thai herb blend	PC fresh Thai herb blend	28 g	0	pouch|#2e7d32|PC|Thai herbs|#fff
+gg_cilantro_paste	Pantry	Gourmet Garden cilantro paste, 80 g	gourmet garden cilantro paste	Gourmet Garden cilantro paste	80 g	0	tube|#2e7d32|GOURMET GARDEN|Cilantro
+gg_dried_cilantro	Pantry	Gourmet Garden lightly dried cilantro, 10 g	gourmet garden lightly dried cilantro	Gourmet Garden lightly dried cilantro	10 g	0	tub|#2e7d32|#e8f5e9|GOURMET GARDEN|#2e7d32
+pc_cilantro_leaves	Pantry	PC cilantro leaves, dried, 12 g	pc cilantro leaves, dried	PC cilantro leaves, dried	12 g	0	jar|#1a1a1a|#388e3c|PC|#fff|#1a1a1a
+pc_cilantro_crema	Pantry	PC cilantro lime crema sauce, 245 ml	pc cilantro lime crema sauce	PC cilantro lime crema sauce	245 ml	0	bottle|#c5e1a5|PC|#2e7d32
+tilda_lime_cilantro	Pantry	Tilda ready to heat lime & cilantro jasmine rice, 250 g	tilda ready to heat lime & cilantro jasmine rice	Tilda ready to heat lime & cilantro jasmine rice	250 g	0	pouch|#2e7d32|TILDA|Lime & cilantro|#fff
+pc_white_mush_454	Produce	PC whole white mushrooms, large, 454 g	pc whole white mushrooms, large	PC whole white mushrooms, large	454 g	0	tub|#8d6e63|#efebe9|PC|#5d4037
+pc_cremini_454	Produce	PC whole cremini mushrooms, large, 454 g	pc whole cremini mushrooms, large	PC whole cremini mushrooms, large	454 g	0	tub|#6d4c41|#efebe9|PC|#5d4037
+nn_imperfect_white_mush	Produce	No Name Naturally Imperfect white mushrooms, 680 g	no name naturally imperfect white mushrooms	No Name Naturally Imperfect white mushrooms	680 g	0	tub|#f2d600|#efebe9|NO NAME|#333
+nn_imperfect_brown_mush	Produce	No Name Naturally Imperfect brown mushrooms, 680 g	no name naturally imperfect brown mushrooms	No Name Naturally Imperfect brown mushrooms	680 g	0	tub|#f2d600|#d7ccc8|NO NAME|#333
+pco_cremini_227	Produce	PC Organics whole cremini mushrooms, 227 g	pc organics whole cremini mushrooms	PC Organics whole cremini mushrooms	227 g	0	tub|#33691e|#efebe9|PC ORGANICS|#33691e
+pco_sliced_cremini	Produce	PC Organics sliced cremini mushrooms, 227 g	pc organics sliced cremini mushrooms	PC Organics sliced cremini mushrooms	227 g	0	tub|#33691e|#efebe9|PC ORGANICS|#33691e
+pco_sliced_white	Produce	PC Organics sliced white mushrooms, 227 g	pc organics sliced white mushrooms	PC Organics sliced white mushrooms	227 g	0	tub|#33691e|#fafafa|PC ORGANICS|#33691e
+pco_shiitake	Produce	PC Organics whole shiitake mushrooms, 100 g	pc organics whole shiitake mushrooms	PC Organics whole shiitake mushrooms	100 g	0	tub|#33691e|#d7ccc8|PC ORGANICS|#33691e
+nn_sliced_mush_can	Pantry	No Name sliced mushrooms, canned, 284 ml	no name sliced mushrooms, canned	No Name sliced mushrooms, canned	284 ml	0	can|#f2d600|NO NAME|Sliced mushrooms
+pc_ff_thighs_club_kg	Meat & Seafood	PC Free From boneless skinless chicken thighs, club pack, per kg	pc free from boneless skinless chicken thighs, club pack	PC Free From boneless skinless chicken thighs, club pack	per kg	0	tray|#f8bbd0
+pc_ff_thighs_kg	Meat & Seafood	PC Free From boneless skinless chicken thighs, per kg	pc free from boneless skinless chicken thighs	PC Free From boneless skinless chicken thighs	per kg	0	tray|#f8bbd0
+bonein_thighs_kg	Meat & Seafood	Chicken thighs, bone-in, per kg	chicken thighs, bone-in	Chicken thighs, bone-in	per kg	0	tray|#f48fb1
+split_wings_club_kg	Meat & Seafood	Split chicken wings, club pack, per kg	split chicken wings, club pack	Split chicken wings, club pack	per kg	0	tray|#f8bbd0
+pc_ff_split_wings_kg	Meat & Seafood	PC Free From split chicken wings, per kg	pc free from split chicken wings	PC Free From split chicken wings	per kg	0	tray|#f8bbd0
+schneiders_double_smoked	Meat & Seafood	Schneiders double smoked thick cut bacon, 375 g	schneiders double smoked thick cut bacon	Schneiders double smoked thick cut bacon	375 g	0	box|#5d4037|SCHNEIDERS|Double smoked|#fff
+schneiders_thick_maple	Meat & Seafood	Schneiders thick cut maple bacon, 375 g	schneiders thick cut maple bacon	Schneiders thick cut maple bacon	375 g	0	box|#8d6e63|SCHNEIDERS|Thick maple|#fff
+ml_lazy_maple	Meat & Seafood	Maple Leaf Lazy Maple natural bacon, 375 g	maple leaf lazy maple natural bacon	Maple Leaf Lazy Maple natural bacon	375 g	0	box|#c62828|MAPLE LEAF|Lazy Maple|#fff
+ml_less_salt_bacon	Meat & Seafood	Maple Leaf Natural less salt bacon, 375 g	maple leaf natural less salt bacon	Maple Leaf Natural less salt bacon	375 g	0	box|#c62828|MAPLE LEAF|Less salt|#fff
+schneiders_mini_sizzlers	Meat & Seafood	Schneiders Mini-Sizzlers breakfast sausages, 375 g	schneiders mini-sizzlers breakfast sausages	Schneiders Mini-Sizzlers breakfast sausages	375 g	0	box|#5d4037|SCHNEIDERS|Mini-Sizzlers|#fff
+schneiders_rounds	Meat & Seafood	Schneiders original breakfast sausage rounds, 375 g	schneiders original breakfast sausage rounds	Schneiders original breakfast sausage rounds	375 g	0	box|#5d4037|SCHNEIDERS|Sausage rounds|#fff
+pc_breakfast_sausage	Meat & Seafood	PC original pork breakfast sausages, 375 g	pc original pork breakfast sausages	PC original pork breakfast sausages	375 g	0	tray|#c62828
+pc_maple_breakfast_sausage	Meat & Seafood	PC maple pork breakfast sausages, 375 g	pc maple pork breakfast sausages	PC maple pork breakfast sausages	375 g	0	tray|#c62828
+pc_bangers	Meat & Seafood	PC Bangers pork sausages, 500 g	pc bangers pork sausages	PC Bangers pork sausages	500 g	0	tray|#c62828
+pc_ff_mild_italian	Meat & Seafood	PC Free From mild Italian pork sausages, 500 g	pc free from mild italian pork sausages	PC Free From mild Italian pork sausages	500 g	0	tray|#c62828
+pork_breakfast_1kg	Meat & Seafood	Pork breakfast sausages, 1 kg, 1 kg	pork breakfast sausages, 1 kg	Pork breakfast sausages, 1 kg	1 kg	0	tray|#c62828
+ml_breakfast_patties	Meat & Seafood	Maple Leaf fully cooked pork breakfast sausage patties, 300 g	maple leaf fully cooked pork breakfast sausage patties	Maple Leaf fully cooked pork breakfast sausage patties	300 g	0	box|#c62828|MAPLE LEAF|Patties|#fff
+ml_breakfast_cooked	Meat & Seafood	Maple Leaf fully cooked pork breakfast sausages, 300 g	maple leaf fully cooked pork breakfast sausages	Maple Leaf fully cooked pork breakfast sausages	300 g	0	box|#c62828|MAPLE LEAF|Fully cooked|#fff
+schneiders_smoked_classic	Meat & Seafood	Schneiders smoked sausage, classic recipe, 375 g	schneiders smoked sausage, classic recipe	Schneiders smoked sausage, classic recipe	375 g	0	box|#5d4037|SCHNEIDERS|Smoked sausage|#fff
+schneiders_smoked_cheddar	Meat & Seafood	Schneiders smoked sausage, classic cheddar, 375 g	schneiders smoked sausage, classic cheddar	Schneiders smoked sausage, classic cheddar	375 g	0	box|#f9a825|SCHNEIDERS|Cheddar smoked|#fff
+seaquest_pink_400	Frozen	Seaquest pink salmon fillets, 400 g	seaquest pink salmon fillets	Seaquest pink salmon fillets	400 g	0	box|#0277bd|SEAQUEST|Pink salmon|#fff
+seaquest_pink_1kg	Frozen	Seaquest pink salmon fillets, 1 kg, 1 kg	seaquest pink salmon fillets, 1 kg	Seaquest pink salmon fillets, 1 kg	1 kg	0	box|#0277bd|SEAQUEST|Pink salmon 1 kg|#fff
+wild_pink_portions	Frozen	Skin-on boneless wild pink salmon portions, 650 g	skin-on boneless wild pink salmon portions	Skin-on boneless wild pink salmon portions	650 g	0	pouch|#e57373|WILD PINK|Salmon portions|#fff
+hl_pink_fillets	Frozen	High Liner Signature Cuts wild Pacific pink salmon fillets, 400 g	high liner signature cuts wild pacific pink salmon fillets	High Liner Signature Cuts wild Pacific pink salmon fillets	400 g	0	box|#0d47a1|HIGH LINER|Pink salmon|#fff
+clover_pink_213	Pantry	Clover Leaf wild Pacific pink salmon, canned, 213 g	clover leaf wild pacific pink salmon, canned	Clover Leaf wild Pacific pink salmon, canned	213 g	0	can|#c62828|CLOVER LEAF|Pink salmon
+clover_sockeye_213	Pantry	Clover Leaf sockeye salmon, canned, 213 g	clover leaf sockeye salmon, canned	Clover Leaf sockeye salmon, canned	213 g	0	can|#b71c1c|CLOVER LEAF|Sockeye salmon
+clover_flaked_salmon	Pantry	Clover Leaf wild flaked salmon in olive oil, 80 g	clover leaf wild flaked salmon in olive oil	Clover Leaf wild flaked salmon in olive oil	80 g	0	can|#c62828|CLOVER LEAF|Flaked salmon
+pc_pink_salmon_170	Pantry	PC boneless skinless wild Pacific pink salmon, 170 g	pc boneless skinless wild pacific pink salmon	PC boneless skinless wild Pacific pink salmon	170 g	0	can|#1a1a1a|PC|Pink salmon
+smoked_steelhead_50	Meat & Seafood	Smoked steelhead salmon, 50 g	smoked steelhead salmon	Smoked steelhead salmon	50 g	0	pouch|#ef6c00|SMOKED|Steelhead|#fff
+pc_cooked_shrimp_400	Frozen	PC cooked peeled Pacific white shrimp, 400 g	pc cooked peeled pacific white shrimp	PC cooked peeled Pacific white shrimp	400 g	0	pouch|#ef6c00|PC|Cooked shrimp|#fff
+pc_zipperback_400	Frozen	PC zipperback raw Pacific white shrimp, 400 g	pc zipperback raw pacific white shrimp	PC zipperback raw Pacific white shrimp	400 g	0	pouch|#ef6c00|PC|Zipperback|#fff
+pc_black_tiger_400	Frozen	PC Gigantico raw black tiger shrimp, 400 g	pc gigantico raw black tiger shrimp	PC Gigantico raw black tiger shrimp	400 g	0	pouch|#1a1a1a|PC|Black tiger|#fff
+pc_shrimp_cocktail	Frozen	PC Pacific white shrimp with cocktail sauce, 454 g	pc pacific white shrimp with cocktail sauce	PC Pacific white shrimp with cocktail sauce	454 g	1	tub|#ef6c00|#fff3e0|PC|#c62828
+marina_wild_shrimp	Frozen	Marina raw wild shrimp, easy peel, 300 g	marina raw wild shrimp, easy peel	Marina raw wild shrimp, easy peel	300 g	0	pouch|#0277bd|MARINA|Wild shrimp|#fff
+pc_tempura_shrimp	Frozen	PC tempura torpedo shrimp, 340 g	pc tempura torpedo shrimp	PC tempura torpedo shrimp	340 g	0	box|#ef6c00|PC|Tempura shrimp|#fff
+ml_turkey_375	Meat & Seafood	Maple Leaf Natural Selections shaved oven roasted turkey breast, family size, 375 g	maple leaf natural selections shaved oven roasted turkey breast, family size	Maple Leaf Natural Selections shaved oven roasted turkey breast, family size	375 g	0	tub|#c62828|#fff3e0|MAPLE LEAF|#c62828
+pc_turkey_thin_kg	Meat & Seafood	PC oven-roasted turkey breast, thin sliced (deli counter), per kg	pc oven-roasted turkey breast, thin sliced (deli counter)	PC oven-roasted turkey breast, thin sliced (deli counter)	per kg	0	tray|#ffe0b2
+cuddy_montreal_turkey_kg	Meat & Seafood	Cuddy Montreal smoked turkey breast, thin sliced (deli counter), per kg	cuddy montreal smoked turkey breast, thin sliced (deli counter)	Cuddy Montreal smoked turkey breast, thin sliced (deli counter)	per kg	0	tray|#d7ccc8
+pcbm_tomato_basil_turkey_kg	Meat & Seafood	PC Blue Menu tomato and basil turkey breast (deli counter), per kg	pc blue menu tomato and basil turkey breast (deli counter)	PC Blue Menu tomato and basil turkey breast (deli counter)	per kg	0	tray|#ffccbc
+ziggys_smoked_turkey_kg	Meat & Seafood	Ziggy's extra lean smoked turkey (deli counter), per kg	ziggy's extra lean smoked turkey (deli counter)	Ziggy's extra lean smoked turkey (deli counter)	per kg	0	tray|#d7ccc8
+ml_baked_ham	Meat & Seafood	Maple Leaf Natural Selections sliced baked ham, 175 g	maple leaf natural selections sliced baked ham	Maple Leaf Natural Selections sliced baked ham	175 g	0	tub|#c62828|#fce4ec|MAPLE LEAF|#c62828
+ml_honey_ham	Meat & Seafood	Maple Leaf Natural Selections sliced baked honey ham, 175 g	maple leaf natural selections sliced baked honey ham	Maple Leaf Natural Selections sliced baked honey ham	175 g	0	tub|#c62828|#fff8e1|MAPLE LEAF|#c62828
+ml_italian_ham	Meat & Seafood	Maple Leaf Natural Selections shaved Italian style ham, 175 g	maple leaf natural selections shaved italian style ham	Maple Leaf Natural Selections shaved Italian style ham	175 g	0	tub|#c62828|#fce4ec|MAPLE LEAF|#c62828
+ml_smoked_ham_600	Meat & Seafood	Maple Leaf Original natural smoked ham, 600 g	maple leaf original natural smoked ham	Maple Leaf Original natural smoked ham	600 g	0	tray|#e57373
+schneiders_half_ham	Meat & Seafood	Schneiders original half ham, 700 g	schneiders original half ham	Schneiders original half ham	700 g	0	tray|#e57373
+pillers_bf_ham_200	Meat & Seafood	Piller's Black Forest ham, 200 g	piller's black forest ham	Piller's Black Forest ham	200 g	0	tub|#1b5e20|#fce4ec|PILLER'S|#1b5e20
+hs_smooth_silky	Household	Head & Shoulders Smooth & Silky shampoo, 370 ml	head & shoulders smooth & silky shampoo	Head & Shoulders Smooth & Silky shampoo	370 ml	1	bottle|#1565c0|H&S|#fff|1
+fructis_fortifying	Household	Garnier Fructis fortifying shampoo, normal to oily hair, 370 ml	garnier fructis fortifying shampoo, normal to oily hair	Garnier Fructis fortifying shampoo, normal to oily hair	370 ml	1	bottle|#7cb342|FRUCTIS|#fff|1
+ogx_coconut_shampoo	Household	OGX Nourishing + Coconut Milk shampoo, 385 ml	ogx nourishing + coconut milk shampoo	OGX Nourishing + Coconut Milk shampoo	385 ml	1	bottle|#f5f5f5|OGX|#6d4c41|1
+native_cucumber_shampoo	Household	Native volumizing shampoo, cucumber and mint, 487 ml	native volumizing shampoo, cucumber and mint	Native volumizing shampoo, cucumber and mint	487 ml	1	bottle|#c5e1a5|NATIVE|#1a1a1a|1
+pantene_moisture_cond	Household	Pantene Daily Moisture Renewal conditioner, 308 ml	pantene daily moisture renewal conditioner	Pantene Daily Moisture Renewal conditioner	308 ml	1	bottle|#f5f0e1|PANTENE|#c9a227|1
+pantene_volume_cond	Household	Pantene Sheer Volume conditioner, 308 ml	pantene sheer volume conditioner	Pantene Sheer Volume conditioner	308 ml	1	bottle|#f8bbd0|PANTENE|#c9a227|1
+pantene_pump_cond	Household	Pantene Pro-V Daily Moisture Renewal conditioner, pump, 476 ml	pantene pro-v daily moisture renewal conditioner, pump	Pantene Pro-V Daily Moisture Renewal conditioner, pump	476 ml	1	bottle|#f5f0e1|PANTENE|#c9a227|1
+loreal_hyaluron_cond	Household	L'Oréal Paris Hyaluron Plump conditioner, 375 ml	l'oréal paris hyaluron plump conditioner	L'Oréal Paris Hyaluron Plump conditioner	375 ml	1	bottle|#4fc3f7|L'ORÉAL|#fff|1
+aussie_moist_cond	Household	Aussie Miracle Moist conditioner, 778 ml	aussie miracle moist conditioner	Aussie Miracle Moist conditioner	778 ml	1	bottle|#6a1b9a|AUSSIE|#fff|1
+aussie_total_cond	Household	Aussie Total Miracle conditioner, 778 ml	aussie total miracle conditioner	Aussie Total Miracle conditioner	778 ml	1	bottle|#4a148c|AUSSIE|#fff|1
+native_cond	Household	Native moisturizing conditioner, coconut and vanilla, 487 ml	native moisturizing conditioner, coconut and vanilla	Native moisturizing conditioner, coconut and vanilla	487 ml	1	bottle|#fff8e1|NATIVE|#1a1a1a|1
+fructis_strong_cond	Household	Garnier Fructis Grow Strong conditioner, 354 ml	garnier fructis grow strong conditioner	Garnier Fructis Grow Strong conditioner	354 ml	1	bottle|#7cb342|FRUCTIS|#fff|1
+ogx_argan_cond	Household	OGX Argan Oil Extra Strength conditioner, 385 ml	ogx argan oil extra strength conditioner	OGX Argan Oil Extra Strength conditioner	385 ml	1	bottle|#c9a227|OGX|#fff|1
+ogx_renewing_cond	Household	OGX Renewing + Argan Oil of Morocco conditioner, 385 ml	ogx renewing + argan oil of morocco conditioner	OGX Renewing + Argan Oil of Morocco conditioner	385 ml	1	bottle|#00838f|OGX|#fff|1
+tres_botanique_cond	Household	TRESemmé Botanique Nourish & Replenish conditioner, 828 ml	tresemmé botanique nourish & replenish conditioner	TRESemmé Botanique Nourish & Replenish conditioner	828 ml	1	bottle|#2e7d32|TRESEMMÉ|#fff|1
+tres_rich_cond	Household	TRESemmé Rich Moisture conditioner, 828 ml	tresemmé rich moisture conditioner	TRESemmé Rich Moisture conditioner	828 ml	1	bottle|#1a1a1a|TRESEMMÉ|#fff|1
+he_hydration_cond	Household	Herbal Essences Hello Hydration conditioner, 346 ml	herbal essences hello hydration conditioner	Herbal Essences Hello Hydration conditioner	346 ml	1	bottle|#4fc3f7|HERBAL ESSENCES|#fff|1
+garnier_honey_cond	Household	Garnier Whole Blends Honey Treasures conditioner, 370 ml	garnier whole blends honey treasures conditioner	Garnier Whole Blends Honey Treasures conditioner	370 ml	1	bottle|#ffb300|WHOLE BLENDS|#fff|1
+aveeno_daily_354	Household	Aveeno Daily Moisturizing body wash, 354 ml	aveeno daily moisturizing body wash	Aveeno Daily Moisturizing body wash	354 ml	1	bottle|#e8dcc4|AVEENO|#2e7d32|1
+aveeno_pouch	Household	Aveeno Daily Moisturizing body wash, refill pouch, 1.06 L	aveeno daily moisturizing body wash, refill pouch	Aveeno Daily Moisturizing body wash, refill pouch	1.06 L	1	pouch|#e8dcc4|AVEENO|Refill pouch|#2e7d32
+nivea_coconut	Household	Nivea Care & Coconut body wash, 500 ml	nivea care & coconut body wash	Nivea Care & Coconut body wash	500 ml	1	bottle|#1b2a6b|NIVEA|#fff|1
+nivea_cocoa	Household	Nivea Care & Cocoa shower cream body wash, 500 ml	nivea care & cocoa shower cream body wash	Nivea Care & Cocoa shower cream body wash	500 ml	1	bottle|#6d4c41|NIVEA|#fff|1
+ivory_original_1035	Household	Ivory gentle body wash, original, pump, 1.035 L	ivory gentle body wash, original, pump	Ivory gentle body wash, original, pump	1.035 L	1	bottle|#e3f2fd|IVORY|#1565c0|1
+olay_total_effects_wash	Household	Olay Total Effects Ultra Moisture body wash, 650 ml	olay total effects ultra moisture body wash	Olay Total Effects Ultra Moisture body wash	650 ml	1	bottle|#4a148c|OLAY|#fff|1
+crave_alfredo_mac	Frozen	Crave cheesy chicken Alfredo mac & cheese, 320 g	crave cheesy chicken alfredo mac & cheese	Crave cheesy chicken Alfredo mac & cheese	320 g	0	box|#1a1a1a|CRAVE|cheesy chicken A
+crave_burrito_chicken	Frozen	Crave pulled chicken burrito bowl, 320 g	crave pulled chicken burrito bowl	Crave pulled chicken burrito bowl	320 g	0	box|#1a1a1a|CRAVE|pulled chicken b
+crave_butter_ravioli	Frozen	Crave creamy butter chicken ravioli, 300 g	crave creamy butter chicken ravioli	Crave creamy butter chicken ravioli	300 g	0	box|#1a1a1a|CRAVE|creamy butter ch
+crave_szechuan	Frozen	Crave spicy Szechuan style fried chicken on rice, 300 g	crave spicy szechuan style fried chicken on rice	Crave spicy Szechuan style fried chicken on rice	300 g	0	box|#1a1a1a|CRAVE|spicy Szechuan s
+crave_poblano_bowl	Frozen	Crave chicken poblano queso burrito bowl, 340 g	crave chicken poblano queso burrito bowl	Crave chicken poblano queso burrito bowl	340 g	0	box|#1a1a1a|CRAVE|chicken poblano 
+crave_panang	Frozen	Crave spicy Thai chicken panang curry, 312 g	crave spicy thai chicken panang curry	Crave spicy Thai chicken panang curry	312 g	0	box|#1a1a1a|CRAVE|spicy Thai chick
+crave_bacon_egg	Frozen	Crave bacon & egg scramble with cheddar, 200 g	crave bacon & egg scramble with cheddar	Crave bacon & egg scramble with cheddar	200 g	0	box|#1a1a1a|CRAVE|bacon & egg scra
+crave_buffalo_mac	Frozen	Crave buffalo chicken mac & cheese, 300 g	crave buffalo chicken mac & cheese	Crave buffalo chicken mac & cheese	300 g	0	box|#1a1a1a|CRAVE|buffalo chicken 
+crave_cheddar_bacon_mac	Frozen	Crave white cheddar mac & cheese with bacon, 300 g	crave white cheddar mac & cheese with bacon	Crave white cheddar mac & cheese with bacon	300 g	0	box|#1a1a1a|CRAVE|white cheddar ma
+crave_chicken_ham_mac	Frozen	Crave oven baked chicken and ham mac & cheese, 320 g	crave oven baked chicken and ham mac & cheese	Crave oven baked chicken and ham mac & cheese	320 g	0	box|#1a1a1a|CRAVE|oven baked chick
+crave_meat_potatoes	Frozen	Crave smokehouse style meat & potatoes, 278 g	crave smokehouse style meat & potatoes	Crave smokehouse style meat & potatoes	278 g	0	box|#1a1a1a|CRAVE|smokehouse style
+glysomed_50	Household	Glysomed hand cream, 50 ml	glysomed hand cream	Glysomed hand cream	50 ml	1	tube|#1565c0|GLYSOMED|Hand cream
+glysomed_ff_50	Household	Glysomed hand cream, fragrance free, 50 ml	glysomed hand cream, fragrance free	Glysomed hand cream, fragrance free	50 ml	1	tube|#90caf9|GLYSOMED|Fragrance free
+glysomed_ff_200	Household	Glysomed hand cream, fragrance free, large, 200 ml	glysomed hand cream, fragrance free, large	Glysomed hand cream, fragrance free, large	200 ml	1	bottle|#90caf9|GLYSOMED|#1565c0|1
+lb_glycerin_hand	Household	Life Brand glycerin hand cream, 75 ml	life brand glycerin hand cream	Life Brand glycerin hand cream	75 ml	1	tube|#c62828|LIFE BRAND|Glycerin
+aveeno_hand_97	Household	Aveeno Daily Moisturizing hand cream, fragrance free, 97 ml	aveeno daily moisturizing hand cream, fragrance free	Aveeno Daily Moisturizing hand cream, fragrance free	97 ml	1	tube|#e8dcc4|AVEENO|Hand cream
+aveeno_intense_hand	Household	Aveeno Intense Relief hand cream, 97 ml	aveeno intense relief hand cream	Aveeno Intense Relief hand cream	97 ml	1	tube|#e8dcc4|AVEENO|Intense Relief
+vaseline_clinical_200	Household	Vaseline Clinical Care Extremely Dry Skin Rescue body lotion, 200 ml	vaseline clinical care extremely dry skin rescue body lotion	Vaseline Clinical Care Extremely Dry Skin Rescue body lotion	200 ml	1	bottle|#0d47a1|VASELINE|#fff|1
+vaseline_clinical_600	Household	Vaseline Clinical Care Extremely Dry Skin Rescue body lotion, large, 600 ml	vaseline clinical care extremely dry skin rescue body lotion, large	Vaseline Clinical Care Extremely Dry Skin Rescue body lotion, large	600 ml	1	bottle|#0d47a1|VASELINE|#fff|1
+dawn_oxi_431	Household	Dawn Ultra Oxi dish soap, lemon, 431 ml	dawn ultra oxi dish soap, lemon	Dawn Ultra Oxi dish soap, lemon	431 ml	1	bottle|#fdd835|DAWN|#1565c0|1
+dawn_plat_ez_366	Household	Dawn Platinum EZ-Squeeze dish soap, small, 366 ml	dawn platinum ez-squeeze dish soap, small	Dawn Platinum EZ-Squeeze dish soap, small	366 ml	1	bottle|#1565c0|DAWN|#fdd835|1
+palmolive_orig_427	Household	Palmolive Essential Clean dish soap, original, jug, 4.27 L	palmolive essential clean dish soap, original, jug	Palmolive Essential Clean dish soap, original, jug	4.27 L	1	bottle|#2e7d32|PALMOLIVE|#fff|1
+nn_snack_bags_80	Household	No Name zipper snack bags, 80 bags	no name zipper snack bags	No Name zipper snack bags	80 bags	1	box|#f2d600|NO NAME|Snack bags|#333
+nn_large_freezer_30	Household	No Name large zipper freezer bags, 30 bags	no name large zipper freezer bags	No Name large zipper freezer bags	30 bags	1	box|#f2d600|NO NAME|Large freezer|#333
+ziploc_freezer_l60	Household	Ziploc large freezer bags, 60 pack, 60 bags	ziploc large freezer bags, 60 pack	Ziploc large freezer bags, 60 pack	60 bags	1	box|#1565c0|ZIPLOC|Large freezer 60|#fff
+ziploc_freezer_m75	Household	Ziploc medium freezer bags, 75 pack, 75 bags	ziploc medium freezer bags, 75 pack	Ziploc medium freezer bags, 75 pack	75 bags	1	box|#1565c0|ZIPLOC|Medium freezer 75|#fff
+ziploc_freezer_m22	Household	Ziploc medium freezer bags, 22 bags	ziploc medium freezer bags	Ziploc medium freezer bags	22 bags	1	box|#1565c0|ZIPLOC|Medium freezer|#fff
+ziploc_freezer_l32	Household	Ziploc large freezer bags, 32 pack, 32 bags	ziploc large freezer bags, 32 pack	Ziploc large freezer bags, 32 pack	32 bags	1	box|#1565c0|ZIPLOC|Large freezer 32|#fff
+ziploc_sandwich_270	Household	Ziploc sandwich bags, 270 pack, 270 bags	ziploc sandwich bags, 270 pack	Ziploc sandwich bags, 270 pack	270 bags	1	box|#1565c0|ZIPLOC|Sandwich 270|#fff
+pc_hd_freezer_l120	Household	PC heavy duty large freezer bags, 120 pack, 120 bags	pc heavy duty large freezer bags, 120 pack	PC heavy duty large freezer bags, 120 pack	120 bags	1	box|#1a1a1a|PC|Freezer bags 120|#fff
+pc_hd_freezer_l28	Household	PC heavy duty large freezer bags, 28 bags	pc heavy duty large freezer bags	PC heavy duty large freezer bags	28 bags	1	box|#1a1a1a|PC|Freezer bags 28|#fff
+pc_hd_freezer_m150	Household	PC heavy duty medium freezer bags, club pack, 150 bags	pc heavy duty medium freezer bags, club pack	PC heavy duty medium freezer bags, club pack	150 bags	1	box|#1a1a1a|PC|Freezer bags 150|#fff
+nn_double_towel_6	Household	No Name double roll paper towels, 6 pack, 6 rolls	no name double roll paper towels, 6 pack	No Name double roll paper towels, 6 pack	6 rolls	1	pouch|#f2d300|no name|Double rolls 6|#1a1a1a
+bounty_2	Household	Bounty Select-A-Size paper towels, 2 pack, 2 rolls	bounty select-a-size paper towels, 2 pack	Bounty Select-A-Size paper towels, 2 pack	2 rolls	1	pouch|#1e88e5|BOUNTY|Select-A-Size 2|#fff
+bounty_8	Household	Bounty Select-A-Size paper towels, 8 pack, 8 rolls	bounty select-a-size paper towels, 8 pack	Bounty Select-A-Size paper towels, 8 pack	8 rolls	1	pouch|#1e88e5|BOUNTY|Select-A-Size 8|#fff
+pc_club_towel_12	Household	PC Super Absorbent paper towels, club size, 12 rolls	pc super absorbent paper towels, club size	PC Super Absorbent paper towels, club size	12 rolls	1	pouch|#1a1a1a|PC|Super Absorbent 12|#fff
+royale_towel_2	Household	Royale paper towel, 2 ply, 2 rolls, 2 rolls	royale paper towel, 2 ply, 2 rolls	Royale paper towel, 2 ply, 2 rolls	2 rolls	1	pouch|#7b1fa2|ROYALE|Paper towel 2|#fff
+spongetowels_ultra_3	Household	SpongeTowels Ultra paper towels, 3 double rolls, 3 rolls	spongetowels ultra paper towels, 3 double rolls	SpongeTowels Ultra paper towels, 3 double rolls	3 rolls	1	pouch|#00897b|SPONGETOWELS|Ultra 3 double|#fff
+spongetowels_double_8	Household	SpongeTowels double roll paper towels, 2 ply, 8 pack, 8 rolls	spongetowels double roll paper towels, 2 ply, 8 pack	SpongeTowels double roll paper towels, 2 ply, 8 pack	8 rolls	1	pouch|#00897b|SPONGETOWELS|Double rolls 8|#fff
+nn_foil_25	Household	No Name aluminum foil, 25 ft, 25 ft	no name aluminum foil, 25 ft	No Name aluminum foil, 25 ft	25 ft	1	box|#f2d300|no name|Foil 25 ft|#1a1a1a
+nn_hd_foil_25	Household	No Name heavy-duty aluminum foil, 25 ft, 25 ft	no name heavy-duty aluminum foil, 25 ft	No Name heavy-duty aluminum foil, 25 ft	25 ft	1	box|#f2d300|no name|Heavy duty foil|#1a1a1a
+alcan_foil_100	Household	Alcan foil wrap, 100 ft, 100 ft	alcan foil wrap, 100 ft	Alcan foil wrap, 100 ft	100 ft	1	box|#c62828|ALCAN|Foil wrap 100 ft|#fff
+alcan_foil_25	Household	Alcan foil wrap, 25 ft, 25 ft	alcan foil wrap, 25 ft	Alcan foil wrap, 25 ft	25 ft	1	box|#c62828|ALCAN|Foil wrap 25 ft|#fff
+alcan_hd_wide	Household	Alcan heavy duty non-stick foil, extra wide, 45 cm x 10.7 m, 7.5 m²	alcan heavy duty non-stick foil, extra wide, 45 cm x 10.7 m	Alcan heavy duty non-stick foil, extra wide, 45 cm x 10.7 m	7.5 m²	1	box|#c62828|ALCAN|Extra wide foil|#fff
+nn_lasagna_pan_3	Household	No Name foil lasagna pans, 3 pack, 3 pans	no name foil lasagna pans, 3 pack	No Name foil lasagna pans, 3 pack	3 pans	1	box|#f2d300|no name|Lasagna pans 3|#1a1a1a
+nn_lasagna_giant_2	Household	No Name foil lasagna pans, giant, 2 pack, 2 pans	no name foil lasagna pans, giant, 2 pack	No Name foil lasagna pans, giant, 2 pack	2 pans	1	box|#f2d300|no name|Giant lasagna 2|#1a1a1a
+tide_simply_free	Household	Tide Simply detergent, Free & Sensitive, 70 loads, 2.72 L	tide simply detergent, free & sensitive, 70 loads	Tide Simply detergent, Free & Sensitive, 70 loads	2.72 L	1	bottle|#ff7a00|TIDE|#1565c0
+gain_oxi_100	Household	Gain Ultra Oxi detergent, Waterfall Delight, 100 loads, 4.25 L	gain ultra oxi detergent, waterfall delight, 100 loads	Gain Ultra Oxi detergent, Waterfall Delight, 100 loads	4.25 L	1	bottle|#43a047|GAIN|#7b1fa2
+gain_orig_100	Household	Gain detergent, Original, 100 loads, 4.25 L	gain detergent, original, 100 loads	Gain detergent, Original, 100 loads	4.25 L	1	bottle|#43a047|GAIN|#ff7a00
+tide_free_100	Household	Tide Free & Gentle detergent, 100 loads, 3.9 L	tide free & gentle detergent, 100 loads	Tide Free & Gentle detergent, 100 loads	3.9 L	1	bottle|#ff7a00|TIDE|#e0e0e0
+glad_black_large_30	Household	Glad black garbage bags, large 90 L, 30 bags, 30 bags	glad black garbage bags, large 90 l, 30 bags	Glad black garbage bags, large 90 L, 30 bags	30 bags	1	box|#1a1a1a|GLAD|Large 90 L|#fff
+glad_black_xl_20	Household	Glad black garbage bags, extra-large 135 L, 20 bags, 20 bags	glad black garbage bags, extra-large 135 l, 20 bags	Glad black garbage bags, extra-large 135 L, 20 bags	20 bags	1	box|#1a1a1a|GLAD|XL 135 L|#fff
+glad_forceflex_24	Household	Glad ForceFlex black garbage bags, large 90 L, 24 bags, 24 bags	glad forceflex black garbage bags, large 90 l, 24 bags	Glad ForceFlex black garbage bags, large 90 L, 24 bags	24 bags	1	box|#1a1a1a|GLAD|ForceFlex 90 L|#fff
+glad_white_small_48	Household	Glad white garbage bags, small 25 L, 48 bags, 48 bags	glad white garbage bags, small 25 l, 48 bags	Glad white garbage bags, small 25 L, 48 bags	48 bags	1	box|#0d47a1|GLAD|Small 25 L|#fff
+glad_white_unscented_30	Household	Glad white kitchen bags, tall 45 L, unscented, 30 bags, 30 bags	glad white kitchen bags, tall 45 l, unscented, 30 bags	Glad white kitchen bags, tall 45 L, unscented, 30 bags	30 bags	1	box|#0d47a1|GLAD|Tall 45 L unscented|#fff
+glad_white_febreze_50	Household	Glad white kitchen bags, tall 45 L, Febreze, 50 bags, 50 bags	glad white kitchen bags, tall 45 l, febreze, 50 bags	Glad white kitchen bags, tall 45 L, Febreze, 50 bags	50 bags	1	box|#0d47a1|GLAD|Tall 45 L 50|#fff
+glad_white_100	Household	Glad white garbage bags, 100 bags, 100 bags	glad white garbage bags, 100 bags	Glad white garbage bags, 100 bags	100 bags	1	box|#0d47a1|GLAD|White 100|#fff
+glad_catchers_xs_52	Household	Glad Kitchen Catchers, x-small 15 L, 52 bags, 52 bags	glad kitchen catchers, x-small 15 l, 52 bags	Glad Kitchen Catchers, x-small 15 L, 52 bags	52 bags	1	box|#0d47a1|GLAD|X-small 15 L|#fff
+glad_catchers_tall_60	Household	Glad Kitchen Catchers, tall 45 L, 60 bags, 60 bags	glad kitchen catchers, tall 45 l, 60 bags	Glad Kitchen Catchers, tall 45 L, 60 bags	60 bags	1	box|#0d47a1|GLAD|Tall 45 L 60|#fff
+speedstick_ocean_85	Household	Speed Stick men's deodorant, Ocean Surf, 85 g	speed stick men's deodorant, ocean surf	Speed Stick men's deodorant, Ocean Surf	85 g	1	tube|#1565c0|SPEED STICK|Ocean Surf
+lady_speedstick_powder	Household	Lady Speed Stick antiperspirant, Powder Fresh, 70 g	lady speed stick antiperspirant, powder fresh	Lady Speed Stick antiperspirant, Powder Fresh	70 g	1	tube|#f8bbd0|LADY SPEED STICK|Powder Fresh
+degree_purerain_48	Household	Degree UltraClear antiperspirant, Pure Rain, 48 g	degree ultraclear antiperspirant, pure rain	Degree UltraClear antiperspirant, Pure Rain	48 g	1	tube|#263238|DEGREE|Pure Rain
+oldspice_swagger_85	Household	Old Spice Red Collection deodorant, Swagger, 85 g	old spice red collection deodorant, swagger	Old Spice Red Collection deodorant, Swagger	85 g	1	tube|#b71c1c|OLD SPICE|Swagger
+oldspice_swagger_174	Household	Old Spice Red Collection deodorant, Swagger, 2 pack, 174 g	old spice red collection deodorant, swagger, 2 pack	Old Spice Red Collection deodorant, Swagger, 2 pack	174 g	1	tube|#b71c1c|OLD SPICE|Swagger 174 g
+oldspice_fiji_85	Household	Old Spice aluminum-free deodorant, Fiji, 85 g	old spice aluminum-free deodorant, fiji	Old Spice aluminum-free deodorant, Fiji	85 g	1	tube|#00838f|OLD SPICE|Fiji
+oldspice_ap_bearglove_73	Household	Old Spice antiperspirant, Bearglove, 73 g	old spice antiperspirant, bearglove	Old Spice antiperspirant, Bearglove	73 g	1	tube|#4a2c17|OLD SPICE|AP Bearglove
+oldspice_kraken_spray	Household	Old Spice aluminum-free deodorant body spray, Krakengard, 144 g	old spice aluminum-free deodorant body spray, krakengard	Old Spice aluminum-free deodorant body spray, Krakengard	144 g	1	can|#0d47a1|OLD SPICE|Krakengard
+oldspice_dryspray_swagger	Household	Old Spice Invisible Dry Spray antiperspirant, Swagger, 122 g	old spice invisible dry spray antiperspirant, swagger	Old Spice Invisible Dry Spray antiperspirant, Swagger	122 g	1	can|#b71c1c|OLD SPICE|Dry spray
+dove_vanilla_74	Household	Dove Advanced Care antiperspirant, Vanilla & Cocoa Butter, 74 g	dove advanced care antiperspirant, vanilla & cocoa butter	Dove Advanced Care antiperspirant, Vanilla & Cocoa Butter	74 g	1	tube|#fff3e0|DOVE|Vanilla
+crest_scope_120	Household	Crest Complete Whitening + Scope toothpaste, 120 ml	crest complete whitening + scope toothpaste	Crest Complete Whitening + Scope toothpaste	120 ml	1	tube|#0d47a1|CREST|Whitening + Scope
+crest_cavity_100	Household	Crest Cavity Protection toothpaste, Regular, 100 ml	crest cavity protection toothpaste, regular	Crest Cavity Protection toothpaste, Regular	100 ml	1	tube|#0d47a1|CREST|Cavity
+colgate_maxfresh_52	Household	Colgate MaxFresh toothpaste, Cool Mint, 52 ml	colgate maxfresh toothpaste, cool mint	Colgate MaxFresh toothpaste, Cool Mint	52 ml	1	tube|#d71920|COLGATE|MaxFresh
+crest_gum_detox_110	Household	Crest Gum Detoxify Deep Clean toothpaste, 110 ml	crest gum detoxify deep clean toothpaste	Crest Gum Detoxify Deep Clean toothpaste	110 ml	1	tube|#00695c|CREST|Gum Detoxify
+crest_allday_63	Household	Crest Gum & Sensitivity All Day Protect toothpaste, 63 ml	crest gum & sensitivity all day protect toothpaste	Crest Gum & Sensitivity All Day Protect toothpaste	63 ml	1	tube|#00695c|CREST|All Day Protect
+crest_prohealth_3pk	Household	Crest Pro-Health Smooth toothpaste, 3 pack, 3 × 130 ml	crest pro-health smooth toothpaste, 3 pack	Crest Pro-Health Smooth toothpaste, 3 pack	3 × 130 ml	1	tube|#0d47a1|CREST|Pro-Health 3 pk
+bic_soleil_twilight_4	Household	Bic Soleil Twilight disposable razors, 4 pack, 4 razors	bic soleil twilight disposable razors, 4 pack	Bic Soleil Twilight disposable razors, 4 pack	4 razors	1	box|#6a1b9a|BIC|Soleil Twilight|#fff
+bic_soleil_triple_4	Household	Bic Soleil triple blade disposable razors, 4 pack, 4 razors	bic soleil triple blade disposable razors, 4 pack	Bic Soleil triple blade disposable razors, 4 pack	4 razors	1	box|#ec407a|BIC|Soleil 3 blade|#fff
+bic_silky_10	Household	Bic Twin Select Silky Touch disposable razors, 10 pack, 10 razors	bic twin select silky touch disposable razors, 10 pack	Bic Twin Select Silky Touch disposable razors, 10 pack	10 razors	1	box|#f06292|BIC|Silky Touch 10|#fff
+bic_flex4_3	Household	Bic Flex 4 Hybrid razor with 3 blades, 3 ea	bic flex 4 hybrid razor with 3 blades	Bic Flex 4 Hybrid razor with 3 blades	3 ea	1	box|#263238|BIC|Flex 4 Hybrid|#fff
+bic_flex3_4	Household	Bic Flex 3 Hybrid razor with 4 blades, 4 ea	bic flex 3 hybrid razor with 4 blades	Bic Flex 3 Hybrid razor with 4 blades	4 ea	1	box|#1565c0|BIC|Flex 3 Hybrid|#fff
+bic_2blade_18	Household	Bic 2 blade disposable razors, value pack, 18 razors	bic 2 blade disposable razors, value pack	Bic 2 blade disposable razors, value pack	18 razors	1	box|#ff7a00|BIC|2 blade 18|#fff
+gillette_sens_women_3	Household	Gillette Sensitive women's disposable razors, 3 pack, 3 razors	gillette sensitive women's disposable razors, 3 pack	Gillette Sensitive women's disposable razors, 3 pack	3 razors	1	box|#ec407a|GILLETTE|Women's 3|#fff
+gillette_sens_men_4	Household	Gillette Sensitive men's disposable razors, 4 pack, 4 razors	gillette sensitive men's disposable razors, 4 pack	Gillette Sensitive men's disposable razors, 4 pack	4 razors	1	box|#0d47a1|GILLETTE|Men's 4|#fff
+gillette_refills_4	Household	Gillette razor blade refills for men, 4 pack, 4 refills	gillette razor blade refills for men, 4 pack	Gillette razor blade refills for men, 4 pack	4 refills	1	box|#263238|GILLETTE|Refills 4|#fff
+skintimate_4blade_4	Household	Skintimate Sensitive 4 blade disposable razors, 4 pack, 4 razors	skintimate sensitive 4 blade disposable razors, 4 pack	Skintimate Sensitive 4 blade disposable razors, 4 pack	4 razors	1	box|#ab47bc|SKINTIMATE|4 blade 4|#fff
+schick_intuition_refill_3	Household	Schick Intuition Advanced Moisture razor refills, 3 pack, 3 refills	schick intuition advanced moisture razor refills, 3 pack	Schick Intuition Advanced Moisture razor refills, 3 pack	3 refills	1	box|#26a69a|SCHICK|Intuition 3|#fff
+life_women_twin_12	Household	Life Brand women's twin blade disposable razors, 12 pack, 12 razors	life brand women's twin blade disposable razors, 12 pack	Life Brand women's twin blade disposable razors, 12 pack	12 razors	1	box|#e53935|LIFE BRAND|Twin blade 12|#fff
+life_women_5blade	Household	Life Brand women's 5 blade disposable razor, 1 razor	life brand women's 5 blade disposable razor	Life Brand women's 5 blade disposable razor	1 razor	1	box|#e53935|LIFE BRAND|5 blade|#fff
+billie_starter	Household	Billie women's razor starter kit, Pink Pop, 1 kit	billie women's razor starter kit, pink pop	Billie women's razor starter kit, Pink Pop	1 kit	1	box|#f48fb1|BILLIE|Starter kit|#1a1a1a
+oneblade_360_blade	Household	Philips OneBlade 360 razor replacement blade, 1 blade	philips oneblade 360 razor replacement blade	Philips OneBlade 360 razor replacement blade	1 blade	1	box|#00acc1|PHILIPS|OneBlade 360|#fff
+quo_cotton_125	Household	Quo Beauty cotton pads, 125 count, 125 pads	quo beauty cotton pads, 125 count	Quo Beauty cotton pads, 125 count	125 pads	1	pouch|#f5f5f5|QUO|Cotton pads 125|#1a1a1a
+quo_cotton_3x125	Household	Quo Beauty cotton pads, 3 x 125 count, 375 pads	quo beauty cotton pads, 3 x 125 count	Quo Beauty cotton pads, 3 x 125 count	375 pads	1	pouch|#f5f5f5|QUO|Cotton pads 3 pk|#1a1a1a
+quo_round_luxury_100	Household	Quo Beauty luxury round cotton pads, 100 count, 100 pads	quo beauty luxury round cotton pads, 100 count	Quo Beauty luxury round cotton pads, 100 count	100 pads	1	pouch|#f5f5f5|QUO|Round luxury 100|#1a1a1a
+quo_remover_pads_80	Household	Quo soft makeup remover pads, 80 count, 80 pads	quo soft makeup remover pads, 80 count	Quo soft makeup remover pads, 80 count	80 pads	1	pouch|#f5f5f5|QUO|Remover pads 80|#1a1a1a
+always_cotton1_28	Household	Always Pure Cotton FlexFoam pads, size 1, regular, with wings, 28 pads, 28 pads	always pure cotton flexfoam pads, size 1, regular, with wings, 28 pads	Always Pure Cotton FlexFoam pads, size 1, regular, with wings, 28 pads	28 pads	0	box|#7b1fa2|ALWAYS|Pure Cotton 1|#fff
+always_cotton4_28	Household	Always Pure Cotton pads, size 4, overnight, with wings, 28 pads, 28 pads	always pure cotton pads, size 4, overnight, with wings, 28 pads	Always Pure Cotton pads, size 4, overnight, with wings, 28 pads	28 pads	0	box|#311b92|ALWAYS|Pure Cotton 4|#fff
+l_ultrathin_reg_42	Household	L. Ultra Thin pads, regular, with wings, 42 pads, 42 pads	l. ultra thin pads, regular, with wings, 42 pads	L. Ultra Thin pads, regular, with wings, 42 pads	42 pads	0	box|#ffffff|L.|Ultra thin 42|#1a1a1a
+life_shave_cream_sens	Household	Life Brand shave cream, sensitive skin, 311 g	life brand shave cream, sensitive skin	Life Brand shave cream, sensitive skin	311 g	1	can|#e53935|LIFE BRAND|Shave cream
+life_shave_gel_dry	Household	Life Brand shave gel, dry skin, 200 ml	life brand shave gel, dry skin	Life Brand shave gel, dry skin	200 ml	1	can|#e53935|LIFE BRAND|Shave gel dry skin
+life_shave_gel_sens	Household	Life Brand shave gel, sensitive skin, 200 ml	life brand shave gel, sensitive skin	Life Brand shave gel, sensitive skin	200 ml	1	can|#e53935|LIFE BRAND|Shave gel sensitive
+life_shave_gel_moist	Household	Life Brand shave gel, ultra moisture, 200 ml	life brand shave gel, ultra moisture	Life Brand shave gel, ultra moisture	200 ml	1	can|#e53935|LIFE BRAND|Shave gel moisture
+gillette_foam_sens	Household	Gillette Sensitive shave foam for men, 311 g	gillette sensitive shave foam for men	Gillette Sensitive shave foam for men	311 g	1	can|#0d47a1|GILLETTE|Shave foam sens
+gillette_foam_classic	Household	Gillette Classic shave foam for men, original, 311 g	gillette classic shave foam for men, original	Gillette Classic shave foam for men, original	311 g	1	can|#0d47a1|GILLETTE|Shave foam
+gillette_gel_sens_2pk	Household	Gillette Sensitive shave gel, twin pack, 396.8 g	gillette sensitive shave gel, twin pack	Gillette Sensitive shave gel, twin pack	396.8 g	1	can|#0d47a1|GILLETTE|Shave gel 2 pk
+gillette_women_gel_2pk	Household	Gillette Ultra Sensitive women's shave gel, twin pack, 396 g	gillette ultra sensitive women's shave gel, twin pack	Gillette Ultra Sensitive women's shave gel, twin pack	396 g	1	can|#ec407a|GILLETTE|Women's gel 2 pk
+satin_care_sens	Household	Gillette Satin Care shave gel for women, sensitive skin, 198 g	gillette satin care shave gel for women, sensitive skin	Gillette Satin Care shave gel for women, sensitive skin	198 g	1	can|#ec407a|SATIN CARE|Shave gel
+eos_shave_vanilla	Household	eos Shea Better shaving cream, Vanilla Bliss, 207 ml	eos shea better shaving cream, vanilla bliss	eos Shea Better shaving cream, Vanilla Bliss	207 ml	1	tube|#f8bbd0|EOS|Shave cream
+nivea_shave_foam_sens	Household	Nivea Men sensitive shaving foam, 200 ml	nivea men sensitive shaving foam	Nivea Men sensitive shaving foam	200 ml	1	can|#0d2a6b|NIVEA MEN|Shaving foam
+qtips_500	Household	Q-tips cotton swabs, 500 count, 500 swabs	q-tips cotton swabs, 500 count	Q-tips cotton swabs, 500 count	500 swabs	1	box|#1e88e5|Q-TIPS|Cotton swabs 500|#fff
+qtips_1400	Household	Q-tips cotton swabs, 1400 count, 1400 swabs	q-tips cotton swabs, 1400 count	Q-tips cotton swabs, 1400 count	1400 swabs	1	box|#1e88e5|Q-TIPS|Cotton swabs 1400|#fff
+qtips_vanity_300	Household	Q-tips cotton swabs, vanity tub, 300 count, 300 swabs	q-tips cotton swabs, vanity tub, 300 count	Q-tips cotton swabs, vanity tub, 300 count	300 swabs	1	tub|#1e88e5|#fff|Q-TIPS|#1e88e5
+qtips_organic_400	Household	Q-tips organic paper stick cotton swabs, 400 count, 400 swabs	q-tips organic paper stick cotton swabs, 400 count	Q-tips organic paper stick cotton swabs, 400 count	400 swabs	1	box|#43a047|Q-TIPS|Organic 400|#fff
+pc_swabs_500	Household	PC cotton swabs, 500 count, 500 swabs	pc cotton swabs, 500 count	PC cotton swabs, 500 count	500 swabs	1	box|#1a1a1a|PC|Cotton swabs 500|#fff
+pc_swabs_170	Household	PC cotton swabs, 170 count, 170 swabs	pc cotton swabs, 170 count	PC cotton swabs, 170 count	170 swabs	1	box|#1a1a1a|PC|Cotton swabs 170|#fff
+pc_swabs_1170	Household	PC cotton swabs, 3 pack, 1170 count, 1170 swabs	pc cotton swabs, 3 pack, 1170 count	PC cotton swabs, 3 pack, 1170 count	1170 swabs	1	box|#1a1a1a|PC|Cotton swabs 3 pk|#fff
+pc_swabs_travel_50	Household	PC travel cotton swabs, 50 count, 50 swabs	pc travel cotton swabs, 50 count	PC travel cotton swabs, 50 count	50 swabs	1	box|#1a1a1a|PC|Travel swabs 50|#fff
+quo_bamboo_swabs	Household	Quo Beauty bamboo & cotton swabs, 33 g	quo beauty bamboo & cotton swabs	Quo Beauty bamboo & cotton swabs	33 g	1	box|#f5f5f5|QUO|Bamboo swabs|#1a1a1a
+softsoap_aloe_221	Household	Softsoap liquid hand soap, Soothing Aloe Vera, 221 ml	softsoap liquid hand soap, soothing aloe vera	Softsoap liquid hand soap, Soothing Aloe Vera	221 ml	1	bottle|#66bb6a|SOFTSOAP|#fff
+softsoap_milk_honey_221	Household	Softsoap moisturizing hand soap, Milk & Honey, 221 ml	softsoap moisturizing hand soap, milk & honey	Softsoap moisturizing hand soap, Milk & Honey	221 ml	1	bottle|#ffe0b2|SOFTSOAP|#fff
+softsoap_tangerine_221	Household	Softsoap liquid hand soap, Sweet Tangerine, 221 ml	softsoap liquid hand soap, sweet tangerine	Softsoap liquid hand soap, Sweet Tangerine	221 ml	1	bottle|#ffa726|SOFTSOAP|#fff
+life_soap_aloe_2l	Household	Life Brand hand soap refill, Creamy Aloe Vera, 2 L	life brand hand soap refill, creamy aloe vera	Life Brand hand soap refill, Creamy Aloe Vera	2 L	1	bottle|#a5d6a7|LIFE BRAND|#e53935|tall
+life_soap_vanilla_2l	Household	Life Brand hand soap refill, Vanilla & Brown Sugar, 2 L	life brand hand soap refill, vanilla & brown sugar	Life Brand hand soap refill, Vanilla & Brown Sugar	2 L	1	bottle|#d7ccc8|LIFE BRAND|#e53935|tall
+life_soap_aloe_vite_2l	Household	Life Brand hand soap refill, Aloe Vera & Vitamin E, 2 L	life brand hand soap refill, aloe vera & vitamin e	Life Brand hand soap refill, Aloe Vera & Vitamin E	2 L	1	bottle|#c5e1a5|LIFE BRAND|#e53935|tall
+life_soap_aquarium_2l	Household	Life Brand hand soap refill, Aquarium, 2 L	life brand hand soap refill, aquarium	Life Brand hand soap refill, Aquarium	2 L	1	bottle|#81d4fa|LIFE BRAND|#e53935|tall
+pinesol_lavender_141	Household	Pine-Sol multi-surface cleaner, Lavender Clean, 1.41 L	pine-sol multi-surface cleaner, lavender clean	Pine-Sol multi-surface cleaner, Lavender Clean	1.41 L	1	bottle|#9575cd|PINE-SOL|#fff|tall
+pinesol_spring_141	Household	Pine-Sol multi-surface cleaner, Spring Blossom, 1.41 L	pine-sol multi-surface cleaner, spring blossom	Pine-Sol multi-surface cleaner, Spring Blossom	1.41 L	1	bottle|#f48fb1|PINE-SOL|#fff|tall
+pinesol_orig_425	Household	Pine-Sol multi-surface cleaner, original, large, 4.25 L	pine-sol multi-surface cleaner, original, large	Pine-Sol multi-surface cleaner, original, large	4.25 L	1	bottle|#c49a2c|PINE-SOL|#fff|tall
+nn_apc_378	Household	No Name lemon disinfectant all-purpose cleaner, large, 3.78 L	no name lemon disinfectant all-purpose cleaner, large	No Name lemon disinfectant all-purpose cleaner, large	3.78 L	1	bottle|#f2d300|no name|#1a1a1a|tall
+mr_clean_freak_473	Household	Mr. Clean Clean Freak all-purpose spray, Lemon Zest, 473 ml	mr. clean clean freak all-purpose spray, lemon zest	Mr. Clean Clean Freak all-purpose spray, Lemon Zest	473 ml	1	bottle|#fdd835|MR. CLEAN|#0d47a1
+ecomax_apc_lavender	Household	Eco-Max all-purpose cleaner, natural lavender, 800 ml	eco-max all-purpose cleaner, natural lavender	Eco-Max all-purpose cleaner, natural lavender	800 ml	1	bottle|#b39ddb|ECO-MAX|#2e7d32
+ecomax_apc_orange	Household	Eco-Max disinfecting all-purpose cleaner, natural orange, 800 ml	eco-max disinfecting all-purpose cleaner, natural orange	Eco-Max disinfecting all-purpose cleaner, natural orange	800 ml	1	bottle|#ffb74d|ECO-MAX|#2e7d32
+greenworks_apc	Household	Green Works all-purpose cleaner, 946 ml	green works all-purpose cleaner	Green Works all-purpose cleaner	946 ml	1	bottle|#7cb342|GREEN WORKS|#fff
+method_apc_grapefruit	Household	Method all-purpose cleaner, Pink Grapefruit, 828 ml	method all-purpose cleaner, pink grapefruit	Method all-purpose cleaner, Pink Grapefruit	828 ml	1	bottle|#f06292|METHOD|#fff
+nn_cal_blend	Frozen	No Name frozen California blend mixed vegetables, 750 g	no name frozen california blend mixed vegetables	No Name frozen California blend mixed vegetables	750 g	0	pouch|#f2d300|no name|California blend m|#1a1a1a
+nn_peas_carrots	Frozen	No Name frozen peas and carrots, 750 g	no name frozen peas and carrots	No Name frozen peas and carrots	750 g	0	pouch|#f2d300|no name|peas and carrots|#1a1a1a
+cav_wedges_gr_18	Frozen	Cavendish Farms garlic & rosemary wedges, value pack, 1.8 kg	cavendish farms garlic & rosemary wedges, value pack	Cavendish Farms garlic & rosemary wedges, value pack	1.8 kg	0	pouch|#c62828|CAVENDISH|Wedges 1.8 kg|#fff
+cav_straight_18	Frozen	Cavendish Farms crispy classic straight cut fries, value pack, 1.8 kg	cavendish farms crispy classic straight cut fries, value pack	Cavendish Farms crispy classic straight cut fries, value pack	1.8 kg	0	pouch|#c62828|CAVENDISH|Straight cut 1.8 kg|#fff
+cav_sweet_potato_454	Frozen	Cavendish Farms FlavourCrisp sweet potato fries, 454 g	cavendish farms flavourcrisp sweet potato fries	Cavendish Farms FlavourCrisp sweet potato fries	454 g	0	pouch|#ef6c00|CAVENDISH|Sweet potato fries|#fff
+cav_classic_750	Frozen	Cavendish Farms FlavourCrisp classic fries, 750 g	cavendish farms flavourcrisp classic fries	Cavendish Farms FlavourCrisp classic fries	750 g	0	pouch|#c62828|CAVENDISH|Classic fries|#fff
+tilda_basmati_907	Pantry	Tilda pure basmati rice, 907 g	tilda pure basmati rice	Tilda pure basmati rice	907 g	0	box|#5e35b1|TILDA|Basmati|#fff
+tilda_basmati_454	Pantry	Tilda pure basmati rice, large, 4.54 kg	tilda pure basmati rice, large	Tilda pure basmati rice, large	4.54 kg	0	pouch|#5e35b1|TILDA|Basmati 4.54 kg|#fff
+tilda_jasmine_907	Pantry	Tilda jasmine rice, 907 g	tilda jasmine rice	Tilda jasmine rice	907 g	0	box|#00897b|TILDA|Jasmine|#fff
+jasmine_gold_8kg	Pantry	Jasmine Gold Thai jasmine rice, 8 kg	jasmine gold thai jasmine rice	Jasmine Gold Thai jasmine rice	8 kg	0	pouch|#c9a227|JASMINE GOLD|Thai jasmine 8 kg|#1a1a1a
+bens_converted_22	Pantry	Ben's Original Converted long grain parboiled rice, 2.2 kg	ben's original converted long grain parboiled rice	Ben's Original Converted long grain parboiled rice	2.2 kg	0	box|#e65100|BEN'S|Converted 2.2 kg|#fff
+pc_jasmine_750	Pantry	PC jasmine rice, 750 g	pc jasmine rice	PC jasmine rice	750 g	0	pouch|#1a1a1a|PC|Jasmine rice|#fff
+elephant_basmati_4kg	Pantry	817 Elephant pure basmati rice, 4 kg	817 elephant pure basmati rice	817 Elephant pure basmati rice	4 kg	0	pouch|#b71c1c|817 ELEPHANT|Basmati 4 kg|#fff
+bens_bistro_jasmine	Pantry	Ben's Original Bistro Express jasmine rice, 240 g	ben's original bistro express jasmine rice	Ben's Original Bistro Express jasmine rice	240 g	0	pouch|#e65100|BEN'S|Bistro jasmine|#fff
+bens_bistro_basmati	Pantry	Ben's Original Bistro Express basmati rice, 250 g	ben's original bistro express basmati rice	Ben's Original Bistro Express basmati rice	250 g	0	pouch|#e65100|BEN'S|Bistro basmati|#fff
+mr_white_cups	Pantry	Minute Rice fully cooked white rice cups, 250 g	minute rice fully cooked white rice cups	Minute Rice fully cooked white rice cups	250 g	0	tub|#e53935|#fff|MINUTE|#1a1a1a
+pretzel_crisps_200	Snacks	Snack Factory Pretzel Crisps, original, 200 g	snack factory pretzel crisps, original	Snack Factory Pretzel Crisps, original	200 g	1	pouch|#1a1a1a|PRETZEL CRISPS|original|#c62828
+kraft_only_peanuts_salt	Pantry	Kraft Only Peanuts natural peanut butter, with sea salt, 750 g	kraft only peanuts natural peanut butter, with sea salt	Kraft Only Peanuts natural peanut butter, with sea salt	750 g	0	jar|#c62828|#b07a3f|#fff|KRAFT|#c62828
+kraft_only_peanuts_crunchy	Pantry	Kraft Only Peanuts natural peanut butter, crunchy, 750 g	kraft only peanuts natural peanut butter, crunchy	Kraft Only Peanuts natural peanut butter, crunchy	750 g	0	jar|#c62828|#b07a3f|#fff|KRAFT|#c62828
+heinz_maple_beans	Pantry	Heinz maple style beans, 398 ml	heinz maple style beans	Heinz maple style beans	398 ml	0	can|#1b5e20|HEINZ|Maple beans
+unico_red_kidney	Pantry	Unico red kidney beans, 540 ml	unico red kidney beans	Unico red kidney beans	540 ml	0	can|#c62828|UNICO|Red kidney
+unico_black_beans	Pantry	Unico black beans, 540 ml	unico black beans	Unico black beans	540 ml	0	can|#c62828|UNICO|Black beans
+riomare_chickpeas	Pantry	Rio Mare light tuna salad with chickpeas, 160 g	rio mare light tuna salad with chickpeas	Rio Mare light tuna salad with chickpeas	160 g	0	can|#1565c0|RIO MARE|chickpeas
+riomare_couscous	Pantry	Rio Mare couscous with tuna, 160 g	rio mare couscous with tuna	Rio Mare couscous with tuna	160 g	0	can|#1565c0|RIO MARE|tuna
+riomare_lentils	Pantry	Rio Mare light tuna salad with lentils, 160 g	rio mare light tuna salad with lentils	Rio Mare light tuna salad with lentils	160 g	0	can|#1565c0|RIO MARE|lentils
+riomare_mexican	Pantry	Rio Mare Mexican style light tuna salad, 160 g	rio mare mexican style light tuna salad	Rio Mare Mexican style light tuna salad	160 g	0	can|#1565c0|RIO MARE|Mexican style li
+downy_calm_120	Household	Downy Calm mega dryer sheets, Lavender & Vanilla Bean, 120 sheets	downy calm mega dryer sheets, lavender & vanilla bean	Downy Calm mega dryer sheets, Lavender & Vanilla Bean	120 sheets	1	box|#7e57c2|DOWNY|Calm 120|#fff
+fleecy_calm_200	Household	Fleecy Aroma Therapy Calm dryer sheets, 200 sheets	fleecy aroma therapy calm dryer sheets	Fleecy Aroma Therapy Calm dryer sheets	200 sheets	1	box|#5c6bc0|FLEECY|Calm 200|#fff
+gain_booster_moon_853	Household	Gain in-wash scent booster, Moonlight Breeze, 853 g	gain in-wash scent booster, moonlight breeze	Gain in-wash scent booster, Moonlight Breeze	853 g	1	tub|#7b1fa2|#43a047|GAIN|#fff
+nn_mixed_scour_9	Household	No Name heavy-duty & all-purpose scouring sponges, 9 pack, 9 sponges	no name heavy-duty & all-purpose scouring sponges, 9 pack	No Name heavy-duty & all-purpose scouring sponges, 9 pack	9 sponges	1	pouch|#f2d300|no name|Scour sponges 9|#1a1a1a
+nn_cellulose_4	Household	No Name antibacterial cellulose sponges, 4 pack, 4 sponges	no name antibacterial cellulose sponges, 4 pack	No Name antibacterial cellulose sponges, 4 pack	4 sponges	1	pouch|#f2d300|no name|Cellulose 4|#1a1a1a
+nn_scour_2	Household	No Name all-purpose scouring sponges, 2 pack, 2 sponges	no name all-purpose scouring sponges, 2 pack	No Name all-purpose scouring sponges, 2 pack	2 sponges	1	pouch|#f2d300|no name|Scour sponges 2|#1a1a1a
+nn_hd_scour_2	Household	No Name heavy duty scouring sponges, 2 pack, 2 sponges	no name heavy duty scouring sponges, 2 pack	No Name heavy duty scouring sponges, 2 pack	2 sponges	1	pouch|#f2d300|no name|HD sponges 2|#1a1a1a
+nn_scour_6	Household	No Name all-purpose scouring sponges, 6 pack, 6 sponges	no name all-purpose scouring sponges, 6 pack	No Name all-purpose scouring sponges, 6 pack	6 sponges	1	pouch|#f2d300|no name|Scour sponges 6|#1a1a1a
+nn_hd_scour_6	Household	No Name heavy duty scouring sponges, 6 pack, 6 sponges	no name heavy duty scouring sponges, 6 pack	No Name heavy duty scouring sponges, 6 pack	6 sponges	1	pouch|#f2d300|no name|HD sponges 6|#1a1a1a
+scotch_allpurpose_6	Household	Scotch-Brite all purpose sponges, 6 pack, 6 sponges	scotch-brite all purpose sponges, 6 pack	Scotch-Brite all purpose sponges, 6 pack	6 sponges	1	pouch|#1565c0|SCOTCH-BRITE|All purpose 6|#fff
+scotch_hd_6	Household	Scotch-Brite heavy duty scrub sponges, 6 pack, 6 sponges	scotch-brite heavy duty scrub sponges, 6 pack	Scotch-Brite heavy duty scrub sponges, 6 pack	6 sponges	1	pouch|#2e7d32|SCOTCH-BRITE|Heavy duty 6|#fff
+scotch_hd_3	Household	Scotch-Brite heavy duty scrub sponges, 3 pack, 3 sponges	scotch-brite heavy duty scrub sponges, 3 pack	Scotch-Brite heavy duty scrub sponges, 3 pack	3 sponges	1	pouch|#2e7d32|SCOTCH-BRITE|Heavy duty 3|#fff
+magic_eraser_kitchen_5	Household	Mr. Clean Magic Eraser, Kitchen Grease, 5 pack, 5 erasers	mr. clean magic eraser, kitchen grease, 5 pack	Mr. Clean Magic Eraser, Kitchen Grease, 5 pack	5 erasers	1	box|#1565c0|MR. CLEAN|Magic Eraser 5|#fff
+magic_eraser_xl_5	Household	Mr. Clean Magic Eraser Extra Durable XL, 5 pack, 5 erasers	mr. clean magic eraser extra durable xl, 5 pack	Mr. Clean Magic Eraser Extra Durable XL, 5 pack	5 erasers	1	box|#1565c0|MR. CLEAN|Magic Eraser XL 5|#fff
+scrub_daddy_3	Household	Scrub Daddy Sponge Daddy, 3 count, 3 sponges	scrub daddy sponge daddy, 3 count	Scrub Daddy Sponge Daddy, 3 count	3 sponges	1	box|#fdd835|SCRUB DADDY|Sponge Daddy 3|#1a1a1a
+scrub_mommy	Household	Scrub Mommy dual-sided sponge, 1 sponge	scrub mommy dual-sided sponge	Scrub Mommy dual-sided sponge	1 sponge	1	box|#ec407a|SCRUB MOMMY|Sponge|#fff
+vileda_dishwand_refill_2	Household	Vileda Scrunge dishwand sponge refills, 2 pack, 2 refills	vileda scrunge dishwand sponge refills, 2 pack	Vileda Scrunge dishwand sponge refills, 2 pack	2 refills	1	box|#e53935|VILEDA|Dishwand refill 2|#fff
+pc_supersoft_30	Household	PC Super Soft hypoallergenic bathroom tissue, club pack, 30 rolls	pc super soft hypoallergenic bathroom tissue, club pack	PC Super Soft hypoallergenic bathroom tissue, club pack	30 rolls	1	pouch|#1a1a1a|PC|Super Soft 30|#fff
+royale_velour_30	Household	Royale Velour toilet paper, 30 = 60 rolls, 30 rolls	royale velour toilet paper, 30 = 60 rolls	Royale Velour toilet paper, 30 = 60 rolls	30 rolls	1	pouch|#7b1fa2|ROYALE|Velour 30|#fff
+royale_everyday_30	Household	Royale Everyday Comfort toilet paper, 30 = 60 rolls, 30 rolls	royale everyday comfort toilet paper, 30 = 60 rolls	Royale Everyday Comfort toilet paper, 30 = 60 rolls	30 rolls	1	pouch|#5e35b1|ROYALE|Everyday 30|#fff
+charmin_soft_12mega	Household	Charmin Ultra Soft toilet paper, 12 mega rolls, 12 rolls	charmin ultra soft toilet paper, 12 mega rolls	Charmin Ultra Soft toilet paper, 12 mega rolls	12 rolls	1	pouch|#1565c0|CHARMIN|Ultra Soft 12|#fff
+charmin_soft_8triple	Household	Charmin Ultra Soft toilet paper, 8 triple rolls, 8 rolls	charmin ultra soft toilet paper, 8 triple rolls	Charmin Ultra Soft toilet paper, 8 triple rolls	8 rolls	1	pouch|#1565c0|CHARMIN|Ultra Soft 8|#fff
+charmin_strong_8triple	Household	Charmin Ultra Strong toilet paper, 8 triple rolls, 8 rolls	charmin ultra strong toilet paper, 8 triple rolls	Charmin Ultra Strong toilet paper, 8 triple rolls	8 rolls	1	pouch|#c62828|CHARMIN|Ultra Strong 8|#fff
+cashmere_12double	Household	Cashmere Soft & Thick toilet paper, 12 double rolls, 12 rolls	cashmere soft & thick toilet paper, 12 double rolls	Cashmere Soft & Thick toilet paper, 12 double rolls	12 rolls	1	pouch|#0d47a1|CASHMERE|12 double rolls|#fff
+cashmere_20	Household	Cashmere bathroom tissue, 20 rolls, 20 rolls	cashmere bathroom tissue, 20 rolls	Cashmere bathroom tissue, 20 rolls	20 rolls	1	pouch|#0d47a1|CASHMERE|20 rolls|#fff
+tostitos_mild_645	Pantry	Tostitos mild salsa, large jar, 645 ml	tostitos mild salsa, large jar	Tostitos mild salsa, large jar	645 ml	0	jar|#e65100|#c62828|#fff|TOSTITOS|#1a1a1a
+oep_med_salsa	Pantry	Old El Paso Thick 'n Chunky medium salsa, 650 ml	old el paso thick 'n chunky medium salsa	Old El Paso Thick 'n Chunky medium salsa	650 ml	0	jar|#f9a825|#c62828|#fff|OLD EL PASO|#1a1a1a
+casa_orig_7	Bakery	"Casa Mendosa Original 7"" medium tortillas, 340 g"	"casa mendosa original 7"" medium tortillas"	"Casa Mendosa Original 7"" medium tortillas"	340 g	0	pouch|#2e7d32|CASA MENDOSA|Original 7 in|#fff
+casa_ww_7	Bakery	"Casa Mendosa whole wheat 7"" medium tortillas, 340 g"	"casa mendosa whole wheat 7"" medium tortillas"	"Casa Mendosa whole wheat 7"" medium tortillas"	340 g	0	pouch|#6d4c41|CASA MENDOSA|Whole wheat 7 in|#fff
+casa_corn_wheat	Bakery	Casa Mendosa triple baked 50/50 corn-wheat tortillas, 204 g	casa mendosa triple baked 50/50 corn-wheat tortillas	Casa Mendosa triple baked 50/50 corn-wheat tortillas	204 g	0	pouch|#f9a825|CASA MENDOSA|Corn-wheat|#1a1a1a
+pc_large_flour_tortilla	Bakery	PC large flour tortillas, 334 g	pc large flour tortillas	PC large flour tortillas	334 g	0	pouch|#1a1a1a|PC|Large flour|#fff
+pc_slow_chicken_noodle	Pantry	PC Slow Simmered chicken noodle soup, 700 ml	pc slow simmered chicken noodle soup	PC Slow Simmered chicken noodle soup	700 ml	0	carton|#1a1a1a|PC|Chicken noodle
+pc_slow_thai_chicken	Pantry	PC Slow Simmered Thai chicken soup, 700 ml	pc slow simmered thai chicken soup	PC Slow Simmered Thai chicken soup	700 ml	0	carton|#1a1a1a|PC|Thai chicken
+pcbm_butternut_soup	Pantry	PC Blue Menu butternut squash and garlic soup, 500 ml	pc blue menu butternut squash and garlic soup	PC Blue Menu butternut squash and garlic soup	500 ml	0	carton|#1565c0|PC BLUE MENU|Butternut squash
+pcbm_tomato_pepper_soup	Pantry	PC Blue Menu tomato and roasted red pepper soup, 500 ml	pc blue menu tomato and roasted red pepper soup	PC Blue Menu tomato and roasted red pepper soup	500 ml	0	carton|#1565c0|PC BLUE MENU|Tomato red pepper
+heinz_thai_curry_soup	Pantry	Heinz Thai style chicken coconut curry soup, 380 ml	heinz thai style chicken coconut curry soup	Heinz Thai style chicken coconut curry soup	380 ml	0	pouch|#c62828|HEINZ|Thai curry soup|#fff
+nn_cavatappi_900	Pantry	No Name cavatappi pasta, 900 g	no name cavatappi pasta	No Name cavatappi pasta	900 g	0	box|#f2d300|no name|Cavatappi|#1a1a1a
+nn_rotini_900	Pantry	No Name rotini pasta, 900 g	no name rotini pasta	No Name rotini pasta	900 g	0	box|#f2d300|no name|Rotini|#1a1a1a
+smuckers_rasp_seedless_250	Pantry	Smucker's seedless raspberry spread, 250 ml	smucker's seedless raspberry spread	Smucker's seedless raspberry spread	250 ml	0	jar|#b71c1c|#880e4f|#fff|SMUCKER'S|#b71c1c
+pcbm_twice_fruit_straw	Pantry	PC Blue Menu Twice the Fruit strawberry spread, 500 ml	pc blue menu twice the fruit strawberry spread	PC Blue Menu Twice the Fruit strawberry spread	500 ml	0	jar|#1565c0|#c62828|#fff|PC BLUE MENU|#1565c0
+stdalfour_rasp_225	Pantry	St. Dalfour raspberry fruit spread, 225 ml	st. dalfour raspberry fruit spread	St. Dalfour raspberry fruit spread	225 ml	0	jar|#b8860b|#880e4f|#fff|ST DALFOUR|#1a1a1a
+nn_honey_1kg	Pantry	No Name pure liquid honey, 1 kg, 1 kg	no name pure liquid honey, 1 kg	No Name pure liquid honey, 1 kg	1 kg	0	jar|#f2d300|#f9a825|#1a1a1a|no name|#1a1a1a
+nn_honey_375	Pantry	No Name pure liquid honey, small, 375 g	no name pure liquid honey, small	No Name pure liquid honey, small	375 g	0	jar|#f2d300|#f9a825|#1a1a1a|no name|#1a1a1a
+nn_creamed_honey_1kg	Pantry	No Name pure creamed honey, 1 kg	no name pure creamed honey	No Name pure creamed honey	1 kg	0	tub|#f2d300|#fff3c4|no name|#1a1a1a
+billy_bee_beehive_500	Pantry	Billy Bee liquid honey, beehive, 500 g	billy bee liquid honey, beehive	Billy Bee liquid honey, beehive	500 g	0	jar|#f9a825|#f9a825|#1a1a1a|BILLY BEE|#1a1a1a
+billy_bee_white_1kg	Pantry	Billy Bee white liquid honey, squeeze, 1 kg	billy bee white liquid honey, squeeze	Billy Bee white liquid honey, squeeze	1 kg	0	bottle|#fff3c4|BILLY BEE|#f9a825
+mccormick_honey_750	Pantry	McCormick's liquid squeeze honey, 750 g	mccormick's liquid squeeze honey	McCormick's liquid squeeze honey	750 g	0	bottle|#f9a825|MCCORMICK'S|#c62828
+naturoney_organic_750	Pantry	Naturoney organic liquid honey, 750 g	naturoney organic liquid honey	Naturoney organic liquid honey	750 g	0	bottle|#f9a825|NATURONEY|#2e7d32
+peace_river_honey_500	Pantry	Peace River liquid honey, 500 g	peace river liquid honey	Peace River liquid honey	500 g	0	jar|#f9a825|#f9a825|#1a1a1a|PEACE RIVER|#1a1a1a
+tt_chicken_potstickers	Frozen	T&T chicken & vegetable potstickers, 567 g	t&t chicken & vegetable potstickers	T&T chicken & vegetable potstickers	567 g	0	pouch|#c62828|T&T|Chicken potstickers|#fff
+tt_pork_potstickers	Frozen	T&T pork and vegetable potstickers, 567 g	t&t pork and vegetable potstickers	T&T pork and vegetable potstickers	567 g	0	pouch|#c62828|T&T|Pork potstickers|#fff
+tt_gyoza_12	Frozen	T&T Japanese style gyoza dumplings, large, 1.2 kg	t&t japanese style gyoza dumplings, large	T&T Japanese style gyoza dumplings, large	1.2 kg	0	pouch|#c62828|T&T|Gyoza 1.2 kg|#fff
+kj_pork_veg	Frozen	KJ pork & vegetable dumplings, 380 g	kj pork & vegetable dumplings	KJ pork & vegetable dumplings	380 g	0	pouch|#2e7d32|KJ|Pork & Vegetable|#fff
+kj_pork_shrimp	Frozen	KJ pork & shrimp dumplings, 380 g	kj pork & shrimp dumplings	KJ pork & shrimp dumplings	380 g	0	pouch|#2e7d32|KJ|Pork & Shrimp|#fff
+kj_chicken	Frozen	KJ chicken dumplings, 380 g	kj chicken dumplings	KJ chicken dumplings	380 g	0	pouch|#2e7d32|KJ|Chicken|#fff
+kj_leek_pork	Frozen	KJ leek & pork dumplings, 380 g	kj leek & pork dumplings	KJ leek & pork dumplings	380 g	0	pouch|#2e7d32|KJ|Leek & Pork|#fff
+otasty_pork_veg	Frozen	O'Tasty pork & vegetable dumplings, 567 g	o'tasty pork & vegetable dumplings	O'Tasty pork & vegetable dumplings	567 g	0	pouch|#ef6c00|O'TASTY|Pork dumplings|#fff
+bibigo_chicken_veg	Frozen	Bibigo steamed chicken & vegetable dumplings, 187 g	bibigo steamed chicken & vegetable dumplings	Bibigo steamed chicken & vegetable dumplings	187 g	0	pouch|#1a1a1a|BIBIGO|Chicken dumplings|#fff
+quaker_mbs_860	Pantry	Quaker instant oatmeal, Maple & Brown Sugar, large box, 860 g	quaker instant oatmeal, maple & brown sugar, large box	Quaker instant oatmeal, Maple & Brown Sugar, large box	860 g	0	box|#c62828|QUAKER|Maple brown sugar|#fff
+mush_french_vanilla	Dairy & Eggs	MUSH protein overnight oats, French vanilla, 172 ml	mush protein overnight oats, french vanilla	MUSH protein overnight oats, French vanilla	172 ml	1	tub|#f5f5f5|#f3e5ab|MUSH|#1a1a1a
+mush_brownie	Dairy & Eggs	MUSH protein overnight oats, chocolatey brownie, 172 ml	mush protein overnight oats, chocolatey brownie	MUSH protein overnight oats, chocolatey brownie	172 ml	1	tub|#f5f5f5|#6d4c41|MUSH|#1a1a1a
+mush_vanilla_bean	Dairy & Eggs	MUSH overnight oats, vanilla bean, 141 g	mush overnight oats, vanilla bean	MUSH overnight oats, vanilla bean	141 g	1	tub|#f5f5f5|#fff8e1|MUSH|#1a1a1a
+heinz_ketchup_750	Pantry	Heinz tomato ketchup, 750 ml	heinz tomato ketchup	Heinz tomato ketchup	750 ml	0	bottle|#c62828|HEINZ|#fff
+heinz_ketchup_375	Pantry	Heinz tomato ketchup, small, 375 ml	heinz tomato ketchup, small	Heinz tomato ketchup, small	375 ml	0	bottle|#c62828|HEINZ|#fff
+heinz_ketchup_15	Pantry	Heinz tomato ketchup, large, 1.5 L	heinz tomato ketchup, large	Heinz tomato ketchup, large	1.5 L	0	bottle|#c62828|HEINZ|#fff|tall
+heinz_ketchup_2pk	Pantry	Heinz tomato ketchup, 2 pack, 2 × 1.25 L	heinz tomato ketchup, 2 pack	Heinz tomato ketchup, 2 pack	2 × 1.25 L	0	bottle|#c62828|HEINZ|#fff|tall
+heinz_ketchup_nsa	Pantry	Heinz no sugar added ketchup, 750 ml	heinz no sugar added ketchup	Heinz no sugar added ketchup	750 ml	0	bottle|#c62828|HEINZ|#2e7d32
+heinz_ketchup_lowsodium	Pantry	Heinz lower sodium ketchup, 750 ml	heinz lower sodium ketchup	Heinz lower sodium ketchup	750 ml	0	bottle|#c62828|HEINZ|#1565c0
+heinz_ketchup_pickle	Pantry	Heinz ketchup with pickle seasoning, 375 ml	heinz ketchup with pickle seasoning	Heinz ketchup with pickle seasoning	375 ml	0	bottle|#c62828|HEINZ|#7cb342
+frenchs_ketchup_1l	Pantry	French's tomato ketchup, 1 L	french's tomato ketchup	French's tomato ketchup	1 L	0	bottle|#c62828|FRENCH'S|#f9a825
+nn_ketchup_1l	Pantry	No Name tomato ketchup, 1 L	no name tomato ketchup	No Name tomato ketchup	1 L	0	bottle|#f2d300|no name|#c62828
+pc_ketchup_1l	Pantry	PC tomato ketchup, 1 L	pc tomato ketchup	PC tomato ketchup	1 L	0	bottle|#c62828|PC|#1a1a1a
+pc_ketchup_750	Pantry	PC tomato ketchup, 750 ml, 750 ml	pc tomato ketchup, 750 ml	PC tomato ketchup, 750 ml	750 ml	0	bottle|#c62828|PC|#1a1a1a
+ch_original_bagel	Bakery	Country Harvest original bagels, 450 g	country harvest original bagels	Country Harvest original bagels	450 g	0	pouch|#8d6e63|COUNTRY HARVEST|Original bagels|#fff
+ch_14grain_bagel	Bakery	Country Harvest 14 grain bagels, 450 g	country harvest 14 grain bagels	Country Harvest 14 grain bagels	450 g	0	pouch|#8d6e63|COUNTRY HARVEST|14 Grain bagels|#fff
+ch_cinn_raisin_bagel	Bakery	Country Harvest cinnamon raisin bagels, 450 g	country harvest cinnamon raisin bagels	Country Harvest cinnamon raisin bagels	450 g	0	pouch|#8d6e63|COUNTRY HARVEST|Cinnamon Raisin bagels|#fff
+pc_rrp_hummus	Dairy & Eggs	PC roasted red pepper hummus, 227 g	pc roasted red pepper hummus	PC roasted red pepper hummus	227 g	0	tub|#c62828|#e8c48a|PC|#fff
+pc_rrp_hummus_454	Dairy & Eggs	PC roasted red pepper hummus, large tub, 454 g	pc roasted red pepper hummus, large tub	PC roasted red pepper hummus, large tub	454 g	0	tub|#c62828|#e8c48a|PC|#fff
+fontaine_rrp_hummus	Dairy & Eggs	Fontaine Santé roasted red pepper hummus, 283 g	fontaine santé roasted red pepper hummus	Fontaine Santé roasted red pepper hummus	283 g	0	tub|#c62828|#e8c48a|FONTAINE|#fff
+pc_naan_dippers	Snacks	PC traditional naan dippers, 200 g	pc traditional naan dippers	PC traditional naan dippers	200 g	0	pouch|#1a1a1a|PC|Naan dippers|#fff
+orville_kernels_850	Snacks	Orville Redenbacher's gourmet popping corn kernels, 850 g	orville redenbacher's gourmet popping corn kernels	Orville Redenbacher's gourmet popping corn kernels	850 g	0	box|#f9a825|ORVILLE|Popping corn|#c62828
+orville_movie_rte	Snacks	Orville Redenbacher's Movie Theatre Butter ready-to-eat popcorn, 150 g	orville redenbacher's movie theatre butter ready-to-eat popcorn	Orville Redenbacher's Movie Theatre Butter ready-to-eat popcorn	150 g	1	pouch|#f9a825|ORVILLE|Movie butter|#c62828

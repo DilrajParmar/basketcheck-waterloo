@@ -327,7 +327,7 @@ IDS = {c["id"] for c in CHAINS}
 stores = [{"i":i,"name":s[0],"addr":s[1],"city":s[2],"lat":s[3],"lon":s[4],"chain":s[5] if s[5] in IDS else None,"approx":bool(s[6])} for i,s in enumerate(STORES)]
 
 # ---- two smaller aisles split out of Household (and Pantry, for baby food) so they are easy to find
-PC_RE=_re2=__import__("re").compile(r"toothpaste|body wash|deodorant|antiperspirant|roll-on|speed stick|shampoo|conditioner|mouthwash|smart rinse|breath strips|tampons|\bpads\b|toothbrush|floss|razor", __import__("re").I)
+PC_RE=_re2=__import__("re").compile(r"toothpaste|body wash|deodorant|antiperspirant|roll-on|speed stick|shampoo|conditioner|mouthwash|smart rinse|breath strips|tampons|\bpads\b|toothbrush|floss|razor|lotion(?! tissue)|cleanser|face wash|acne wash|cleansing gel|scrub|sunscreen|lip balm|lip therapy|lip repair|nivea creme|hand cream|shaving|shave gel|shave cream|shave foam|cotton swabs", __import__("re").I)
 BP_TAGS={"cat food","dog food","cat litter","dog treats","baby food","baby wipes","wet cat food","dry cat food","wet dog food","dry dog food","diapers"}
 for it in items:
     tg=set(it.get("tags") or [])
