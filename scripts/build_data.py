@@ -108,6 +108,10 @@ for _cid, _rows in VERIFIED["prices"].items():
 USE = os.environ.get("CHAINS","nofrills,walmart,independent,zehrs,sobeys,superstore").split(",")
 CHAINS = [c for c in CHAINS if c["id"] in USE and data[c["id"]]]
 items, dropped = [], []
+# ---------- product photos (catalog/photos.json: {item id: {"img": Open Food Facts image URL, "code": barcode, ...}}); only images.openfoodfacts.org links are used
+PHOTOS = {}
+if os.path.exists(CAT + "/photos.json"):
+    PHOTOS = {k: v for k, v in json.load(open(CAT + "/photos.json")).items() if isinstance(v, dict) and str(v.get("img", "")).startswith("https://images.openfoodfacts.org/")}
 for row in spec:
     iid, cat = row[0], row[1]
     prices, units, ok = {}, set(), True
@@ -134,6 +138,7 @@ for row in spec:
     elif iid in TAX5: items[-1]["tax"] = 0.05
     if iid in ART_OF: items[-1]["art"] = ART_OF[iid]
     if iid in TAGS: items[-1]["tags"] = TAGS[iid]
+    if iid in PHOTOS: items[-1]["img"] = PHOTOS[iid]["img"]  # Open Food Facts front photo, checked by hand for brand, product and size
 
 # ---------- brand choices (catalog/brands-<chain>.json: every brand found for branded items)
 import re
@@ -332,7 +337,26 @@ BP_TAGS={"cat food","dog food","cat litter","dog treats","baby food","baby wipes
 for it in items:
     tg=set(it.get("tags") or [])
     if it["cat"] in ("Household","Pantry","Snacks") and tg & BP_TAGS: it["cat"]="Baby & Pet"
-    elif it["cat"]=="Household" and PC_RE.search(it["name"]): it["cat"]="Personal Care"
+    elif it["cat"]=="Household" and PC_RE.search(it["name"]) and "sponge" not in it["name"].lower(): it["cat"]="Personal Care"  # "scrub" means skincare, not Scrub Daddy sponges
+
+# ---- category words for search: typing a group word ("skincare", "cleaning", "fruit") lists the whole group, not only items with that word in the name.
+# Each rule is limited to the aisles where that word makes sense, so "strawberry jam" is not fruit and "lemon cleaner" is not a drink.
+GROUP_TAGS = [
+    ("skincare",   {"Personal Care"}, r"lotion(?! tissue)|face wash|cleanser|acne wash|cleansing gel|scrub|sunscreen|\bspf\b|lip balm|lip therapy|lip repair|chapstick|blistex|nivea creme|hand cream|moisturi[sz]ing (?:lotion|cream)|makeup remover|cotton pads"),
+    ("toiletries", {"Personal Care"}, r"."),
+    ("cleaning",   {"Household"}, r"clean|disinfect|lysol|windex|bleach|sponge|scrub|magic eraser|dish|cascade|finish\b|swiffer|vim\b|comet|wipes"),
+    ("laundry",    {"Household"}, r"laundry|detergent(?!.*dish)|tide\b|gain\b|downy|bounce|dryer sheet|fabric soft|oxiclean|persil"),
+    ("paper",      {"Household"}, r"toilet paper|bathroom tissue|paper towel|facial tissue|tissues|kleenex|napkin"),
+    ("fruit",      {"Produce", "Frozen"}, r"apple|banana|orange|grape|berr|lemon|lime|pear\b|pears|peach|mango|pineapple|melon|kiwi|avocado|cherr|clementine|mandarin|plum"),
+    ("vegetables", {"Produce", "Frozen"}, r"onion|potato|carrot|broccoli|spinach|lettuce|tomato|cucumber|pepper|garlic|celery|mushroom|cabbage|cauliflower|zucchini|corn\b|peas\b|green beans|kale|cilantro|jalape|mirepoix|mixed veg|stir.fry veg|fries|squash|beet|radish|asparagus|brussels"),
+    ("drinks",     {"Drinks"}, r"."),
+]
+for it in items:
+    tg = it.setdefault("tags", [])
+    for word, cats, rx in GROUP_TAGS:
+        if it["cat"] in cats and word not in tg and __import__("re").search(rx, it["name"], __import__("re").I) and not (word == "vegetables" and "pizza" in it["name"].lower()):
+            tg.append(word)
+    if not tg: del it["tags"]
 
 # ---- unit size for unit prices: parse "4x100 g", "1.89 L", "12 ea" etc. into a base quantity (g, ml or count)
 import re as _re

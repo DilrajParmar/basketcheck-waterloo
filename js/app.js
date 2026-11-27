@@ -168,7 +168,7 @@ function renderWelcome(){
   $("#storeCount").textContent = `${PRICED.length} store locations compared`;
   $("#chainStrip").innerHTML = CHAINS.map(c=>`<span class="storepill"><i class="dot" style="background:${c.color}"></i>${esc(c.name)} <span>${PRICED.filter(s=>s.chain===c.id).length} location${PRICED.filter(s=>s.chain===c.id).length===1?"":"s"}</span></span>`).join("");
   const picks = ["eggs","milk","bread_white","banana","rice"].map(id=>byId[id]).filter(Boolean);
-  $("#flyerRows").innerHTML = picks.map(it=>{ const lo=lowest(it); return `<a class="low" href="#shop" style="text-decoration:none;color:inherit"><span class="pic">${ART(it.id)||""}</span><span class="pr">${money(lo.v)}${it.unit==="per_kg"?"<small style='font-size:.8rem;font-weight:600'>/kg</small>":""}</span><b style="font-weight:600">${esc(it.name)}</b><span class="at">${esc(it.size)} · at ${esc(CH[lo.c].name)}</span></a>`; }).join("");
+  $("#flyerRows").innerHTML = picks.map(it=>{ const lo=lowest(it); return `<a class="low" href="#shop" style="text-decoration:none;color:inherit"><span class="pic">${ART(it.id)||""}${photo(it)}</span><span class="pr">${money(lo.v)}${it.unit==="per_kg"?"<small style='font-size:.8rem;font-weight:600'>/kg</small>":""}</span><b style="font-weight:600">${esc(it.name)}</b><span class="at">${esc(it.size)} · at ${esc(CH[lo.c].name)}</span></a>`; }).join("");
   const AISLE_PIC = {"Produce":"banana","Dairy & Eggs":"milk","Bakery":"bread_white","Meat & Seafood":"chicken_breast","Pantry":"sauce","Snacks":"chips","Frozen":"frozen_veg","Drinks":"oj","Household":"paper_towel","Personal Care":"lst_cool_1l","Baby & Pet":"gb_puffs_bv"};
   $("#aisleTiles").innerHTML = CATS.map(c=>`<a class="aisle" href="#shop" data-aisle="${esc(c)}"><span class="pic">${ART(AISLE_PIC[c])||""}</span>${esc(c)}</a>`).join("");
   $("#aisleTiles").querySelectorAll("[data-aisle]").forEach(a=>a.addEventListener("click",()=>{ if (typeof exitMeal==="function") exitMeal(); S.aisle=a.dataset.aisle; renderRail(); }));
@@ -218,6 +218,9 @@ function renderShop(){
   let list = meal ? Object.keys(meal.items).map(id=>byId[id]) : findItems(S.q, inAisle), fixed = null;
   if (typeof renderMealBox==="function") renderMealBox();
   if (!meal && !list.length && S.q){ const f=fixQuery(S.q); if (f){ const l2=findItems(f.q, inAisle); if (l2.length){ list=l2; fixed=f; } } }
+  // still nothing: show up to 8 close items that match some of the words (most words first), plus a way to tell us what's missing
+  let near = false;
+  if (!meal && !list.length && S.q){ const qw=S.q.toLowerCase().split(/\s+/).filter(w=>w.length>=3); if (qw.length>1){ const sc=ITEMS.filter(inAisle).map(it=>({it, n:qw.filter(w=>matches(it,w,false)).length})).filter(x=>x.n).sort((a,b)=>b.n-a.n); if (sc.length){ list=sc.slice(0,8).map(x=>x.it); near=true; } } }
   if (typeof renderTags==="function") renderTags();
   if (S.shopSort==="low") list.sort((a,b)=>lowest(a).v-lowest(b).v);
   else if (S.shopSort==="name") list.sort((a,b)=>a.name.localeCompare(b.name));
@@ -228,12 +231,13 @@ function renderShop(){
   $("#aisleTitle").textContent = (S.diet && !meal ? (S.diet==="veg"?"Vegetarian · ":"Vegan · ") : "") + (meal ? `What you need for ${meal.name.toLowerCase()} · ${list.length} items` : (S.q ? `Results for “${fixed?fixed.q:S.q}”` : (S.aisle==="All" ? "All aisles" : S.aisle)) + ` · ${list.length} item${list.length===1?"":"s"}`);
   const tryQ = q => `<button type="button" class="linkish" data-tryq="${esc(q)}">${esc(q)}</button>`;
   if (!list.length && S.diet && !meal){ $("#grid").innerHTML = `<div class="empty" style="grid-column:1/-1">No ${S.diet==="veg"?"vegetarian":"vegan"} items here. <button type="button" class="linkish" id="dietOff">Show all items</button></div>`; $("#dietOff").onclick=()=>{ S.diet=""; renderShop(); }; return; }
-  if (!list.length){ $("#grid").innerHTML = `<div class="empty" style="grid-column:1/-1">No items match “${esc(S.q)}”. Try a simpler word like ${tryQ("cheese")} or ${tryQ("bread")}.</div>`; wireTry(); return; }
-  $("#grid").innerHTML = (S.diet && !meal ? `<p class="fuzzy dietnote">${S.diet==="veg" ? "Showing items without meat, fish or gelatin, judged from the product names." : "Showing items we've checked are vegan. Some vegan items may not be tagged yet."} Always check the label, especially for allergies.</p>` : "") + (fixed ? `<p class="fuzzy" role="status">No items match “${esc(S.q)}”, so here are results for <b>“${esc(fixed.q)}”</b>.${fixed.alts.length?` Or did you mean ${fixed.alts.map(tryQ).join(", ")}?`:""}</p>` : "") + list.map(it=>{
+  const missing = `<a class="btn small ghost" href="${esc(missingUrl(S.q))}">Tell us what's missing</a>`;
+  if (!list.length){ $("#grid").innerHTML = `<div class="empty" style="grid-column:1/-1">No items match “${esc(S.q)}”. Try a simpler word like ${tryQ("cheese")} or ${tryQ("bread")}.<p class="missrow">Can't find something you buy? ${missing}</p></div>`; wireTry(); return; }
+  $("#grid").innerHTML = (S.diet && !meal ? `<p class="fuzzy dietnote">${S.diet==="veg" ? "Showing items without meat, fish or gelatin, judged from the product names." : "Showing items we've checked are vegan. Some vegan items may not be tagged yet."} Always check the label, especially for allergies.</p>` : "") + (near ? `<p class="fuzzy" role="status">No items match all of “${esc(S.q)}”, so here are the closest ones. Can't find what you need? ${missing}</p>` : "") + (fixed ? `<p class="fuzzy" role="status">No items match “${esc(S.q)}”, so here are results for <b>“${esc(fixed.q)}”</b>.${fixed.alts.length?` Or did you mean ${fixed.alts.map(tryQ).join(", ")}?`:""}</p>` : "") + list.map(it=>{
     const k=CATKEY[it.cat], lo=lowest(it), hi=highest(it), q=S.cart[it.id]||0, step=it.unit==="per_kg"?0.5:1;
     const cmp = S.cmp[it.id] ? `<div class="cmp">${CHAINS.map(c=>{ const p=it.prices[c.id]; if(!p) return `<div><span><i class="dot" style="background:${c.color};width:8px;height:8px"></i> ${esc(c.short)}</span><span class="p" style="color:var(--muted)">not listed</span></div>`; const sale=p.regular&&p.regular>p.price; return `<div><span><i class="dot" style="background:${c.color};width:8px;height:8px"></i> ${esc(c.short)}</span><span class="p ${sale?"salep":""}">${money(p.price)}${it.unit==="per_kg"?"/kg":""}</span><span class="pn">${esc(p.product)}${p.size?" · "+esc(p.size):""}${it.unit!=="per_kg"&&unitPrice(it,p.price)?" · "+fmtUnit(unitPrice(it,p.price)):""}</span></div>`; }).join("")}</div>` : "";
     return `<article class="card">
-      <div class="thumb" style="background:var(--c-${k})">${ART(it.id)||icon(k)}${anySale(it)?'<span class="salebadge">Sale</span>':""}</div>
+      <div class="thumb" style="background:var(--c-${k})">${ART(it.id)||icon(k)}${photo(it)}${anySale(it)?'<span class="salebadge">Sale</span>':""}</div>
       <div class="body"><span class="label" style="font-size:.66rem">${esc(it.cat)}</span><div class="name">${esc(it.name)}</div><div class="size">${esc(it.size)}</div>${brandSelect(it)}
         <div class="from"><span class="rmeta">from</span><span class="price">${money(lo.v)}</span><span class="rmeta">${it.unit==="per_kg"?"/kg":""}</span></div>${it.unit!=="per_kg"&&unitPrice(it,lo.v)?`<div class="unitp">${fmtUnit(unitPrice(it,lo.v))}</div>`:""}
         <div class="range">${money(lo.v)} – ${money(hi)} · sold at ${nStores(it)} of ${CHAINS.length} chains</div>
@@ -274,6 +278,8 @@ const listWords = a => a.length>1 ? a.slice(0,-1).join(", ")+" and "+a.at(-1) : 
 const SERVES_MAX = 20;
 S.meal = null; S.serves = 4; S.have = {};
 function mealNeed(id, n=S.serves){ const it=byId[id], v=MEALS[S.meal].items[id]; return it.unit==="per_kg" ? cleanQty(it, Math.max(0.2, Math.ceil(n*v*10-1e-9)/10)) : cleanQty(it, Math.ceil(n/v-1e-9)); }
+/* cost of one plate: only the share of each pack one serving uses, at the one store that sells every ingredient for the least (regular listed prices) */
+function plateCost(m){ let best=null; for (const c of CHAINS){ let s=0, ok=true; for (const [id,v] of Object.entries(m.items)){ const it=byId[id], p=it.prices[c.id]; if (!p){ ok=false; break; } s += it.unit==="per_kg" ? p.price*v : p.price/v; } if (ok && (!best || s<best.s)) best={s, c}; } return best; }
 const fmtNeed = (it, q) => it.unit==="per_kg" ? `about ${q} kg` : String(q);
 const mealShort = () => MEALS[S.meal].items ? Object.keys(MEALS[S.meal].items).filter(id=>!S.have[id] && (S.cart[id]||0) < mealNeed(id)) : [];
 /* a number box whose starting value is replaced by the first digit typed */
@@ -289,6 +295,7 @@ function renderMealBox(){
     box.innerHTML=`<div class="mhead"><h2>${esc(m.name)}</h2><button type="button" class="linkish" id="mealClose">Back to all items</button></div>
       <div class="serves"><label for="serves">Serves</label><span class="numstep"><button type="button" id="servesLess" aria-label="Fewer people">−</button><input id="serves" type="text" inputmode="numeric" maxlength="2" autocomplete="off" value="${n}"><button type="button" id="servesMore" aria-label="More people">+</button></span><span id="servesWord">${n===1?"person":"people"}</span></div>
       <p class="portion" id="portion"></p>
+      <p class="plate" id="plate"></p>
       <p class="rmeta">Amounts below are rounded up to whole packs, so staples like garlic or soy sauce will last for more meals.</p>
       <div class="mfoot"><button type="button" class="btn" id="mealAdd"></button><a href="#checkout" id="mealGo" hidden>Compare stores</a></div>`;
     $("#mealClose").onclick=()=>{ exitMeal(); renderShop(); $("#mealrow").scrollIntoView({block:"nearest"}); };
@@ -305,6 +312,7 @@ function renderMealBox(){
   $("#servesLess").disabled = n<=1; $("#servesMore").disabled = n>=SERVES_MAX;
   $("#servesWord").textContent = n===1 ? "person" : "people";
   $("#portion").textContent = m.portion;
+  const pc=plateCost(m); $("#plate").hidden=!pc; if (pc) $("#plate").innerHTML = `About <b>${money(pc.s)} a plate</b> at ${esc(pc.c.short)}, counting only what one plate uses. Your first shop costs more, because you buy whole packs.`;
   const short=mealShort(), all=Object.keys(m.items).filter(id=>!S.have[id]).length;
   $("#mealAdd").disabled = !short.length;
   $("#mealAdd").textContent = !all ? "You have everything ✓" : !short.length ? "All in your cart ✓" : short.length===all ? `Add all ${all} items to cart` : `Add the other ${short.length} item${short.length===1?"":"s"} to cart`;
@@ -321,7 +329,7 @@ $("#shopSort").addEventListener("change", e=>{ S.shopSort=e.target.value; render
 function renderCart(){
   renderSaved();
   const ids = Object.keys(S.cart).filter(id=>S.cart[id]>0).sort((a,b)=>CATS.indexOf(byId[a].cat)-CATS.indexOf(byId[b].cat));
-  $("#cartList").innerHTML = ids.length ? ids.map(id=>{ const it=byId[id], q=S.cart[id]; return `<li><span style="display:flex;gap:10px;align-items:center"><span class="fthumb" style="width:44px;height:33px;flex:none;background:var(--c-${CATKEY[it.cat]})">${ART(it.id)||""}</span><span>${esc(it.name)}<span class="prod">${esc(it.size)}</span></span></span>
+  $("#cartList").innerHTML = ids.length ? ids.map(id=>{ const it=byId[id], q=S.cart[id]; return `<li><span style="display:flex;gap:10px;align-items:center"><span class="fthumb" style="width:44px;height:33px;flex:none;background:var(--c-${CATKEY[it.cat]})">${ART(it.id)||""}${photo(it)}</span><span>${esc(it.name)}<span class="prod">${esc(it.size)}</span></span></span>
       <span class="mini"><button type="button" data-cd="${id}" aria-label="Less">−</button><label>${qtyInput(it,q,`Amount of ${it.name}${it.unit==="per_kg"?" in kg":""}`)}${it.unit==="per_kg"?"<span>kg</span>":""}</label><button type="button" data-ci="${id}" aria-label="More">+</button></span>
       <button class="x" type="button" data-cx="${id}" aria-label="Remove ${esc(it.name)}">×</button>${brandSelect(it,"small row")}</li>`; }).join("")
     : `<li style="grid-template-columns:1fr"><span class="rmeta">Your cart is empty. <a href="#shop">Add groceries</a> to compare stores.</span></li>`;
@@ -343,6 +351,7 @@ const PICKUP = {
 };
 const SUPPORT_EMAIL = "basketcheck.support@gmail.com";
 /* "Report a wrong price": opens the visitor's own email app with the store filled in; nothing is sent by the site */
+function missingUrl(q){ return "mailto:basketcheck.support@gmail.com?subject="+encodeURIComponent("Missing item: "+q)+"&body="+encodeURIComponent("I searched BasketCheck for \u201c"+q+"\u201d and couldn't find it.\nWhat I was looking for (brand and size, if you know):\nWhich store you usually buy it at:\n"); }
 function reportUrl(s){ return "mailto:"+SUPPORT_EMAIL+"?subject="+encodeURIComponent("Wrong price at "+s.name)+"&body="+encodeURIComponent("Item:\nPrice on BasketCheck:\nPrice at the store or on its website:\nDate you checked:\n"); }
 function pickupBox(c){ const p=PICKUP[c.id]; if (!p) return "";
   return `<div class="pickup"><span><b>Order online for ${p.how}</b> with ${esc(p.svc)}${p.svc==="PC Express"?" (what's offered depends on the store)":""}. ${p.fees ? esc(p.fees) : "Fees and the minimum order are shown on their site before you pay."}${p.extra?" "+esc(p.extra):""}</span><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.svc)}</a></div>`; }
@@ -589,6 +598,9 @@ const ION=[[43.4977,-80.5281],[43.4908,-80.5375],[43.4830,-80.5430],[43.4743,-80
 let MAPGEO=null;
 /* the YOU pin: a black teardrop with a white centre and a YOU tag, so it never looks like a store dot */
 const PIN_PATH = "M0 0C-4 -9 -12 -14 -12 -24A12 12 0 1 1 12 -24C12 -14 4 -9 0 0Z";
+/* product photo from Open Food Facts over the drawing; only on the hosted site (the Claude preview blocks outside images). If it can't load it removes itself, so the drawing shows. */
+const PHOTO_OK = /^https?:$/.test(location.protocol);
+const photo = it => (PHOTO_OK && it.img) ? `<img class="photo" src="${esc(it.img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
 /* read a colour token from :root, for the map library and inline SVG that can't use CSS variables */
 const tok = n => getComputedStyle(document.documentElement).getPropertyValue("--"+n).trim();
 const pinSvg = (ghost) => `<svg width="34" height="44" viewBox="-17 -40 34 44" aria-hidden="true"><ellipse cx="0" cy="1" rx="7" ry="2.5" fill="${tok("pin-shadow")}"/><path d="${PIN_PATH}" fill="${tok("pin")}" stroke="${tok("surface")}" stroke-width="2.5"${ghost?' opacity=".55"':""}/><circle cx="0" cy="-24" r="5" fill="${tok("surface")}"/></svg>`;
@@ -815,7 +827,8 @@ function renderResults(){
   $("#receipts").querySelectorAll("[data-o]").forEach(el=>{ const go=()=>{ const i=+el.dataset.o; S.open = S.open===i ? -1 : i; renderResults(); renderMap(); }; el.onclick=go; el.onkeydown=e=>{ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); go(); } }; });
   renderMap();
 }
-function renderCheckout(){ loadRoutes(); renderSharedBanner(); renderCart(); renderStart(); renderMap(); $("#applyRow").hidden=!S.pending; renderResults(); }
+function renderCheckout(){  { const up=$("#upass"); if (up) up.hidden = S.mode!=="bus"; }
+ loadRoutes(); renderSharedBanner(); renderCart(); renderStart(); renderMap(); $("#applyRow").hidden=!S.pending; renderResults(); }
 
 $("#srcNote").textContent = CHAINS.map(c=>`${c.name}: ${c.site}`).join(" · ") + `. Checked ${ASOF}. Online prices are each chain's standard web price and include that week's sales; an individual store can differ slightly. Many items have a Brand menu: pick a store brand or a name brand, or "Cheapest available" for each store's lowest-priced brand that matches the item. An item a chain doesn't list online is shown as not available at that store.`;
 renderWelcome(); renderRail(); renderHeader(); route();

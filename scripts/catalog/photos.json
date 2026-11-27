@@ -1,0 +1,230 @@
+{
+ "ketchup": {
+  "img": "https://images.openfoodfacts.org/images/products/005/700/000/2992/front_en.60.400.jpg",
+  "code": "0057000002992",
+  "off_name": "Tomato Ketchup",
+  "off_qty": "1l"
+ },
+ "mayo": {
+  "img": "https://images.openfoodfacts.org/images/products/004/800/121/3487/front_en.105.400.jpg",
+  "code": "0048001213487",
+  "off_name": "REAL MAYONNAISE",
+  "off_qty": "30 Fl oz (887 ml)"
+ },
+ "icing": {
+  "img": "https://images.openfoodfacts.org/images/products/006/563/345/5719/front_en.3.400.jpg",
+  "code": "0065633455719",
+  "off_name": "Creamy Deluxe Chocolate Frosting",
+  "off_qty": "450 g"
+ },
+ "chef_boyardee": {
+  "img": "https://images.openfoodfacts.org/images/products/006/414/404/3156/front_en.115.400.jpg",
+  "code": "0064144043156",
+  "off_name": "Beef Ravioli in Pasta Sauce",
+  "off_qty": "425 g"
+ },
+ "string_cheese": {
+  "img": "https://images.openfoodfacts.org/images/products/006/820/085/8241/front_en.35.400.jpg",
+  "code": "0068200858241",
+  "off_name": "CHEESTRING FICELLO Marble - Marbr\u00e9",
+  "off_qty": "336 g"
+ },
+ "fish_sticks": {
+  "img": "https://images.openfoodfacts.org/images/products/006/176/302/3163/front_en.35.400.jpg",
+  "code": "0061763023163",
+  "off_name": "Fish Sticks Crispy Breaded",
+  "off_qty": "700 g"
+ },
+ "monster": {
+  "img": "https://images.openfoodfacts.org/images/products/007/084/703/7965/front_en.8.400.jpg",
+  "code": "0070847037965",
+  "off_name": "Monster energy zero ultra",
+  "off_qty": "473 ml"
+ },
+ "premium_plus": {
+  "img": "https://images.openfoodfacts.org/images/products/006/672/100/7834/front_en.49.400.jpg",
+  "code": "0066721007834",
+  "off_name": "Premium Plus Salted Tops Crackers",
+  "off_qty": "450 g"
+ },
+ "lysol_apc": {
+  "img": "https://images.openfoodfacts.org/images/products/005/963/175/2277/front_en.3.400.jpg",
+  "code": "0059631752277",
+  "off_name": "Lysol All-Purpose Cleaner (Lemon Fragrance)",
+  "off_qty": "650 mL"
+ },
+ "maynards_swedish": {
+  "img": "https://images.openfoodfacts.org/images/products/005/770/001/7913/front_en.4.400.jpg",
+  "code": "0057700017913",
+  "off_name": "Swedish Berries",
+  "off_qty": "154 g"
+ },
+ "wine_gums": {
+  "img": "https://images.openfoodfacts.org/images/products/005/770/001/7906/front_en.10.400.jpg",
+  "code": "0057700017906",
+  "off_name": "Wine Gums",
+  "off_qty": "154g"
+ },
+ "fuzzy_peach": {
+  "img": "https://images.openfoodfacts.org/images/products/005/770/001/7890/front_en.4.400.jpg",
+  "code": "0057700017890",
+  "off_name": "Maynards fuzzy peach",
+  "off_qty": "154 g"
+ },
+ "haribo_twin_snakes": {
+  "img": "https://images.openfoodfacts.org/images/products/400/168/634/0875/front_en.18.400.jpg",
+  "code": "4001686340875",
+  "off_name": "Haribo Twin Snakes",
+  "off_qty": "175g"
+ },
+ "cholula": {
+  "img": "https://images.openfoodfacts.org/images/products/750/103/502/6001/front_en.23.400.jpg",
+  "code": "7501035026001",
+  "off_name": "Cholula Hot Sauce Original",
+  "off_qty": "150 mL"
+ },
+ "tabasco": {
+  "img": "https://images.openfoodfacts.org/images/products/001/121/011/5255/front_en.57.400.jpg",
+  "code": "0011210115255",
+  "off_name": "Tabasco - Red Pepper Hot Sauce",
+  "off_qty": "57ml"
+ },
+ "bm_rasp": {
+  "img": "https://images.openfoodfacts.org/images/products/008/870/201/6406/front_en.24.400.jpg",
+  "code": "0088702016406",
+  "off_name": "Raspberry Jam",
+  "off_qty": "250 ml"
+ },
+ "ml_bf_ham": {
+  "img": "https://images.openfoodfacts.org/images/products/006/310/010/8755/front_fr.14.400.jpg",
+  "code": "0063100108755",
+  "off_name": "Smoked Black Forest Ham",
+  "off_qty": "175 g"
+ },
+ "ml_hickory_turkey": {
+  "img": "https://images.openfoodfacts.org/images/products/006/310/020/8707/front_en.54.400.jpg",
+  "code": "0063100208707",
+  "off_name": "Hickory Smoked Turkey Breast",
+  "off_qty": "175 g"
+ },
+ "pringles_bbq": {
+  "img": "https://images.openfoodfacts.org/images/products/006/410/011/1370/front_en.17.400.jpg",
+  "code": "0064100111370",
+  "off_name": "Pringles BBQ",
+  "off_qty": "156g"
+ },
+ "quaker_maple_brown": {
+  "img": "https://images.openfoodfacts.org/images/products/005/557/711/3028/front_fr.3.400.jpg",
+  "code": "0055577113028",
+  "off_name": "Instant Oatmeal Maple & Brown Sugar",
+  "off_qty": "8 x 43 g packages"
+ },
+ "quaker_quick_1kg": {
+  "img": "https://images.openfoodfacts.org/images/products/005/557/710/1100/front_en.85.400.jpg",
+  "code": "0055577101100",
+  "off_name": "Quick Oats",
+  "off_qty": "1kg"
+ },
+ "barilla_spaghetti": {
+  "img": "https://images.openfoodfacts.org/images/products/007/680/801/1012/front_en.19.400.jpg",
+  "code": "0076808011012",
+  "off_name": "Spaghetti",
+  "off_qty": "410g"
+ },
+ "ch_everything_bagel": {
+  "img": "https://images.openfoodfacts.org/images/products/006/340/013/8254/front_en.29.400.jpg",
+  "code": "0063400138254",
+  "off_name": "Everything Bagels",
+  "off_qty": "6x 75g, Net: 450g"
+ },
+ "bd_cheddar_slices": {
+  "img": "https://images.openfoodfacts.org/images/products/006/820/087/7822/front_en.18.400.jpg",
+  "code": "0068200877822",
+  "off_name": "Cheddar Cheese Slices",
+  "off_qty": "410 g"
+ },
+ "mv_jalapeno": {
+  "img": "https://images.openfoodfacts.org/images/products/006/041/004/6753/front_en.46.400.jpg",
+  "code": "0060410046753",
+  "off_name": "Jalape\u00f1o Kettle Cooked Potato Chips",
+  "off_qty": "200g"
+ },
+ "ruffles_sco": {
+  "img": "https://images.openfoodfacts.org/images/products/006/041/004/7248/front_en.33.400.jpg",
+  "code": "0060410047248",
+  "off_name": "Sour Cream & Onion Flavored Potato Chips",
+  "off_qty": "200g"
+ },
+ "gaylea_salted": {
+  "img": "https://images.openfoodfacts.org/images/products/006/601/359/8620/front_en.37.400.jpg",
+  "code": "0066013598620",
+  "off_name": "butter salted",
+  "off_qty": "454 g"
+ },
+ "gaylea_unsalted": {
+  "img": "https://images.openfoodfacts.org/images/products/006/601/390/5619/front_en.9.400.jpg",
+  "code": "0066013905619",
+  "off_name": "butter unsalted",
+  "off_qty": "454 g"
+ },
+ "tostitos_queso": {
+  "img": "https://images.openfoodfacts.org/images/products/006/041/001/1003/front_en.22.400.jpg",
+  "code": "0060410011003",
+  "off_name": "Salsa con queso",
+  "off_qty": "394 ml"
+ },
+ "cs_vanilla_125": {
+  "img": "https://images.openfoodfacts.org/images/products/006/620/000/6068/front_fr.3.400.jpg",
+  "code": "0066200006068",
+  "off_name": "Club House Premium Artificial Vanilla Extract",
+  "off_qty": "125 ml"
+ },
+ "bc_rainbow": {
+  "img": "https://images.openfoodfacts.org/images/products/006/563/320/5925/front_en.13.400.jpg",
+  "code": "0065633205925",
+  "off_name": "Super Moist Rainbow Bit cake mix",
+  "off_qty": "375 g"
+ },
+ "kik_soy_591": {
+  "img": "https://images.openfoodfacts.org/images/products/490/151/511/8586/front_en.39.400.jpg",
+  "code": "4901515118586",
+  "off_name": "Soy Sauce",
+  "off_qty": "600ml"
+ },
+ "kik_panko": {
+  "img": "https://images.openfoodfacts.org/images/products/004/139/005/0039/front_fr.3.400.jpg",
+  "code": "0041390050039",
+  "off_name": "Japanese Style Bread Crumbs",
+  "off_qty": "227 g"
+ },
+ "post_hbo_almond": {
+  "img": "https://images.openfoodfacts.org/images/products/062/815/438/0757/front_en.33.400.jpg",
+  "code": "0628154380757",
+  "off_name": "Honey Bunches of Oats with Almonds",
+  "off_qty": "340 g"
+ },
+ "dole_pine_tidbits": {
+  "img": "https://images.openfoodfacts.org/images/products/006/525/000/5311/front_en.19.400.jpg",
+  "code": "0065250005311",
+  "off_name": "Pineapple Tidbits packed in Pineapple Juice",
+  "off_qty": "398ml"
+ },
+ "cs_pumpkin_pie": {
+  "img": "https://images.openfoodfacts.org/images/products/000/000/660/4428/front_en.14.400.jpg",
+  "code": "06604428",
+  "off_name": "Pumpkin pie spice",
+  "off_qty": "35 g"
+ },
+ "cs_pickling": {
+  "img": "https://images.openfoodfacts.org/images/products/006/620/001/2717/front_en.3.400.jpg",
+  "code": "0066200012717",
+  "off_name": "Pickling spice",
+  "off_qty": "110g"
+ },
+ "mr_bowl_chicken": {
+  "img": "https://images.openfoodfacts.org/images/products/005/949/100/9030/front_en.28.400.jpg",
+  "code": "0059491009030",
+  "off_name": "Mr. Noodles Bowl Chicken",
+  "off_qty": "110G"
+ }
+}
